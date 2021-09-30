@@ -1,2 +1,1 @@
-# mywebinar-locales-cp
-⚩ Translations for MyOwnConference control panel
+# Translations for MyOwnConference control panel

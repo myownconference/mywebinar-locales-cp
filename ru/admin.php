@@ -3982,13 +3982,13 @@ return [
 	'two-factor-more' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B0%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F" target="_blank">Описание</a>
+		<a href="https://myownconference.ru/blog/dvyhetapnaya-autentificaschiya/" target="_blank">Описание</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-more-mobile' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%B0%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://myownconference.ru/blog/dvyhetapnaya-autentificaschiya/" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-app' => //////////////////////////////////////////////////////////////////

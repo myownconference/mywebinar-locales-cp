@@ -1743,7 +1743,7 @@ return [
 		<br/><br/>
 		Почитати про планування вебінарів можна <a href="https://myownconference.ru/blog/pochatok-raboty/#c4" target="_blank" class="tcolor-blue more-link">тут</a>,
 		<br/>
-		а подивитися відеоурок можна <a href="https://www.youtube.com/watch?v=8mh44tzOaUo&list=PLG2Sk4-wQEzVSoUW08dHDsHuH71UpIA36&index=2" target="_blank" class="tcolor-blue more-link">тут</a> (російською).
+		а подивитися відеоурок можна <a href="https://www.youtube.com/watch?v=8mh44tzOaUo&list=PLG2Sk4-wQEzVSoUW08dHDsHuH71UpIA36" target="_blank" class="tcolor-blue more-link">тут</a> (російською).
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////

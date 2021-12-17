@@ -1739,7 +1739,9 @@ return [
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		На сегодня нет запланированных вебинаров
+		На сегодня нет запланированных вебинаров.
+		<br/>
+		Почитать подробнее можно <a href="https://myownconference.ru/blog/nachalo-raboty-s-mywebinar/#c4" target="_blank" class="tcolor-blue more-link">здесь</a> или посмотреть <a href="https://www.youtube.com/watch?v=8mh44tzOaUo&list=PLG2Sk4-wQEzVSoUW08dHDsHuH71UpIA36&index=2" target="_blank" class="tcolor-blue more-link">видеоурок</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////

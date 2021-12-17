@@ -1738,7 +1738,9 @@ return [
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		You have no webinars scheduled for today. Read more <a href="https://myownconference.com/blog/en/starting-with-mywebinar/#c4" target="_blank">here</a> or watch the <a href="https://www.youtube.com/watch?v=vBP9x9IQpW0&list=PL2snHV6z-Kwjr9ju96k_K4A0Zon1xrUxx&index=1">video tutorial</a>.
+		You have no webinars scheduled for today.
+		<br/>
+		Read <a href="https://myownconference.com/blog/en/starting-with-mywebinar/#c4" target="_blank" class="tcolor-blue more-link">more here</a> or watch the <a href="https://www.youtube.com/watch?v=vBP9x9IQpW0&list=PL2snHV6z-Kwjr9ju96k_K4A0Zon1xrUxx&index=1" class="tcolor-blue more-link">video tutorial</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////

@@ -1743,7 +1743,7 @@ return [
 		<br/><br/>
 		Узнать о планировании вебинаров можно <a href="https://myownconference.ru/blog/nachalo-raboty-s-mywebinar/#c4" target="_blank" class="tcolor-blue more-link">здесь</a>,
 		<br/>
-		а посмотреть видеоуроки можно <a href="https://www.youtube.com/watch?v=8mh44tzOaUo&list=PLG2Sk4-wQEzVSoUW08dHDsHuH71UpIA36&index=2" target="_blank" class="tcolor-blue more-link">здесь</a> и <a href="https://www.youtube.com/watch?v=5JRptJ1ANCg&list=PLG2Sk4-wQEzVSoUW08dHDsHuH71UpIA36&index=7&t=64s" target="_blank" class="tcolor-blue more-link">здесь</a>.
+		а посмотреть видеоуроки можно <a href="https://www.youtube.com/watch?v=8mh44tzOaUo&list=PLG2Sk4-wQEzVSoUW08dHDsHuH71UpIA36" target="_blank" class="tcolor-blue more-link">здесь</a> и <a href="https://www.youtube.com/watch?v=5JRptJ1ANCg&list=PLG2Sk4-wQEzVSoUW08dHDsHuH71UpIA36" target="_blank" class="tcolor-blue more-link">здесь</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////

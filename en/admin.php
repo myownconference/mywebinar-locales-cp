@@ -1732,7 +1732,9 @@ return [
 	'no-webinars' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		You have no upcoming webinars. Add one by clicking "Schedule a webinar".
+		You have no upcoming webinars.
+		<br/><br/>
+		Read <a href="https://myownconference.com/blog/en/starting-with-mywebinar/#c4" target="_blank" class="tcolor-blue more-link">more here</a> or watch the <a href="https://www.youtube.com/watch?v=vBP9x9IQpW0&list=PL2snHV6z-Kwjr9ju96k_K4A0Zon1xrUxx" target="_blank" class="tcolor-blue more-link">video tutorial</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////

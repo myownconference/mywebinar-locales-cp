@@ -5885,7 +5885,7 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		&middot; <u>Usage non commercial seulement</u>;
+		&middot; <u>Usage non commercial seulement</u>;<br/>
 		&middot; 2 caméras simultanément (mais chaque participant peut parler à tour de rôle);<br/>
 		&middot; 20 abonnés lors de l\'importation pour les invitations;<br/>
 		&middot; 20 participants en même temps aux événements;<br/>

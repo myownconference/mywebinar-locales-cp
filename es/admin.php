@@ -5881,7 +5881,7 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		&middot; <u>Sólo uso no comercial</u>;
+		&middot; <u>Sólo uso no comercial</u>;<br/>
 		&middot; 2 cámaras simultáneamente (pero cada participante puede hablar por turno);<br/>
 		&middot; 20 suscriptores al importar para invitaciones;<br/>
 		&middot; 20 participantes al mismo tiempo en eventos;<br/>

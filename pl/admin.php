@@ -5908,9 +5908,9 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		&middot; <u>Nie jest przeznaczony do użytku komercyjnego</u>;
+		&middot; <u>Nie jest przeznaczony do użytku komercyjnego</u>;<br/>
 		&middot; 2 włączone kamery jednocześnie (każdy uczestnik może mówić po kolei);<br/>
-		&middot; Dodawanie 20 osób podczas importowania kontaktów;<br>
+		&middot; Dodawanie 20 osób podczas importowania kontaktów;<br/>
 		&middot; Łącznie 20 uczestników na równoległych webinarach;<br/>
 		&middot; 20 minut nagrania jednego webinaru (jakość SD+HD);<br/>
 		&middot; Zabronione udostępnianie linku do nagrań z webinaru;<br/>

@@ -5908,12 +5908,13 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		• 20 minut nagrania jednego webinaru.<br>
-		• Nie więcej niż 20 uczestników jednocześnie na wydarzeniach.<br>
-		• 20 subskrybentów podczas importu.<br>
-		• 500 MB miejsca na pliki.<br>
-		• 3 kamery jednocześnie. Ale każdy uczestnik może mówić po kolei.<br>
-		• Jakość nagrywania: SD, HD.
+		&middot; 2 włączone kamery jednocześnie (każdy uczestnik może mówić po kolei);<br/>
+		&middot; Dodawanie 20 osób podczas importowania kontaktów;<br>
+		&middot; Łącznie 20 uczestników na równoległych webinarach;<br/>
+		&middot; 20 minut nagrania jednego webinaru (jakość SD+HD);<br/>
+		&middot; Zabronione udostępnianie linku do nagrań z webinaru;<br/>
+		&middot; Zabroniona zmiana opóźnienia transmisji;<br/>
+		&middot; 1 GB miejsca na pliki i nagrania.<br>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moder-exit' => //////////////////////////////////////////////////////////////////////

@@ -5885,12 +5885,13 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		• No more than 20 minutes of recording one webinar.<br>
-		• No more than 20 participants at the same time at events.<br>
-		• No more than 20 subscribers when importing.<br>
-		• 500 MB of space for files.<br>
-		• 3 cameras simultaneously. But each participant can speak in turn.<br>
-		• Recording quality: SD, HD.
+		&middot; 2 caméras simultanément (mais chaque participant peut parler à tour de rôle);<br/>
+		&middot; 20 abonnés lors de l\'importation pour les invitations;<br/>
+		&middot; 20 participants en même temps aux événements;<br/>
+		&middot; 20 minutes d\'enregistrement (la qualité est SD+HD);<br/>
+		&middot; Le partage de lien vers les enregistrements est interdit;</br/>
+		&middot; Les changements de latence de diffusion sont interdits;</br/>
+		&middot; 1 GB d\'espace pour les fichiers.<br/>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moder-exit' => //////////////////////////////////////////////////////////////////////

@@ -5881,14 +5881,14 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		&middot; <u>Sólo uso no comercial</u>;<br/>
-		&middot; 2 cámaras simultáneamente (pero cada participante puede hablar por turno);<br/>
-		&middot; 20 suscriptores al importar para invitaciones;<br/>
-		&middot; 20 participantes al mismo tiempo en eventos;<br/>
-		&middot; 20 minutos de grabación (la calidad es SD+HD);<br/>
-		&middot; Se prohíbe compartir enlaces a las grabaciones;</br/>
-		&middot; Los cambios de latencia de transmisión están prohibidos;</br/>
-		&middot; 1 GB de espacio para archivos.<br/>
+		&middot; <u>Sólo uso no comercial</u><br/>
+		&middot; 2 cámaras simultáneamente (pero cada participante puede hablar por turno)<br/>
+		&middot; 20 suscriptores al importar para invitaciones<br/>
+		&middot; 20 participantes al mismo tiempo en eventos<br/>
+		&middot; 20 minutos de grabación (la calidad es SD+HD)<br/>
+		&middot; Se prohíbe compartir enlaces a las grabaciones</br/>
+		&middot; Los cambios de latencia de transmisión están prohibidos</br/>
+		&middot; 1 GB de espacio para archivos<br/>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moder-exit' => //////////////////////////////////////////////////////////////////////

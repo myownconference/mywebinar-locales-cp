@@ -5885,14 +5885,14 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		&middot; <u>Usage non commercial seulement</u>;<br/>
-		&middot; 2 caméras simultanément (mais chaque participant peut parler à tour de rôle);<br/>
-		&middot; 20 abonnés lors de l\'importation pour les invitations;<br/>
-		&middot; 20 participants en même temps aux événements;<br/>
-		&middot; 20 minutes d\'enregistrement (la qualité est SD+HD);<br/>
-		&middot; Le partage de lien vers les enregistrements est interdit;</br/>
-		&middot; Les changements de latence de diffusion sont interdits;</br/>
-		&middot; 1 GB d\'espace pour les fichiers.<br/>
+		&middot; <u>Usage non commercial seulement</u><br/>
+		&middot; 2 caméras simultanément (mais chaque participant peut parler à tour de rôle)<br/>
+		&middot; 20 abonnés lors de l\'importation pour les invitations<br/>
+		&middot; 20 participants en même temps aux événements<br/>
+		&middot; 20 minutes d\'enregistrement (la qualité est SD+HD)<br/>
+		&middot; Le partage de lien vers les enregistrements est interdit</br/>
+		&middot; Les changements de latence de diffusion sont interdits</br/>
+		&middot; 1 GB d\'espace pour les fichiers<br/>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moder-exit' => //////////////////////////////////////////////////////////////////////

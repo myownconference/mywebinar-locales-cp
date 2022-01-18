@@ -5852,14 +5852,14 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		&middot; <u>Non-commercial use only</u>;<br/>
-		&middot; 2 cameras simultaneously (but each participant can speak in turn);<br/>
-		&middot; 20 subscribers when importing for invitations;<br/>
-		&middot; 20 participants at the same time at events;<br/>
-		&middot; 20 minutes of recording (quality is SD+HD);<br/>
-		&middot; Link share to the recordings is prohibited;</br/>
-		&middot; Broadcast latency changes is prohibited;</br/>
-		&middot; 1 GB of space for files.<br/>
+		&middot; <u>Non-commercial use only</u><br/>
+		&middot; 2 cameras simultaneously (but each participant can speak in turn)<br/>
+		&middot; 20 subscribers when importing for invitations<br/>
+		&middot; 20 participants at the same time at events<br/>
+		&middot; 20 minutes of recording (quality is SD+HD)<br/>
+		&middot; Link share to the recordings is prohibited</br/>
+		&middot; Broadcast latency changes is prohibited</br/>
+		&middot; 1 GB of space for files<br/>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moder-exit' => //////////////////////////////////////////////////////////////////////

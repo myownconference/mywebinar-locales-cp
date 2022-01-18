@@ -5852,6 +5852,7 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
+		<b>Free account</b><br/>
 		&middot; <u>Non-commercial use only</u><br/>
 		&middot; 2 cameras simultaneously (but each participant can speak in turn)<br/>
 		&middot; 20 subscribers when importing for invitations<br/>

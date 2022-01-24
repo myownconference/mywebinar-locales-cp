@@ -5930,8 +5930,9 @@ return [
 		&middot; 20 subscribers when importing for invitations<br/>
 		&middot; 20 participants at the same time at events<br/>
 		&middot; 20 minutes of recording (quality is SD+HD)<br/>
-		&middot; Link share to the recordings is prohibited</br/>
-		&middot; Broadcast latency changes is prohibited</br/>
+		&middot; Link share to the recordings is prohibited<br/>
+		&middot; Broadcast latency changes is prohibited<br/>
+		&middot; White branding changes is prohibited<br/>
 		&middot; 1 GB of space for files<br/>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////

@@ -5988,6 +5988,7 @@ return [
 		&middot; 20 minut nagrania jednego webinaru (jakość SD+HD)<br/>
 		&middot; Zabronione udostępnianie linku do nagrań z webinaru<br/>
 		&middot; Zabroniona zmiana opóźnienia transmisji<br/>
+		&middot; Zakaz brandingu webinarów i zaproszeń<br/>
 		&middot; 1 GB miejsca na pliki i nagrania<br/>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////

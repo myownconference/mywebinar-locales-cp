@@ -5134,9 +5134,7 @@ return [
 	'lpmode-confirm-end-const-web' => ////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		After you enable the landing page mode, the ad hoc webinar will be stopped,
-		and all attendees will be removed from the webinar room. Are you sure you want
-		to enable landing page mode?
+		If you enable the landing page mode, the permanent link webinar will be stopped and all attendees will be disconnected from the webinar. Are you sure you want to enable landing page mode?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'saved' => ///////////////////////////////////////////////////////////////////////////

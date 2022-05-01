@@ -5134,7 +5134,7 @@ return [
 	'lpmode-confirm-end-const-web' => ////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		If you enable the landing page mode, the permanent link webinar will be stopped and all attendees will be disconnected from the webinar. Are you sure you want to enable landing page mode?
+		If you enable the landing page mode, the permanent link webinar will be stopped and all attendees will be disconnected from webinar. Are you sure you want to enable landing page mode?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'saved' => ///////////////////////////////////////////////////////////////////////////

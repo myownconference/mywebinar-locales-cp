@@ -5300,9 +5300,7 @@ return [
 	'do-not-receive' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Jeśli nie odebrałeś od nas maila w sprawie logowania po kilku minutach od rejestracji, sprawdź koniecznie wiadomości &quot;Spam&quot;, &quot;Społeczności/Oferty&quot;. Być może informacja trafiła do folderu &quot;Spamu&quot;, a nie do &quot;Odebranych&quot;.
-		<br/><br/>
-		W takim przypadku zaznacz opcję &quot;To nie jest spam&quot;, aby kolejne wiadomości mogły trafić do folderu &quot;Odebrane&quot; skrzynki odbiorczej.
+		Jeśli nie odebrałeś od nas maila w sprawie logowania po kilku minutach od rejestracji, sprawdź koniecznie wiadomości <b>Spam</b>, <b>Społeczności/Oferty</b>. Być może informacja trafiła do folderu <b>Spamu</b>, a nie do <b>Odebranych</b>.<br/><br/>W takim przypadku zaznacz opcję <b>To nie jest spam</b>, aby kolejne wiadomości mogły trafić do folderu <b>Odebrane</b> skrzynki odbiorczej.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'not-receive-message-then' => ////////////////////////////////////////////////////////

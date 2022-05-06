@@ -3411,7 +3411,7 @@ return [
 	'check-email' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Check your inbox, spam, junk or promotions folders.
+		Please check your <b>Inbox</b>, <b>Spam</b> or <b>Social/Promotions</b> folders.<br/><br/>Remember to click <b>Not Spam</b>, to allow future messages through. It will allow subsequent messages to achieved directly to <b>Inbox</b> folder.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password-reset' => //////////////////////////////////////////////////////////////////
@@ -5221,7 +5221,7 @@ return [
 	'do-not-receive' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		If you do not receive the verification message within a few minutes of signing up, please check your &quot;Spam&quot; or &quot;Social/Promotions&quot; folders.<br/><br/>Remember to click &quot;Not Spam&quot;, to allow future messages through.
+		If you do not receive the verification message within a few minutes of signing up, please check your <b>Spam</b> or <b>Social/Promotions</b> folders.<br/><br/>Remember to click <b>Not Spam</b>, to allow future messages through. It will allow subsequent messages to achieved directly to <b>Inbox</b> folder.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'not-receive-message-then' => ////////////////////////////////////////////////////////

@@ -3415,7 +3415,7 @@ return [
 	'check-email' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Gelen kutunuzu, spam, önemsiz veya promosyonlar klasörlerinizi kontrol edin.
+		Please check your <b>Inbox</b>, <b>Spam</b> or <b>Social/Promotions</b> folders.<br/><br/><span style="font-size:0.14rem;">Remember to click <b>Not Spam</b>, to allow future messages through. It will allow subsequent messages to achieved directly to <b>Inbox</b> folder.</span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password-reset' => //////////////////////////////////////////////////////////////////
@@ -5225,9 +5225,7 @@ return [
 	'do-not-receive' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kaydolduktan sonra birkaç dakika içinde doğrulama mesajı almazsanız, lütfen "Spam" veya "Sosyal/Promosyonlar" klasörlerinizi kontrol edin.
-		<br/><br/>
-		Gelecekteki iletilerin geçmesine izin vermek için "Spam Değil"i tıklamayı unutmayın.
+		If you do not receive the verification message within a few minutes of signing up, please check your <b>Spam</b> or <b>Social/Promotions</b> folders.<br/><br/><span style="font-size:0.14rem;">Remember to click <b>Not Spam</b>, to allow future messages through. It will allow subsequent messages to achieved directly to <b>Inbox</b> folder.</span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'not-receive-message-then' => ////////////////////////////////////////////////////////

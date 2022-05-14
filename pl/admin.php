@@ -1819,7 +1819,7 @@ return [
 	'
 		Nie ma zaplanowanych webinarów.
 		<br/><br/>
-		O planowaniu webinarow można dowiedzieć się <a href="https://myownconference.pl/blog/pl/krok-po-kroku/#c4" target="_blank" class="tcolor-blue more-link">tutaj</a>
+		O planowaniu webinarow można dowiedzieć się <a href="https://myownconference.com/blog/pl/krok-po-kroku/#c4" target="_blank" class="tcolor-blue more-link">tutaj</a>
 		<br/>
 		a wideo tutoriale można obejrzeć <a href="https://www.youtube.com/watch?v=mWbRZbIDCbA&list=PLjAa17aQAQmkTUBWSlCtzbLCOCEAim8Hx" target="_blank" class="tcolor-blue more-link">tu</a>.
 	',
@@ -1829,7 +1829,7 @@ return [
 	'
 		Na dzisiaj nie zaplanowano żadnych webinarów.
 		<br/><br/>
-		O planowaniu webinarow można dowiedzieć się <a href="https://myownconference.pl/blog/pl/krok-po-kroku/#c4" target="_blank" class="tcolor-blue more-link">tutaj</a>
+		O planowaniu webinarow można dowiedzieć się <a href="https://myownconference.com/blog/pl/krok-po-kroku/#c4" target="_blank" class="tcolor-blue more-link">tutaj</a>
 		<br/>
 		a wideo tutoriale można obejrzeć <a href="https://www.youtube.com/watch?v=mWbRZbIDCbA&list=PLjAa17aQAQmkTUBWSlCtzbLCOCEAim8Hx" target="_blank" class="tcolor-blue more-link">tu</a>.
 	',
@@ -4123,13 +4123,13 @@ return [
 	'two-factor-more' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.pl/blog/pl/twoje-konto-myownconference-jest-jeszcze-bezpieczniejsze/" target="_blank">Więcej informacji</a>
+		<a href="https://myownconference.com/blog/pl/twoje-konto-myownconference-jest-jeszcze-bezpieczniejsze/" target="_blank">Więcej informacji</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-more-mobile' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.pl/blog/pl/twoje-konto-myownconference-jest-jeszcze-bezpieczniejsze/" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://myownconference.com/blog/pl/twoje-konto-myownconference-jest-jeszcze-bezpieczniejsze/" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-app' => //////////////////////////////////////////////////////////////////
@@ -4802,7 +4802,7 @@ return [
 		Jednak wyłączenie cookies może przeszkadzać w pełnym korzystaniu z witryny
 		internetowej.<br/><br/>Możesz zapoznać się z pełną wersją zasad przetwarzania
 		i ochrony danych pod
-		<a href="https://myownconference.pl/cookies-policy.php" target="_blank">tym linkiem</a>.
+		<a href="https://myownconference.pl/privacy-policy.php" target="_blank">tym linkiem</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

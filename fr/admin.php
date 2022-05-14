@@ -4776,7 +4776,7 @@ return [
 		qu\'avec votre consentement. Vous avez également la possibilité de désactiver
 		ces cookies. Mais la désactivation de certains de ces cookies peut avoir un
 		effet sur votre expérience de navigation.<br/><br/>En savoir plus
-		<a href="https://myownconference.com/cookies-policy.php" target="_blank">ici</a>.
+		<a href="https://myownconference.com/privacy-policy.php" target="_blank">ici</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

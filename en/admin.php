@@ -4737,7 +4737,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		We use cookies to improve your experience while you navigate through our website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of our website. We also use third-party cookies that help us analyze and understand how you use our website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have effect on your browsing experience.<br/><br/>Read more <a href="https://myownconference.com/cookies-policy.php" target="_blank">here</a>.
+		We use cookies to improve your experience while you navigate through our website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of our website. We also use third-party cookies that help us analyze and understand how you use our website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have effect on your browsing experience.<br/><br/>Read more <a href="https://myownconference.com/privacy-policy.php" target="_blank">here</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

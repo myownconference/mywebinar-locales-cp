@@ -4767,7 +4767,7 @@ return [
 		opción de rechazar estas cookies. Sin embargo, el rechazar algunas de estas
 		cookies puede afectar su experiencia al navegar en el sitio.<br/><br/>
 		Lea más
-		<a href="https://myownconference.com/cookies-policy.php" target="_blank">aquí</a>.
+		<a href="https://myownconference.com/privacy-policy.php" target="_blank">aquí</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

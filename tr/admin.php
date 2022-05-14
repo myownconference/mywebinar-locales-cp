@@ -4741,7 +4741,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Web sitemizde gezinirken deneyiminizi geliştirmek için çerezleri kullanıyoruz. Bu çerezlerden gerekli olarak sınıflandırılan çerezler, web sitemizin temel işlevlerinin çalışması için gerekli olduklarından tarayıcınızda saklanır. Ayrıca, web sitemizi nasıl kullandığınızı analiz etmemize ve anlamamıza yardımcı olan üçüncü taraf çerezleri kullanıyoruz. Bu çerezler, yalnızca sizin izniniz ile tarayıcınızda saklanacaktır. Ayrıca bu çerezleri devre dışı bırakma seçeneğiniz de vardır. Ancak bu çerezlerden bazılarını devre dışı bırakmak, tarama deneyiminizi etkileyebilir.<br/><br/>Daha fazla oku <a href="https://myownconference.com/cookies-policy.php" target="_blank">burada</a>.
+		Web sitemizde gezinirken deneyiminizi geliştirmek için çerezleri kullanıyoruz. Bu çerezlerden gerekli olarak sınıflandırılan çerezler, web sitemizin temel işlevlerinin çalışması için gerekli olduklarından tarayıcınızda saklanır. Ayrıca, web sitemizi nasıl kullandığınızı analiz etmemize ve anlamamıza yardımcı olan üçüncü taraf çerezleri kullanıyoruz. Bu çerezler, yalnızca sizin izniniz ile tarayıcınızda saklanacaktır. Ayrıca bu çerezleri devre dışı bırakma seçeneğiniz de vardır. Ancak bu çerezlerden bazılarını devre dışı bırakmak, tarama deneyiminizi etkileyebilir.<br/><br/>Daha fazla oku <a href="https://myownconference.com/privacy-policy.php" target="_blank">burada</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////

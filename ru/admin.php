@@ -1816,13 +1816,13 @@ return [
 	'no-webinars' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Нет запланированных вебинаров.<br/><br/>Узнать о планировании вебинаров можно <a href="https://myownconference.ru/blog/nachalo-raboty-s-mywebinar/#c4" target="_blank" class="tcolor-blue more-link">здесь</a>,<br/>а посмотреть видеоуроки можно <a href="https://www.youtube.com/watch?v=8mh44tzOaUo&list=PLG2Sk4-wQEzVSoUW08dHDsHuH71UpIA36" target="_blank" class="tcolor-blue more-link">здесь</a> и <a href="https://www.youtube.com/watch?v=5JRptJ1ANCg&list=PLG2Sk4-wQEzVSoUW08dHDsHuH71UpIA36" target="_blank" class="tcolor-blue more-link">здесь</a>.
+		Нет запланированных вебинаров.<br/><br/>Узнать о планировании вебинаров можно <a href="https://myownconference.com/blog/ru/nachalo-raboty-s-mywebinar/#c4" target="_blank" class="tcolor-blue more-link">здесь</a>,<br/>а посмотреть видеоуроки можно <a href="https://www.youtube.com/watch?v=8mh44tzOaUo&list=PLG2Sk4-wQEzVSoUW08dHDsHuH71UpIA36" target="_blank" class="tcolor-blue more-link">здесь</a> и <a href="https://www.youtube.com/watch?v=5JRptJ1ANCg&list=PLG2Sk4-wQEzVSoUW08dHDsHuH71UpIA36" target="_blank" class="tcolor-blue more-link">здесь</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		На сегодня нет запланированных вебинаров.<br/><br/>Узнать о планировании вебинаров можно <a href="https://myownconference.ru/blog/nachalo-raboty-s-mywebinar/#c4" target="_blank" class="tcolor-blue more-link">здесь</a>,<br/>а посмотреть видеоуроки можно <a href="https://www.youtube.com/watch?v=8mh44tzOaUo&list=PLG2Sk4-wQEzVSoUW08dHDsHuH71UpIA36" target="_blank" class="tcolor-blue more-link">здесь</a> и <a href="https://www.youtube.com/watch?v=5JRptJ1ANCg&list=PLG2Sk4-wQEzVSoUW08dHDsHuH71UpIA36" target="_blank" class="tcolor-blue more-link">здесь</a>.
+		На сегодня нет запланированных вебинаров.<br/><br/>Узнать о планировании вебинаров можно <a href="https://myownconference.com/blog/ru/nachalo-raboty-s-mywebinar/#c4" target="_blank" class="tcolor-blue more-link">здесь</a>,<br/>а посмотреть видеоуроки можно <a href="https://www.youtube.com/watch?v=8mh44tzOaUo&list=PLG2Sk4-wQEzVSoUW08dHDsHuH71UpIA36" target="_blank" class="tcolor-blue more-link">здесь</a> и <a href="https://www.youtube.com/watch?v=5JRptJ1ANCg&list=PLG2Sk4-wQEzVSoUW08dHDsHuH71UpIA36" target="_blank" class="tcolor-blue more-link">здесь</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////
@@ -4096,13 +4096,13 @@ return [
 	'two-factor-more' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.ru/blog/dvyhetapnaya-autentificaschiya/" target="_blank">Описание</a>
+		<a href="https://myownconference.com/blog/ru/dvyhetapnaya-autentificaschiya/" target="_blank">Описание</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-more-mobile' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.ru/blog/dvyhetapnaya-autentificaschiya/" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://myownconference.com/blog/ru/dvyhetapnaya-autentificaschiya/" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-app' => //////////////////////////////////////////////////////////////////
@@ -4760,7 +4760,7 @@ return [
 		<br/><br/>
 		Также, мы используем систему технической поддержки ZenDesk, которая помогает нам оказывать вам быструю и оперативную помощь. Файлы cookie ZenDesk будут храниться только в вашем браузере и только с вашего согласия. Вы можете отключить их полностью и получать техническую поддержку другими, удобными для вас способами.
 		<br/><br/>
-		Ознакомится с полной версией нашей политики обработки и защиты ваших персональных данных, методов работы с файлами cookie, можно по этой <a href="https://myownconference.ru/cookies-policy.php" target="_blank">ссылке</a>.
+		Ознакомится с полной версией нашей политики обработки и защиты ваших персональных данных, методов работы с файлами cookie, можно по этой <a href="https://myownconference.com/ru/cookies-policy.php" target="_blank">ссылке</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -5767,12 +5767,6 @@ return [
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
 		<a href="https://support.google.com/tagmanager/answer/6102821?hl=ru" target="_blank">Описание</a>
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'yandex-id-more' => //////////////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		<a href="https://yandex.ru/support/metrica/general/" target="_blank">Описание</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'timezone-more' => ///////////////////////////////////////////////////////////////////

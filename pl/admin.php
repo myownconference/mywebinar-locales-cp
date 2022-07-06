@@ -6925,13 +6925,13 @@ return [
 	'import-bot-placeholder' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nazwa bota, np. "Adam Kowalski"; Kraj, np. "PL"
+		Nazwa bota, np. "Adam Kowalski"; Kraj, np. "PL"<br/><br/>Na przykład:<br/>–––<br/>"Adam Kowalski";"PL"<br/>"Mark Cell";"PL"<br/>...<br/>"Joan Limber";"DK"<br/>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-chat-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Czas wydarzenia, np. "+00:10:23"; Typ autora, np. "M" or "G"; Od nazwy, np. "Adam Kowalski"; Kraj, np. "PL"; Wiadomość, np. "blah-blah-blah"
+		Czas wydarzenia, np. "+00:10:23"; Typ autora, np. "M" or "G"; Od nazwy, np. "Adam Kowalski"; Kraj, np. "PL"; Wiadomość, np. "blah-blah-blah"<br/><br/>Na przykład:<br/>–––<br/>"+00:12:15";"G";"Adam Kowalski";"PL";"Hello! It is first message!"<br/>"+00:15:13";"G";"Adam Kowalski";"PL";"This is my second message."<br/>...<br/>"+01:12:45";"G";"Adam Kowalski";"PL";"This is my last message. Bye!"<br/>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-cta-placeholder' => //////////////////////////////////////////////////////////

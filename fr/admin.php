@@ -6925,13 +6925,13 @@ return [
 	'import-bot-placeholder' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nom du bot, par ex. "John Smith"; Pays, par ex. "FR"
+		Nom du bot, par ex. "John Smith"; Pays, par ex. "FR"<br/><br/>Par exemple:<br/>–––<br/>"John Doe";"FR"<br/>"Mark Cell";"FR"<br/>...<br/>"Joan Limber";"FR"<br/>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-chat-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Heure de l&apos;événement, par ex. "+00:10:23"; Type d&apos;auteur, par ex. "M" ou "G"; À partir du nom, par ex. "John Smith"; Pays, par ex. "FR"; Message, par ex. "blah-blah-blah"
+		Heure de l&apos;événement, par ex. "+00:10:23"; Type d&apos;auteur, par ex. "M" ou "G"; À partir du nom, par ex. "John Smith"; Pays, par ex. "FR"; Message, par ex. "blah-blah-blah"<br/><br/>Par exemple:<br/>–––<br/>"+00:12:15";"G";"John Doe";"FR";"Hello! It is first message!"<br/>"+00:15:13";"G";"John Doe";"FR";"This is my second message."<br/>...<br/>"+01:12:45";"G";"John Doe";"FR";"This is my last message. Bye!"<br/>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-cta-placeholder' => //////////////////////////////////////////////////////////

@@ -6856,13 +6856,13 @@ return [
 	'import-bot-placeholder' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bot name, e.g. "John Smith"; Country, e.g. "GB"
+		Bot name, e.g. "John Smith"; Country, e.g. "GB"<br/><br/>For example:<br/>–––<br/>"John Doe";"GB"<br/>"Mark Cell";"GB"<br/>...<br/>"Joan Limber";"DK"<br/>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-chat-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Event time, e.g. "+00:10:23"; Author type, e.g. "M" or "G"; From name, e.g. "John Smith"; Country, e.g. "GB"; Message, e.g. "blah-blah-blah"
+		Event time, e.g. "+00:10:23"; Author type, e.g. "M" or "G"; From name, e.g. "John Smith"; Country, e.g. "GB"; Message, e.g. "blah-blah-blah"<br/><br/>For example:<br/>–––<br/>"+00:12:15";"G";"John Doe";"GB";"Hello! It is first message!"<br/>"+00:15:13";"G";"John Doe";"GB";"This is my second message."<br/>...<br/>"+01:12:45";"G";"John Doe";"GB";"This is my last message. Bye!"<br/>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-cta-placeholder' => //////////////////////////////////////////////////////////

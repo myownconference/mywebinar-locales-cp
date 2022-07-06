@@ -6926,13 +6926,13 @@ return [
 	'import-bot-placeholder' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nombre del bot, p. "John Smith";País, p. "ES"
+		Nombre del bot, p. "John Smith";País, p. "ES"<br/><br/>Por ejemplo:<br/>–––<br/>"John Doe";"ES"<br/>"Mark Cell";"ES"<br/>...<br/>"Joan Limber";"ES"<br/>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-chat-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Hora del evento, p. "+00:10:23"; Tipo de autor, p. "M" o "G"; Del nombre, p. "John Smith"; País, p. "ES"; Mensaje, p. "blah-blah-blah"
+		Hora del evento, p. "+00:10:23"; Tipo de autor, p. "M" o "G"; Del nombre, p. "John Smith"; País, p. "ES"; Mensaje, p. "blah-blah-blah"<br/><br/>Por ejemplo:<br/>–––<br/>"+00:12:15";"G";"John Doe";"ES";"¡Hola! ¡Es el primer mensaje!"<br/>"+00:15:13";"G";"John Doe";"ES";"Este es mi segundo mensaje."<br/>...<br/>"+01:12:45";"G";"John Doe";"ES";"Este es mi último mensaje. ¡Adiós!"<br/>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-cta-placeholder' => //////////////////////////////////////////////////////////

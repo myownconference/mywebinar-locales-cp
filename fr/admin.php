@@ -5306,7 +5306,7 @@ return [
 	'do-not-receive' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		If you do not receive the verification message within a few minutes of signing up, please check your <b>Spam/Junk</b> or <b>More &raquo; Categories &raquo; Social/Updates/Promotions</b> folders.<br/><br/><span style="font-size:0.14rem;">Remember to click <b>Not Spam</b>, to allow future messages through. It will allow subsequent messages to achieved directly to <b>Inbox</b> folder.</span>
+		If you do not receive the verification message within a few minutes of signing up, please check your <b>Spam/Junk</b> or <b>More &raquo; Categories &raquo; Social, Updates, Promotions</b> folders.<br/><br/><span style="font-size:0.14rem;">Remember to click <b>Not Spam</b>, to allow future messages through. It will allow subsequent messages to achieved directly to <b>Inbox</b> folder.</span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'not-receive-message-then' => ////////////////////////////////////////////////////////

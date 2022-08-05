@@ -1849,7 +1849,8 @@ return [
 	'
 		Bugün için planlanmış bir web semineriniz yok.
 		<br/><br/>
-		Burada <a href="https://myownconference.com/blog/en/starting-with-mywebinar/#c4" target="_blank" class="tcolor-blue more-link">daha fazlasını okuyun</a> veya eğitim <a href="https://www.youtube.com/watch?v=vBP9x9IQpW0&list=PL2snHV6z-Kwjr9ju96k_K4A0Zon1xrUxx" target="_blank" class="tcolor-blue more-link">videosunu</a> izleyin.
+		Burada <a href="https://myownconference.com/blog/en/starting-with-mywebinar/#c4" target="_blank" class="tcolor-blue more-link">daha fazlasını okuyun</a>
+		veya eğitim <a href="https://www.youtube.com/watch?v=vBP9x9IQpW0&list=PL2snHV6z-Kwjr9ju96k_K4A0Zon1xrUxx" target="_blank" class="tcolor-blue more-link">videosunu</a> izleyin.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////

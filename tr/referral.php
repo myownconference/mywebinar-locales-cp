@@ -111,21 +111,29 @@ return [
 	'referral-rules' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		&mdash; Yönlendirme programına yalnızca ücretli bir MyOwnConference hesabı olan kullanıcılar katılabilir. Ücretli bir hesap ücretsiz hale gelirse, herhangi bir yönlendirme ücreti alınmaz;
-		<br/><br/>
-		&mdash; Yönlendirme bağlantılarıyla toplu postalama ve spam yasaktır;
-		<br/><br/>
-		&mdash; Birkaç MyOwnConference hesabı oluşturmak ve bunlar için bir yönlendirme bağlantısı kullanarak ödeme yapmak yasaktır;
-		<br/><br/>
-		&mdash; Yönlendirme bağlantısının Google Ads, Facebook Ads veya diğer herhangi bir reklam hesabındaki reklamlara eklenmesi yasaktır. Bağlantıyı şahsen paylaşın;
-		<br/><br/>
-		&mdash; MyOwnConference adına bir yönlendirme bağlantısı göndermek yasaktır;
-		<br/><br/>
-		&mdash; Kullanıcıların çerezlerin saklanmasına izin vermemesi veya çerezleri temizlememesi durumunda komisyon ücreti ödenmeyecektir, çünkü onları takip etme imkanımız olmayabilir;
-		<br/><br/>
-		&mdash; Yönlendirme programı kurallarının yanı sıra hüküm ve koşulları herhangi bir zamanda önceden haber vermeksizin değiştirme hakkını saklı tutarız. Bu değişiklikler, sevk programının komisyon ücretinin yüzdesi ve ayrıca sevk programının diğer koşulları ile ilgili olarak getirilebilir;
-		<br/><br/>
-		Bu şartların ihlali durumunda, tahakkuk eden fonlarınızı dondurur ve hesabınızı bloke ederiz.
+		<h3>Yönlendirme programı politikası</h3>
+		<sup style="color:grey">(Son düzenleme: 30 Ağustos 2022. Revizyon: 1.2)</sup>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<p>
+			&mdash; Yönlendirme programına yalnızca ücretli bir MyOwnConference hesabı olan kullanıcılar katılabilir. Ücretli bir hesap ücretsiz hale gelirse, herhangi bir yönlendirme ücreti alınmaz;
+			<br/><br/>
+			&mdash; Yönlendirme bağlantılarıyla toplu postalama ve spam yasaktır;
+			<br/><br/>
+			&mdash; Birkaç MyOwnConference hesabı oluşturmak ve bunlar için bir yönlendirme bağlantısı kullanarak ödeme yapmak yasaktır;
+			<br/><br/>
+			&mdash; Yönlendirme bağlantısının Google Ads, Facebook Ads veya diğer herhangi bir reklam hesabındaki reklamlara eklenmesi yasaktır. Bağlantıyı şahsen paylaşın;
+			<br/><br/>
+			&mdash; MyOwnConference adına bir yönlendirme bağlantısı göndermek yasaktır;
+			<br/><br/>
+			&mdash; Kullanıcıların çerezlerin saklanmasına izin vermemesi veya çerezleri temizlememesi durumunda komisyon ücreti ödenmeyecektir, çünkü onları takip etme imkanımız olmayabilir;
+			<br/><br/>
+			&mdash; Yönlendirme programı kurallarının yanı sıra hüküm ve koşulları herhangi bir zamanda önceden haber vermeksizin değiştirme hakkını saklı tutarız. Bu değişiklikler, sevk programının komisyon ücretinin yüzdesi ve ayrıca sevk programının diğer koşulları ile ilgili olarak getirilebilir;
+			<br/><br/>
+			<b>Bu şartların ihlali durumunda, tahakkuk eden fonlarınızı dondurur ve hesabınızı bloke ederiz.</b>
+		</p>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-rules-bottom' => ///////////////////////////////////////////////////////////

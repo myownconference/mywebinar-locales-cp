@@ -441,7 +441,7 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permanent webinars <span class="tooltip" data-tip="These webinars are always available. You can use them without prior scheduling.<br/><br/>Any attendee can be invited by direct static link.<br/><br/>Password protection can be used to permit access.">Read more here</a>"></span>
+		Permanent webinars <span class="tooltip" data-tip="These webinars are always available. You can use them without prior scheduling.<br/><br/>Any attendee can be invited by direct static link.<br/><br/>Password protection can be used to permit access."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////

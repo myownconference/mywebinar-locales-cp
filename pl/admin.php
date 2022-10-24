@@ -5897,6 +5897,7 @@ return [
 	'
 		<b>Bezpłatne konto</b><br/>
 		&middot; <u>Nie jest przeznaczony do użytku komercyjnego</u><br/>
+		&middot; Nasze logo jest na kamerach prelegentów<br/>
 		&middot; 2 włączone kamery jednocześnie (każdy uczestnik może mówić po kolei)<br/>
 		&middot; Dodawanie 20 osób podczas importowania kontaktów<br/>
 		&middot; Łącznie 20 uczestników na równoległych webinarach<br/>

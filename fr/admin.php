@@ -5868,6 +5868,7 @@ return [
 	'
 		<b>Compte gratuit</b><br/>
 		&middot; <u>Usage non commercial seulement</u><br/>
+		&middot; Logo MyOwnConference sur toutes les webcams<br/>
 		&middot; 2 caméras simultanément (mais chaque participant peut parler à tour de rôle)<br/>
 		&middot; 20 abonnés lors de l&apos;importation pour les invitations<br/>
 		&middot; 20 participants en même temps aux événements<br/>

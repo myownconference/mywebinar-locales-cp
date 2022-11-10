@@ -441,7 +441,7 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permanent link webinars <span class="tooltip" data-tip="These webinars are always available. You can use them without prior scheduling.<br/><br/>Any attendee can be invited by direct static link.<br/><br/>Password protection can be used to permit access."></span>
+		Ever green webinars <span class="tooltip" data-tip="These webinars are always available. You can use them without prior scheduling.<br/><br/>Any attendee can be invited by direct static link.<br/><br/>Password protection can be used to permit access."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
@@ -3150,7 +3150,7 @@ return [
 	'fixed-webinar' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permanent link webinar #
+		Ever green webinar #
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'fixed-webinar-title' => /////////////////////////////////////////////////////////////
@@ -5832,6 +5832,7 @@ return [
 	'
 		<b>Free account</b><br/>
 		&middot; <u>Non-commercial use only</u><br/>
+		&middot; MyOwnConference logo on all moderators webcam<br/>
 		&middot; 2 cameras simultaneously (but each participant can speak in turn)<br/>
 		&middot; 20 subscribers when importing for invitations<br/>
 		&middot; 20 participants at the same time at webinar<br/>

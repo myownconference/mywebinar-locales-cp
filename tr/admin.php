@@ -5840,6 +5840,7 @@ return [
 	'
 		<b>Bedava hesap</b><br/>
 		&middot; <u>Yalnızca ticari olmayan kullanım</u><br/>
+		&middot; Tüm moderatörlerin web kamerasında MyOwnConference logosu<br/>
 		&middot; Aynı anda 2 kamera (ancak her katılımcı sırayla konuşabilir)<br/>
 		&middot; Davetler için içe aktarırken 20 abone<br/>
 		&middot; Etkinliklerde aynı anda 20 katılımcı<br/>

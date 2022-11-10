@@ -5888,6 +5888,7 @@ return [
 	'
 		<b>Cuenta gratis</b><br/>
 		&middot; <u>Sólo uso no comercial</u><br/>
+		&middot; Logo MyOwnConference en todas las webcámaras<br/>
 		&middot; 2 cámaras simultáneamente (pero cada participante puede hablar por turno)<br/>
 		&middot; 20 suscriptores al importar para invitaciones<br/>
 		&middot; 20 participantes al mismo tiempo en eventos<br/>

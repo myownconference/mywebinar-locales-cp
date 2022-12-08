@@ -5848,7 +5848,7 @@ return [
 	'
 		<b>Free account</b><br/>
 		&middot; <u>Non-commercial use only</u><br/>
-		&middot; MyOwnConference logo on all moderators webcam<br/>
+		&middot; MyOwnConference logo on all moderator&apos;s webcam<br/>
 		&middot; 2 cameras simultaneously (but each participant can speak in turn)<br/>
 		&middot; 20 subscribers when importing for invitations<br/>
 		&middot; 20 attendees at the same time at the event<br/>

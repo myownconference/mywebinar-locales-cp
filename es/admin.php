@@ -5912,7 +5912,6 @@ return [
 		&middot; 20 participantes al mismo tiempo en eventos<br/>
 		&middot; 20 minutos de grabación (la calidad es SD+HD)<br/>
 		&middot; Se prohíbe compartir enlaces a las grabaciones<br/>
-		&middot; Se prohíben los cambios de marca blanca<br/>
 		&middot; Los cambios de latencia de transmisión están prohibidos<br/>
 		&middot; 1 GB de espacio para archivos<br/>
 	',

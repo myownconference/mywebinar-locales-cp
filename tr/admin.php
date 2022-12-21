@@ -5864,7 +5864,6 @@ return [
 		&middot; Etkinliklerde aynı anda 20 katılımcı<br/>
 		&middot; 20 dakikalık kayıt (kalite SD+HD&apos;dir)<br/>
 		&middot; Kayıtlara link paylaşımı yasaktır<br/>
-		&middot; Yayın gecikmesi değişiklikleri yasaktır<br/>
 		&middot; Beyaz marka değişiklikleri yasaktır<br/>
 		&middot; Dosyalar için 1 GB alan<br/>
 	',

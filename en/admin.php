@@ -5854,7 +5854,6 @@ return [
 		&middot; 20 attendees at the same time at the event<br/>
 		&middot; 20 minutes of recording (quality is SD+HD)<br/>
 		&middot; Link share to the recordings is prohibited<br/>
-		&middot; Broadcast latency changes is prohibited<br/>
 		&middot; White branding changes is prohibited<br/>
 		&middot; 1 GB of storage space<br/>
 	',

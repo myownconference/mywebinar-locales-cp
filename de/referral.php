@@ -21,13 +21,13 @@ return [
 	'referral-date' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Anmeldung
+		Registrierung
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-pack' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Planpreis
+		Preis des Plans
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-status' => /////////////////////////////////////////////////////////////////
@@ -39,13 +39,13 @@ return [
 	'referral-p-history' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Zahlungshistorie
+		Zahlungsverlauf
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-history-title' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Zahlungshistorie von Benutzer %S
+		Zahlungsverlauf des Benutzers %S
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-active' => /////////////////////////////////////////////////////////////////
@@ -57,7 +57,7 @@ return [
 	'referral-suspended' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Suspendiert
+		Ausgesetzt
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-deleted' => ////////////////////////////////////////////////////////////////
@@ -93,46 +93,46 @@ return [
 	'referral-for-free' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sie benötigen ein kostenpflichtiges MyOwnConference-Konto, um Partner der Plattform zu werden
+		Sie benötigen ein kostenpflichtiges MyOwnConference-Konto, um Partner der Plattform zu werden.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-rules-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Geschäftsbedingungen des Empfehlungsprogramms
+		Allgemeine Geschäftsbedingungen des Empfehlungsprogramms
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-rules-subtitle' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Lesen Sie die Allgemeinen Geschäftsbedingungen sorgfältig durch, bevor Sie das Empfehlungsprogramm nutzen:
+		Bevor Sie das Empfehlungsprogramm nutzen, lesen Sie bitte sorgfältig die Allgemeinen Geschäftsbedingungen.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-rules' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<h3>Richtlinien des Empfehlungsprogramms</h3>
+		<h3>Richtlinien für das Empfehlungsprogramm</h3>
 		<sup style="color:grey">(Zuletzt bearbeitet: 30. August 2022. Revision: 1.2)</sup>
 		<br/>
 		<br/>
 		<br/>
 		<br/>
 		<p>
-			&mdash; Nur Benutzer mit einem kostenpflichtigen MyOwnConference-Konto können am Empfehlungsprogramm teilnehmen. Wenn eine kostenpflichtige Version kostenlos wird, fallen keine Vermittlungsgebühren an;
+			&mdash; Nur Benutzer mit einem bezahlten MyOwnConference-Konto können am Empfehlungsprogramm teilnehmen. Wenn ein bezahltes Konto kostenlos wird, werden keine Empfehlungsgebühren erhoben;
 			<br/><br/>
-			&mdash; Massenmailing und Spam mit Empfehlungslinks sind verboten;
+			&mdash; Massenmails und Spam mit Empfehlungslinks sind verboten;
 			<br/><br/>
-			&mdash; Das Erstellen mehrerer MyOwnConference-Konten und deren Bezahlung über einen Empfehlungslink ist untersagt;
+			&mdash; Das Erstellen mehrerer MyOwnConference-Konten und das Bezahlen über einen Empfehlungslink ist verboten;
 			<br/><br/>
-			&mdash; Das Einfügen des Empfehlungslinks in Anzeigen in Google Ads, Facebook Ads oder anderen Werbekonten ist untersagt. Teilen Sie den Link persönlich;
+			&mdash; Das Einfügen des Empfehlungslinks in Anzeigen bei Google Ads, Facebook Ads oder einem anderen Werbekonto ist verboten. Teilen Sie den Link persönlich;
 			<br/><br/>
-			&mdash; Das Versenden eines Empfehlungslinks im Namen von MyOwnConference ist untersagt;
+			&mdash; Das Versenden eines Empfehlungslinks im Namen von MyOwnConference ist verboten;
 			<br/><br/>
-			&mdash; Die Provisionsgebühr wird nicht gezahlt, wenn Benutzer das Speichern von Cookies nicht zulassen oder Cookies löschen, weil uns möglicherweise die Möglichkeiten fehlen, sie zu verfolgen;
+			&mdash; Die Kommissionsgebühr wird nicht bezahlt, wenn Benutzer das Speichern von Cookies nicht zulassen oder diese löschen, da uns möglicherweise die Möglichkeit fehlt, sie zu verfolgen;
 			<br/><br/>
-			&mdash; Wir behalten uns das Recht vor, die Allgemeinen Geschäftsbedingungen und die Regeln des Empfehlungsprogramms jederzeit ohne vorherige Ankündigung zu ändern. Diese Änderungen können in Bezug auf den Prozentsatz der Provisionsgebühr des Empfehlungsprogramms sowie andere Bedingungen des Empfehlungsprogramms eingeführt werden;
+			&mdash; Wir behalten uns das Recht vor, die Bedingungen sowie die Regeln des Empfehlungsprogramms jederzeit ohne Vorankündigung zu ändern. Diese Änderungen können sich auf den Prozentsatz der Kommissionsgebühr des Empfehlungsprogramms sowie auf andere Bedingungen des Empfehlungsprogramms beziehen;
 			<br/><br/>
-			<b>Im Falle eines Verstoßes gegen diese Bedingungen werden wir Ihr angesammeltes Guthaben einfrieren und Ihr Konto sperren.</b>
+			<b>Bei Verstoß gegen diese Bedingungen frieren wir Ihre angesammelten Gelder ein und blockieren Ihr Konto.</b>
 		</p>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
@@ -151,19 +151,19 @@ return [
 	'referral-getmoney-button' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Zurückziehen
+		Auszahlen
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-extend-button' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Enroll
+		Einschreiben
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-extend-notify' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sie zahlen für die Plattform mit verdienten Boni. Möchten Sie Ihr aktuelles Abonnement für %S Euro um einen Monat verlängern?
+		Sie bezahlen die Plattform mit verdienten Boni. Möchten Sie Ihren aktuellen Plan um 1 Monat für %S Euro verlängern?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-extend-notify-but' => //////////////////////////////////////////////////////

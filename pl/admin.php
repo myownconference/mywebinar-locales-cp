@@ -5949,7 +5949,7 @@ return [
 		&middot; 2 włączone kamery jednocześnie (każdy uczestnik może mówić po kolei)<br/>
 		&middot; Dodawanie 20 osób podczas importowania kontaktów<br/>
 		&middot; Łącznie 20 uczestników na równoległych webinarach<br/>
-		&middot; 20 minut nagrania jednego webinaru (jakość SD+HD)<br/>
+		&middot; 20 minut nagrania jednego webinaru (jakość 480p i 720p)<br/>
 		&middot; Zabronione udostępnianie linku do nagrań z webinaru<br/>
 		&middot; Zakaz brandingu webinarów i zaproszeń<br/>
 		&middot; 1 GB miejsca na pliki i nagrania<br/>

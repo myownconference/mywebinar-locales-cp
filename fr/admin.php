@@ -5920,7 +5920,7 @@ return [
 		&middot; 2 caméras simultanément (mais chaque participant peut parler à tour de rôle)<br/>
 		&middot; 20 abonnés lors de l&apos;importation pour les invitations<br/>
 		&middot; 20 participants en même temps aux événements<br/>
-		&middot; 20 minutes d&apos;enregistrement (la qualité est SD+HD)<br/>
+		&middot; 20 minutes d&apos;enregistrement (la qualité est 480p et 720p)<br/>
 		&middot; Le partage de lien vers les enregistrements est interdit<br/>
 		&middot; Les modifications en marque blanche sont interdites<br/>
 		&middot; 1 GB d&apos;espace pour les fichiers<br/>

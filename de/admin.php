@@ -5863,7 +5863,7 @@ return [
 		&middot; 2 Kameras gleichzeitig (aber jeder Teilnehmer kann der Reihe nach sprechen)<br/>
 		&middot; 20 Abonnenten beim Importieren von Einladungen<br/>
 		&middot; 20 Teilnehmer gleichzeitig im Webinar<br/>
-		&middot; 20 Minuten Aufnahmezeit (Qualität ist SD+HD)<br/>
+		&middot; 20 Minuten Aufnahmezeit (Qualität ist 480p und 720p)<br/>
 		&middot; Linkfreigabe für Aufzeichnungen ist untersagt<br/>
 		&middot; Weiße Branding-Änderungen sind untersagt<br/>
 		&middot; 1 GB Speicherplatz<br/>

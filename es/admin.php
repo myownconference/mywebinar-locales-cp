@@ -7022,7 +7022,7 @@ return [
 	'
 		Puedes seleccionar un método de pago más adecuado desde la sección de Perfil. Aceptamos pagos con tarjetas de crédito o débito, PayPal, dinero electrónico y criptomonedas como BTC, ETH, LTC, BNB y TRX.
 		<br/><br/>
-		<a href="https://myownconference.com/es/refund-policy.php" target="_blank" rel="noopener noreferrer"><small>Por favor, lee la política de reembolso de la plataforma</small></a>
+		<a href="https://myownconference.com/es/refund-policy.php" target="_blank" rel="noopener noreferrer"><small><u>Lee la política de reembolso de la plataforma por favor</u></small></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

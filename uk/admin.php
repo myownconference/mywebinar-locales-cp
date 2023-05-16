@@ -6976,7 +6976,7 @@ return [
 	'
 		Вибрати зручний для вас спосіб оплати можна у розділі «Профіль». У нас доступна оплата як платіжними картками та PayPal, так електронними грошима та криптовалютами, такими як BTC, ETC, LTC, BNB і TRX.
 		<br/><br/>
-		<a href="https://myownconference.com/uk/refund-policy.php" target="_blank" rel="noopener noreferrer"><small>Будь ласка, прочитайте політику повернення коштів на платформі.</small></a>
+		<a href="https://myownconference.com/uk/refund-policy.php" target="_blank" rel="noopener noreferrer"><small><u>Будь ласка, прочитайте політику повернення коштів на платформі</u></small></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

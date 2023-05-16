@@ -7050,6 +7050,8 @@ return [
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
 		Możesz wybrać dogodną dla siebie metodę płatności w zakładce "Profil". Oferujemy płatności kartami płatniczymi i PayPal, pieniędzmi elektronicznymi i kryptowalutami, takimi jak BTC, ETC, LTC, BNB i TRX.
+		<br/><br/>
+		<a href="https://myownconference.com/pl/refund-policy.php" target="_blank" rel="noopener noreferrer"><small>Proszę zapoznać się z polityką zwrotów na platformie</small></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

@@ -6972,6 +6972,8 @@ return [
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
 		You can choose a better payment method in the «Profile» section. You can pay by credit or debit payment cards and PayPal, electronic money and crypto-currencies such as BTC, ETC, LTC, BNB, TRX.
+		<br/><br/>
+		<a href="https://myownconference.com/refund-policy.php" target="_blank" rel="noopener noreferrer"><small>Please read the refund policy of the platform</small></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

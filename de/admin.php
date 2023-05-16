@@ -6961,6 +6961,8 @@ return [
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
 		Sie können eine bessere Zahlungsmethode im Abschnitt Profil wählen. Sie können per Kredit- oder Debitkarte, PayPal, elektronischem Geld und Kryptowährungen wie BTC, ETH, LTC, BNB und TRX bezahlen.
+		<br/><br/>
+		<a href="https://myownconference.com/de/refund-policy.php" target="_blank" rel="noopener noreferrer"><small>Bitte lesen Sie die Rückerstattungsrichtlinien der Plattform</small></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

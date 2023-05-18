@@ -7017,7 +7017,9 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		You can choose a better payment method in the «Profile» section. You can pay by credit or debit payment cards and PayPal, electronic money and crypto-currencies such as BTC, ETC, LTC, BNB, TRX.
+		Vous pouvez sélectionner un mode de paiement plus adapté depuis la section Profil. Nous acceptons les paiements par carte de crédit ou de débit, PayPal, les paiements électroniques et les cryptomonnaies telles que BTC, ETH, LTC, BNB et TRX.
+		<br/><br/>
+		<a href="https://myownconference.com/refund-policy.php" target="_blank" rel="noopener noreferrer"><small><u>Veuillez lire la politique de remboursement de la plateforme</u></small></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

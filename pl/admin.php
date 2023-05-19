@@ -5952,6 +5952,7 @@ return [
 		&middot; 20 minut nagrania jednego webinaru (jakość 480p i 720p)<br/>
 		&middot; Zabronione udostępnianie linku do nagrań z webinaru<br/>
 		&middot; Zakaz brandingu webinarów i zaproszeń<br/>
+		&middot; Brak personalizacji domeny w linkach<br/>
 		&middot; 1 GB miejsca na pliki i nagrania<br/>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////

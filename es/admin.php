@@ -5925,6 +5925,7 @@ return [
 		&middot; 20 minutos de grabación (la calidad es 480p o 720p)<br/>
 		&middot; Se prohíbe compartir enlaces a las grabaciones<br/>
 		&middot; Los cambios de latencia de transmisión están prohibidos<br/>
+		&middot; No hay opción de dominio personalizado<br/>
 		&middot; 1 GB de espacio para archivos<br/>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////

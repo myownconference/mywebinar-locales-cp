@@ -5866,6 +5866,7 @@ return [
 		&middot; 20 Minuten Aufnahmezeit (Qualität ist 480p und 720p)<br/>
 		&middot; Linkfreigabe für Aufzeichnungen ist untersagt<br/>
 		&middot; Weiße Branding-Änderungen sind untersagt<br/>
+		&middot; Keine Option für individuelle Domains<br/>
 		&middot; 1 GB Speicherplatz<br/>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////

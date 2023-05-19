@@ -5861,12 +5861,13 @@ return [
 		<b>Free account</b><br/>
 		&middot; <u>Non-commercial use only</u><br/>
 		&middot; MyOwnConference logo on all moderator&apos;s webcam<br/>
-		&middot; 2 cameras simultaneously (but each participant can speak in turn)<br/>
+		&middot; 2 presenters at once (but each participant can speak in turn)<br/>
 		&middot; 20 subscribers when importing for invitations<br/>
 		&middot; 20 attendees at the same time at the event<br/>
 		&middot; 20 minutes of recording (quality is 480p and 720p)<br/>
 		&middot; Link share to the recordings is prohibited<br/>
 		&middot; White branding changes is prohibited<br/>
+		&middot; No custom domain option<br/>
 		&middot; 1 GB of storage space<br/>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////

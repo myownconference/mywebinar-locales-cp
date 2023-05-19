@@ -5877,6 +5877,7 @@ return [
 		&middot; 20 dakikalık kayıt (kalite 480p or 720p)<br/>
 		&middot; Kayıtlara link paylaşımı yasaktır<br/>
 		&middot; Beyaz marka değişiklikleri yasaktır<br/>
+		&middot; No custom domain option<br/>
 		&middot; Dosyalar için 1 GB alan<br/>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////

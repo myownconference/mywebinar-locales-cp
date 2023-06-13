@@ -1857,13 +1857,13 @@ return [
 	'no-webinars' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Немає запланованих вебінарів.<br/><br/>Почитати про планування вебінарів можна <a href="https://myownconference.com/blog/uk/pochatok-raboty/#c4" target="_blank" class="tcolor-blue more-link">тут</a>, а подивитися відеоурок можна <a href="https://www.youtube.com/watch?v=8mh44tzOaUo&list=PLG2Sk4-wQEzVSoUW08dHDsHuH71UpIA36" target="_blank" class="tcolor-blue more-link">тут</a> (російською).
+		Немає запланованих вебінарів.<br/><br/>Почитати про планування вебінарів можна <a href="https://myownconference.com/blog/uk/pochatok-raboty/#c4" target="_blank" class="tcolor-blue more-link">тут</a>, а подивитися відеоурок можна <a href="https://www.youtube.com/watch?v=8mh44tzOaUo&list=PLG2Sk4-wQEzVSoUW08dHDsHuH71UpIA36" target="_blank" class="tcolor-blue more-link">тут</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		На сьогодні не заплановано жодного вебінару.<br/><br/>Почитати про планування вебінарів можна <a href="https://myownconference.com/blog/uk/pochatok-raboty/#c4" target="_blank" class="tcolor-blue more-link">тут</a>, а подивитися відеоурок можна <a href="https://www.youtube.com/watch?v=8mh44tzOaUo&list=PLG2Sk4-wQEzVSoUW08dHDsHuH71UpIA36" target="_blank" class="tcolor-blue more-link">тут</a> (російською).
+		На сьогодні не заплановано жодного вебінару.<br/><br/>Почитати про планування вебінарів можна <a href="https://myownconference.com/blog/uk/pochatok-raboty/#c4" target="_blank" class="tcolor-blue more-link">тут</a>, а подивитися відеоурок можна <a href="https://www.youtube.com/watch?v=8mh44tzOaUo&list=PLG2Sk4-wQEzVSoUW08dHDsHuH71UpIA36" target="_blank" class="tcolor-blue more-link">тут</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////

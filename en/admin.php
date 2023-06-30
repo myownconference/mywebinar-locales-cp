@@ -3519,7 +3519,7 @@ return [
 	'check-email' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Please check your Inbox, Spam, or Social/Promotions folders for our email. Don&apos;t forget to click "Not Spam" to allow future messages through and ensure that subsequent messages are delivered directly to your Inbox folder.
+		Kindly review our email in your Inbox, Spam, Junk, Social, Promotions, or Updates folders. Click "Not Spam" to authorize our future messages and guarantee their direct delivery to your Inbox folder. Thank you for choosing our all-inclusive webinar software platform.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password-reset' => //////////////////////////////////////////////////////////////////

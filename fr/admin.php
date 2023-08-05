@@ -4899,7 +4899,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nous utilisons des cookies pour améliorer votre expérience lorsque vous naviguez sur notre site Web. Parmi ces cookies, les cookies classés comme nécessaires sont stockés sur votre navigateur car ils sont essentiels au fonctionnement des fonctionnalités de base de notre site Web. Nous utilisons également des cookies tiers qui nous aident &agrave; analyser et &agrave; comprendre comment vous utilisez notre site Web. Ces cookies ne seront stockés dans votre navigateur qu&apos;avec votre consentement. Vous avez également la possibilité de désactiver ces cookies. Mais la désactivation de certains de ces cookies peut avoir un effet sur votre expérience de navigation.<br/><br/>En savoir plus <a href="https://myownconference.com/privacy-policy.php" target="_blank">ici</a>.
+		Nous utilisons des cookies pour améliorer votre expérience lorsque vous naviguez sur notre site Web. Parmi ces cookies, les cookies classés comme nécessaires sont stockés sur votre navigateur car ils sont essentiels au fonctionnement des fonctionnalités de base de notre site Web. Nous utilisons également des cookies tiers qui nous aident &agrave; analyser et &agrave; comprendre comment vous utilisez notre site Web. Ces cookies ne seront stockés dans votre navigateur qu&apos;avec votre consentement. Vous avez également la possibilité de désactiver ces cookies. Mais la désactivation de certains de ces cookies peut avoir un effet sur votre expérience de navigation.<br/><br/>En savoir plus <a href="https://myownconference.com/privacy-policy/" target="_blank">ici</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -7029,7 +7029,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vous pouvez sélectionner un mode de paiement plus adapté depuis la section Profil. Nous acceptons les paiements par carte de crédit ou de débit, PayPal, les paiements électroniques et les cryptomonnaies telles que BTC, ETH, LTC, BNB et TRX.<br/><br/><a href="https://myownconference.com/refund-policy.php" target="_blank" rel="noopener noreferrer"><small><u>Veuillez lire la politique de remboursement de la plateforme</u></small></a>
+		Vous pouvez sélectionner un mode de paiement plus adapté depuis la section Profil. Nous acceptons les paiements par carte de crédit ou de débit, PayPal, les paiements électroniques et les cryptomonnaies telles que BTC, ETH, LTC, BNB et TRX.<br/><br/><a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer"><small><u>Veuillez lire la politique de remboursement de la plateforme</u></small></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

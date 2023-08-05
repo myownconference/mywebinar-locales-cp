@@ -4899,7 +4899,7 @@ return [
 		opción de rechazar estas cookies. Sin embargo, el rechazar algunas de estas
 		cookies puede afectar su experiencia al navegar en el sitio.<br/><br/>
 		Lea más
-		<a href="https://myownconference.com/privacy-policy.php" target="_blank">aquí</a>.
+		<a href="https://myownconference.com/privacy-policy/" target="_blank">aquí</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -7048,7 +7048,7 @@ return [
 	'
 		Puedes seleccionar el método de pago que desees haciendo click en tu perfil. Aceptamos pagos con tarjetas de crédito o débito, PayPal, dinero electrónico y criptomonedas como BTC, ETH, LTC, BNB y TRX.
 		<br/><br/>
-		<a href="https://myownconference.com/es/refund-policy.php" target="_blank" rel="noopener noreferrer"><small><u>Por favor , lee con atención la política de reembolso de la plataforma</u></small></a>
+		<a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer"><small><u>Por favor , lee con atención la política de reembolso de la plataforma</u></small></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

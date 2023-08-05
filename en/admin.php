@@ -4863,7 +4863,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		We use cookies to enhance your browsing experience on our website. Some of these cookies are necessary for the proper functioning of our website and are stored on your browser. Additionally, we use third-party cookies to analyze and understand how you use our website. These cookies will only be stored in your browser with your consent. You also have the option to opt-out of these cookies if you wish. However, please note that opting out of some cookies may affect your browsing experience. For more information, please read our <a href="https://myownconference.com/privacy-policy.php" target="_blank">privacy policy</a>.
+		We use cookies to enhance your browsing experience on our website. Some of these cookies are necessary for the proper functioning of our website and are stored on your browser. Additionally, we use third-party cookies to analyze and understand how you use our website. These cookies will only be stored in your browser with your consent. You also have the option to opt-out of these cookies if you wish. However, please note that opting out of some cookies may affect your browsing experience. For more information, please read our <a href="https://myownconference.com/privacy-policy/" target="_blank">privacy policy</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -6979,7 +6979,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		You can select a more suitable payment method from the Profile section. We accept payment by credit or debit cards, PayPal, electronic money, and cryptocurrencies like BTC, ETH, LTC, BNB, and TRX.<br/><br/><a href="https://myownconference.com/refund-policy.php" target="_blank" rel="noopener noreferrer"><small><u>Please read the refund policy of the platform</u></small></a>
+		You can select a more suitable payment method from the Profile section. We accept payment by credit or debit cards, PayPal, electronic money, and cryptocurrencies like BTC, ETH, LTC, BNB, and TRX.<br/><br/><a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer"><small><u>Please read the refund policy of the platform</u></small></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

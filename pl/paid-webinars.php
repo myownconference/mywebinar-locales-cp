@@ -241,7 +241,7 @@ return [
 		</p>
 		<br/>
 		<p>
-			Zgodnie z <a href="https://myownconference.com/pl/refund-policy.php" target="_blank">Polityką Zwrotów</a>, Serwis nie ponosi odpowiedzialności za roszczenia Uczestników, dotyczące niewłaściwej organizacją płatnego webinaru lub awarie techniczne po stronie Użytkownika.
+			Zgodnie z <a href="https://myownconference.com/pl/refund-policy/" target="_blank">Polityką Zwrotów</a>, Serwis nie ponosi odpowiedzialności za roszczenia Uczestników, dotyczące niewłaściwej organizacją płatnego webinaru lub awarie techniczne po stronie Użytkownika.
 		</p>
 		<br/>
 		<p>

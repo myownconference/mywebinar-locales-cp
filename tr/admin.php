@@ -4863,7 +4863,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Web sitemizde gezinme deneyiminizi geliştirmek için çerezler kullanıyoruz. Bu çerezlerin bir kısmı web sitemizin düzgün çalışması için gerekli olup tarayıcınızda saklanır. Ayrıca, web sitemizi nasıl kullandığınızı analiz etmek ve anlamak için üçüncü taraf çerezler kullanıyoruz. Bu çerezler, sadece onayınızla tarayıcınızda saklanacaktır. İsterseniz bu çerezlere onay vermemek için seçeneğiniz bulunmaktadır. Ancak, bazı çerezleri devre dışı bırakmanın gezinme deneyiminizi etkileyebileceğini lütfen unutmayın. Daha fazla bilgi için lütfen <a href="https://myownconference.com/privacy-policy.php" target="_blank">gizlilik politikamızı</a> okuyun.
+		Web sitemizde gezinme deneyiminizi geliştirmek için çerezler kullanıyoruz. Bu çerezlerin bir kısmı web sitemizin düzgün çalışması için gerekli olup tarayıcınızda saklanır. Ayrıca, web sitemizi nasıl kullandığınızı analiz etmek ve anlamak için üçüncü taraf çerezler kullanıyoruz. Bu çerezler, sadece onayınızla tarayıcınızda saklanacaktır. İsterseniz bu çerezlere onay vermemek için seçeneğiniz bulunmaktadır. Ancak, bazı çerezleri devre dışı bırakmanın gezinme deneyiminizi etkileyebileceğini lütfen unutmayın. Daha fazla bilgi için lütfen <a href="https://myownconference.com/privacy-policy/" target="_blank">gizlilik politikamızı</a> okuyun.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -6979,7 +6979,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Daha uygun bir ödeme yöntemi seçebilirsiniz. Kredi veya banka kartları, PayPal, elektronik para ve BTC, ETH, LTC, BNB ve TRX gibi kripto paralarla ödeme kabul ediyoruz.<br/><br/><a href="https://myownconference.com/refund-policy.php" target="_blank" rel="noopener noreferrer"><small><u>Lütfen platformun iade politikasını okuyun</u></small></a>
+		Daha uygun bir ödeme yöntemi seçebilirsiniz. Kredi veya banka kartları, PayPal, elektronik para ve BTC, ETH, LTC, BNB ve TRX gibi kripto paralarla ödeme kabul ediyoruz.<br/><br/><a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer"><small><u>Lütfen platformun iade politikasını okuyun</u></small></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

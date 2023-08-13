@@ -1857,13 +1857,13 @@ return [
 	'no-webinars' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		אין לך אירועים מתוזמנים בעתיד.
+		אין לך אירועים מתוזמנים בעתיד. <br/><br/>קרא <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" class="tcolor-blue more-link">כאן</a> או צפה ב<a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" class="tcolor-blue more-link">סרטון ההדרכה</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		אין לך אירועים מתוזמנים להיום.
+		אין לך אירועים מתוזמנים להיום.<br/><br/>קרא <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" class="tcolor-blue more-link">כאן</a> או צפה ב<a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" class="tcolor-blue more-link">וידאו ההדרכה</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////

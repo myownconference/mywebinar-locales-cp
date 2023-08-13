@@ -1858,13 +1858,14 @@ return [
 	'no-webinars' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pas de webinaires programmés
+		Vous n\'avez aucun événement planifié pour le futur.<br/><br/>En savoir <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" class="tcolor-blue more-link">plus ici</a> ou regardez le <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" class="tcolor-blue more-link">tutoriel vidéo</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Aucun webinaire prévu pour aujourd&apos;hui
+		Aucun webinaire prévu pour aujourd&apos;hui.<br/><br/>Lisez <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" class="tcolor-blue more-link">plus ici</a> ou regardez le <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" class="tcolor-blue more-link">tutoriel vidéo</a>.
+
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////

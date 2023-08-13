@@ -1857,13 +1857,13 @@ return [
 	'no-webinars' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sie haben keine bevorstehenden Webinare.<br/><br/>Lesen Sie <a href="https://myownconference.com/blog/en/starting-with-mywebinar/#c4" target="_blank" class="tcolor-blue more-link">hier</a> mehr oder schauen Sie sich das <a href="https://www.youtube.com/watch?v=vBP9x9IQpW0&list=PL2snHV6z-Kwjr9ju96k_K4A0Zon1xrUxx" target="_blank" class="tcolor-blue more-link">Video-Tutorial</a> an.
+		Sie haben keine bevorstehenden Webinare.<br/><br/>Lesen Sie <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" class="tcolor-blue more-link">hier</a> mehr oder schauen Sie sich das <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" class="tcolor-blue more-link">Video-Tutorial</a> an.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sie haben heute keine geplanten Webinaren.<br/><br/>Lesen Sie <a href="https://myownconference.com/blog/en/starting-with-mywebinar/#c4" target="_blank" class="tcolor-blue more-link">hier</a> mehr oder schauen Sie sich das <a href="https://www.youtube.com/watch?v=vBP9x9IQpW0&list=PL2snHV6z-Kwjr9ju96k_K4A0Zon1xrUxx" target="_blank" class="tcolor-blue more-link">Video-Tutorial</a> an.
+		Sie haben heute keine geplanten Webinaren.<br/><br/>Lesen Sie <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" class="tcolor-blue more-link">hier</a> mehr oder schauen Sie sich das <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" class="tcolor-blue more-link">Video-Tutorial</a> an.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////

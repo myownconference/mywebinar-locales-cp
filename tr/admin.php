@@ -1857,13 +1857,13 @@ return [
 	'no-webinars' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Gelecekte planlanmış herhangi bir webinarınız bulunmamaktadır.<br/><br/>Daha fazlası için <a href="https://myownconference.com/blog/en/starting-with-mywebinar/#c4" target="_blank" class="tcolor-blue more-link">buradan</a> okuyun veya <a href="https://www.youtube.com/watch?v=vBP9x9IQpW0&list=PL2snHV6z-Kwjr9ju96k_K4A0Zon1xrUxx" target="_blank" class="tcolor-blue more-link">video rehberini</a> izleyin.
+		Gelecekte planlanmış herhangi bir webinarınız bulunmamaktadır.<br/><br/>Daha fazlası için <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" class="tcolor-blue more-link">buradan</a> okuyun veya <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" class="tcolor-blue more-link">video rehberini</a> izleyin.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bugün için planlanmış herhangi bir webinarınız bulunmamaktadır.<br/><br/>Daha fazlası için <a href="https://myownconference.com/blog/en/starting-with-mywebinar/#c4" target="_blank" class="tcolor-blue more-link">buradan</a> okuyun veya <a href="https://www.youtube.com/watch?v=vBP9x9IQpW0&list=PL2snHV6z-Kwjr9ju96k_K4A0Zon1xrUxx" target="_blank" class="tcolor-blue more-link">video rehberini</a> izleyin.
+		Bugün için planlanmış herhangi bir webinarınız bulunmamaktadır.<br/><br/>Daha fazlası için <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" class="tcolor-blue more-link">buradan</a> okuyun veya <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" class="tcolor-blue more-link">video rehberini</a> izleyin.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////

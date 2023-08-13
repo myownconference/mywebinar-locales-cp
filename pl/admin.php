@@ -1859,13 +1859,13 @@ return [
 	'no-webinars' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nie ma zaplanowanych webinarów.<br/><br/>O planowaniu webinarow można dowiedzieć się <a href="https://myownconference.com/blog/pl/krok-po-kroku/#c4" target="_blank" class="tcolor-blue more-link">tutaj</a> a wideo tutoriale można obejrzeć <a href="https://www.youtube.com/watch?v=mWbRZbIDCbA&list=PLjAa17aQAQmkTUBWSlCtzbLCOCEAim8Hx" target="_blank" class="tcolor-blue more-link">tu</a>.
+		Nie ma zaplanowanych webinarów.<br/><br/>O planowaniu webinarow można dowiedzieć się <a href="https://myownconference.com/blog/pl/krok-po-kroku/" target="_blank" class="tcolor-blue more-link">tutaj</a> a wideo tutoriale można obejrzeć <a href="https://myownconference.com/pl/help/article/jak-zaplanowac-webinar-k99b78/" target="_blank" class="tcolor-blue more-link">tu</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Na dzisiaj nie zaplanowano żadnych webinarów.<br/><br/>O planowaniu webinarow można dowiedzieć się <a href="https://myownconference.com/blog/pl/krok-po-kroku/#c4" target="_blank" class="tcolor-blue more-link">tutaj</a> a wideo tutoriale można obejrzeć <a href="https://www.youtube.com/watch?v=mWbRZbIDCbA&list=PLjAa17aQAQmkTUBWSlCtzbLCOCEAim8Hx" target="_blank" class="tcolor-blue more-link">tu</a>.
+		Na dzisiaj nie zaplanowano żadnych webinarów.<br/><br/>O planowaniu webinarow można dowiedzieć się <a href="https://myownconference.com/blog/pl/krok-po-kroku/" target="_blank" class="tcolor-blue more-link">tutaj</a> a wideo tutoriale można obejrzeć <a href="https://myownconference.com/pl/help/article/jak-zaplanowac-webinar-k99b78/" target="_blank" class="tcolor-blue more-link">tu</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////

@@ -1857,13 +1857,13 @@ return [
 	'no-webinars' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		אין לך אירועים מתוזמנים בעתיד. <br/><br/>קרא <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" class="tcolor-blue more-link">כאן</a> או צפה ב<a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" class="tcolor-blue more-link">סרטון ההדרכה</a>.
+		אין לך אירועים מתוזמנים בעתיד. <br/><br/>קרא <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">כאן</a> או צפה ב<a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">סרטון ההדרכה</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		אין לך אירועים מתוזמנים להיום.<br/><br/>קרא <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" class="tcolor-blue more-link">כאן</a> או צפה ב<a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" class="tcolor-blue more-link">וידאו ההדרכה</a>.
+		אין לך אירועים מתוזמנים להיום.<br/><br/>קרא <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">כאן</a> או צפה ב<a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">וידאו ההדרכה</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////
@@ -4215,37 +4215,37 @@ return [
 	'two-factor-more' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/make-your-myownconference-account-even-more-secure/" target="_blank">מידע נוסף</a>
+		<a href="https://myownconference.com/blog/en/make-your-myownconference-account-even-more-secure/" target="_blank" rel="noopener noreferrer">מידע נוסף</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-more-mobile' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/make-your-myownconference-account-even-more-secure/" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://myownconference.com/blog/en/make-your-myownconference-account-even-more-secure/" target="_blank" rel="noopener noreferrer"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-app' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://en.wikipedia.org/wiki/Google_Authenticator" target="_blank">אפליקציה</a>
+		<a href="https://en.wikipedia.org/wiki/Google_Authenticator" target="_blank" rel="noopener noreferrer">אפליקציה</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-app-mobile' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a class="button border" href="https://en.wikipedia.org/wiki/Google_Authenticator" target="_blank">אפליקציה</a>
+		<a class="button border" href="https://en.wikipedia.org/wiki/Google_Authenticator" target="_blank" rel="noopener noreferrer">אפליקציה</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'api-key-more' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://www.mywebinar.net/w/images/api-en.pdf" target="_blank">מידע נוסף</a>
+		<a href="https://myownconference.com/help/article/myownconference-api-o6or9a/" target="_blank" rel="noopener noreferrer">מידע נוסף</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'api-key-more-mobile' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://www.mywebinar.net/w/images/api-en.pdf" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://myownconference.com/help/article/myownconference-api-o6or9a/" target="_blank" rel="noopener noreferrer"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'wrong-code' => //////////////////////////////////////////////////////////////////////
@@ -4863,7 +4863,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		אנחנו משתמשים בעוגיות כדי לשפר את חוויית הגלישה שלך באתר שלנו. חלק מהעוגיות הללו הם חיוניים לפעולה התקנית של האתר שלנו ומאוחסנים בדפדפן שלך. בנוסף, אנחנו משתמשים בעוגיות של צד שלישי כדי לנתח ולהבין איך אתה משתמש באתר שלנו. העוגיות הללו יאוחסנו בדפדפן שלך רק בסכמתך. יש לך גם את האפשרות לבחור לא לאפשר עוגיות אלה, אם תרצה. אולם, יש לשים לב כי כדי לחוות חוויית גלישה מלאה, ייתכן ויהיה עליך להפעיל את העוגיות. למידע נוסף, אנא קרא את <a href="https://myownconference.com/privacy-policy/" target="_blank">מדיניות הפרטיות שלנו</a>.
+		אנחנו משתמשים בעוגיות כדי לשפר את חוויית הגלישה שלך באתר שלנו. חלק מהעוגיות הללו הם חיוניים לפעולה התקנית של האתר שלנו ומאוחסנים בדפדפן שלך. בנוסף, אנחנו משתמשים בעוגיות של צד שלישי כדי לנתח ולהבין איך אתה משתמש באתר שלנו. העוגיות הללו יאוחסנו בדפדפן שלך רק בסכמתך. יש לך גם את האפשרות לבחור לא לאפשר עוגיות אלה, אם תרצה. אולם, יש לשים לב כי כדי לחוות חוויית גלישה מלאה, ייתכן ויהיה עליך להפעיל את העוגיות. למידע נוסף, אנא קרא את <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">מדיניות הפרטיות שלנו</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -5709,25 +5709,25 @@ return [
 	'google-id-more' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://support.google.com/analytics/answer/1008015?hl=en" target="_blank">מידע נוסף</a>
+		<a href="https://support.google.com/analytics/answer/1008015?hl=en" target="_blank" rel="noopener noreferrer">מידע נוסף</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'gtm-id-more' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://support.google.com/tagmanager/answer/6102821?hl=en" target="_blank">מידע נוסף</a>
+		<a href="https://support.google.com/tagmanager/answer/6102821?hl=en" target="_blank" rel="noopener noreferrer">מידע נוסף</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'timezone-more' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://en.wikipedia.org/wiki/Time_zone" target="_blank">מידע נוסף</a>
+		<a href="https://en.wikipedia.org/wiki/Time_zone" target="_blank" rel="noopener noreferrer">מידע נוסף</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'timezone-more-mobile' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://en.wikipedia.org/wiki/Time_zone" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://en.wikipedia.org/wiki/Time_zone" target="_blank" rel="noopener noreferrer"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-header' => ////////////////////////////////////////////////////////////////
@@ -6609,13 +6609,13 @@ return [
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		משמאל לימין (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank">LTR</a>)
+		משמאל לימין (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank" rel="noopener noreferrer">LTR</a>)
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatrtl' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		מימין לשמאל (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank">RTL</a>)
+		מימין לשמאל (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank" rel="noopener noreferrer">RTL</a>)
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'combine' => /////////////////////////////////////////////////////////////////////////

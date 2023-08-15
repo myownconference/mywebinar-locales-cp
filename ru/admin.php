@@ -1858,13 +1858,13 @@ return [
 	'no-webinars' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Нет запланированных вебинаров.<br/><br/>Узнать о планировании вебинаров можно <a href="https://myownconference.com/blog/ru/nachalo-raboty-s-mywebinar/" target="_blank" class="tcolor-blue more-link">здесь</a>, а посмотреть видеоуроки можно <a href="https://myownconference.com/ru/help/article/kak-rabotat-s-myownconference-1qlwd6j/" target="_blank" class="tcolor-blue more-link">здесь</a> и <a href="https://myownconference.com/ru/help/article/kak-sozdat-i-zaplanirovat-vebinar-1w8np8k/" target="_blank" class="tcolor-blue more-link">здесь</a>.
+		Нет запланированных вебинаров.<br/><br/>Узнать о планировании вебинаров можно <a href="https://myownconference.com/blog/ru/nachalo-raboty-s-mywebinar/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">здесь</a>, а посмотреть видеоуроки можно <a href="https://myownconference.com/ru/help/article/kak-rabotat-s-myownconference-1qlwd6j/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">здесь</a> и <a href="https://myownconference.com/ru/help/article/kak-sozdat-i-zaplanirovat-vebinar-1w8np8k/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">здесь</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		На сегодня нет запланированных вебинаров.<br/><br/>Узнать о планировании вебинаров можно <a href="https://myownconference.com/blog/ru/nachalo-raboty-s-mywebinar/" target="_blank" class="tcolor-blue more-link">здесь</a>, а посмотреть видеоуроки можно <a href="https://myownconference.com/ru/help/article/kak-rabotat-s-myownconference-1qlwd6j/" target="_blank" class="tcolor-blue more-link">здесь</a> и <a href="https://myownconference.com/ru/help/article/kak-sozdat-i-zaplanirovat-vebinar-1w8np8k/" target="_blank" class="tcolor-blue more-link">здесь</a>.
+		На сегодня нет запланированных вебинаров.<br/><br/>Узнать о планировании вебинаров можно <a href="https://myownconference.com/blog/ru/nachalo-raboty-s-mywebinar/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">здесь</a>, а посмотреть видеоуроки можно <a href="https://myownconference.com/ru/help/article/kak-rabotat-s-myownconference-1qlwd6j/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">здесь</a> и <a href="https://myownconference.com/ru/help/article/kak-sozdat-i-zaplanirovat-vebinar-1w8np8k/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">здесь</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////
@@ -4222,37 +4222,37 @@ return [
 	'two-factor-more' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/ru/dvyhetapnaya-autentificaschiya/" target="_blank">Описание</a>
+		<a href="https://myownconference.com/blog/ru/dvyhetapnaya-autentificaschiya/" target="_blank" rel="noopener noreferrer">Описание</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-more-mobile' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/ru/dvyhetapnaya-autentificaschiya/" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://myownconference.com/blog/ru/dvyhetapnaya-autentificaschiya/" target="_blank" rel="noopener noreferrer"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-app' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://ru.wikipedia.org/wiki/Google_Authenticator" target="_blank">Приложение</a>
+		<a href="https://ru.wikipedia.org/wiki/Google_Authenticator" target="_blank" rel="noopener noreferrer">Приложение</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-app-mobile' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a class="button border" href="https://ru.wikipedia.org/wiki/Google_Authenticator" target="_blank">Приложение</a>
+		<a class="button border" href="https://ru.wikipedia.org/wiki/Google_Authenticator" target="_blank" rel="noopener noreferrer">Приложение</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'api-key-more' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://www.mywebinar.net/w/images/api-ru.pdf" target="_blank">Описание</a>
+		<a href="https://myownconference.com/ru/help/article/myownconference-api-ptvs0z/" target="_blank" rel="noopener noreferrer">Описание</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'api-key-more-mobile' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://www.mywebinar.net/w/images/api-ru.pdf" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://myownconference.com/ru/help/article/myownconference-api-ptvs0z/" target="_blank" rel="noopener noreferrer"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'wrong-code' => //////////////////////////////////////////////////////////////////////
@@ -4888,7 +4888,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Мы используем сессийные файлы cookie для того, чтобы обеспечить корректную работу нашей панели управления. Они обязательные, то есть, создаются, загружаются и используются по умолчанию независимо от вашего согласия. Сессионные файлы cookie хранятся в зашифрованном виде и автоматически удаляются через 180 дней после последнего использования панели управления.<br/><br/>Также, мы используем систему технической поддержки ZenDesk, которая помогает нам оказывать вам быструю и оперативную помощь. Файлы cookie ZenDesk будут храниться только в вашем браузере и только с вашего согласия. Вы можете отключить их полностью и получать техническую поддержку другими, удобными для вас способами.<br/><br/>Ознакомится с полной версией нашей политики обработки и защиты ваших персональных данных, методов работы с файлами cookie, можно по этой <a href="https://myownconference.com/ru/privacy-policy/" target="_blank">ссылке</a>.
+		Мы используем сессийные файлы cookie для того, чтобы обеспечить корректную работу нашей панели управления. Они обязательные, то есть, создаются, загружаются и используются по умолчанию независимо от вашего согласия. Сессионные файлы cookie хранятся в зашифрованном виде и автоматически удаляются через 180 дней после последнего использования панели управления.<br/><br/>Также, мы используем систему технической поддержки ZenDesk, которая помогает нам оказывать вам быструю и оперативную помощь. Файлы cookie ZenDesk будут храниться только в вашем браузере и только с вашего согласия. Вы можете отключить их полностью и получать техническую поддержку другими, удобными для вас способами.<br/><br/>Ознакомится с полной версией нашей политики обработки и защиты ваших персональных данных, методов работы с файлами cookie, можно по этой <a href="https://myownconference.com/ru/privacy-policy/" target="_blank" rel="noopener noreferrer">ссылке</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -5736,25 +5736,25 @@ return [
 	'google-id-more' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://support.google.com/analytics/answer/1008015?hl=ru" target="_blank">Описание</a>
+		<a href="https://support.google.com/analytics/answer/1008015?hl=ru" target="_blank" rel="noopener noreferrer">Описание</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'gtm-id-more' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://support.google.com/tagmanager/answer/6102821?hl=ru" target="_blank">Описание</a>
+		<a href="https://support.google.com/tagmanager/answer/6102821?hl=ru" target="_blank" rel="noopener noreferrer">Описание</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'timezone-more' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D0%BE%D1%8F%D1%81" target="_blank">Описание</a>
+		<a href="https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D0%BE%D1%8F%D1%81" target="_blank" rel="noopener noreferrer">Описание</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'timezone-more-mobile' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D0%BE%D1%8F%D1%81" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D0%BE%D1%8F%D1%81" target="_blank" rel="noopener noreferrer"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-header' => ////////////////////////////////////////////////////////////////
@@ -6634,13 +6634,13 @@ return [
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Слева на право (<a href="https://ru.wikipedia.org/wiki/Направление_письма" target="_blank">LTR</a>)
+		Слева на право (<a href="https://ru.wikipedia.org/wiki/Направление_письма" target="_blank" rel="noopener noreferrer">LTR</a>)
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatrtl' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Справа на лево (<a href="https://ru.wikipedia.org/wiki/Направление_письма" target="_blank">RTL</a>)
+		Справа на лево (<a href="https://ru.wikipedia.org/wiki/Направление_письма" target="_blank" rel="noopener noreferrer">RTL</a>)
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'combine' => /////////////////////////////////////////////////////////////////////////

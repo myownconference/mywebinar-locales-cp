@@ -1859,13 +1859,13 @@ return [
 	'no-webinars' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nie ma zaplanowanych webinarów.<br/><br/>O planowaniu webinarow można dowiedzieć się <a href="https://myownconference.com/blog/pl/krok-po-kroku/" target="_blank" class="tcolor-blue more-link">tutaj</a> a wideo tutoriale można obejrzeć <a href="https://myownconference.com/pl/help/article/jak-zaplanowac-webinar-k99b78/" target="_blank" class="tcolor-blue more-link">tu</a>.
+		Nie ma zaplanowanych webinarów.<br/><br/>O planowaniu webinarow można dowiedzieć się <a href="https://myownconference.com/blog/pl/krok-po-kroku/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">tutaj</a> a wideo tutoriale można obejrzeć <a href="https://myownconference.com/pl/help/article/jak-zaplanowac-webinar-k99b78/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">tu</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Na dzisiaj nie zaplanowano żadnych webinarów.<br/><br/>O planowaniu webinarow można dowiedzieć się <a href="https://myownconference.com/blog/pl/krok-po-kroku/" target="_blank" class="tcolor-blue more-link">tutaj</a> a wideo tutoriale można obejrzeć <a href="https://myownconference.com/pl/help/article/jak-zaplanowac-webinar-k99b78/" target="_blank" class="tcolor-blue more-link">tu</a>.
+		Na dzisiaj nie zaplanowano żadnych webinarów.<br/><br/>O planowaniu webinarow można dowiedzieć się <a href="https://myownconference.com/blog/pl/krok-po-kroku/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">tutaj</a> a wideo tutoriale można obejrzeć <a href="https://myownconference.com/pl/help/article/jak-zaplanowac-webinar-k99b78/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">tu</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////
@@ -4241,37 +4241,37 @@ return [
 	'two-factor-more' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/pl/twoje-konto-myownconference-jest-jeszcze-bezpieczniejsze/" target="_blank">Więcej informacji</a>
+		<a href="https://myownconference.com/blog/pl/twoje-konto-myownconference-jest-jeszcze-bezpieczniejsze/" target="_blank" rel="noopener noreferrer">Więcej informacji</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-more-mobile' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/pl/twoje-konto-myownconference-jest-jeszcze-bezpieczniejsze/" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://myownconference.com/blog/pl/twoje-konto-myownconference-jest-jeszcze-bezpieczniejsze/" target="_blank" rel="noopener noreferrer"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-app' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://pl.wikipedia.org/wiki/Google_Authenticator" target="_blank">Aplikacja</a>
+		<a href="https://pl.wikipedia.org/wiki/Google_Authenticator" target="_blank" rel="noopener noreferrer">Aplikacja</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-app-mobile' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a class="button border" href="https://pl.wikipedia.org/wiki/Google_Authenticator" target="_blank">Aplikacja</a>
+		<a class="button border" href="https://pl.wikipedia.org/wiki/Google_Authenticator" target="_blank" rel="noopener noreferrer">Aplikacja</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'api-key-more' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://www.mywebinar.net/w/images/api-pl.pdf" target="_blank">Więcej informacji</a>
+		<a href="https://myownconference.com/help/article/myownconference-api-o6or9a/" target="_blank" rel="noopener noreferrer">Więcej informacji</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'api-key-more-mobile' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://www.mywebinar.net/w/images/api-pl.pdf" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://myownconference.com/help/article/myownconference-api-o6or9a/" target="_blank" rel="noopener noreferrer"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'wrong-code' => //////////////////////////////////////////////////////////////////////
@@ -4912,7 +4912,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nasza strona korzysta z plików cookies w celu ułatwienia korzystania z naszej strony internetowej, panelu klienta i pokoju webinarowego. To ułatwia nam jak najlepsze dostosowanie się do Twoich potrzeb. Wykorzystujemy tylko sesyjne pliki cookies. Są one wymagane i tworzą się podczas odwiedzania naszej strony internetowej, logowania w panelu klienta lub w pokoju webinarowym. Sesyjne pliki cookie są przechowywane w postaci zaszyfrowanej na Twoim komputerze i są automatycznie usuwane 180 dni po ostatnim użyciu naszych usług.<br/><br/>Używamy również plików cookie stron trzecich, które pomagają nam analizować i zrozumieć, w jaki sposób korzystasz z naszej strony internetowej, panelu klienta i pokoju webinarowego. Te pliki cookie będą przechowywane w przeglądarce tylko za Twoją zgodą. Możesz zmienić ustawienia przeglądarki, aby wyłączyć obsługę cookies. Jednak wyłączenie cookies może przeszkadzać w pełnym korzystaniu z witryny internetowej.<br/><br/>Możesz zapoznać się z pełną wersją zasad przetwarzania i ochrony danych pod <a href="https://myownconference.pl/privacy-policy/" target="_blank">tym linkiem</a>.
+		Nasza strona korzysta z plików cookies w celu ułatwienia korzystania z naszej strony internetowej, panelu klienta i pokoju webinarowego. To ułatwia nam jak najlepsze dostosowanie się do Twoich potrzeb. Wykorzystujemy tylko sesyjne pliki cookies. Są one wymagane i tworzą się podczas odwiedzania naszej strony internetowej, logowania w panelu klienta lub w pokoju webinarowym. Sesyjne pliki cookie są przechowywane w postaci zaszyfrowanej na Twoim komputerze i są automatycznie usuwane 180 dni po ostatnim użyciu naszych usług.<br/><br/>Używamy również plików cookie stron trzecich, które pomagają nam analizować i zrozumieć, w jaki sposób korzystasz z naszej strony internetowej, panelu klienta i pokoju webinarowego. Te pliki cookie będą przechowywane w przeglądarce tylko za Twoją zgodą. Możesz zmienić ustawienia przeglądarki, aby wyłączyć obsługę cookies. Jednak wyłączenie cookies może przeszkadzać w pełnym korzystaniu z witryny internetowej.<br/><br/>Możesz zapoznać się z pełną wersją zasad przetwarzania i ochrony danych pod <a href="https://myownconference.pl/privacy-policy/" target="_blank" rel="noopener noreferrer">tym linkiem</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -5775,25 +5775,25 @@ return [
 	'google-id-more' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://support.google.com/analytics/answer/1008015?hl=pl" target="_blank">Więcej informacji</a>
+		<a href="https://support.google.com/analytics/answer/1008015?hl=pl" target="_blank" rel="noopener noreferrer">Więcej informacji</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'gtm-id-more' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://support.google.com/tagmanager/answer/6102821?hl=pl" target="_blank">Więcej informacji</a>
+		<a href="https://support.google.com/tagmanager/answer/6102821?hl=pl" target="_blank" rel="noopener noreferrer">Więcej informacji</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'timezone-more' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://pl.wikipedia.org/wiki/Strefa_czasowa" target="_blank">Więcej informacji</a>
+		<a href="https://pl.wikipedia.org/wiki/Strefa_czasowa" target="_blank" rel="noopener noreferrer">Więcej informacji</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'timezone-more-mobile' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://pl.wikipedia.org/wiki/Strefa_czasowa" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://pl.wikipedia.org/wiki/Strefa_czasowa" target="_blank" rel="noopener noreferrer"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-header' => ////////////////////////////////////////////////////////////////
@@ -6677,13 +6677,13 @@ return [
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Od lewej do prawej (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank">LTR</a>)
+		Od lewej do prawej (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank" rel="noopener noreferrer">LTR</a>)
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatrtl' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Od prawej do lewej (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank">RTL</a>)
+		Od prawej do lewej (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank" rel="noopener noreferrer">RTL</a>)
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'combine' => /////////////////////////////////////////////////////////////////////////

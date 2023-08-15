@@ -1857,13 +1857,13 @@ return [
 	'no-webinars' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		You do not have any scheduled events in the future.<br/><br/>Read <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" class="tcolor-blue more-link">more here</a> or watch the <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" class="tcolor-blue more-link">video tutorial</a>.
+		You do not have any scheduled events in the future.<br/><br/>Read <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">more here</a> or watch the <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">video tutorial</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		You do not have any events scheduled for today.<br/><br/>Read <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" class="tcolor-blue more-link">more here</a> or watch the <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" class="tcolor-blue more-link">video tutorial</a>.
+		You do not have any events scheduled for today.<br/><br/>Read <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">more here</a> or watch the <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">video tutorial</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////
@@ -4215,37 +4215,37 @@ return [
 	'two-factor-more' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/make-your-myownconference-account-even-more-secure/" target="_blank">Learn more</a>
+		<a href="https://myownconference.com/blog/en/make-your-myownconference-account-even-more-secure/" target="_blank" rel="noopener noreferrer">Learn more</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-more-mobile' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/make-your-myownconference-account-even-more-secure/" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://myownconference.com/blog/en/make-your-myownconference-account-even-more-secure/" target="_blank" rel="noopener noreferrer"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-app' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://en.wikipedia.org/wiki/Google_Authenticator" target="_blank">Application</a>
+		<a href="https://en.wikipedia.org/wiki/Google_Authenticator" target="_blank" rel="noopener noreferrer">Application</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-app-mobile' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a class="button border" href="https://en.wikipedia.org/wiki/Google_Authenticator" target="_blank">Application</a>
+		<a class="button border" href="https://en.wikipedia.org/wiki/Google_Authenticator" target="_blank" rel="noopener noreferrer">Application</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'api-key-more' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://www.mywebinar.net/w/images/api-en.pdf" target="_blank">Learn more</a>
+		<a href="https://myownconference.com/help/article/myownconference-api-o6or9a/" target="_blank" rel="noopener noreferrer">Learn more</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'api-key-more-mobile' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://www.mywebinar.net/w/images/api-en.pdf" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://myownconference.com/help/article/myownconference-api-o6or9a/" target="_blank" rel="noopener noreferrer"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'wrong-code' => //////////////////////////////////////////////////////////////////////
@@ -4863,7 +4863,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		We use cookies to enhance your browsing experience on our website. Some of these cookies are necessary for the proper functioning of our website and are stored on your browser. Additionally, we use third-party cookies to analyze and understand how you use our website. These cookies will only be stored in your browser with your consent. You also have the option to opt-out of these cookies if you wish. However, please note that opting out of some cookies may affect your browsing experience. For more information, please read our <a href="https://myownconference.com/privacy-policy/" target="_blank">privacy policy</a>.
+		We use cookies to enhance your browsing experience on our website. Some of these cookies are necessary for the proper functioning of our website and are stored on your browser. Additionally, we use third-party cookies to analyze and understand how you use our website. These cookies will only be stored in your browser with your consent. You also have the option to opt-out of these cookies if you wish. However, please note that opting out of some cookies may affect your browsing experience. For more information, please read our <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">privacy policy</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -5709,25 +5709,25 @@ return [
 	'google-id-more' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://support.google.com/analytics/answer/1008015?hl=en" target="_blank">Learn more</a>
+		<a href="https://support.google.com/analytics/answer/1008015?hl=en" target="_blank" rel="noopener noreferrer">Learn more</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'gtm-id-more' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://support.google.com/tagmanager/answer/6102821?hl=en" target="_blank">Learn more</a>
+		<a href="https://support.google.com/tagmanager/answer/6102821?hl=en" target="_blank" rel="noopener noreferrer">Learn more</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'timezone-more' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://en.wikipedia.org/wiki/Time_zone" target="_blank">Learn more</a>
+		<a href="https://en.wikipedia.org/wiki/Time_zone" target="_blank" rel="noopener noreferrer">Learn more</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'timezone-more-mobile' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://en.wikipedia.org/wiki/Time_zone" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://en.wikipedia.org/wiki/Time_zone" target="_blank" rel="noopener noreferrer"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-header' => ////////////////////////////////////////////////////////////////
@@ -6607,13 +6607,13 @@ return [
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Left-to-Right (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank">LTR</a>)
+		Left-to-Right (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank" rel="noopener noreferrer">LTR</a>)
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatrtl' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Right-to-Left (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank">RTL</a>)
+		Right-to-Left (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank" rel="noopener noreferrer">RTL</a>)
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'combine' => /////////////////////////////////////////////////////////////////////////

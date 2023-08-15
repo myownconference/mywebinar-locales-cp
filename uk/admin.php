@@ -1857,13 +1857,13 @@ return [
 	'no-webinars' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Немає запланованих вебінарів.<br/><br/>Почитати про планування вебінарів можна <a href="https://myownconference.com/blog/uk/pochatok-raboty/" target="_blank" class="tcolor-blue more-link">тут</a>, а подивитися відеоурок можна <a href="https://myownconference.com/ru/help/article/kak-rabotat-s-myownconference-1qlwd6j/" target="_blank" class="tcolor-blue more-link">тут</a> і <a href="https://myownconference.com/ru/help/article/kak-sozdat-i-zaplanirovat-vebinar-1w8np8k/" target="_blank" class="tcolor-blue more-link">тут</a>.
+		Немає запланованих вебінарів.<br/><br/>Почитати про планування вебінарів можна <a href="https://myownconference.com/blog/uk/pochatok-raboty/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">тут</a>, а подивитися відеоурок можна <a href="https://myownconference.com/ru/help/article/kak-rabotat-s-myownconference-1qlwd6j/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">тут</a> і <a href="https://myownconference.com/ru/help/article/kak-sozdat-i-zaplanirovat-vebinar-1w8np8k/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">тут</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		На сьогодні не заплановано жодного вебінару.<br/><br/>Почитати про планування вебінарів можна <a href="https://myownconference.com/blog/uk/pochatok-raboty/" target="_blank" class="tcolor-blue more-link">тут</a>, а подивитися відеоурок можна <a href="https://myownconference.com/ru/help/article/kak-rabotat-s-myownconference-1qlwd6j/" target="_blank" class="tcolor-blue more-link">тут</a> і <a href="https://myownconference.com/ru/help/article/kak-sozdat-i-zaplanirovat-vebinar-1w8np8k/" target="_blank" class="tcolor-blue more-link">тут</a>.
+		На сьогодні не заплановано жодного вебінару.<br/><br/>Почитати про планування вебінарів можна <a href="https://myownconference.com/blog/uk/pochatok-raboty/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">тут</a>, а подивитися відеоурок можна <a href="https://myownconference.com/ru/help/article/kak-rabotat-s-myownconference-1qlwd6j/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">тут</a> і <a href="https://myownconference.com/ru/help/article/kak-sozdat-i-zaplanirovat-vebinar-1w8np8k/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">тут</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////
@@ -4222,37 +4222,37 @@ return [
 	'two-factor-more' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/uk/vash-akaunt-myownconference-pid-shche-bilshym-zakhystom/" target="_blank">Дізнатися більше</a>
+		<a href="https://myownconference.com/blog/uk/vash-akaunt-myownconference-pid-shche-bilshym-zakhystom/" target="_blank" rel="noopener noreferrer">Дізнатися більше</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-more-mobile' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/uk/vash-akaunt-myownconference-pid-shche-bilshym-zakhystom/" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://myownconference.com/blog/uk/vash-akaunt-myownconference-pid-shche-bilshym-zakhystom/" target="_blank" rel="noopener noreferrer"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-app' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://uk.wikipedia.org/wiki/Google_Authenticator" target="_blank">Застосунок</a>
+		<a href="https://uk.wikipedia.org/wiki/Google_Authenticator" target="_blank" rel="noopener noreferrer">Застосунок</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-app-mobile' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a class="button border" href="https://uk.wikipedia.org/wiki/Google_Authenticator" target="_blank">Застосунок</a>
+		<a class="button border" href="https://uk.wikipedia.org/wiki/Google_Authenticator" target="_blank" rel="noopener noreferrer">Застосунок</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'api-key-more' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://www.mywebinar.net/w/images/api-ru.pdf" target="_blank">Дізнатися більше</a>
+		<a href="https://myownconference.com/help/article/myownconference-api-o6or9a/" target="_blank" rel="noopener noreferrer">Дізнатися більше</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'api-key-more-mobile' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://www.mywebinar.net/w/images/api-ru.pdf" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://myownconference.com/help/article/myownconference-api-o6or9a/" target="_blank" rel="noopener noreferrer"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'wrong-code' => //////////////////////////////////////////////////////////////////////
@@ -4870,7 +4870,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ми використовуємо файли cookie, щоб відстежувати використання нашого веб-сайту, панелі керування і вебінарної кімнати. Це дозволяє нам максимально адаптуватися до ваших особистих потреб. Ми використовуємо тільки сесійні файли cookie. Вони обов&apos;язкові і створюються, коли ви заходите на наш веб-сайт, авторизуєтеся в панелі керування або у вебінарній кімнаті. Сесійні файли cookie зберігаються в зашифрованому вигляді на вашому комп&apos;ютері і автоматично видаляються через 180 днів після останнього використання наших послуг.<br/><br/>Також ми використовуємо сторонні файли cookie, які допомагають нам аналізувати і зрозуміти, як ви користуєтеся нашим веб-сайтом, панеллю керування і вебінарною кімнатою. Ці cookie зберігатимуться у вашому браузері тільки за вашої згоди. Ви можете змінити налаштування браузера і повністю вимкнути їх. Однак вимкнення файлів cookie може завадити повною мірою використовувати наші послуги.<br/><br/>Ознайомитися з повною версією політики обробки і захисту даних можна за <a href="https://myownconference.com/uk/privacy-policy/" target="_blank">цим посиланням</a>.
+		Ми використовуємо файли cookie, щоб відстежувати використання нашого веб-сайту, панелі керування і вебінарної кімнати. Це дозволяє нам максимально адаптуватися до ваших особистих потреб. Ми використовуємо тільки сесійні файли cookie. Вони обов&apos;язкові і створюються, коли ви заходите на наш веб-сайт, авторизуєтеся в панелі керування або у вебінарній кімнаті. Сесійні файли cookie зберігаються в зашифрованому вигляді на вашому комп&apos;ютері і автоматично видаляються через 180 днів після останнього використання наших послуг.<br/><br/>Також ми використовуємо сторонні файли cookie, які допомагають нам аналізувати і зрозуміти, як ви користуєтеся нашим веб-сайтом, панеллю керування і вебінарною кімнатою. Ці cookie зберігатимуться у вашому браузері тільки за вашої згоди. Ви можете змінити налаштування браузера і повністю вимкнути їх. Однак вимкнення файлів cookie може завадити повною мірою використовувати наші послуги.<br/><br/>Ознайомитися з повною версією політики обробки і захисту даних можна за <a href="https://myownconference.com/uk/privacy-policy/" target="_blank" rel="noopener noreferrer">цим посиланням</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -5718,25 +5718,25 @@ return [
 	'google-id-more' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://support.google.com/analytics/answer/1008015?hl=uk" target="_blank">Дізнатися більше</a>
+		<a href="https://support.google.com/analytics/answer/1008015?hl=uk" target="_blank" rel="noopener noreferrer">Дізнатися більше</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'gtm-id-more' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://support.google.com/tagmanager/answer/6102821?hl=uk" target="_blank">Дізнатися більше</a>
+		<a href="https://support.google.com/tagmanager/answer/6102821?hl=uk" target="_blank" rel="noopener noreferrer">Дізнатися більше</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'timezone-more' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://uk.wikipedia.org/wiki/%D0%A7%D0%B0%D1%81%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BF%D0%BE%D1%8F%D1%81" target="_blank">Дізнатися більше</a>
+		<a href="https://uk.wikipedia.org/wiki/%D0%A7%D0%B0%D1%81%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BF%D0%BE%D1%8F%D1%81" target="_blank" rel="noopener noreferrer">Дізнатися більше</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'timezone-more-mobile' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://uk.wikipedia.org/wiki/%D0%A7%D0%B0%D1%81%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BF%D0%BE%D1%8F%D1%81" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://uk.wikipedia.org/wiki/%D0%A7%D0%B0%D1%81%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BF%D0%BE%D1%8F%D1%81" target="_blank" rel="noopener noreferrer"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-header' => ////////////////////////////////////////////////////////////////
@@ -6616,13 +6616,13 @@ return [
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Зліва на право (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank">LTR</a>)
+		Зліва на право (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank" rel="noopener noreferrer">LTR</a>)
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatrtl' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Справа наліво (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank">RTL</a>)
+		Справа наліво (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank" rel="noopener noreferrer">RTL</a>)
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'combine' => /////////////////////////////////////////////////////////////////////////

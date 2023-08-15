@@ -1857,13 +1857,13 @@ return [
 	'no-webinars' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sie haben keine bevorstehenden Webinare.<br/><br/>Lesen Sie <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" class="tcolor-blue more-link">hier</a> mehr oder schauen Sie sich das <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" class="tcolor-blue more-link">Video-Tutorial</a> an.
+		Sie haben keine bevorstehenden Webinare.<br/><br/>Lesen Sie <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">hier</a> mehr oder schauen Sie sich das <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">Video-Tutorial</a> an.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sie haben heute keine geplanten Webinaren.<br/><br/>Lesen Sie <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" class="tcolor-blue more-link">hier</a> mehr oder schauen Sie sich das <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" class="tcolor-blue more-link">Video-Tutorial</a> an.
+		Sie haben heute keine geplanten Webinaren.<br/><br/>Lesen Sie <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">hier</a> mehr oder schauen Sie sich das <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">Video-Tutorial</a> an.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////
@@ -4215,37 +4215,37 @@ return [
 	'two-factor-more' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/make-your-myownconference-account-even-more-secure/" target="_blank">Erfahren Sie mehr</a>
+		<a href="https://myownconference.com/blog/en/make-your-myownconference-account-even-more-secure/" target="_blank" rel="noopener noreferrer">Erfahren Sie mehr</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-more-mobile' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/make-your-myownconference-account-even-more-secure/" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://myownconference.com/blog/en/make-your-myownconference-account-even-more-secure/" target="_blank" rel="noopener noreferrer"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-app' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://en.wikipedia.org/wiki/Google_Authenticator" target="_blank">Anwendung</a>
+		<a href="https://en.wikipedia.org/wiki/Google_Authenticator" target="_blank" rel="noopener noreferrer">Anwendung</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-app-mobile' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a class="button border" href="https://en.wikipedia.org/wiki/Google_Authenticator" target="_blank">Anwendung</a>
+		<a class="button border" href="https://en.wikipedia.org/wiki/Google_Authenticator" target="_blank" rel="noopener noreferrer">Anwendung</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'api-key-more' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://www.mywebinar.net/w/images/api-en.pdf" target="_blank">Erfahren Sie mehr</a>
+		<a href="https://myownconference.com/help/article/myownconference-api-o6or9a/" target="_blank" rel="noopener noreferrer">Erfahren Sie mehr</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'api-key-more-mobile' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://www.mywebinar.net/w/images/api-en.pdf" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://myownconference.com/help/article/myownconference-api-o6or9a/" target="_blank" rel="noopener noreferrer"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'wrong-code' => //////////////////////////////////////////////////////////////////////
@@ -4863,7 +4863,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Wir verwenden Cookies, um Ihre Erfahrungen auf unserer Website zu verbessern. Von diesen Cookies werden die als notwendig kategorisierten Cookies auf Ihrem Browser gespeichert, da sie für die Grundfunktionen der Website unerlässlich sind. Darüber hinaus verwenden wir auch Cookies von Drittanbietern, die uns helfen, zu analysieren und zu verstehen, wie Sie unsere Website nutzen. Diese Cookies werden nur mit Ihrer Zustimmung in Ihrem Browser gespeichert. Natürlich haben Sie auch die Möglichkeit, diese Cookies abzulehnen. Wenn Sie jedoch einige dieser Cookies ablehnen, kann dies Auswirkungen auf Ihre Browser-Erfahrung haben.<br/><br/>Mehr erfahren Sie <a href="https://myownconference.com/de/privacy-policy/" target="_blank">hier</a>.
+		Wir verwenden Cookies, um Ihre Erfahrungen auf unserer Website zu verbessern. Von diesen Cookies werden die als notwendig kategorisierten Cookies auf Ihrem Browser gespeichert, da sie für die Grundfunktionen der Website unerlässlich sind. Darüber hinaus verwenden wir auch Cookies von Drittanbietern, die uns helfen, zu analysieren und zu verstehen, wie Sie unsere Website nutzen. Diese Cookies werden nur mit Ihrer Zustimmung in Ihrem Browser gespeichert. Natürlich haben Sie auch die Möglichkeit, diese Cookies abzulehnen. Wenn Sie jedoch einige dieser Cookies ablehnen, kann dies Auswirkungen auf Ihre Browser-Erfahrung haben.<br/><br/>Mehr erfahren Sie <a href="https://myownconference.com/de/privacy-policy/" target="_blank" rel="noopener noreferrer">hier</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -5710,25 +5710,25 @@ return [
 	'google-id-more' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://support.google.com/analytics/answer/1008015?hl=en" target="_blank">Mehr erfahren</a>
+		<a href="https://support.google.com/analytics/answer/1008015?hl=en" target="_blank" rel="noopener noreferrer">Mehr erfahren</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'gtm-id-more' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://support.google.com/tagmanager/answer/6102821?hl=en" target="_blank">Mehr erfahren</a>
+		<a href="https://support.google.com/tagmanager/answer/6102821?hl=en" target="_blank" rel="noopener noreferrer">Mehr erfahren</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'timezone-more' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://en.wikipedia.org/wiki/Time_zone" target="_blank">Mehr erfahren</a>
+		<a href="https://en.wikipedia.org/wiki/Time_zone" target="_blank" rel="noopener noreferrer">Mehr erfahren</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'timezone-more-mobile' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://en.wikipedia.org/wiki/Time_zone" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://en.wikipedia.org/wiki/Time_zone" target="_blank" rel="noopener noreferrer"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-header' => ////////////////////////////////////////////////////////////////
@@ -6608,13 +6608,13 @@ return [
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Links-nach-rechts (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank">LTR</a>)
+		Links-nach-rechts (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank" rel="noopener noreferrer">LTR</a>)
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatrtl' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Rechts-nach-links (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank">RTL</a>)
+		Rechts-nach-links (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank" rel="noopener noreferrer">RTL</a>)
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'combine' => /////////////////////////////////////////////////////////////////////////

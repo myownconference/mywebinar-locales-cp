@@ -1857,13 +1857,13 @@ return [
 	'no-webinars' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Gelecekte planlanmış herhangi bir webinarınız bulunmamaktadır.<br/><br/>Daha fazlası için <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" class="tcolor-blue more-link">buradan</a> okuyun veya <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" class="tcolor-blue more-link">video rehberini</a> izleyin.
+		Gelecekte planlanmış herhangi bir webinarınız bulunmamaktadır.<br/><br/>Daha fazlası için <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">buradan</a> okuyun veya <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">video rehberini</a> izleyin.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bugün için planlanmış herhangi bir webinarınız bulunmamaktadır.<br/><br/>Daha fazlası için <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" class="tcolor-blue more-link">buradan</a> okuyun veya <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" class="tcolor-blue more-link">video rehberini</a> izleyin.
+		Bugün için planlanmış herhangi bir webinarınız bulunmamaktadır.<br/><br/>Daha fazlası için <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">buradan</a> okuyun veya <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">video rehberini</a> izleyin.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////
@@ -4215,37 +4215,37 @@ return [
 	'two-factor-more' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/make-your-myownconference-account-even-more-secure/" target="_blank">Daha fazla bilgi edinin</a>
+		<a href="https://myownconference.com/blog/en/make-your-myownconference-account-even-more-secure/" target="_blank" rel="noopener noreferrer">Daha fazla bilgi edinin</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-more-mobile' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/blog/en/make-your-myownconference-account-even-more-secure/" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://myownconference.com/blog/en/make-your-myownconference-account-even-more-secure/" target="_blank" rel="noopener noreferrer"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-app' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://en.wikipedia.org/wiki/Google_Authenticator" target="_blank">Uygulama</a>
+		<a href="https://en.wikipedia.org/wiki/Google_Authenticator" target="_blank" rel="noopener noreferrer">Uygulama</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'two-factor-app-mobile' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a class="button border" href="https://en.wikipedia.org/wiki/Google_Authenticator" target="_blank">Uygulama</a>
+		<a class="button border" href="https://en.wikipedia.org/wiki/Google_Authenticator" target="_blank" rel="noopener noreferrer">Uygulama</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'api-key-more' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://www.mywebinar.net/w/images/api-en.pdf" target="_blank">Daha fazla bilgi edinin</a>
+		<a href="https://myownconference.com/help/article/myownconference-api-o6or9a/" target="_blank" rel="noopener noreferrer">Daha fazla bilgi edinin</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'api-key-more-mobile' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://www.mywebinar.net/w/images/api-en.pdf" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://myownconference.com/help/article/myownconference-api-o6or9a/" target="_blank" rel="noopener noreferrer"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'wrong-code' => //////////////////////////////////////////////////////////////////////
@@ -4863,7 +4863,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Web sitemizde gezinme deneyiminizi geliştirmek için çerezler kullanıyoruz. Bu çerezlerin bir kısmı web sitemizin düzgün çalışması için gerekli olup tarayıcınızda saklanır. Ayrıca, web sitemizi nasıl kullandığınızı analiz etmek ve anlamak için üçüncü taraf çerezler kullanıyoruz. Bu çerezler, sadece onayınızla tarayıcınızda saklanacaktır. İsterseniz bu çerezlere onay vermemek için seçeneğiniz bulunmaktadır. Ancak, bazı çerezleri devre dışı bırakmanın gezinme deneyiminizi etkileyebileceğini lütfen unutmayın. Daha fazla bilgi için lütfen <a href="https://myownconference.com/privacy-policy/" target="_blank">gizlilik politikamızı</a> okuyun.
+		Web sitemizde gezinme deneyiminizi geliştirmek için çerezler kullanıyoruz. Bu çerezlerin bir kısmı web sitemizin düzgün çalışması için gerekli olup tarayıcınızda saklanır. Ayrıca, web sitemizi nasıl kullandığınızı analiz etmek ve anlamak için üçüncü taraf çerezler kullanıyoruz. Bu çerezler, sadece onayınızla tarayıcınızda saklanacaktır. İsterseniz bu çerezlere onay vermemek için seçeneğiniz bulunmaktadır. Ancak, bazı çerezleri devre dışı bırakmanın gezinme deneyiminizi etkileyebileceğini lütfen unutmayın. Daha fazla bilgi için lütfen <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">gizlilik politikamızı</a> okuyun.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'read-more' => ///////////////////////////////////////////////////////////////////////
@@ -5709,25 +5709,25 @@ return [
 	'google-id-more' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://support.google.com/analytics/answer/1008015?hl=en" target="_blank">Daha fazla bilgi edinin</a>
+		<a href="https://support.google.com/analytics/answer/1008015?hl=en" target="_blank" rel="noopener noreferrer">Daha fazla bilgi edinin</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'gtm-id-more' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://support.google.com/tagmanager/answer/6102821?hl=en" target="_blank">Daha fazla bilgi edinin</a>
+		<a href="https://support.google.com/tagmanager/answer/6102821?hl=en" target="_blank" rel="noopener noreferrer">Daha fazla bilgi edinin</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'timezone-more' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://en.wikipedia.org/wiki/Time_zone" target="_blank">Daha fazla bilgi edinin</a>
+		<a href="https://en.wikipedia.org/wiki/Time_zone" target="_blank" rel="noopener noreferrer">Daha fazla bilgi edinin</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'timezone-more-mobile' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://en.wikipedia.org/wiki/Time_zone" target="_blank"><svg><use xlink:href="#info_svg"/></svg></a>
+		<a href="https://en.wikipedia.org/wiki/Time_zone" target="_blank" rel="noopener noreferrer"><svg><use xlink:href="#info_svg"/></svg></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-header' => ////////////////////////////////////////////////////////////////
@@ -6607,13 +6607,13 @@ return [
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sol-Dan-Sağa (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank">LTR</a>)
+		Sol-Dan-Sağa (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank" rel="noopener noreferrer">LTR</a>)
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatrtl' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sağdan-Sola (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank">RTL</a>)
+		Sağdan-Sola (<a href="https://en.wikipedia.org/wiki/Writing_system#Directionality" target="_blank" rel="noopener noreferrer">RTL</a>)
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'combine' => /////////////////////////////////////////////////////////////////////////

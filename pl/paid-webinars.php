@@ -305,7 +305,6 @@ return [
 			Wszelkie powiadomienia i pytania należy kierować na adres contact@myownconference.com ze szczegółowym opisem roszczenia lub napotkanych problemów, w tym technicznych.
 		</p>
 		<br/><br/>
-		<h3>Udanych webinarów!</h3>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

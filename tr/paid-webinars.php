@@ -140,9 +140,9 @@ return [
 		<h3>Platform fees</h3>
 		<p>
 			The website applies a <b>10%</b> commission to every successful payment made by participants attending a user&apos;s paid event.
-			<blockquote>
-				For instance, if you set the entry fee for a webinar at €10 and 10 people attend, generating €10 x 10 = €100 in total payments, you would earn €100 - 10% = €90 after commission.
-			</blockquote>
+		</p>
+		<p>
+			For instance, if you set the entry fee for a webinar at €10 and 10 people attend, generating €10 x 10 = €100 in total payments, you would earn €100 - 10% = €90 after commission.
 		</p>
 		<br/><br/>
 		<h3>Bank service fee</h3>

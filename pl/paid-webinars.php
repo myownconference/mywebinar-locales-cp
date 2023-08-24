@@ -140,9 +140,9 @@ return [
 		<h3>Prowizja Platformy</h3>
 		<p>
 			Serwis pobiera prowizję w wysokości <b>10%</b> od każdej udanej płatności dokonanej przez Uczestnika za udział w płatnym wydarzeniu Użytkownika.
-			<blockquote>
-				Na przykład podałeś koszt wejścia na webinarium 10 EUR. Na webinarium przyszło 10 osób, które zapłaciły Serwisowi 10 x 10 EUR = 100 EUR. W tym przypadku zarobiłeś 100 EUR-10% = 90 EUR.
-			</blockquote>
+		</p>
+		<p>
+			Na przykład podałeś koszt wejścia na webinarium 10 EUR. Na webinarium przyszło 10 osób, które zapłaciły Serwisowi 10 x 10 EUR = 100 EUR. W tym przypadku zarobiłeś 100 EUR-10% = 90 EUR.
 		</p>
 		<br/><br/>
 		<h3>Prowizja banku Serwisu</h3>

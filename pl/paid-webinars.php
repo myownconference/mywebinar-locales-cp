@@ -51,7 +51,7 @@ return [
 	'payweb-rules-subtitle' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Prosimy o uważne zapoznanie się z regulaminem korzystania z funkcji przyjmowania płatności.  Nieprawidłowe użycie tej funkcji może spowodować automatyczne zablokowanie Twojego konta.
+		Prosimy o uważne zapoznanie się z regulaminem korzystania z funkcji przyjmowania płatności. Nieprawidłowe użycie tej funkcji może spowodować automatyczne zablokowanie Twojego konta.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-bottom' => /////////////////////////////////////////////////////////////

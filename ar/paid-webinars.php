@@ -237,7 +237,7 @@ return [
 		</p>
 		<br/>
 		<p>
-			In line with its <a href="https://myownconference.com/uk/refund-policy/" target="_blank" rel="noopener noreferrer">Return Policy</a>, the Website disclaims responsibility for any complaints from Participants concerning the poor organization of a paid webinar or any technical mishaps attributable to the User.
+			In line with its <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Return Policy</a>, the Website disclaims responsibility for any complaints from Participants concerning the poor organization of a paid webinar or any technical mishaps attributable to the User.
 		</p>
 		<br/>
 		<p>

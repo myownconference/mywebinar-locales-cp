@@ -126,7 +126,7 @@ return [
 		</p>
 		<br/>
 		<p>
-			La valuta principale per le transazioni e accettata è l&apos;euro (EUR).
+			La valuta principale per le transazioni e accettata è l&apos;Euro (EUR).
 		</p>
 		<br/>
 		<p>

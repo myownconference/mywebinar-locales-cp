@@ -126,7 +126,7 @@ return [
 		</p>
 		<br/>
 		<p>
-			The primary transactional and accepted currency is the euro (EUR).
+			The primary transactional and accepted currency is the Euro (EUR).
 		</p>
 		<br/>
 		<p>

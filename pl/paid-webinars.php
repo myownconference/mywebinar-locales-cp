@@ -126,7 +126,7 @@ return [
 		</p>
 		<br/>
 		<p>
-			Główną walutą rozliczenia i przyjęcia płatności jest euro (EUR).
+			Główną walutą rozliczenia i przyjęcia płatności jest Euro (EUR).
 		</p>
 		<br/>
 		<p>

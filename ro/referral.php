@@ -118,19 +118,19 @@ return [
 		<br/>
 		<br/>
 		<p>
-			&mdash; Only users with a paid MyOwnConference account can participate in the referral program. If a paid account becomes free, no referrals charges will be made;
+			– Only users with a paid MyOwnConference account can participate in the referral program. If a paid account becomes free, no referrals charges will be made;
 			<br/><br/>
-			&mdash; Mass mailing and spam with referral links is prohibited;
+			– Mass mailing and spam with referral links is prohibited;
 			<br/><br/>
-			&mdash; Creating several MyOwnConference accounts and paying for them using a referral link is prohibited;
+			– Creating several MyOwnConference accounts and paying for them using a referral link is prohibited;
 			<br/><br/>
-			&mdash; Inserting the referral link into ads in Google Ads, Facebook Ads or any other advertisement account is prohibited. Share the link in person;
+			– Inserting the referral link into ads in Google Ads, Facebook Ads or any other advertisement account is prohibited. Share the link in person;
 			<br/><br/>
-			&mdash; Sending out a referral link in the name of MyOwnConference is prohibited;
+			– Sending out a referral link in the name of MyOwnConference is prohibited;
 			<br/><br/>
-			&mdash; The commission fee will not be paid if users do not allow storing cookies or clear them because we may lack the possibilities to track them;
+			– The commission fee will not be paid if users do not allow storing cookies or clear them because we may lack the possibilities to track them;
 			<br/><br/>
-			&mdash; We reserve the right to change the terms and conditions, as well as the rules of the referrals program, at any time with no prior notice. These changes may be introduced in regards to the percentage of the commission fee of the referrals program, as well as other conditions of the referrals program;
+			– We reserve the right to change the terms and conditions, as well as the rules of the referrals program, at any time with no prior notice. These changes may be introduced in regards to the percentage of the commission fee of the referrals program, as well as other conditions of the referrals program;
 			<br/><br/>
 			<b>In case of violation of these terms, we will freeze your accrued funds and block your account.</b>
 		</p>

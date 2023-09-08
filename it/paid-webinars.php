@@ -95,17 +95,17 @@ return [
 		<br/><br/><br/><br/>
 		<h3>Termini e definizioni</h3>
 		<p>
-			&mdash; <b>Eventi a pagamento</b> — ciò include webinar, lezioni online, conferenze, seminari, corsi, lezioni e trasmissioni dal vivo per i quali è necessario un pagamento per partecipare. Gli iscritti possono accedere e partecipare a questi eventi solo dopo aver effettuato il pagamento richiesto.
+			– <b>Eventi a pagamento</b> — ciò include webinar, lezioni online, conferenze, seminari, corsi, lezioni e trasmissioni dal vivo per i quali è necessario un pagamento per partecipare. Gli iscritti possono accedere e partecipare a questi eventi solo dopo aver effettuato il pagamento richiesto.
 			<br/><br/>
-			&mdash; <b>Software per webinar MyOwnConference</b> — siamo “Akovana LLC“, un fornitore di servizi specializzato nell‘organizzazione di webinar gratuiti e a pagamento, trasmissioni dal vivo, conferenze web e altro. La nostra sede legale si trova in Via Djioyi 18, Vilnius, Lituania, LT-01128.
+			– <b>Software per webinar MyOwnConference</b> — siamo “Akovana LLC“, un fornitore di servizi specializzato nell‘organizzazione di webinar gratuiti e a pagamento, trasmissioni dal vivo, conferenze web e altro. La nostra sede legale si trova in Via Djioyi 18, Vilnius, Lituania, LT-01128.
 			<br/><br/>
-			&mdash; <b>Utente</b> — qualsiasi individuo che ha accettato questi termini e utilizza i servizi in conformità con questo accordo.
+			– <b>Utente</b> — qualsiasi individuo che ha accettato questi termini e utilizza i servizi in conformità con questo accordo.
 			<br/><br/>
-			&mdash; <b>Accordo dell‘Utente</b> — questo documento, presente nel Pannello di Controllo, funge da contratto vincolante tra te (l‘Utente) e noi (il Sito Web), che regola la fornitura dei nostri servizi informativi.
+			– <b>Accordo dell‘Utente</b> — questo documento, presente nel Pannello di Controllo, funge da contratto vincolante tra te (l‘Utente) e noi (il Sito Web), che regola la fornitura dei nostri servizi informativi.
 			<br/><br/>
-			&mdash; <b>Account dell‘Utente, Pannello di Controllo o Dashboard</b> — si tratta di un insieme di dati personali dell‘Utente essenziali per accedere ai servizi offerti dal Sito Web. Contiene anche i file che l‘Utente ha memorizzato sul server del Sito Web.
+			– <b>Account dell‘Utente, Pannello di Controllo o Dashboard</b> — si tratta di un insieme di dati personali dell‘Utente essenziali per accedere ai servizi offerti dal Sito Web. Contiene anche i file che l‘Utente ha memorizzato sul server del Sito Web.
 			<br/><br/>
-			&mdash; <b>Partecipante, Iscritto o Ospite</b> — un individuo invitato dall‘Utente, che compensa l‘Utente per l‘accesso a un evento a pagamento ospitato dall‘Utente tramite il Sito Web.
+			– <b>Partecipante, Iscritto o Ospite</b> — un individuo invitato dall‘Utente, che compensa l‘Utente per l‘accesso a un evento a pagamento ospitato dall‘Utente tramite il Sito Web.
 		</p>
 		<br/><br/>
 		<h3>Disposizioni generali</h3>
@@ -142,7 +142,7 @@ return [
 			Il sito web applica una commissione del <b>10%</b> su ogni pagamento effettuato con successo dai partecipanti che partecipano a un evento a pagamento di un utente.
 		</p>
 		<p>
-			Ad esempio, se stabilisci una quota di ingresso per un webinar di €10 e vi partecipano 10 persone, generando un totale di €10 x 10 = €100, guadagneresti €100 - 10% = €90 al netto della commissione.
+			Ad esempio, se stabilisci una quota di ingresso per un webinar di €10 e vi partecipano 10 persone, generando un totale di €10 x 10 = €100, guadagneresti €100 – 10% = €90 al netto della commissione.
 		</p>
 		<br/><br/>
 		<h3>Commissioni bancarie</h3>

@@ -119,27 +119,27 @@ return [
 		<br/>
 		<br/>
 		<p>
-			&mdash; W programie partnerskim mogą uczestniczyć tylko użytkownicy z płatnym
+			– W programie partnerskim mogą uczestniczyć tylko użytkownicy z płatnym
 			kontem MyOwnConference. Jeśli płatne konto stanie się bezpłatnym, program
 			partnerski nie będzie działać;
 			<br/><br/>
-			&mdash; Zabrania się wysyłania masowych mailingów i spamu wraz z linkiem
+			– Zabrania się wysyłania masowych mailingów i spamu wraz z linkiem
 			polecającym;
 			<br/><br/>
-			&mdash; Zabrania się tworzenia wielu kont w MyOwnConference i opłacania usług
+			– Zabrania się tworzenia wielu kont w MyOwnConference i opłacania usług
 			za pomocą linku partnerskiego;
 			<br/><br/>
-			&mdash; Zabrania się wykorzystywania linku partnerskiego w reklamach Google Ads,
+			– Zabrania się wykorzystywania linku partnerskiego w reklamach Google Ads,
 			Facebook Ads lub na jakimkolwiek innym koncie reklamowym. Poszerzać link
 			można jedynie samodzielnie;
 			<br/><br/>
-			&mdash; Nie można wysyłać linku partnerskiego w imieniu MyOwnConference;
+			– Nie można wysyłać linku partnerskiego w imieniu MyOwnConference;
 			<br/><br/>
-			&mdash; Jeśli użytkownik, który skorzystał z Twojego linku, nie zezwoli na
+			– Jeśli użytkownik, który skorzystał z Twojego linku, nie zezwoli na
 			pliki cookie lub wyczyści je, nie wypłacimy prowizji za polecenie tego
 			użytkownika;
 			<br/><br/>
-			&mdash; Serwis ma prawo do zmiany zasad działania programu partnerskiego w
+			– Serwis ma prawo do zmiany zasad działania programu partnerskiego w
 			dowolnym momencie i na własne żądanie, bez uprzedniego powiadomienia. Zmiany
 			te mogą dotyczyć wysokości naliczonych prowizji za program partnerski i
 			innych warunków programu partnerskiego;

@@ -95,17 +95,17 @@ return [
 		<br/><br/><br/><br/>
 		<h3>Terminy i definicje</h3>
 		<p>
-			&mdash; <b>Płatne wydarzenia</b> — webinaria, wykłady online, konferencje, seminaria, kursy, lekcje i transmisje na żywo, w których udział jest płatny. Uczestnicy wydarzenia w tym przypadku uzyskują dostęp do treści wydarzenia, mogą uczestniczyć i słuchać wydarzenia dopiero po udanej płatności.
+			– <b>Płatne wydarzenia</b> — webinaria, wykłady online, konferencje, seminaria, kursy, lekcje i transmisje na żywo, w których udział jest płatny. Uczestnicy wydarzenia w tym przypadku uzyskują dostęp do treści wydarzenia, mogą uczestniczyć i słuchać wydarzenia dopiero po udanej płatności.
 			<br/><br/>
-			&mdash; <b>Serwis MyOwnConference</b> — jesteśmy firmą UAB &laquo;Akovana&raquo, która jest dostawcą usług dla organizacji bezpłatnych i płatnych webinariów, transmisji na żywo, konferencji internetowych, z siedzibą przy ul. Djioyi 18, Wilno, Litwa, LT-01128.
+			– <b>Serwis MyOwnConference</b> — jesteśmy firmą UAB “Akovana“, która jest dostawcą usług dla organizacji bezpłatnych i płatnych webinariów, transmisji na żywo, konferencji internetowych, z siedzibą przy ul. Djioyi 18, Wilno, Litwa, LT-01128.
 			<br/><br/>
-			&mdash; <b>Użytkownik</b> — to osoba, która zaakceptowała niniejszą Umowę, konsument usług świadczonych na podstawie zawartej Umowy z Użytkownikiem.
+			– <b>Użytkownik</b> — to osoba, która zaakceptowała niniejszą Umowę, konsument usług świadczonych na podstawie zawartej Umowy z Użytkownikiem.
 			<br/><br/>
-			&mdash; <b>Umowa użytkownika, Umowa</b> — niniejszy dokument, opublikowany w panelu sterowania; umowa pomiędzy Użytkownikiem (Tobą) a Serwisem (Nami) o świadczenie usług informacyjnych, która zostaje zawarta poprzez akceptację niniejszej Umowy.
+			– <b>Umowa użytkownika, Umowa</b> — niniejszy dokument, opublikowany w panelu sterowania; umowa pomiędzy Użytkownikiem (Tobą) a Serwisem (Nami) o świadczenie usług informacyjnych, która zostaje zawarta poprzez akceptację niniejszej Umowy.
 			<br/><br/>
-			&mdash; <b>Konto Użytkownika, Panel sterowania Użytkownika</b> — zbiór danych osobowych Użytkownika, bezpośrednio związanych z zapewnieniem Użytkownikowi dostępu do usług Serwisu, a także pliki zapisywane przez Użytkownika na serwerze Serwisu.
+			– <b>Konto Użytkownika, Panel sterowania Użytkownika</b> — zbiór danych osobowych Użytkownika, bezpośrednio związanych z zapewnieniem Użytkownikowi dostępu do usług Serwisu, a także pliki zapisywane przez Użytkownika na serwerze Serwisu.
 			<br/><br/>
-			&mdash; <b>Uczestnik, Gość</b> – osoba zaproszona przez Użytkownika, dokonująca płatności Użytkownikowi za uczestnictwo w płatnym wydarzeniu, prowadzonym przez Użytkownika za pomocą Serwisu.
+			– <b>Uczestnik, Gość</b> – osoba zaproszona przez Użytkownika, dokonująca płatności Użytkownikowi za uczestnictwo w płatnym wydarzeniu, prowadzonym przez Użytkownika za pomocą Serwisu.
 		</p>
 		<br/><br/>
 		<h3>Postanowienia ogólne</h3>
@@ -208,7 +208,7 @@ return [
 		<br/><br/>
 		<h3>Żądanie zwrotu pieniędzy z banku Uczestnika webinaru</h3>
 		<p>
-			Ten rodzaj żądania na zwrot opłaty realizowany jest przez bank obsługujący Uczestnika płatnego webinaru. Wszelkie płatności dokonane przez Uczestnika/ów płatnych wydarzeń zawsze podlegają zwrotowi, zgodnie z zasadą &laquo;Uczestnik zawsze ma rację&raquo;.
+			Ten rodzaj żądania na zwrot opłaty realizowany jest przez bank obsługujący Uczestnika płatnego webinaru. Wszelkie płatności dokonane przez Uczestnika/ów płatnych wydarzeń zawsze podlegają zwrotowi, zgodnie z zasadą “Uczestnik zawsze ma rację“.
 		</p>
 		<br/>
 		<p>
@@ -271,7 +271,7 @@ return [
 		</p>
 		<br/>
 		<p>
-			W przypadku naruszenia przez Użytkownika danego punktu, Serwis ma prawo do podjęcia działań zgodnie z punktem, &laquo;Prawa i Obowiązki Serwisu&raquo; niniejszej Umowy z Użytkownikiem.
+			W przypadku naruszenia przez Użytkownika danego punktu, Serwis ma prawo do podjęcia działań zgodnie z punktem, “Prawa i Obowiązki Serwisu“ niniejszej Umowy z Użytkownikiem.
 		</p>
 		<br/><br/>
 		<h3>Ograniczenie odpowiedzialności</h3>

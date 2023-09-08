@@ -118,19 +118,19 @@ return [
 		<br/>
 		<br/>
 		<p>
-			&mdash; Nur Benutzer mit einem bezahlten MyOwnConference-Konto können am Empfehlungsprogramm teilnehmen. Wenn ein bezahltes Konto kostenlos wird, werden keine Empfehlungsgebühren erhoben;
+			– Nur Benutzer mit einem bezahlten MyOwnConference-Konto können am Empfehlungsprogramm teilnehmen. Wenn ein bezahltes Konto kostenlos wird, werden keine Empfehlungsgebühren erhoben;
 			<br/><br/>
-			&mdash; Massenmails und Spam mit Empfehlungslinks sind verboten;
+			– Massenmails und Spam mit Empfehlungslinks sind verboten;
 			<br/><br/>
-			&mdash; Das Erstellen mehrerer MyOwnConference-Konten und das Bezahlen über einen Empfehlungslink ist verboten;
+			– Das Erstellen mehrerer MyOwnConference-Konten und das Bezahlen über einen Empfehlungslink ist verboten;
 			<br/><br/>
-			&mdash; Das Einfügen des Empfehlungslinks in Anzeigen bei Google Ads, Facebook Ads oder einem anderen Werbekonto ist verboten. Teilen Sie den Link persönlich;
+			– Das Einfügen des Empfehlungslinks in Anzeigen bei Google Ads, Facebook Ads oder einem anderen Werbekonto ist verboten. Teilen Sie den Link persönlich;
 			<br/><br/>
-			&mdash; Das Versenden eines Empfehlungslinks im Namen von MyOwnConference ist verboten;
+			– Das Versenden eines Empfehlungslinks im Namen von MyOwnConference ist verboten;
 			<br/><br/>
-			&mdash; Die Kommissionsgebühr wird nicht bezahlt, wenn Benutzer das Speichern von Cookies nicht zulassen oder diese löschen, da uns möglicherweise die Möglichkeit fehlt, sie zu verfolgen;
+			– Die Kommissionsgebühr wird nicht bezahlt, wenn Benutzer das Speichern von Cookies nicht zulassen oder diese löschen, da uns möglicherweise die Möglichkeit fehlt, sie zu verfolgen;
 			<br/><br/>
-			&mdash; Wir behalten uns das Recht vor, die Bedingungen sowie die Regeln des Empfehlungsprogramms jederzeit ohne Vorankündigung zu ändern. Diese Änderungen können sich auf den Prozentsatz der Kommissionsgebühr des Empfehlungsprogramms sowie auf andere Bedingungen des Empfehlungsprogramms beziehen;
+			– Wir behalten uns das Recht vor, die Bedingungen sowie die Regeln des Empfehlungsprogramms jederzeit ohne Vorankündigung zu ändern. Diese Änderungen können sich auf den Prozentsatz der Kommissionsgebühr des Empfehlungsprogramms sowie auf andere Bedingungen des Empfehlungsprogramms beziehen;
 			<br/><br/>
 			<b>Bei Verstoß gegen diese Bedingungen frieren wir Ihre angesammelten Gelder ein und blockieren Ihr Konto.</b>
 		</p>

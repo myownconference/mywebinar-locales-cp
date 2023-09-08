@@ -118,19 +118,19 @@ return [
 		<br/>
 		<br/>
 		<p>
-			&mdash; Yalnızca ücretli bir MyOwnConference hesabı olan kullanıcılar yönlendirme programına katılabilir. Ücretli bir hesap ücretsiz hale gelirse, yönlendirmelerden herhangi bir ücret alınmayacaktır;
+			– Yalnızca ücretli bir MyOwnConference hesabı olan kullanıcılar yönlendirme programına katılabilir. Ücretli bir hesap ücretsiz hale gelirse, yönlendirmelerden herhangi bir ücret alınmayacaktır;
 			<br/><br/>
-			&mdash; Yönlendirme bağlantılarıyla toplu e-posta göndermek ve istenmeyen posta (spam) yapmak yasaktır;
+			– Yönlendirme bağlantılarıyla toplu e-posta göndermek ve istenmeyen posta (spam) yapmak yasaktır;
 			<br/><br/>
-			&mdash; Birden fazla MyOwnConference hesabı oluşturup bunları bir yönlendirme bağlantısıyla ödemek yasaktır;
+			– Birden fazla MyOwnConference hesabı oluşturup bunları bir yönlendirme bağlantısıyla ödemek yasaktır;
 			<br/><br/>
-			&mdash; Yönlendirme bağlantısını Google Ads, Facebook Ads veya herhangi bir reklam hesabındaki reklamlara yerleştirmek yasaktır. Bağlantıyı bizzat paylaşın;
+			– Yönlendirme bağlantısını Google Ads, Facebook Ads veya herhangi bir reklam hesabındaki reklamlara yerleştirmek yasaktır. Bağlantıyı bizzat paylaşın;
 			<br/><br/>
-			&mdash; MyOwnConference adına yönlendirme bağlantısı göndermek yasaktır;
+			– MyOwnConference adına yönlendirme bağlantısı göndermek yasaktır;
 			<br/><br/>
-			&mdash; Kullanıcılar çerezleri depolamaya izin vermez veya bunları temizlerse komisyon ücreti ödenmeyecektir, çünkü takip etme imkanlarımız sınırlı olabilir;
+			– Kullanıcılar çerezleri depolamaya izin vermez veya bunları temizlerse komisyon ücreti ödenmeyecektir, çünkü takip etme imkanlarımız sınırlı olabilir;
 			<br/><br/>
-			&mdash; Koşullar ve şartlar ile yönlendirme programının kurallarını herhangi bir önceden bildirimde bulunmaksızın her zaman değiştirme hakkını saklı tutarız. Bu değişiklikler yönlendirme programının komisyon ücreti yüzdesi ve diğer koşullarıyla ilgili olarak yapılabilir;
+			– Koşullar ve şartlar ile yönlendirme programının kurallarını herhangi bir önceden bildirimde bulunmaksızın her zaman değiştirme hakkını saklı tutarız. Bu değişiklikler yönlendirme programının komisyon ücreti yüzdesi ve diğer koşullarıyla ilgili olarak yapılabilir;
 			<br/><br/>
 			<b>Bu şartların ihlali durumunda, biriken fonlarınız dondurulacak ve hesabınız bloke edilecektir.</b>
 		</p>

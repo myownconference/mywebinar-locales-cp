@@ -120,26 +120,26 @@ return [
 		<br/>
 		<br/>
 		<p>
-			&mdash; Sólo los usuarios con una cuenta pagada de MyOwnConference pueden
+			– Sólo los usuarios con una cuenta pagada de MyOwnConference pueden
 			participar en el programa de referencia. Si una cuenta de pago se convierte
 			en gratuita, no se harán cargos a los afiliados;
 			<br/><br/>
-			&mdash; Se prohíbe el envío masivo de correos y spam con el enlace de afiliado;
+			– Se prohíbe el envío masivo de correos y spam con el enlace de afiliado;
 			<br/><br/>
-			&mdash; Está prohibido crear varias cuentas MyOwnConference y pagarlas mediante
+			– Está prohibido crear varias cuentas MyOwnConference y pagarlas mediante
 			un enlace de afiliado;
 			<br/><br/>
-			&mdash; Comparta el enlace personalmente. Está prohibido insertar el enlace de
+			– Comparta el enlace personalmente. Está prohibido insertar el enlace de
 			afiliado en anuncios, en Google Ads, Facebook Ads o cualquier otra cuenta de
 			anuncios;
 			<br/><br/>
-			&mdash; Está prohibido enviar un enlace de afiliado en nombre de MyOwnConference;
+			– Está prohibido enviar un enlace de afiliado en nombre de MyOwnConference;
 			<br/><br/>
-			&mdash; La comisión no se pagará si los usuarios no permiten el almacenamiento
+			– La comisión no se pagará si los usuarios no permiten el almacenamiento
 			de las cookies o las borran porque podemos carecer de las posibilidades de
 			rastrearlas;
 			<br/><br/>
-			&mdash; Nos reservamos el derecho de modificar los términos y condiciones, así
+			– Nos reservamos el derecho de modificar los términos y condiciones, así
 			como las reglas del programa de afiliados, en cualquier momento sin aviso
 			previo. Estos cambios pueden introducirse con relación al porcentaje de
 			comisión del programa de afiliados, así como otras condiciones del programa;

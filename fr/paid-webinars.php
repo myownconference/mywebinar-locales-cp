@@ -95,17 +95,17 @@ return [
 		<br/><br/><br/><br/>
 		<h3>Terms and definitions</h3>
 		<p>
-			&mdash; <b>Paid events</b> — this encompasses webinars, online lectures, conferences, seminars, courses, lessons, and live broadcasts that require payment for participation. Attendees can access and participate in these events only after they‘ve made the necessary payment.
+			– <b>Paid events</b> — this encompasses webinars, online lectures, conferences, seminars, courses, lessons, and live broadcasts that require payment for participation. Attendees can access and participate in these events only after they‘ve made the necessary payment.
 			<br/><br/>
-			&mdash; <b>Webinar software MyOwnConference</b> — we are “Akovana LLC,“ a service provider specializing in the organization of both free and paid webinars, live broadcasts, web conferences, and more. Our registered address is 18 Djioyi Street, Vilnius, Lithuania, LT-01128.
+			– <b>Webinar software MyOwnConference</b> — we are “Akovana LLC“, a service provider specializing in the organization of both free and paid webinars, live broadcasts, web conferences, and more. Our registered address is 18 Djioyi Street, Vilnius, Lithuania, LT-01128.
 			<br/><br/>
-			&mdash; <b>User</b> — any individual who has agreed to these terms and utilizes the services in accordance with this agreement.
+			– <b>User</b> — any individual who has agreed to these terms and utilizes the services in accordance with this agreement.
 			<br/><br/>
-			&mdash; <b>User Agreement</b> — this document, found in the Control Panel, acts as the binding contract between you (the User) and us (the Website), governing the provision of our information services.
+			– <b>User Agreement</b> — this document, found in the Control Panel, acts as the binding contract between you (the User) and us (the Website), governing the provision of our information services.
 			<br/><br/>
-			&mdash; <b>User Account, Control Panel, or Dashboard</b> — this is a collection of the User‘s personal data crucial for accessing the services offered by the Website. It also contains files the User has stored on the Website‘s server.
+			– <b>User Account, Control Panel, or Dashboard</b> — this is a collection of the User‘s personal data crucial for accessing the services offered by the Website. It also contains files the User has stored on the Website‘s server.
 			<br/><br/>
-			&mdash; <b>Attendee, Participant or Guest</b> – an individual invited by the User, who compensates the User for access to a paid event hosted by the User via the Website.
+			– <b>Attendee, Participant or Guest</b> – an individual invited by the User, who compensates the User for access to a paid event hosted by the User via the Website.
 		</p>
 		<br/><br/>
 		<h3>General provisions</h3>
@@ -142,7 +142,7 @@ return [
 			The website applies a <b>10%</b> commission to every successful payment made by participants attending a user‘s paid event.
 		</p>
 		<p>
-			For instance, if you set the entry fee for a webinar at €10 and 10 people attend, generating €10 x 10 = €100 in total payments, you would earn €100 - 10% = €90 after commission.
+			For instance, if you set the entry fee for a webinar at €10 and 10 people attend, generating €10 x 10 = €100 in total payments, you would earn €100 – 10% = €90 after commission.
 		</p>
 		<br/><br/>
 		<h3>Bank service fee</h3>

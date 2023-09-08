@@ -1,7 +1,7 @@
 <?php
 
 // +-------------------------------------------------------------------+
-// | Copyright (c) 2003-2022 MyOwnConference.com. All rights reserved. |
+// | Copyright 2003-2023 MyOwnConference.com. All rights reserved.     |
 // |                                                                   |
 // | Unauthorized copying of this file, via any medium is strictly     |
 // | prohibited. Proprietary and confidential.                         |
@@ -45,7 +45,7 @@ return [
 	'referral-history-title' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Cronologia dei pagamenti dell&apos;utente %S
+		Cronologia dei pagamenti dell‘utente %S
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-active' => /////////////////////////////////////////////////////////////////
@@ -120,7 +120,7 @@ return [
 		<p>
 			&mdash; Solo gli utenti con un account MyOwnConference a pagamento possono partecipare al programma di referenza. Se un account a pagamento diventa gratuito, non saranno applicate commissioni di referenza;
 			<br/><br/>
-			&mdash; È vietato l&apos;invio di mail in massa e lo spam con link di referenza;
+			&mdash; È vietato l‘invio di mail in massa e lo spam con link di referenza;
 			<br/><br/>
 			&mdash; È vietato creare diversi account MyOwnConference e pagarli utilizzando un link di referenza;
 			<br/><br/>
@@ -139,7 +139,7 @@ return [
 	'referral-rules-bottom' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Firma qui se sei d&apos;accordo con i termini e condizioni del programma di referenza
+		Firma qui se sei d‘accordo con i termini e condizioni del programma di referenza
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-rules-button' => ///////////////////////////////////////////////////////////

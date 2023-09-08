@@ -1,7 +1,7 @@
 <?php
 
 // +-------------------------------------------------------------------+
-// | Copyright (c) 2003-2022 MyOwnConference.com. All rights reserved. |
+// | Copyright 2003-2023 MyOwnConference.com. All rights reserved.     |
 // |                                                                   |
 // | Unauthorized copying of this file, via any medium is strictly     |
 // | prohibited. Proprietary and confidential.                         |
@@ -2595,7 +2595,7 @@ return [
 	'check-email' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bitte überprüfen Sie Ihren Posteingang, Spam- oder Soziale/Promotions-Ordner. Klicken Sie auch auf "Kein Spam", um zukünftige Nachrichten zuzulassen. Dies ermöglicht es, dass zukünftige Nachrichten direkt im Posteingang ankommen.
+		Bitte überprüfen Sie Ihren Posteingang, Spam- oder Soziale/Promotions-Ordner. Klicken Sie auch auf “Kein Spam“, um zukünftige Nachrichten zuzulassen. Dies ermöglicht es, dass zukünftige Nachrichten direkt im Posteingang ankommen.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password-reset' => //////////////////////////////////////////////////////////////////
@@ -3891,7 +3891,7 @@ return [
 	'do-not-receive' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bitte überprüfen Sie Ihren Spam/Junk- oder Weitere » Kategorien » Social, Updates und Promotion-Ordner, wenn Sie die Bestätigungsnachricht nicht innerhalb weniger Minuten nach der Anmeldung erhalten haben. Denken Sie daran, auf "Kein Spam" zu klicken, um zukünftige Benachrichtigungen zuzulassen. Dadurch werden nachfolgende Nachrichten direkt im Posteingangsordner erreicht.
+		Bitte überprüfen Sie Ihren Spam/Junk- oder Weitere » Kategorien » Social, Updates und Promotion-Ordner, wenn Sie die Bestätigungsnachricht nicht innerhalb weniger Minuten nach der Anmeldung erhalten haben. Denken Sie daran, auf “Kein Spam“ zu klicken, um zukünftige Benachrichtigungen zuzulassen. Dadurch werden nachfolgende Nachrichten direkt im Posteingangsordner erreicht.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'not-receive-message-then' => ////////////////////////////////////////////////////////
@@ -4131,7 +4131,7 @@ return [
 	'will-be-link-title' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Button "Ich werde teilnehmen"
+		Button “Ich werde teilnehmen“
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-be-link-desc' => ///////////////////////////////////////////////////////////////
@@ -4143,7 +4143,7 @@ return [
 	'will-not-be-link-title' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Button "Nächstes Mal"
+		Button “Nächstes Mal“
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-not-be-link-desc' => ///////////////////////////////////////////////////////////
@@ -4155,7 +4155,7 @@ return [
 	'unsubscribe-link-title' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Button "Abbestellen"
+		Button “Abbestellen“
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'unsubscribe-link-desc' => ///////////////////////////////////////////////////////////

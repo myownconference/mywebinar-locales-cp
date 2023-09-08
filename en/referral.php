@@ -1,7 +1,7 @@
 <?php
 
 // +-------------------------------------------------------------------+
-// | Copyright (c) 2003-2022 MyOwnConference.com. All rights reserved. |
+// | Copyright 2003-2023 MyOwnConference.com. All rights reserved.     |
 // |                                                                   |
 // | Unauthorized copying of this file, via any medium is strictly     |
 // | prohibited. Proprietary and confidential.                         |
@@ -93,7 +93,7 @@ return [
 	'referral-for-free' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		You need to have a paid MyOwnConference account to become the platform&apos;s partner
+		You need to have a paid MyOwnConference account to become the platform‘s partner
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-rules-title' => ////////////////////////////////////////////////////////////

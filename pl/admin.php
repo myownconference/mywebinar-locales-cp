@@ -1,7 +1,7 @@
 <?php
 
 // +-------------------------------------------------------------------+
-// | Copyright (c) 2003-2022 MyOwnConference.com. All rights reserved. |
+// | Copyright 2003-2023 MyOwnConference.com. All rights reserved.     |
 // |                                                                   |
 // | Unauthorized copying of this file, via any medium is strictly     |
 // | prohibited. Proprietary and confidential.                         |
@@ -5414,7 +5414,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Możesz wybrać dogodną dla siebie metodę płatności w zakładce "Profil". Oferujemy płatności kartami płatniczymi i PayPal, pieniędzmi elektronicznymi i kryptowalutami, takimi jak BTC, ETC, LTC, BNB i TRX.<br/><br/><a href="https://myownconference.com/pl/refund-policy/" target="_blank" rel="noopener noreferrer"><small><u>Proszę zapoznać się z polityką zwrotów na platformie</u></small></a>
+		Możesz wybrać dogodną dla siebie metodę płatności w zakładce “Profil“. Oferujemy płatności kartami płatniczymi i PayPal, pieniędzmi elektronicznymi i kryptowalutami, takimi jak BTC, ETC, LTC, BNB i TRX.<br/><br/><a href="https://myownconference.com/pl/refund-policy/" target="_blank" rel="noopener noreferrer"><small><u>Proszę zapoznać się z polityką zwrotów na platformie</u></small></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

@@ -1,7 +1,7 @@
 <?php
 
 // +-------------------------------------------------------------------+
-// | Copyright (c) 2003-2022 MyOwnConference.com. All rights reserved. |
+// | Copyright 2003-2023 MyOwnConference.com. All rights reserved.     |
 // |                                                                   |
 // | Unauthorized copying of this file, via any medium is strictly     |
 // | prohibited. Proprietary and confidential.                         |
@@ -825,7 +825,7 @@ return [
 	'no-save-data' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		You&apos;ve evidently made some changes. Please remember, if you don&apos;t save before exiting, these adjustments will be irrecoverable.
+		You‘ve evidently made some changes. Please remember, if you don‘t save before exiting, these adjustments will be irrecoverable.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'end-schedule' => ////////////////////////////////////////////////////////////////////
@@ -1749,13 +1749,13 @@ return [
 	'room-options-buttonquestion' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Button "Ask a question"
+		Button “Ask a question“
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-buttonvoice' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Button "Ask to speak"
+		Button “Ask to speak“
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-message' => ///////////////////////////////////////////////////////////////////
@@ -2007,7 +2007,7 @@ return [
 	'room-login-show-main-moderator' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Including the account&apos;s owner
+		Including the account‘s owner
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-started' => /////////////////////////////////////////////////////////////////
@@ -2595,7 +2595,7 @@ return [
 	'check-email' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kindly review our email in your Inbox, Spam, Junk, Social, Promotions, or Updates folders. Click "Not Spam" to authorize our future messages and guarantee their direct delivery to your Inbox folder. Thank you for choosing our all-inclusive webinar software platform.
+		Kindly review our email in your Inbox, Spam, Junk, Social, Promotions, or Updates folders. Click “Not Spam“ to authorize our future messages and guarantee their direct delivery to your Inbox folder. Thank you for choosing our all-inclusive webinar software platform.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password-reset' => //////////////////////////////////////////////////////////////////
@@ -2751,7 +2751,7 @@ return [
 	'lending-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		The standard event mode has been disabled, and the landing page mode is now active. This means that you can now collect attendees&apos; emails and other data without actually holding an event.
+		The standard event mode has been disabled, and the landing page mode is now active. This means that you can now collect attendees‘ emails and other data without actually holding an event.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-be' => /////////////////////////////////////////////////////////////////////////
@@ -2931,7 +2931,7 @@ return [
 	'webinar-can-not-change-time' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Please try again later. You cannot change the event&apos;s date, time, or duration while invitations are being sent.
+		Please try again later. You cannot change the event‘s date, time, or duration while invitations are being sent.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'wrong-data' => //////////////////////////////////////////////////////////////////////
@@ -3111,7 +3111,7 @@ return [
 	'pay-status-failed' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Your bank has declined the payment. This could be due to insufficient funds, an expired card, or a block on international transactions. Please contact your bank to resolve the issue or use a different payment method. Once the payment has been declined, your account will be automatically downgraded to the free plan, which may limit your access to certain features. If you continue to have trouble with payments or account activation, please don&apos;t hesitate to contact our online support team for assistance.
+		Your bank has declined the payment. This could be due to insufficient funds, an expired card, or a block on international transactions. Please contact your bank to resolve the issue or use a different payment method. Once the payment has been declined, your account will be automatically downgraded to the free plan, which may limit your access to certain features. If you continue to have trouble with payments or account activation, please don‘t hesitate to contact our online support team for assistance.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-status-sub-failed' => ///////////////////////////////////////////////////////////
@@ -3537,7 +3537,7 @@ return [
 	'delete-account-confirm-text1' => ////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		If you proceed, we will erase all your uploaded content, including documents, images, surveys, and recordings. Please note that we won&apos;t be able to restore your account or any of your data after this action.
+		If you proceed, we will erase all your uploaded content, including documents, images, surveys, and recordings. Please note that we won‘t be able to restore your account or any of your data after this action.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-account-confirm-text2' => ////////////////////////////////////////////////////
@@ -3891,7 +3891,7 @@ return [
 	'do-not-receive' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Please check your Spam/Junk or More &raquo; Categories &raquo; Social, Updates, and Promotions folders if you don&apos;t receive the verification message within a few minutes of signing up. Remember to click "Not Spam" to allow future notifications to go through. This will ensure that subsequent messages are delivered directly to the Inbox folder.
+		Please check your Spam/Junk or More &raquo; Categories &raquo; Social, Updates, and Promotions folders if you don‘t receive the verification message within a few minutes of signing up. Remember to click “Not Spam“ to allow future notifications to go through. This will ensure that subsequent messages are delivered directly to the Inbox folder.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'not-receive-message-then' => ////////////////////////////////////////////////////////
@@ -4131,7 +4131,7 @@ return [
 	'will-be-link-title' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Button "I will attend"
+		Button “I will attend“
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-be-link-desc' => ///////////////////////////////////////////////////////////////
@@ -4143,7 +4143,7 @@ return [
 	'will-not-be-link-title' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Button "Next time"
+		Button “Next time“
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-not-be-link-desc' => ///////////////////////////////////////////////////////////
@@ -4155,7 +4155,7 @@ return [
 	'unsubscribe-link-title' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Button "Unsubscribe"
+		Button “Unsubscribe“
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'unsubscribe-link-desc' => ///////////////////////////////////////////////////////////
@@ -4361,7 +4361,7 @@ return [
 	'
 		<b>Free account</b><br/>
 		&middot; <u>Non-commercial use only</u><br/>
-		&middot; MyOwnConference logo on all moderator&apos;s webcam<br/>
+		&middot; MyOwnConference logo on all moderator‘s webcam<br/>
 		&middot; 2 presenters at once (but each participant can speak in turn)<br/>
 		&middot; 20 subscribers when importing for invitations<br/>
 		&middot; 20 attendees at the same time at the event<br/>
@@ -4501,7 +4501,7 @@ return [
 	'paypal-deactivate-alert' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		To turn off the acceptance of payments for the event, you&apos;ll need to refund attendees who have paid to participate.
+		To turn off the acceptance of payments for the event, you‘ll need to refund attendees who have paid to participate.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'paypal-refund-text' => //////////////////////////////////////////////////////////////

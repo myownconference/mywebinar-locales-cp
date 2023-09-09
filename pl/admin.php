@@ -75,19 +75,19 @@ return [
 	'register-title' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Zarejestruj się<br/><sub>aby prowadzić własne webinary</sub>
+		Zarejestruj się<br><sub>aby prowadzić własne webinary</sub>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'register-login' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Prowadź własne webinary z nami!<br/>Zarejestruj się teraz
+		Prowadź własne webinary z nami!<br>Zarejestruj się teraz
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sign-in-login' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Jestem już zerejestrowany<br/>Wejśc do panelu klienta
+		Jestem już zerejestrowany<br>Wejśc do panelu klienta
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-button' => ////////////////////////////////////////////////////////////////////
@@ -1449,7 +1449,7 @@ return [
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Na dzisiaj nie zaplanowano żadnych webinarów.<br/><br/>O planowaniu webinarow można dowiedzieć się <a href="https://myownconference.com/blog/pl/krok-po-kroku/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">tutaj</a> a wideo tutoriale można obejrzeć <a href="https://myownconference.com/pl/help/article/jak-zaplanowac-webinar-k99b78/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">tu</a>.
+		Na dzisiaj nie zaplanowano żadnych webinarów.<br><br>O planowaniu webinarow można dowiedzieć się <a href="https://myownconference.com/blog/pl/krok-po-kroku/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">tutaj</a> a wideo tutoriale można obejrzeć <a href="https://myownconference.com/pl/help/article/jak-zaplanowac-webinar-k99b78/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">tu</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////
@@ -2463,7 +2463,7 @@ return [
 	'import-placeholder' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Email, np. "adam@kowalski.com"; Imię i nazwisko, np. "Adam Kovalski"<br/><br/>Na przykład:<br/>–––<br/>"adam.kowalski@gmail.com";"Adam Kowalski"<br/>"joana@smith.com";"Joanna Smith"<br/>...<br/>"smith.john@icloud.com";"Smith John"<br/>–––
+		Email, np. "adam@kowalski.com"; Imię i nazwisko, np. "Adam Kovalski"<br><br>Na przykład:<br>–––<br>"adam.kowalski@gmail.com";"Adam Kowalski"<br>"joana@smith.com";"Joanna Smith"<br>...<br>"smith.john@icloud.com";"Smith John"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'choose-data-type' => ////////////////////////////////////////////////////////////////
@@ -3153,7 +3153,7 @@ return [
 	'send-one-mod-invite' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Zaproś <b>%S</b> na webinar<br/><br/><b>%D</b>
+		Zaproś <b>%S</b> na webinar<br><br><b>%D</b>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-one-guest-invite' => ///////////////////////////////////////////////////////////
@@ -3909,7 +3909,7 @@ return [
 	'do-not-receive' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Jeśli nie odebrałeś od nas maila w sprawie logowania po kilku minutach od rejestracji, sprawdź koniecznie wiadomości <b>Spam/Junk</b>, <b>Więcej – Kategorie – Społeczności, Powiadomienia, Oferty</b>.<br/><br/><span style="font-size:0.14rem;">Być może informacja trafiła do folderu <b>Spamu</b>, a nie do <b>Odebranych</b>.<br/><br/>W takim przypadku zaznacz opcję <b>To nie jest spam</b>, aby kolejne wiadomości mogły trafić do folderu <b>Odebrane</b> skrzynki odbiorczej.</span>
+		Jeśli nie odebrałeś od nas maila w sprawie logowania po kilku minutach od rejestracji, sprawdź koniecznie wiadomości <b>Spam/Junk</b>, <b>Więcej – Kategorie – Społeczności, Powiadomienia, Oferty</b>.<br><br><span style="font-size:0.14rem;">Być może informacja trafiła do folderu <b>Spamu</b>, a nie do <b>Odebranych</b>.<br><br>W takim przypadku zaznacz opcję <b>To nie jest spam</b>, aby kolejne wiadomości mogły trafić do folderu <b>Odebrane</b> skrzynki odbiorczej.</span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'not-receive-message-then' => ////////////////////////////////////////////////////////
@@ -4270,7 +4270,7 @@ return [
 	'room-mail-default-footer' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Z poważaniem,<br/>__from_name__</strong>
+		<strong>Z poważaniem,<br>__from_name__</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-footer-desc' => ///////////////////////////////////////////////////////////
@@ -4381,17 +4381,17 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>Bezpłatne konto</b><br/>
-		– <u>Nie jest przeznaczony do użytku komercyjnego</u><br/>
-		– Nasze logo jest na kamerach prelegentów<br/>
-		– 2 włączone kamery jednocześnie (każdy uczestnik może mówić po kolei)<br/>
-		– Dodawanie 20 osób podczas importowania kontaktów<br/>
-		– Łącznie 20 uczestników na równoległych webinarach<br/>
-		– 20 minut nagrania jednego webinaru (jakość 480p i 720p)<br/>
-		– Zabronione udostępnianie linku do nagrań z webinaru<br/>
-		– Zakaz brandingu webinarów i zaproszeń<br/>
-		– Brak personalizacji domeny w linkach<br/>
-		– 1 GB miejsca na pliki i nagrania<br/>
+		<b>Bezpłatne konto</b><br>
+		– <u>Nie jest przeznaczony do użytku komercyjnego</u><br>
+		– Nasze logo jest na kamerach prelegentów<br>
+		– 2 włączone kamery jednocześnie (każdy uczestnik może mówić po kolei)<br>
+		– Dodawanie 20 osób podczas importowania kontaktów<br>
+		– Łącznie 20 uczestników na równoległych webinarach<br>
+		– 20 minut nagrania jednego webinaru (jakość 480p i 720p)<br>
+		– Zabronione udostępnianie linku do nagrań z webinaru<br>
+		– Zakaz brandingu webinarów i zaproszeń<br>
+		– Brak personalizacji domeny w linkach<br>
+		– 1 GB miejsca na pliki i nagrania<br>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'package-oneday-alert-text' => ///////////////////////////////////////////////////////
@@ -4763,7 +4763,7 @@ return [
 	'admin-login-desc' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Aby ponownie zalogować się na konto osobiste, kliknij link z otrzymanej wcześniej wiadomości mailowej.<br/><br/>Jeśli zgubiłeś lub omyłkowo usunąłeś list, skontaktuj się z osobą, która zapewniła Ci dostęp.
+		Aby ponownie zalogować się na konto osobiste, kliknij link z otrzymanej wcześniej wiadomości mailowej.<br><br>Jeśli zgubiłeś lub omyłkowo usunąłeś list, skontaktuj się z osobą, która zapewniła Ci dostęp.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-again' => //////////////////////////////////////////////////////////////////////
@@ -5202,13 +5202,13 @@ return [
 	'import-bot-placeholder' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nazwa bota, np. "Adam Kowalski"; Kraj, np. "PL"<br/><br/>Na przykład:<br/>–––<br/>"Adam Kowalski";"PL"<br/>"Mark Cell";"PL"<br/>...<br/>"Joan Limber";"DK"<br/>–––
+		Nazwa bota, np. "Adam Kowalski"; Kraj, np. "PL"<br><br>Na przykład:<br>–––<br>"Adam Kowalski";"PL"<br>"Mark Cell";"PL"<br>...<br>"Joan Limber";"DK"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-chat-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Czas wydarzenia, np. "+00:10:23"; Typ autora, np. "M" or "G"; Od nazwy, np. "Adam Kowalski"; Kraj, np. "PL"; Wiadomość, np. "blah-blah-blah"<br/><br/>Na przykład:<br/>–––<br/>"+00:12:15";"G";"Adam Kowalski";"PL";"Hello! It is first message!"<br/>"+00:15:13";"G";"Adam Kowalski";"PL";"This is my second message."<br/>...<br/>"+01:12:45";"G";"Adam Kowalski";"PL";"This is my last message. Bye!"<br/>–––
+		Czas wydarzenia, np. "+00:10:23"; Typ autora, np. "M" or "G"; Od nazwy, np. "Adam Kowalski"; Kraj, np. "PL"; Wiadomość, np. "blah-blah-blah"<br><br>Na przykład:<br>–––<br>"+00:12:15";"G";"Adam Kowalski";"PL";"Hello! It is first message!"<br>"+00:15:13";"G";"Adam Kowalski";"PL";"This is my second message."<br>...<br>"+01:12:45";"G";"Adam Kowalski";"PL";"This is my last message. Bye!"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-cta-placeholder' => //////////////////////////////////////////////////////////
@@ -5406,7 +5406,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Możesz wybrać dogodną dla siebie metodę płatności w zakładce “Profil“. Oferujemy płatności kartami płatniczymi i PayPal, pieniędzmi elektronicznymi i kryptowalutami, takimi jak BTC, ETC, LTC, BNB i TRX.<br/><br/><a href="https://myownconference.com/pl/refund-policy/" target="_blank" rel="noopener noreferrer"><small><u>Proszę zapoznać się z polityką zwrotów na platformie</u></small></a>
+		Możesz wybrać dogodną dla siebie metodę płatności w zakładce “Profil“. Oferujemy płatności kartami płatniczymi i PayPal, pieniędzmi elektronicznymi i kryptowalutami, takimi jak BTC, ETC i USDT.<br><br><a href="https://myownconference.com/pl/refund-policy/" target="_blank" rel="noopener noreferrer"><small><u>Proszę zapoznać się z polityką zwrotów na platformie</u></small></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

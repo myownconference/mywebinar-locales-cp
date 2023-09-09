@@ -75,19 +75,19 @@ return [
 	'register-title' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Registrati gratuitamente<br/><sub>per ospitare eventi dal vivo</sub>
+		Registrati gratuitamente<br><sub>per ospitare eventi dal vivo</sub>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'register-login' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vuoi ospitare eventi dal vivo?<br/>Registrati gratuitamente per iniziare
+		Vuoi ospitare eventi dal vivo?<br>Registrati gratuitamente per iniziare
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sign-in-login' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Hai già un account?<br/>Accedi qui
+		Hai già un account?<br>Accedi qui
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-button' => ////////////////////////////////////////////////////////////////////
@@ -1449,7 +1449,7 @@ return [
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Non hai nessun evento in programma per oggi.<br/><br/>Leggi <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">di più qui</a> o guarda il <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">video tutorial</a>.
+		Non hai nessun evento in programma per oggi.<br><br>Leggi <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">di più qui</a> o guarda il <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">video tutorial</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////
@@ -2463,7 +2463,7 @@ return [
 	'import-placeholder' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Email, es. "mario@rossi.com"; Nome e cognome, es. "Mario Rossi"<br/><br/>Ad esempio:<br/>–––<br/>"mario.rossi@gmail.com";"Mario Rossi"<br/>"joana@smith.com";"Joanna Smith"<br/>...<br/>"mario.rossi@icloud.com";"Rossi Mario"<br/>–––
+		Email, es. "mario@rossi.com"; Nome e cognome, es. "Mario Rossi"<br><br>Ad esempio:<br>–––<br>"mario.rossi@gmail.com";"Mario Rossi"<br>"joana@smith.com";"Joanna Smith"<br>...<br>"mario.rossi@icloud.com";"Rossi Mario"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'choose-data-type' => ////////////////////////////////////////////////////////////////
@@ -2649,7 +2649,7 @@ return [
 	'automatic-notifycation' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Attenzione: Email automatiche!
+		Attenzione, email automatiche!
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attention' => ///////////////////////////////////////////////////////////////////////
@@ -3147,7 +3147,7 @@ return [
 	'send-one-mod-invite' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Invia invito a <b>%S</b> per l‘evento<br/><br/><b>%D</b>
+		Invia invito a <b>%S</b> per l‘evento<br><br><b>%D</b>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-one-guest-invite' => ///////////////////////////////////////////////////////////
@@ -3879,7 +3879,7 @@ return [
 	'register-success-2' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<br/><br/>Controlla la tua casella di posta, così come le cartelle aggiornamenti, spam o posta indesiderata per ricevere le informazioni di accesso.
+		<br><br>Controlla la tua casella di posta, così come le cartelle aggiornamenti, spam o posta indesiderata per ricevere le informazioni di accesso.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'do-not-receive' => //////////////////////////////////////////////////////////////////
@@ -4245,7 +4245,7 @@ return [
 	'room-mail-default-footer' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Cordiali saluti,<br/>__from_name__</strong>
+		<strong>Cordiali saluti,<br>__from_name__</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-footer-desc' => ///////////////////////////////////////////////////////////
@@ -4353,17 +4353,17 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>Account gratuito</b><br/>
-		– <u>Solo per uso non commerciale</u><br/>
-		– Logo MyOwnConference su tutte le webcam del moderatore<br/>
-		– 2 presentatori contemporaneamente (ma ogni partecipante può parlare a turno)<br/>
-		– 20 iscritti durante l‘importazione per gli inviti<br/>
-		– 20 partecipanti contemporaneamente all‘evento<br/>
-		– 20 minuti di registrazione (qualità 480p e 720p)<br/>
-		– È proibito condividere il link delle registrazioni<br/>
-		– È proibito modificare il marchio in bianco<br/>
-		– Nessuna opzione di dominio personalizzato<br/>
-		– 1 GB di spazio di archiviazione<br/>
+		<b>Account gratuito</b><br>
+		– <u>Solo per uso non commerciale</u><br>
+		– Logo MyOwnConference su tutte le webcam del moderatore<br>
+		– 2 presentatori contemporaneamente (ma ogni partecipante può parlare a turno)<br>
+		– 20 iscritti durante l‘importazione per gli inviti<br>
+		– 20 partecipanti contemporaneamente all‘evento<br>
+		– 20 minuti di registrazione (qualità 480p e 720p)<br>
+		– È proibito condividere il link delle registrazioni<br>
+		– È proibito modificare il marchio in bianco<br>
+		– Nessuna opzione di dominio personalizzato<br>
+		– 1 GB di spazio di archiviazione<br>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'package-oneday-alert-text' => ///////////////////////////////////////////////////////
@@ -4735,7 +4735,7 @@ return [
 	'admin-login-desc' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Utilizza il link di accesso ricevuto nell‘invito per tornare al cruscotto.<br/><br/>Contatta il proprietario dell‘account se hai perso o cancellato l‘invito con il link di accesso.
+		Utilizza il link di accesso ricevuto nell‘invito per tornare al cruscotto.<br><br>Contatta il proprietario dell‘account se hai perso o cancellato l‘invito con il link di accesso.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-again' => //////////////////////////////////////////////////////////////////////
@@ -5173,13 +5173,13 @@ return [
 	'import-bot-placeholder' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nome del bot, ad es. "Mario Rossi"; Paese, ad es. "IT"<br/><br/>Per esempio:<br/>–––<br/>"Giovanni Bianchi";"IT"<br/>"Marco Cellini";"IT"<br/>...<br/>"Giulia Leggero";"DK"<br/>–––
+		Nome del bot, ad es. "Mario Rossi"; Paese, ad es. "IT"<br><br>Per esempio:<br>–––<br>"Giovanni Bianchi";"IT"<br>"Marco Cellini";"IT"<br>...<br>"Giulia Leggero";"DK"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-chat-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ora dell‘evento, ad es. "+00:10:23"; Tipo di autore, ad es. "M" o "G"; Da nome, ad es. "Mario Rossi"; Paese, ad es. "IT"; Messaggio, ad es. "bla-bla-bla"<br/><br/>Per esempio:<br/>–––<br/>"+00:12:15";"G";"Giovanni Bianchi";"IT";"Ciao! Questo è il primo messaggio!"<br/>"+00:15:13";"G";"Giovanni Bianchi";"IT";"Questo è il mio secondo messaggio."<br/>...<br/>"+01:12:45";"G";"Giovanni Bianchi";"IT";"Questo è il mio ultimo messaggio. Ciao!"<br/>–––
+		Ora dell‘evento, ad es. "+00:10:23"; Tipo di autore, ad es. "M" o "G"; Da nome, ad es. "Mario Rossi"; Paese, ad es. "IT"; Messaggio, ad es. "bla-bla-bla"<br><br>Per esempio:<br>–––<br>"+00:12:15";"G";"Giovanni Bianchi";"IT";"Ciao! Questo è il primo messaggio!"<br>"+00:15:13";"G";"Giovanni Bianchi";"IT";"Questo è il mio secondo messaggio."<br>...<br>"+01:12:45";"G";"Giovanni Bianchi";"IT";"Questo è il mio ultimo messaggio. Ciao!"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-cta-placeholder' => //////////////////////////////////////////////////////////
@@ -5377,7 +5377,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Puoi scegliere un metodo di pagamento più adatto dalla sezione Profilo. Accettiamo pagamenti con carte di credito o debito, PayPal, moneta elettronica e criptovalute come BTC, ETH e USDT.<br/><br/><a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer"><small><u>Si prega di leggere la politica di rimborso della piattaforma</u></small></a>
+		Puoi scegliere un metodo di pagamento più adatto dalla sezione Profilo. Accettiamo pagamenti con carte di credito o debito, PayPal, moneta elettronica e criptovalute come BTC, ETH e USDT.<br><br><a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer"><small><u>Si prega di leggere la politica di rimborso della piattaforma</u></small></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

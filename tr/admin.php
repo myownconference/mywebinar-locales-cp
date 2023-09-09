@@ -75,19 +75,19 @@ return [
 	'register-title' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ücretsiz kayıt ol<br/><sub>canlı etkinlikler düzenlemek için</sub>
+		Ücretsiz kayıt ol<br><sub>canlı etkinlikler düzenlemek için</sub>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'register-login' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Canlı etkinlikler düzenlemek ister misiniz?<br/>Ücretsiz kayıt olun
+		Canlı etkinlikler düzenlemek ister misiniz?<br>Ücretsiz kayıt olun
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sign-in-login' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bir hesabınız zaten var mı?<br/>Buradan giriş yapın
+		Bir hesabınız zaten var mı?<br>Buradan giriş yapın
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-button' => ////////////////////////////////////////////////////////////////////
@@ -1371,7 +1371,7 @@ return [
 	'package-will-be-active' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		(01:00 a.m.‘de etkinleştir)
+		(01:00 de etkinleştir)
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'package-will-be-active-today' => ////////////////////////////////////////////////////
@@ -1449,7 +1449,7 @@ return [
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bugün için planlanmış herhangi bir webinarınız bulunmamaktadır.<br/><br/>Daha fazlası için <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">buradan</a> okuyun veya <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">video rehberini</a> izleyin.
+		Bugün için planlanmış herhangi bir webinarınız bulunmamaktadır.<br><br>Daha fazlası için <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">buradan</a> okuyun veya <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">video rehberini</a> izleyin.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////
@@ -2463,7 +2463,7 @@ return [
 	'import-placeholder' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		E-posta, örn. "ahmet@yilmaz.com"; İsim ve soyisim, örn. "Ahmet Yılmaz"<br/><br/>Örnek:<br/>–––<br/>"john.doe@gmail.com";"Ahmet Yılmaz"<br/>"joana@smith.com";"Joanna Smith"<br/>...<br/>"smith.john@icloud.com";"Smith John"<br/>–––
+		E-posta, örn. "ahmet@yilmaz.com"; İsim ve soyisim, örn. "Ahmet Yılmaz"<br><br>Örnek:<br>–––<br>"john.doe@gmail.com";"Ahmet Yılmaz"<br>"joana@smith.com";"Joanna Smith"<br>...<br>"smith.john@icloud.com";"Smith John"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'choose-data-type' => ////////////////////////////////////////////////////////////////
@@ -2649,7 +2649,7 @@ return [
 	'automatic-notifycation' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Dikkat: Otomatik e-postalar!
+		Dikkat, otomatik e-postalar!
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attention' => ///////////////////////////////////////////////////////////////////////
@@ -3147,7 +3147,7 @@ return [
 	'send-one-mod-invite' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Web semineri için <b>%S</b>‘e davetiye gönder<br/><br/><b>%D</b>
+		Web semineri için <b>%S</b>‘e davetiye gönder<br><br><b>%D</b>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-one-guest-invite' => ///////////////////////////////////////////////////////////
@@ -3879,7 +3879,7 @@ return [
 	'register-success-2' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<br/><br/>Lütfen giriş bilgilerini almak için gelen kutunuzu ve güncellemelerinizi, gereksiz veya istenmeyen klasörlerinizi kontrol edin.
+		<br><br>Lütfen giriş bilgilerini almak için gelen kutunuzu ve güncellemelerinizi, gereksiz veya istenmeyen klasörlerinizi kontrol edin.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'do-not-receive' => //////////////////////////////////////////////////////////////////
@@ -4245,7 +4245,7 @@ return [
 	'room-mail-default-footer' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Saygılarımla,<br/>__from_name__</strong>
+		<strong>Saygılarımla,<br>__from_name__</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-footer-desc' => ///////////////////////////////////////////////////////////
@@ -4353,17 +4353,17 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>Ücretsiz hesap</b><br/>
-		– <u>Sadece ticari olmayan kullanım</u><br/>
-		– Moderatörün web kamerasındaki MyOwnConference logosu<br/>
-		– Aynı anda 2 sunucu (ancak her katılımcı sırayla konuşabilir)<br/>
-		– Davetiyeler için içe aktarma yaparken 20 abone<br/>
-		– Webinerleri aynı anda 20 katılımcı<br/>
-		– 20 dakika kayıt (kalite 480p ve 720p)<br/>
-		– Kayıtların paylaşım bağlantısı yasaktır<br/>
-		– Beyaz markalama değişiklikleri yasaktır<br/>
-		– Özel alan adı seçeneği yok<br/>
-		– 1 GB depolama alanı<br/>
+		<b>Ücretsiz hesap</b><br>
+		– <u>Sadece ticari olmayan kullanım</u><br>
+		– Moderatörün web kamerasındaki MyOwnConference logosu<br>
+		– Aynı anda 2 sunucu (ancak her katılımcı sırayla konuşabilir)<br>
+		– Davetiyeler için içe aktarma yaparken 20 abone<br>
+		– Webinerleri aynı anda 20 katılımcı<br>
+		– 20 dakika kayıt (kalite 480p ve 720p)<br>
+		– Kayıtların paylaşım bağlantısı yasaktır<br>
+		– Beyaz markalama değişiklikleri yasaktır<br>
+		– Özel alan adı seçeneği yok<br>
+		– 1 GB depolama alanı<br>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'package-oneday-alert-text' => ///////////////////////////////////////////////////////
@@ -4735,7 +4735,7 @@ return [
 	'admin-login-desc' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Lütfen kontrol paneline geri dönmek için alınan davetiyedeki erişim bağlantısını kullanın.<br/><br/>Erişim bağlantısıyla davetiye kayboldu veya silindiyseniz, hesap sahibiyle iletişime geçin.
+		Lütfen kontrol paneline geri dönmek için alınan davetiyedeki erişim bağlantısını kullanın.<br><br>Erişim bağlantısıyla davetiye kayboldu veya silindiyseniz, hesap sahibiyle iletişime geçin.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-again' => //////////////////////////////////////////////////////////////////////
@@ -5173,13 +5173,13 @@ return [
 	'import-bot-placeholder' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bot adı, örn. "Ahmet Yılmaz"; Ülke, örneğin "GB"<br/><br/>Örnek:<br/>–––<br/>"Ahmet Yılmaz";"GB"<br/>"Mark Cell";"GB"<br/>...<br/>"Joan Limber";"DK"<br/>–––
+		Bot adı, örn. "Ahmet Yılmaz"; Ülke, örneğin "GB"<br><br>Örnek:<br>–––<br>"Ahmet Yılmaz";"GB"<br>"Mark Cell";"GB"<br>...<br>"Joan Limber";"DK"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-chat-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar zamanı, örn. "+00:10:23"; Yazar tipi, örneğin "M" veya "G"; Kimden, örneğin "Ahmet Yılmaz"; Ülke, örneğin "TR"; Mesaj, örneğin "blah-blah-blah"<br/><br/>Örnek:<br/>–––<br/>"+00:12:15";"G";"Ahmet Yılmaz";"TR";"Merhaba! İlk mesajım bu!"<br/>"+00:15:13";"G";"Ahmet Yılmaz";"TR";"Bu da ikinci mesajım."<br/>...<br/>"+01:12:45";"G";"Ahmet Yılmaz";"TR";"Son mesajım. Hoşça kal!"<br/>–––
+		Webinar zamanı, örn. "+00:10:23"; Yazar tipi, örneğin "M" veya "G"; Kimden, örneğin "Ahmet Yılmaz"; Ülke, örneğin "TR"; Mesaj, örneğin "blah-blah-blah"<br><br>Örnek:<br>–––<br>"+00:12:15";"G";"Ahmet Yılmaz";"TR";"Merhaba! İlk mesajım bu!"<br>"+00:15:13";"G";"Ahmet Yılmaz";"TR";"Bu da ikinci mesajım."<br>...<br>"+01:12:45";"G";"Ahmet Yılmaz";"TR";"Son mesajım. Hoşça kal!"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-cta-placeholder' => //////////////////////////////////////////////////////////
@@ -5377,7 +5377,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Daha uygun bir ödeme yöntemi seçebilirsiniz. Kredi veya banka kartları, PayPal, elektronik para ve BTC, ETH, LTC, BNB ve TRX gibi kripto paralarla ödeme kabul ediyoruz.<br/><br/><a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer"><small><u>Lütfen platformun iade politikasını okuyun</u></small></a>
+		Daha uygun bir ödeme yöntemi seçebilirsiniz. Kredi veya banka kartları, PayPal, elektronik para ve BTC, ETH ve USDT gibi kripto paralarla ödeme kabul ediyoruz.<br><br><a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer"><small><u>Lütfen platformun iade politikasını okuyun</u></small></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

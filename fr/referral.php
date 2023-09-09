@@ -115,37 +115,37 @@ return [
 	'
 		<h3>Politique du programme de parrainage</h3>
 		<sup style="color:grey">(Dernière modification: 30 août 2022. Révision: 1.2)</sup>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
+		<br>
+		<br>
+		<br>
+		<br>
 		<p>
 			– Seuls les utilisateurs disposant d‘un compte MyOwnConference payant
 			peuvent participer au programme de parrainage. Si un compte payant devient
 			gratuit, aucune commission de parrainage ne sera perçue;
-			<br/><br/>
+			<br><br>
 			– Les envois en masse et le spam de liens de parrainage sont interdits;
-			<br/><br/>
+			<br><br>
 			– Il est interdit de créer plusieurs comptes MyOwnConference et de les
 			payer au moyen d‘un lien de parrainage;
-			<br/><br/>
+			<br><br>
 			– Il est interdit d‘insérer un lien de parrainage dans les annonces
 			de Google Ads, de Facebook Ads ou de tout autre compte publicitaire. Partagez
 			le lien de façon directe et individuelle;
-			<br/><br/>
+			<br><br>
 			– L‘envoi d‘un lien de parrainage pour le compte de MyOwnConference
 			est interdit;
-			<br/><br/>
+			<br><br>
 			– Les commission ne seront pas payés si les utilisateurs ne permettent
 			pas le stockage des cookies ou les effacent car nous n‘aurions plus la
 			possibilité de les suivre;
-			<br/><br/>
+			<br><br>
 			– Nous nous réservons le droit de modifier les termes et conditions,
 			ainsi que les règles du programme de parrainage , et ce à tout moment et
 			sans préavis. Des modifications pourront être apportées en ce qui concerne
 			les commissions du programme de parrainage, ainsi que toutes les autres
 			conditions du programme de parrainage;
-			<br/><br/>
+			<br><br>
 			<b>En cas de violation de ces conditions, nous gèlerons les fonds cumulés et
 			bloquerons votre compte.</b>
 		</p>

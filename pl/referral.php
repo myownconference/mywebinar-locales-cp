@@ -114,36 +114,36 @@ return [
 	'
 		<h3>Polityka programu partnerskiego</h3>
 		<sup style="color:grey">(Ostatnia wersja: 30 sierpnia 2022. Weryfikacja: 1.2)</sup>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
+		<br>
+		<br>
+		<br>
+		<br>
 		<p>
 			– W programie partnerskim mogą uczestniczyć tylko użytkownicy z płatnym
 			kontem MyOwnConference. Jeśli płatne konto stanie się bezpłatnym, program
 			partnerski nie będzie działać;
-			<br/><br/>
+			<br><br>
 			– Zabrania się wysyłania masowych mailingów i spamu wraz z linkiem
 			polecającym;
-			<br/><br/>
+			<br><br>
 			– Zabrania się tworzenia wielu kont w MyOwnConference i opłacania usług
 			za pomocą linku partnerskiego;
-			<br/><br/>
+			<br><br>
 			– Zabrania się wykorzystywania linku partnerskiego w reklamach Google Ads,
 			Facebook Ads lub na jakimkolwiek innym koncie reklamowym. Poszerzać link
 			można jedynie samodzielnie;
-			<br/><br/>
+			<br><br>
 			– Nie można wysyłać linku partnerskiego w imieniu MyOwnConference;
-			<br/><br/>
+			<br><br>
 			– Jeśli użytkownik, który skorzystał z Twojego linku, nie zezwoli na
 			pliki cookie lub wyczyści je, nie wypłacimy prowizji za polecenie tego
 			użytkownika;
-			<br/><br/>
+			<br><br>
 			– Serwis ma prawo do zmiany zasad działania programu partnerskiego w
 			dowolnym momencie i na własne żądanie, bez uprzedniego powiadomienia. Zmiany
 			te mogą dotyczyć wysokości naliczonych prowizji za program partnerski i
 			innych warunków programu partnerskiego;
-			<br/><br/>
+			<br><br>
 			<b>W przypadku naruszenia tych zasad Twoje środki, zebrane za pomocą programu
 			partnerskiego zostaną zamrożone, a Twoje konto zostanie zablokowane.</b>
 		</p>

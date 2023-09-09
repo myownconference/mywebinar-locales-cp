@@ -75,19 +75,19 @@ return [
 	'register-title' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Register for free<br/><sub>to host live events</sub>
+		Register for free<br><sub>to host live events</sub>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'register-login' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Want to host live events?<br/>Register for free to get started
+		Want to host live events?<br>Register for free to get started
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sign-in-login' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Already have an account?<br/>Sign in here
+		Already have an account?<br>Sign in here
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-button' => ////////////////////////////////////////////////////////////////////
@@ -1371,7 +1371,7 @@ return [
 	'package-will-be-active' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		(Activation at 01:00 a.m.)
+		(Activation at 01:00)
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'package-will-be-active-today' => ////////////////////////////////////////////////////
@@ -1449,7 +1449,7 @@ return [
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		You do not have any events scheduled for today.<br/><br/>Read <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">more here</a> or watch the <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">video tutorial</a>.
+		You do not have any events scheduled for today.<br><br>Read <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">more here</a> or watch the <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">video tutorial</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////
@@ -2463,7 +2463,7 @@ return [
 	'import-placeholder' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Email, e.g. "john@doe.com"; First and last name, e.g. "John Doe"<br/><br/>For example:<br/>–––<br/>"john.doe@gmail.com";"John Doe"<br/>"joana@smith.com";"Joanna Smith"<br/>...<br/>"smith.john@icloud.com";"Smith John"<br/>–––
+		Email, e.g. "john@doe.com"; First and last name, e.g. "John Doe"<br><br>For example:<br>–––<br>"john.doe@gmail.com";"John Doe"<br>"joana@smith.com";"Joanna Smith"<br>...<br>"smith.john@icloud.com";"Smith John"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'choose-data-type' => ////////////////////////////////////////////////////////////////
@@ -2649,7 +2649,7 @@ return [
 	'automatic-notifycation' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Attention: Automated emails!
+		Attention, automated emails!
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attention' => ///////////////////////////////////////////////////////////////////////
@@ -3147,7 +3147,7 @@ return [
 	'send-one-mod-invite' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Send invitation to <b>%S</b> for the event<br/><br/><b>%D</b>
+		Send invitation to <b>%S</b> for the event<br><br><b>%D</b>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-one-guest-invite' => ///////////////////////////////////////////////////////////
@@ -3879,7 +3879,7 @@ return [
 	'register-success-2' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<br/><br/>Please check your inbox, as well as your updates, junk, or spam folders to receive the login information.
+		<br><br>Please check your inbox, as well as your updates, junk, or spam folders to receive the login information.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'do-not-receive' => //////////////////////////////////////////////////////////////////
@@ -4245,7 +4245,7 @@ return [
 	'room-mail-default-footer' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Kind regards,<br/>__from_name__</strong>
+		<strong>Kind regards,<br>__from_name__</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-footer-desc' => ///////////////////////////////////////////////////////////
@@ -4353,17 +4353,17 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>Free account</b><br/>
-		– <u>Non-commercial use only</u><br/>
-		– MyOwnConference logo on all moderator‘s webcam<br/>
-		– 2 presenters at once (but each participant can speak in turn)<br/>
-		– 20 subscribers when importing for invitations<br/>
-		– 20 attendees at the same time at the event<br/>
-		– 20 minutes of recording (quality is 480p and 720p)<br/>
-		– Link share to the recordings is prohibited<br/>
-		– White branding changes is prohibited<br/>
-		– No custom domain option<br/>
-		– 1 GB of storage space<br/>
+		<b>Free account</b><br>
+		– <u>Non-commercial use only</u><br>
+		– MyOwnConference logo on all moderator‘s webcam<br>
+		– 2 presenters at once (but each participant can speak in turn)<br>
+		– 20 subscribers when importing for invitations<br>
+		– 20 attendees at the same time at the event<br>
+		– 20 minutes of recording (quality is 480p and 720p)<br>
+		– Link share to the recordings is prohibited<br>
+		– White branding changes is prohibited<br>
+		– No custom domain option<br>
+		– 1 GB of storage space<br>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'package-oneday-alert-text' => ///////////////////////////////////////////////////////
@@ -4735,7 +4735,7 @@ return [
 	'admin-login-desc' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Please use the access link from the received invitation to get back to the dashboard.<br/><br/>Contact the account owner if you lost or deleted the invitation with the access link.
+		Please use the access link from the received invitation to get back to the dashboard.<br><br>Contact the account owner if you lost or deleted the invitation with the access link.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-again' => //////////////////////////////////////////////////////////////////////
@@ -5173,13 +5173,13 @@ return [
 	'import-bot-placeholder' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bot name, e.g. "John Smith"; Country, e.g. "GB"<br/><br/>For example:<br/>–––<br/>"John Doe";"GB"<br/>"Mark Cell";"GB"<br/>...<br/>"Joan Limber";"DK"<br/>–––
+		Bot name, e.g. "John Smith"; Country, e.g. "GB"<br><br>For example:<br>–––<br>"John Doe";"GB"<br>"Mark Cell";"GB"<br>...<br>"Joan Limber";"DK"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-chat-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Event time, e.g. "+00:10:23"; Author type, e.g. "M" or "G"; From name, e.g. "John Smith"; Country, e.g. "GB"; Message, e.g. "blah-blah-blah"<br/><br/>For example:<br/>–––<br/>"+00:12:15";"G";"John Doe";"GB";"Hello! It is first message!"<br/>"+00:15:13";"G";"John Doe";"GB";"This is my second message."<br/>...<br/>"+01:12:45";"G";"John Doe";"GB";"This is my last message. Bye!"<br/>–––
+		Event time, e.g. "+00:10:23"; Author type, e.g. "M" or "G"; From name, e.g. "John Smith"; Country, e.g. "GB"; Message, e.g. "blah-blah-blah"<br><br>For example:<br>–––<br>"+00:12:15";"G";"John Doe";"GB";"Hello! It is first message!"<br>"+00:15:13";"G";"John Doe";"GB";"This is my second message."<br>...<br>"+01:12:45";"G";"John Doe";"GB";"This is my last message. Bye!"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-cta-placeholder' => //////////////////////////////////////////////////////////
@@ -5377,7 +5377,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		You can select a more suitable payment method from the Profile section. We accept payment by credit or debit cards, PayPal, electronic money, and cryptocurrencies like BTC, ETH, LTC, BNB, and TRX.<br/><br/><a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer"><small><u>Please read the refund policy of the platform</u></small></a>
+		You can select a more suitable payment method from the Profile section. We accept payment by credit or debit cards, PayPal, electronic money, and cryptocurrencies like BTC, ETH and USDT.<br><br><a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer"><small><u>Please read the refund policy of the platform</u></small></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

@@ -75,19 +75,19 @@ return [
 	'register-title' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kostenlos registrieren<br/><sub>um Live-Webinare zu veranstalten</sub>
+		Kostenlos registrieren<br><sub>um Live-Webinare zu veranstalten</sub>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'register-login' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Möchten Sie Live-Webinare veranstalten?<br/>Registrieren Sie sich kostenlos, um loszulegen
+		Möchten Sie Live-Webinare veranstalten?<br>Registrieren Sie sich kostenlos, um loszulegen
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sign-in-login' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sie haben bereits ein Konto?<br/>Melden Sie sich hier
+		Sie haben bereits ein Konto?<br>Melden Sie sich hier
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-button' => ////////////////////////////////////////////////////////////////////
@@ -1449,7 +1449,7 @@ return [
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sie haben heute keine geplanten Webinaren.<br/><br/>Lesen Sie <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">hier</a> mehr oder schauen Sie sich das <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">Video-Tutorial</a> an.
+		Sie haben heute keine geplanten Webinaren.<br><br>Lesen Sie <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">hier</a> mehr oder schauen Sie sich das <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">Video-Tutorial</a> an.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////
@@ -2463,7 +2463,7 @@ return [
 	'import-placeholder' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		E-Mail, z.B. "john@doe.com"; Vor- und Nachname, z.B. "John Doe"<br/><br/>Zum Beispiel:<br/>–––<br/>"john.doe@gmail.com";"John Doe"<br/>"joana@smith.com";"Joanna Smith"<br/>...<br/>"smith.john@icloud.com";"Smith John"<br/>–––
+		E-Mail, z.B. "john@doe.com"; Vor- und Nachname, z.B. "John Doe"<br><br>Zum Beispiel:<br>–––<br>"john.doe@gmail.com";"John Doe"<br>"joana@smith.com";"Joanna Smith"<br>...<br>"smith.john@icloud.com";"Smith John"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'choose-data-type' => ////////////////////////////////////////////////////////////////
@@ -3147,7 +3147,7 @@ return [
 	'send-one-mod-invite' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Einladung senden an <b>%S</b> für das Webinar<br/><br/><b>%D</b>
+		Einladung senden an <b>%S</b> für das Webinar<br><br><b>%D</b>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-one-guest-invite' => ///////////////////////////////////////////////////////////
@@ -3879,7 +3879,7 @@ return [
 	'register-success-2' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<br/><br/>Bitte überprüfen Sie Ihren Posteingang (oder Updates/Junk/Spam), um die Anmeldeinformationen zu erhalten.
+		<br><br>Bitte überprüfen Sie Ihren Posteingang (oder Updates/Junk/Spam), um die Anmeldeinformationen zu erhalten.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'do-not-receive' => //////////////////////////////////////////////////////////////////
@@ -4245,7 +4245,7 @@ return [
 	'room-mail-default-footer' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Mit freundlichen Grüßen,<br/>__from_name__</strong>
+		<strong>Mit freundlichen Grüßen,<br>__from_name__</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-footer-desc' => ///////////////////////////////////////////////////////////
@@ -4353,17 +4353,17 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>Kostenloses Konto</b><br/>
-		– <u>Nur für nichtkommerzielle Nutzung</u><br/>
-		– MyOwnConference-Logo auf allen Moderator-Webcams<br/>
-		– 2 Kameras gleichzeitig (aber jeder Teilnehmer kann der Reihe nach sprechen)<br/>
-		– 20 Abonnenten beim Importieren von Einladungen<br/>
-		– 20 Teilnehmer gleichzeitig im Webinar<br/>
-		– 20 Minuten Aufnahmezeit (Qualität ist 480p und 720p)<br/>
-		– Linkfreigabe für Aufzeichnungen ist untersagt<br/>
-		– Weiße Branding-Änderungen sind untersagt<br/>
-		– Keine Option für individuelle Domains<br/>
-		– 1 GB Speicherplatz<br/>
+		<b>Kostenloses Konto</b><br>
+		– <u>Nur für nichtkommerzielle Nutzung</u><br>
+		– MyOwnConference-Logo auf allen Moderator-Webcams<br>
+		– 2 Kameras gleichzeitig (aber jeder Teilnehmer kann der Reihe nach sprechen)<br>
+		– 20 Abonnenten beim Importieren von Einladungen<br>
+		– 20 Teilnehmer gleichzeitig im Webinar<br>
+		– 20 Minuten Aufnahmezeit (Qualität ist 480p und 720p)<br>
+		– Linkfreigabe für Aufzeichnungen ist untersagt<br>
+		– Weiße Branding-Änderungen sind untersagt<br>
+		– Keine Option für individuelle Domains<br>
+		– 1 GB Speicherplatz<br>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'package-oneday-alert-text' => ///////////////////////////////////////////////////////
@@ -4735,7 +4735,7 @@ return [
 	'admin-login-desc' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bitte benutzen Sie den Zugangslink aus der erhaltenen Einladung, um zum Dashboard zurückzukehren.<br/><br/>Kontaktieren Sie den Kontoinhaber, wenn Sie die Einladung mit dem Zugangslink verloren oder gelöscht haben.
+		Bitte benutzen Sie den Zugangslink aus der erhaltenen Einladung, um zum Dashboard zurückzukehren.<br><br>Kontaktieren Sie den Kontoinhaber, wenn Sie die Einladung mit dem Zugangslink verloren oder gelöscht haben.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-again' => //////////////////////////////////////////////////////////////////////
@@ -5173,13 +5173,13 @@ return [
 	'import-bot-placeholder' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bot-Name, z.B. "John Smith"; Land, z.B. "DE"<br/><br/>Beispiel:<br/>–––<br/>"John Doe";"DE"<br/>"Mark Cell";"DE"<br/>...<br/>"Joan Limber";"DK"<br/>–––
+		Bot-Name, z.B. "John Smith"; Land, z.B. "DE"<br><br>Beispiel:<br>–––<br>"John Doe";"DE"<br>"Mark Cell";"DE"<br>...<br>"Joan Limber";"DK"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-chat-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinarzeit, z.B. "+00:10:23"; Autorentyp, z.B. "M" oder "G"; Absendername, z.B. "John Smith"; Land, z.B. "DE"; Nachricht, z.B. "blah-blah-blah"<br/><br/>Beispiel:<br/>–––<br/>"+00:12:15";"G";"John Doe";"DE";"Hallo! Das ist die erste Nachricht!"<br/>"+00:15:13";"G";"John Doe";"DE";"Dies ist meine zweite Nachricht."<br/>...<br/>"+01:12:45";"G";"John Doe";"DEDas ist meine letzte Nachricht. Tschüss!"<br/>–––
+		Webinarzeit, z.B. "+00:10:23"; Autorentyp, z.B. "M" oder "G"; Absendername, z.B. "John Smith"; Land, z.B. "DE"; Nachricht, z.B. "blah-blah-blah"<br><br>Beispiel:<br>–––<br>"+00:12:15";"G";"John Doe";"DE";"Hallo! Das ist die erste Nachricht!"<br>"+00:15:13";"G";"John Doe";"DE";"Dies ist meine zweite Nachricht."<br>...<br>"+01:12:45";"G";"John Doe";"DEDas ist meine letzte Nachricht. Tschüss!"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-cta-placeholder' => //////////////////////////////////////////////////////////
@@ -5377,7 +5377,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sie können eine bessere Zahlungsmethode im Abschnitt Profil wählen. Sie können per Kredit- oder Debitkarte, PayPal, elektronischem Geld und Kryptowährungen wie BTC, ETH, LTC, BNB und TRX bezahlen.<br/><br/><a href="https://myownconference.com/de/refund-policy/" target="_blank" rel="noopener noreferrer"><small><u>Bitte lesen Sie die Rückerstattungsrichtlinien der Plattform</u></small></a>
+		Sie können eine bessere Zahlungsmethode im Abschnitt Profil wählen. Sie können per Kredit- oder Debitkarte, PayPal, elektronischem Geld und Kryptowährungen wie BTC, ETH und USDT bezahlen.<br><br><a href="https://myownconference.com/de/refund-policy/" target="_blank" rel="noopener noreferrer"><small><u>Bitte lesen Sie die Rückerstattungsrichtlinien der Plattform</u></small></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

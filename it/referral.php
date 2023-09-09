@@ -113,25 +113,25 @@ return [
 	'
 		<h3>Politica del programma di referenza</h3>
 		<sup style="color:grey">(Ultima modifica: 30 Agosto 2022. Revisione: 1.2)</sup>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
+		<br>
+		<br>
+		<br>
+		<br>
 		<p>
 			– Solo gli utenti con un account MyOwnConference a pagamento possono partecipare al programma di referenza. Se un account a pagamento diventa gratuito, non saranno applicate commissioni di referenza;
-			<br/><br/>
+			<br><br>
 			– È vietato l‘invio di mail in massa e lo spam con link di referenza;
-			<br/><br/>
+			<br><br>
 			– È vietato creare diversi account MyOwnConference e pagarli utilizzando un link di referenza;
-			<br/><br/>
+			<br><br>
 			– È proibito inserire il link di referenza negli annunci su Google Ads, Facebook Ads o qualsiasi altro account pubblicitario. Condividi il link personalmente;
-			<br/><br/>
+			<br><br>
 			– È proibito inviare un link di referenza a nome di MyOwnConference;
-			<br/><br/>
+			<br><br>
 			– La commissione non verrà pagata se gli utenti non permettono la conservazione dei cookies o li cancellano, poiché potremmo non avere la possibilità di tracciarli;
-			<br/><br/>
+			<br><br>
 			– Ci riserviamo il diritto di modificare i termini e le condizioni, così come le regole del programma di referenza, in qualsiasi momento senza preavviso. Queste modifiche possono riguardare la percentuale della commissione del programma di referenza, così come altre condizioni del programma di referenza;
-			<br/><br/>
+			<br><br>
 			<b>In caso di violazione di questi termini, congeliamo i tuoi fondi accumulati e blocchiamo il tuo account.</b>
 		</p>
 	',

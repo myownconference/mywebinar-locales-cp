@@ -115,35 +115,35 @@ return [
 	'
 		<h3>Política del programa de afiliados</h3>
 		<sup style="color:grey">(Última edición: Agosto 30, 2022. Revisión: 1.2)</sup>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
+		<br>
+		<br>
+		<br>
+		<br>
 		<p>
 			– Sólo los usuarios con una cuenta pagada de MyOwnConference pueden
 			participar en el programa de referencia. Si una cuenta de pago se convierte
 			en gratuita, no se harán cargos a los afiliados;
-			<br/><br/>
+			<br><br>
 			– Se prohíbe el envío masivo de correos y spam con el enlace de afiliado;
-			<br/><br/>
+			<br><br>
 			– Está prohibido crear varias cuentas MyOwnConference y pagarlas mediante
 			un enlace de afiliado;
-			<br/><br/>
+			<br><br>
 			– Comparta el enlace personalmente. Está prohibido insertar el enlace de
 			afiliado en anuncios, en Google Ads, Facebook Ads o cualquier otra cuenta de
 			anuncios;
-			<br/><br/>
+			<br><br>
 			– Está prohibido enviar un enlace de afiliado en nombre de MyOwnConference;
-			<br/><br/>
+			<br><br>
 			– La comisión no se pagará si los usuarios no permiten el almacenamiento
 			de las cookies o las borran porque podemos carecer de las posibilidades de
 			rastrearlas;
-			<br/><br/>
+			<br><br>
 			– Nos reservamos el derecho de modificar los términos y condiciones, así
 			como las reglas del programa de afiliados, en cualquier momento sin aviso
 			previo. Estos cambios pueden introducirse con relación al porcentaje de
 			comisión del programa de afiliados, así como otras condiciones del programa;
-			<br/><br/>
+			<br><br>
 			<b>En caso de violación de estos términos, se procederá a congelar sus fondos
 			acumulados y bloquear su cuenta.</b>
 		</p>

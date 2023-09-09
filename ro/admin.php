@@ -75,19 +75,19 @@ return [
 	'register-title' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Înregistrați-vă gratuit<br/><sub>pentru a găzdui evenimente live</sub>
+		Înregistrați-vă gratuit<br><sub>pentru a găzdui evenimente live</sub>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'register-login' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Dorești să găzduiești evenimente live?<br/>Înregistrează-te gratuit pentru a începe
+		Dorești să găzduiești evenimente live?<br>Înregistrează-te gratuit pentru a începe
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sign-in-login' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ai deja un cont?<br/>Conectează-te aici
+		Ai deja un cont?<br>Conectează-te aici
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-button' => ////////////////////////////////////////////////////////////////////
@@ -1449,7 +1449,7 @@ return [
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nu ai niciun eveniment programat pentru astăzi.<br/><br/>Citește <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">mai mult aici</a> sau urmărește <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">tutorialul video</a>.
+		Nu ai niciun eveniment programat pentru astăzi.<br><br>Citește <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">mai mult aici</a> sau urmărește <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">tutorialul video</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////
@@ -2463,7 +2463,7 @@ return [
 	'import-placeholder' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Email, de ex. "john@doe.com"; Prenume și nume de familie, de ex. "John Doe"<br/><br/>De exemplu:<br/>–––<br/>"john.doe@gmail.com";"John Doe"<br/>"joana@smith.com";"Joanna Smith"<br/>...<br/>"smith.john@icloud.com";"Smith John"<br/>–––
+		Email, de ex. "john@doe.com"; Prenume și nume de familie, de ex. "John Doe"<br><br>De exemplu:<br>–––<br>"john.doe@gmail.com";"John Doe"<br>"joana@smith.com";"Joanna Smith"<br>...<br>"smith.john@icloud.com";"Smith John"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'choose-data-type' => ////////////////////////////////////////////////////////////////
@@ -2649,7 +2649,7 @@ return [
 	'automatic-notifycation' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Atenție: Email-uri automate!
+		Atenție, email-uri automate!
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attention' => ///////////////////////////////////////////////////////////////////////
@@ -3147,7 +3147,7 @@ return [
 	'send-one-mod-invite' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Trimiteți invitație pentru <b>%S</b> la eveniment<br/><br/><b>%D</b>
+		Trimiteți invitație pentru <b>%S</b> la eveniment<br><br><b>%D</b>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-one-guest-invite' => ///////////////////////////////////////////////////////////
@@ -3879,7 +3879,7 @@ return [
 	'register-success-2' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<br/><br/>Te rugăm să verifici inbox-ul, dar și dosarele de actualizări, junk sau spam pentru a primi informațiile de autentificare.
+		<br><br>Te rugăm să verifici inbox-ul, dar și dosarele de actualizări, junk sau spam pentru a primi informațiile de autentificare.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'do-not-receive' => //////////////////////////////////////////////////////////////////
@@ -4245,7 +4245,7 @@ return [
 	'room-mail-default-footer' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Salutări cordiale,<br/>__from_name__</strong>
+		<strong>Salutări cordiale,<br>__from_name__</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-footer-desc' => ///////////////////////////////////////////////////////////
@@ -4353,17 +4353,17 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>Cont gratuit</b><br/>
-		– <u>Utilizare non-comercială</u><br/>
-		– Logo-ul MyOwnConference pe webcam-ul fiecărui moderator<br/>
-		– 2 prezentatori simultan (dar fiecare participant poate vorbi pe rând)<br/>
-		– 20 de abonați la importul pentru invitații<br/>
-		– 20 de participanți în același timp la eveniment<br/>
-		– 20 de minute de înregistrare (calitatea este 480p și 720p)<br/>
-		– Este interzis să distribuiți linkul către înregistrări<br/>
-		– Modificările pentru branding alb sunt interzise<br/>
-		– Fără opțiunea de domeniu personalizat<br/>
-		– 1 GB de spațiu de stocare<br/>
+		<b>Cont gratuit</b><br>
+		– <u>Utilizare non-comercială</u><br>
+		– Logo-ul MyOwnConference pe webcam-ul fiecărui moderator<br>
+		– 2 prezentatori simultan (dar fiecare participant poate vorbi pe rând)<br>
+		– 20 de abonați la importul pentru invitații<br>
+		– 20 de participanți în același timp la eveniment<br>
+		– 20 de minute de înregistrare (calitatea este 480p și 720p)<br>
+		– Este interzis să distribuiți linkul către înregistrări<br>
+		– Modificările pentru branding alb sunt interzise<br>
+		– Fără opțiunea de domeniu personalizat<br>
+		– 1 GB de spațiu de stocare<br>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'package-oneday-alert-text' => ///////////////////////////////////////////////////////
@@ -4735,7 +4735,7 @@ return [
 	'admin-login-desc' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vă rugăm să utilizați linkul de acces din invitația primită pentru a reveni la panoul de control.<br/><br/>Contactați proprietarul contului dacă ați pierdut sau șters invitația cu linkul de acces.
+		Vă rugăm să utilizați linkul de acces din invitația primită pentru a reveni la panoul de control.<br><br>Contactați proprietarul contului dacă ați pierdut sau șters invitația cu linkul de acces.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-again' => //////////////////////////////////////////////////////////////////////
@@ -5173,13 +5173,13 @@ return [
 	'import-bot-placeholder' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Numele botului, ex. "Ion Popescu"; Țara, ex. "RO"<br/><br/>De exemplu:<br/>–––<br/>"Ion Ionescu";"RO"<br/>"Marcu Cela";"RO"<br/>...<br/>"Ioana Limber";"DK"<br/>–––
+		Numele botului, ex. "Ion Popescu"; Țara, ex. "RO"<br><br>De exemplu:<br>–––<br>"Ion Ionescu";"RO"<br>"Marcu Cela";"RO"<br>...<br>"Ioana Limber";"DK"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-chat-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Timpul evenimentului, ex. "+00:10:23"; Tipul autorului, ex. "M" sau "G"; Numele, ex. "Ion Popescu"; Țara, ex. "RO"; Mesaj, ex. "bla-bla-bla"<br/><br/>De exemplu:<br/>–––<br/>"+00:12:15";"G";"Ion Ionescu";"RO";"Salut! Acesta este primul meu mesaj!"<br/>"+00:15:13";"G";"Ion Ionescu";"RO";"Acesta este al doilea meu mesaj."<br/>...<br/>"+01:12:45";"G";"Ion Ionescu";"RO";"Acesta este ultimul meu mesaj. La revedere!"<br/>–––
+		Timpul evenimentului, ex. "+00:10:23"; Tipul autorului, ex. "M" sau "G"; Numele, ex. "Ion Popescu"; Țara, ex. "RO"; Mesaj, ex. "bla-bla-bla"<br><br>De exemplu:<br>–––<br>"+00:12:15";"G";"Ion Ionescu";"RO";"Salut! Acesta este primul meu mesaj!"<br>"+00:15:13";"G";"Ion Ionescu";"RO";"Acesta este al doilea meu mesaj."<br>...<br>"+01:12:45";"G";"Ion Ionescu";"RO";"Acesta este ultimul meu mesaj. La revedere!"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-cta-placeholder' => //////////////////////////////////////////////////////////
@@ -5377,7 +5377,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Poți selecta o metodă de plată mai potrivită din secțiunea Profil. Acceptăm plata cu carduri de credit sau debit, PayPal, bani electronici și criptomonede precum BTC, ETH, LTC, BNB și TRX.<br/><br/><a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer"><small><u>Te rugăm să citești politica de rambursare a platformei</u></small></a>
+		Poți selecta o metodă de plată mai potrivită din secțiunea Profil. Acceptăm plata cu carduri de credit sau debit, PayPal, bani electronici și criptomonede precum BTC, ETH și USDT.<br><br><a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer"><small><u>Te rugăm să citești politica de rambursare a platformei</u></small></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

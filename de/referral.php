@@ -113,25 +113,25 @@ return [
 	'
 		<h3>Richtlinien für das Empfehlungsprogramm</h3>
 		<sup style="color:grey">(Zuletzt bearbeitet: 30. August 2022. Revision: 1.2)</sup>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
+		<br>
+		<br>
+		<br>
+		<br>
 		<p>
 			– Nur Benutzer mit einem bezahlten MyOwnConference-Konto können am Empfehlungsprogramm teilnehmen. Wenn ein bezahltes Konto kostenlos wird, werden keine Empfehlungsgebühren erhoben;
-			<br/><br/>
+			<br><br>
 			– Massenmails und Spam mit Empfehlungslinks sind verboten;
-			<br/><br/>
+			<br><br>
 			– Das Erstellen mehrerer MyOwnConference-Konten und das Bezahlen über einen Empfehlungslink ist verboten;
-			<br/><br/>
+			<br><br>
 			– Das Einfügen des Empfehlungslinks in Anzeigen bei Google Ads, Facebook Ads oder einem anderen Werbekonto ist verboten. Teilen Sie den Link persönlich;
-			<br/><br/>
+			<br><br>
 			– Das Versenden eines Empfehlungslinks im Namen von MyOwnConference ist verboten;
-			<br/><br/>
+			<br><br>
 			– Die Kommissionsgebühr wird nicht bezahlt, wenn Benutzer das Speichern von Cookies nicht zulassen oder diese löschen, da uns möglicherweise die Möglichkeit fehlt, sie zu verfolgen;
-			<br/><br/>
+			<br><br>
 			– Wir behalten uns das Recht vor, die Bedingungen sowie die Regeln des Empfehlungsprogramms jederzeit ohne Vorankündigung zu ändern. Diese Änderungen können sich auf den Prozentsatz der Kommissionsgebühr des Empfehlungsprogramms sowie auf andere Bedingungen des Empfehlungsprogramms beziehen;
-			<br/><br/>
+			<br><br>
 			<b>Bei Verstoß gegen diese Bedingungen frieren wir Ihre angesammelten Gelder ein und blockieren Ihr Konto.</b>
 		</p>
 	',

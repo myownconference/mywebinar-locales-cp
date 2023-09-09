@@ -2595,7 +2595,7 @@ return [
 	'check-email' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vă rugăm să verificați email-ul nostru în dosarele dvs. Inbox, Spam, Junk, Social, Promoții sau Actualizări. Apăsați “Nu este spam“ pentru a autoriza mesajele noastre viitoare și pentru a garanta livrarea lor directă în dosarul dvs. Inbox. Vă mulțumim că ați ales platforma noastră de webinar all-inclusive.
+		Vă rugăm să verificați inbox-ul sau dosarele de spam. Dacă găsiți e-mailul în dosarul de spam, asigurați-vă că îl marcați corespunzător pentru ca mesajele noastre viitoare să ajungă direct în inbox. Vă mulțumim că ați ales platforma noastră software de webinar.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password-reset' => //////////////////////////////////////////////////////////////////
@@ -3885,7 +3885,7 @@ return [
 	'do-not-receive' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Te rugăm să verifici dosarele Spam/Junk sau More – Categorii – Social, Updates și Promotions dacă nu primești mesajul de verificare în câteva minute de la înscriere. Nu uita să selectezi “Nu e spam“ pentru a permite notificările viitoare. Asta va asigura că mesajele viitoare vor ajunge direct în dosarul Inbox.
+		Vă rugăm să verificați inbox-ul sau dosarele de spam. Dacă găsiți e-mailul în dosarul de spam, asigurați-vă că îl marcați corespunzător pentru ca mesajele noastre viitoare să ajungă direct în inbox. Vă mulțumim că ați ales platforma noastră software de webinar.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'not-receive-message-then' => ////////////////////////////////////////////////////////

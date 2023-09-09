@@ -2595,7 +2595,7 @@ return [
 	'check-email' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kindly review our email in your Inbox, Spam, Junk, Social, Promotions, or Updates folders. Click “Not Spam“ to authorize our future messages and guarantee their direct delivery to your Inbox folder. Thank you for choosing our all-inclusive webinar software platform.
+		Please check your Inbox, Spam, Junk, Social, Promotions, or Updates folders for our email. If it‘s in the Spam or Junk folders, please ensure you mark it appropriately to receive our future messages directly in your Inbox. Thanks for choosing our comprehensive webinar software platform.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password-reset' => //////////////////////////////////////////////////////////////////
@@ -3885,7 +3885,7 @@ return [
 	'do-not-receive' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Please check your Spam/Junk or More – Categories – Social, Updates, and Promotions folders if you don‘t receive the verification message within a few minutes of signing up. Remember to click “Not Spam“ to allow future notifications to go through. This will ensure that subsequent messages are delivered directly to the Inbox folder.
+		Please check your Inbox, Spam, Junk, Social, Promotions, or Updates folders for our email. If it‘s in the Spam or Junk folders, please ensure you mark it appropriately to receive our future messages directly in your Inbox. Thanks for choosing our comprehensive webinar software platform.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'not-receive-message-then' => ////////////////////////////////////////////////////////

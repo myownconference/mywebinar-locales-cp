@@ -2595,7 +2595,7 @@ return [
 	'check-email' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sprawdź pocztę, w tym zawartość folderu Spam
+		Sprawdź swoją skrzynkę odbiorczą lub foldery ze spamem. Jeśli znajdziesz wiadomość w folderze spam, upewnij się, że odpowiednio ją oznaczyłeś, aby nasze przyszłe komunikaty trafiały bezpośrednio do Twojej skrzynki odbiorczej. Dziękujemy za wybór naszej kompleksowej platformy webinarowej.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password-reset' => //////////////////////////////////////////////////////////////////
@@ -3909,7 +3909,7 @@ return [
 	'do-not-receive' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Jeśli nie odebrałeś od nas maila w sprawie logowania po kilku minutach od rejestracji, sprawdź koniecznie wiadomości <b>Spam/Junk</b>, <b>Więcej – Kategorie – Społeczności, Powiadomienia, Oferty</b>.<br><br><span style="font-size:0.14rem;">Być może informacja trafiła do folderu <b>Spamu</b>, a nie do <b>Odebranych</b>.<br><br>W takim przypadku zaznacz opcję <b>To nie jest spam</b>, aby kolejne wiadomości mogły trafić do folderu <b>Odebrane</b> skrzynki odbiorczej.</span>
+		Sprawdź swoją skrzynkę odbiorczą lub foldery ze spamem. Jeśli znajdziesz wiadomość w folderze spam, upewnij się, że odpowiednio ją oznaczyłeś, aby nasze przyszłe komunikaty trafiały bezpośrednio do Twojej skrzynki odbiorczej. Dziękujemy za wybór naszej kompleksowej platformy webinarowej.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'not-receive-message-then' => ////////////////////////////////////////////////////////

@@ -2595,7 +2595,7 @@ return [
 	'check-email' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Gentilmente controlla la nostra email nella tua Posta in arrivo, Spam, Cestino, Social, Promozioni o cartelle Aggiornamenti. Clicca su “Non è spam“ per autorizzare i nostri futuri messaggi e garantire la loro consegna diretta nella tua cartella Posta in arrivo. Grazie per aver scelto la nostra piattaforma software completa per webinar.
+		Controlla la tua casella di posta o le cartelle spam. Se trovi l‘email nella cartella spam, assicurati di contrassegnarla correttamente così i nostri futuri messaggi arriveranno direttamente nella tua casella di posta. Grazie per aver scelto la nostra piattaforma software per webinar.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password-reset' => //////////////////////////////////////////////////////////////////
@@ -3885,7 +3885,7 @@ return [
 	'do-not-receive' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Se non ricevi il messaggio di verifica entro pochi minuti dall‘iscrizione, controlla le tue cartelle Spam/Posta indesiderata o Altri – Categorie – Social, Aggiornamenti e Promozioni. Ricorda di cliccare su “Non è Spam“ per consentire la ricezione delle future notifiche. Questo garantirà che i messaggi successivi vengano consegnati direttamente nella cartella Posta in arrivo.
+		Controlla la tua casella di posta o le cartelle spam. Se trovi l‘email nella cartella spam, assicurati di contrassegnarla correttamente così i nostri futuri messaggi arriveranno direttamente nella tua casella di posta. Grazie per aver scelto la nostra piattaforma software per webinar.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'not-receive-message-then' => ////////////////////////////////////////////////////////

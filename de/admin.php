@@ -2595,7 +2595,7 @@ return [
 	'check-email' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bitte überprüfen Sie Ihren Posteingang, Spam- oder Soziale/Promotions-Ordner. Klicken Sie auch auf “Kein Spam“, um zukünftige Nachrichten zuzulassen. Dies ermöglicht es, dass zukünftige Nachrichten direkt im Posteingang ankommen.
+		Bitte überprüfen Sie Ihren Posteingang oder Ihren Spam-Ordner. Wenn Sie die email im Spam-Ordner finden, markieren Sie sie bitte entsprechend, damit zukünftige Nachrichten direkt in Ihrem Posteingang landen. Danke, dass Sie sich für unsere umfassende Webinar-Softwareplattform entschieden haben.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password-reset' => //////////////////////////////////////////////////////////////////
@@ -3885,7 +3885,7 @@ return [
 	'do-not-receive' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bitte überprüfen Sie Ihren Spam/Junk- oder Weitere – Kategorien – Social, Updates und Promotion-Ordner, wenn Sie die Bestätigungsnachricht nicht innerhalb weniger Minuten nach der Anmeldung erhalten haben. Denken Sie daran, auf “Kein Spam“ zu klicken, um zukünftige Benachrichtigungen zuzulassen. Dadurch werden nachfolgende Nachrichten direkt im Posteingangsordner erreicht.
+		Bitte überprüfen Sie Ihren Posteingang oder Ihren Spam-Ordner. Wenn Sie die email im Spam-Ordner finden, markieren Sie sie bitte entsprechend, damit zukünftige Nachrichten direkt in Ihrem Posteingang landen. Danke, dass Sie sich für unsere umfassende Webinar-Softwareplattform entschieden haben.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'not-receive-message-then' => ////////////////////////////////////////////////////////

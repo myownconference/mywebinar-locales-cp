@@ -2595,7 +2595,7 @@ return [
 	'check-email' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Lütfen e-postanızın Gelen Kutusu, Spam veya Sosyal/Tanıtımlar klasörlerini kontrol edin. Gelecekteki iletilerin gelmesine izin vermek için “Spam değil“e tıklayıp sonraki iletilerin doğrudan Gelen Kutusu klasörüne iletilmesini sağlamayı unutmayın.
+		Lütfen gelen kutunuzu veya spam klasörlerinizi kontrol edin. E-postayı spam klasöründe bulduysanız, gelecekteki mesajlarımızın doğrudan gelen kutunuza gelmesini sağlamak için lütfen doğru şekilde işaretlediğinizden emin olun. Kapsamlı webinar yazılım platformumuzu seçtiğiniz için teşekkür ederiz.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password-reset' => //////////////////////////////////////////////////////////////////
@@ -3885,7 +3885,7 @@ return [
 	'do-not-receive' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kaydolurken doğrulama mesajını birkaç dakika içinde almadıysanız, lütfen Spam/İstenmeyen veya Daha Fazla – Kategoriler – Sosyal, Güncellemeler ve Promosyonlar klasörlerini kontrol edin. Gelecekteki bildirimlerin iletilebilmesi için “Spam Değil“i tıklamayı unutmayın. Bu, sonraki iletilerin doğrudan Gelen Kutusu klasörüne gönderilmesini sağlayacaktır.
+		Lütfen gelen kutunuzu veya spam klasörlerinizi kontrol edin. E-postayı spam klasöründe bulduysanız, gelecekteki mesajlarımızın doğrudan gelen kutunuza gelmesini sağlamak için lütfen doğru şekilde işaretlediğinizden emin olun. Kapsamlı webinar yazılım platformumuzu seçtiğiniz için teşekkür ederiz.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'not-receive-message-then' => ////////////////////////////////////////////////////////

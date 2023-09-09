@@ -2595,7 +2595,7 @@ return [
 	'check-email' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Please check your <b>Inbox</b>, <b>Spam</b> or <b>Social/Promotions</b> folders.<br><br><span style="font-size:0.14rem;">Remember to click <b>Not Spam</b>, to allow future messages through. It will allow subsequent messages to achieved directly to <b>Inbox</b> folder.</span>
+		Por favor, revisa tu bandeja de entrada o las carpetas de spam. Si encuentras el correo en las carpetas de spam, asegúrate de marcarlo correctamente para que los futuros mensajes lleguen directamente a tu bandeja de entrada. Gracias por elegir nuestra plataforma de software de webinar integral.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password-reset' => //////////////////////////////////////////////////////////////////
@@ -3898,7 +3898,7 @@ return [
 	'do-not-receive' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		If you do not receive the verification message within a few minutes of signing up, please check your <b>Spam/Junk</b> or <b>More – Categories – Social, Updates, Promotions</b> folders.<br><br><span style="font-size:0.14rem;">Remember to click <b>Not Spam</b>, to allow future messages through. It will allow subsequent messages to achieved directly to <b>Inbox</b> folder.</span>
+		Por favor, revisa tu bandeja de entrada o las carpetas de spam. Si encuentras el correo en las carpetas de spam, asegúrate de marcarlo correctamente para que los futuros mensajes lleguen directamente a tu bandeja de entrada. Gracias por elegir nuestra plataforma de software de webinar integral.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'not-receive-message-then' => ////////////////////////////////////////////////////////

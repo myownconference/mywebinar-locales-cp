@@ -3116,13 +3116,13 @@ return [
 	'pay-status-failed' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Su banco ha rechazado el pago.
+		Su banco ha rechazado el pago
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-status-sub-failed' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Por favor, inténtelo de nuevo más tarde o utilice otro medio de pago.
+		Esto podría deberse a fondos insuficientes, una tarjeta vencida o un bloqueo en las transacciones internacionales. Por favor, contacta a tu banco para resolver el problema o utiliza un método de pago diferente. Una vez que el pago ha sido rechazado, tu cuenta se bajará automáticamente al plan gratuito, lo que puede limitar tu acceso a ciertas características. Si continúas teniendo problemas con los pagos o la activación de la cuenta, no dudes en contactar a nuestro equipo de soporte en línea.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-package-to' => ///////////////////////////////////////////////////////////////

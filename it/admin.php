@@ -3111,13 +3111,13 @@ return [
 	'pay-status-failed' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		La tua banca ha rifiutato il pagamento. Ciò potrebbe essere dovuto a fondi insufficienti, una carta scaduta o un blocco sulle transazioni internazionali. Ti preghiamo di contattare la tua banca per risolvere il problema o di utilizzare un altro metodo di pagamento. Una volta rifiutato il pagamento, il tuo account verrà automaticamente declassato al piano gratuito, il che potrebbe limitare l‘accesso a determinate funzioni. Se continui ad avere problemi con i pagamenti o l‘attivazione dell‘account, non esitare a contattare la nostra squadra di supporto online per assistenza.
+		La tua banca ha rifiutato il pagamento
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-status-sub-failed' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Si prega di riprovare la transazione più tardi o di selezionare un metodo di pagamento alternativo.
+		Questo potrebbe essere dovuto a fondi insufficienti, una carta scaduta o un blocco sulle transazioni internazionali. Si prega di contattare la propria banca per risolvere il problema o utilizzare un metodo di pagamento diverso. Una volta rifiutato il pagamento, il tuo account verrà automaticamente declassato al piano gratuito, il quale potrebbe limitare l‘accesso ad alcune funzioni. Se continui ad avere problemi con i pagamenti o l‘attivazione dell‘account, non esitare a contattare il nostro team di supporto online.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-package-to' => ///////////////////////////////////////////////////////////////

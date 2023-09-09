@@ -3111,13 +3111,13 @@ return [
 	'pay-status-failed' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Your bank has declined the payment. This could be due to insufficient funds, an expired card, or a block on international transactions. Please contact your bank to resolve the issue or use a different payment method. Once the payment has been declined, your account will be automatically downgraded to the free plan, which may limit your access to certain features. If you continue to have trouble with payments or account activation, please don‘t hesitate to contact our online support team for assistance.
+		Your bank has declined the payment
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-status-sub-failed' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Please attempt the transaction at a later time or select an alternative payment method.
+		This could be due to insufficient funds, an expired card, or a block on international transactions. Please contact your bank to resolve the issue or use a different payment method. Once the payment has been declined, your account will be automatically downgraded to the free plan, which may limit your access to certain features. If you continue to have trouble with payments or account activation, please don‘t hesitate to contact our online support team for assistance.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-package-to' => ///////////////////////////////////////////////////////////////

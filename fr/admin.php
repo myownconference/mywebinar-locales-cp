@@ -3121,13 +3121,13 @@ return [
 	'pay-status-failed' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Votre banque a décliné le paiement.
+		Votre banque a refusé le paiement
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-status-sub-failed' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Merci d‘essayer plus tard ou de choisir une autre méthode de paiement.
+		Cela pourrait être dû à un manque de fonds, une carte expirée, ou un blocage des transactions internationales. Veuillez contacter votre banque pour résoudre le problème ou utilisez une autre méthode de paiement. Une fois le paiement refusé, votre compte sera automatiquement rétrogradé au plan gratuit, limitant ainsi l‘accès à certaines fonctionnalités. Si vous rencontrez encore des difficultés avec les paiements ou l‘activation du compte, n‘hésitez pas à contacter notre équipe de support en ligne.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-package-to' => ///////////////////////////////////////////////////////////////

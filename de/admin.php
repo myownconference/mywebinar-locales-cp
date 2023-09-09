@@ -3111,13 +3111,13 @@ return [
 	'pay-status-failed' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ihre Bank hat die Zahlung abgelehnt.
+		Ihre Bank hat die Zahlung abgelehnt
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-status-sub-failed' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bitte versuchen Sie es später erneut oder wählen Sie eine andere Zahlungsmethode.
+		Dies könnte auf unzureichende Mittel, eine abgelaufene Karte oder eine Sperre für internationale Transaktionen zurückzuführen sein. Bitte kontaktieren Sie Ihre Bank, um das Problem zu lösen, oder verwenden Sie eine andere Zahlungsmethode. Nach einer Zahlungsablehnung wird Ihr Konto automatisch auf den kostenlosen Plan herabgestuft, was Ihren Zugang zu bestimmten Funktionen einschränken kann. Wenn Sie weiterhin Probleme mit Zahlungen oder der Kontenaktivierung haben, zögern Sie bitte nicht, unser Online-Support-Team zu kontaktieren.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-package-to' => ///////////////////////////////////////////////////////////////

@@ -97,7 +97,7 @@ return [
 		<p>
 			– <b>Paid events</b> — this encompasses webinars, online lectures, conferences, seminars, courses, lessons, and live broadcasts that require payment for participation. Attendees can access and participate in these events only after they‘ve made the necessary payment.
 			<br><br>
-			– <b>Webinar software MyOwnConference</b> — we are “Akovana LLC“, a service provider specializing in the organization of both free and paid webinars, live broadcasts, web conferences, and more. Our registered address is 18 Djioyi Street, Vilnius, Lithuania, LT-01128.
+			– <b>Webinar software MyOwnConference</b> — we are “Akovana, UAB“, a service provider specializing in the organization of both free and paid webinars, live broadcasts, web conferences, and more. Our registered address is 18 Djioyi Street, Vilnius, Lithuania, LT-01128.
 			<br><br>
 			– <b>User</b> — any individual who has agreed to these terms and utilizes the services in accordance with this agreement.
 			<br><br>

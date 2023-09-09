@@ -97,7 +97,7 @@ return [
 		<p>
 			– <b>Paid events</b> — this encompasses webinars, online lectures, conferences, seminars, courses, lessons, and live broadcasts that require payment for participation. Attendees can access and participate in these events only after they‘ve made the necessary payment.
 			<br><br>
-			– <b>Webinar software MyOwnConference</b> — we are "Akovana LLC," a service provider specializing in the organization of both free and paid webinars, live broadcasts, web conferences, and more. Our registered address is 18 Djioyi Street, Vilnius, Lithuania, LT-01128.
+			– <b>Webinar software MyOwnConference</b> — we are “Akovana, UAB“, a service provider specializing in the organization of both free and paid webinars, live broadcasts, web conferences, and more. Our registered address is 18 Djioyi Street, Vilnius, Lithuania, LT-01128.
 			<br><br>
 			– <b>User</b> — any individual who has agreed to these terms and utilizes the services in accordance with this agreement.
 			<br><br>
@@ -110,7 +110,7 @@ return [
 		<br><br>
 		<h3>General provisions</h3>
 		<p>
-			When arranging paid events, the online platform for webinars, live broadcasts, and web conferences, namely "MyOwnConference", hereinafter referred to as "the Platform", serves as an intermediary. The platform is entrusted by the User to receive and process payments from attendees participating in the webinar, online lecture, conference, course, or lesson facilitated via the platform‘s services.
+			When arranging paid events, the online platform for webinars, live broadcasts, and web conferences, namely “MyOwnConference“, hereinafter referred to as “the Platform“, serves as an intermediary. The platform is entrusted by the User to receive and process payments from attendees participating in the webinar, online lecture, conference, course, or lesson facilitated via the platform‘s services.
 		</p>
 		<br>
 		<p>
@@ -208,7 +208,7 @@ return [
 		<br><br>
 		<h3>Refund request from the webinar attendee‘s bank</h3>
 		<p>
-			Such refund requests arise from the bank that serves the attendee of a paid webinar. All payments made by attendees for paid events are fully refundable, adhering to the principle that "The Attendee is Always Right".
+			Such refund requests arise from the bank that serves the attendee of a paid webinar. All payments made by attendees for paid events are fully refundable, adhering to the principle that “The Attendee is Always Right“.
 		</p>
 		<br>
 		<p>
@@ -267,7 +267,7 @@ return [
 		</p>
 		<br>
 		<p>
-			Should a user violate this policy, the Website reserves the right to take actions as detailed in the "Rights and Obligations of the Website" section of this User Agreement.
+			Should a user violate this policy, the Website reserves the right to take actions as detailed in the “Rights and Obligations of the Website“ section of this User Agreement.
 		</p>
 		<br><br>
 		<h3>Limitation of liability</h3>

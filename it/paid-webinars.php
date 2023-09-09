@@ -97,7 +97,7 @@ return [
 		<p>
 			– <b>Eventi a pagamento</b> — ciò include webinar, lezioni online, conferenze, seminari, corsi, lezioni e trasmissioni dal vivo per i quali è necessario un pagamento per partecipare. Gli iscritti possono accedere e partecipare a questi eventi solo dopo aver effettuato il pagamento richiesto.
 			<br><br>
-			– <b>Software per webinar MyOwnConference</b> — siamo “Akovana LLC“, un fornitore di servizi specializzato nell‘organizzazione di webinar gratuiti e a pagamento, trasmissioni dal vivo, conferenze web e altro. La nostra sede legale si trova in Via Djioyi 18, Vilnius, Lituania, LT-01128.
+			– <b>Software per webinar MyOwnConference</b> — siamo “Akovana, UAB“, un fornitore di servizi specializzato nell‘organizzazione di webinar gratuiti e a pagamento, trasmissioni dal vivo, conferenze web e altro. La nostra sede legale si trova in Via Djioyi 18, Vilnius, Lituania, LT-01128.
 			<br><br>
 			– <b>Utente</b> — qualsiasi individuo che ha accettato questi termini e utilizza i servizi in conformità con questo accordo.
 			<br><br>

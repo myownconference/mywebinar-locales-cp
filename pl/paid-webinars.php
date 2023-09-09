@@ -97,7 +97,7 @@ return [
 		<p>
 			– <b>Płatne wydarzenia</b> — webinaria, wykłady online, konferencje, seminaria, kursy, lekcje i transmisje na żywo, w których udział jest płatny. Uczestnicy wydarzenia w tym przypadku uzyskują dostęp do treści wydarzenia, mogą uczestniczyć i słuchać wydarzenia dopiero po udanej płatności.
 			<br><br>
-			– <b>Serwis MyOwnConference</b> — jesteśmy firmą UAB “Akovana“, która jest dostawcą usług dla organizacji bezpłatnych i płatnych webinariów, transmisji na żywo, konferencji internetowych, z siedzibą przy ul. Djioyi 18, Wilno, Litwa, LT-01128.
+			– <b>Serwis MyOwnConference</b> — jesteśmy firmą “Akovana, UAB“, która jest dostawcą usług dla organizacji bezpłatnych i płatnych webinariów, transmisji na żywo, konferencji internetowych, z siedzibą przy ul. Djioyi 18, Wilno, Litwa, LT-01128.
 			<br><br>
 			– <b>Użytkownik</b> — to osoba, która zaakceptowała niniejszą Umowę, konsument usług świadczonych na podstawie zawartej Umowy z Użytkownikiem.
 			<br><br>

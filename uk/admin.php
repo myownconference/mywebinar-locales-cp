@@ -1443,7 +1443,7 @@ return [
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		На сьогодні не заплановано жодного вебінару.<br><br>Почитати про планування вебінарів можна <a href="https://myownconference.com/blog/uk/pochatok-raboty/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">тут</a>, а подивитися відеоурок можна <a href="https://myownconference.com/ru/help/article/kak-rabotat-s-myownconference-1qlwd6j/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">тут</a> і <a href="https://myownconference.com/ru/help/article/kak-sozdat-i-zaplanirovat-vebinar-1w8np8k/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">тут</a>.
+		На сьогодні не заплановано жодного вебінару
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////

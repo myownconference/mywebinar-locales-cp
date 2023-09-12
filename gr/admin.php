@@ -1443,7 +1443,7 @@ return [
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Δεν έχετε καμία προγραμματισμένη εκδήλωση για σήμερα.<br><br>Διαβάστε <a href="https://myownconference.com/blog/en/starting-with-mywebinar/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">εδώ περισσότερα</a> ή παρακολουθήστε το <a href="https://myownconference.com/help/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">βίντεο tutorial</a>.
+		Δεν έχετε προγραμματίσει καμία εκδήλωση για σήμερα
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////

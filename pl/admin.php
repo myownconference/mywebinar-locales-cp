@@ -1443,7 +1443,7 @@ return [
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Na dzisiaj nie zaplanowano żadnych webinarów.<br><br>O planowaniu webinarow można dowiedzieć się <a href="https://myownconference.com/blog/pl/krok-po-kroku/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">tutaj</a>, a wideo tutoriale można obejrzeć <a href="https://myownconference.com/pl/help/article/jak-zaplanowac-webinar-k99b78/" target="_blank" rel="noopener noreferrer" class="tcolor-blue more-link">tu</a>.
+		Na dzisiaj nie zaplanowano żadnych webinarów
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////

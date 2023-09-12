@@ -178,7 +178,7 @@ return [
 		<br><br>
 		<h3>Żądanie zwrotu od Użytkownika</h3>
 		<p>
-			Serwis akceptuje żądanie zwrotu od Użytkownika tylko z Panelu sterowania, z następnym potwierdzeniem z adresu poczty elektronicznej, podanej w danych logowania Użytkownika.
+			Serwis akceptuje żądanie zwrotu od Użytkownika tylko z Panelu sterowania, z następnym potwierdzeniem z email, podanej w danych logowania Użytkownika.
 		</p>
 		<br>
 		<p>
@@ -191,7 +191,7 @@ return [
 		<br><br>
 		<h3>Żądanie zwrotu od Uczestnika</h3>
 		<p>
-			Serwis akceptuje żądania zwrotu pieniędzy od Uczestników płatnych webinarów tylko w przypadku bezpośredniego kontaktu od Uczestnika za pomocą formularza kontaktowego lub adresu mailowego podanego na stronie internetowej Serwisu.
+			Serwis akceptuje żądania zwrotu pieniędzy od Uczestników płatnych webinarów tylko w przypadku bezpośredniego kontaktu od Uczestnika za pomocą formularza kontaktowego lub email podanego na stronie internetowej Serwisu.
 		</p>
 		<br>
 		<p>
@@ -302,7 +302,7 @@ return [
 		<br><br>
 		<h3>Powiadomienia</h3>
 		<p>
-			Wszelkie powiadomienia i pytania należy kierować na adres contact@myownconference.com ze szczegółowym opisem roszczenia lub napotkanych problemów, w tym technicznych.
+			Wszelkie powiadomienia i pytania należy kierować na e-mail contact@myownconference.com ze szczegółowym opisem roszczenia lub napotkanych problemów, w tym technicznych.
 		</p>
 		<br><br>
 	',

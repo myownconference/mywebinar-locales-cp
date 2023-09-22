@@ -1197,7 +1197,7 @@ return [
 	'attendees-list' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Attendees <span class="tooltip" data-tip="In our event room, you have the flexibility to customise your attendee list view. Choose whether to display the list of participants and showcase their country flags or gravatars if you wish. This allows for a more personalised and interactive experience tailored to your preferences."></span>
+		Attendees
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'att-search-placeholder' => //////////////////////////////////////////////////////////
@@ -1857,7 +1857,7 @@ return [
 	'room-options-header-userlist' => ////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Attendees
+		Attendees <span class="tooltip" data-tip="In our event room, you have the flexibility to customise your attendee list view. Choose whether to display the list of participants and showcase their country flags or gravatars if you wish. This allows for a more personalised and interactive experience tailored to your preferences."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type' => //////////////////////////////////////////////////

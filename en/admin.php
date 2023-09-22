@@ -483,19 +483,19 @@ return [
 	'webinar-date' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Date <span class="tooltip" data-click="true" data-tip="The scheduled date of the event"></span>
+		Date <span class="tooltip" data-tip="The scheduled date of the event"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-time' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Time <span class="tooltip" data-click="true" data-tip="Kick-off time of the event"></span>
+		Time <span class="tooltip" data-tip="Kick-off time of the event"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-duration' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Duration <span class="tooltip" data-click="true" data-tip="Estimated event duration. The event won‘t conclude on its own when this duration elapses. However, a button will be displayed within the webinar room, allowing you to end the event at your discretion."></span>
+		Duration <span class="tooltip" data-tip="Estimated event duration. The event won‘t conclude on its own when this duration elapses. However, a button will be displayed within the webinar room, allowing you to end the event at your discretion."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderators' => //////////////////////////////////////////////////////////////////////
@@ -1599,7 +1599,7 @@ return [
 	'webcam-position' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Chat position <span class="tooltip" data-click="true" data-tip="Choose the placement of the public text chat area in your event room. This setting allows you to adjust the chat display according to left-to-right or right-to-left reading preferences. Whether you want the chat on the left or the right side, select your desired orientation here."></span>
+		Chat position <span class="tooltip" data-tip="Choose the placement of the public text chat area in your event room. This setting allows you to adjust the chat display according to left-to-right or right-to-left reading preferences. Whether you want the chat on the left or the right side, select your desired orientation here."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webcam-chat-position' => ////////////////////////////////////////////////////////////
@@ -1725,7 +1725,7 @@ return [
 	'gtm-id' => //////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Google Tag Manager ID <span class="tooltip" data-click="true" data-tip="Enter your Google Tag Manager ID to set the precise opening time for your event room. This integration allows for advanced time scheduling using GTM, ensuring your attendees can access the room exactly when you intend them to."></span>
+		Google Tag Manager ID <span class="tooltip" data-tip="Enter your Google Tag Manager ID to set the precise opening time for your event room. This integration allows for advanced time scheduling using GTM, ensuring your attendees can access the room exactly when you intend them to."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'gtm-id-placeholder' => //////////////////////////////////////////////////////////////
@@ -1785,7 +1785,7 @@ return [
 	'room-options-header-theme' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Colours <span class="tooltip" data-click="true" data-tip="Tailor the look of your event room to match your brand or mood. Effortlessly adjust colours, set the room background, and choose the perfect shade for the foreground text. Create an ambiance that resonates with your audience, making each webinar uniquely yours."></span>
+		Colours <span class="tooltip" data-tip="Tailor the look of your event room to match your brand or mood. Effortlessly adjust colours, set the room background, and choose the perfect shade for the foreground text. Create an ambiance that resonates with your audience, making each webinar uniquely yours."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-color-room' => /////////////////////////////////////////////////////////
@@ -1803,7 +1803,7 @@ return [
 	'room-logo' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Logo <span class="tooltip" data-click="true" data-tip="Your brand matters. Now, seamlessly integrate your logo into the event room for an enriched, brand-consistent user experience. The logo will be visible to event attendees only. If you wish to view it, access the event room as an attendee."></span>
+		Logo <span class="tooltip" data-tip="Your brand matters. Now, seamlessly integrate your logo into the event room for an enriched, brand-consistent user experience. The logo will be visible to event attendees only. If you wish to view it, access the event room as an attendee."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-logo-size' => //////////////////////////////////////////////////////////////////
@@ -1821,7 +1821,7 @@ return [
 	'room-banner' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Banner <span class="tooltip" data-click="true" data-tip="Your brand matters. Now, seamlessly integrate your banner into the event room for an enriched, brand-consistent user experience. The banner will be visible to event attendees only. If you wish to view it, access the event room as an attendee."></span>
+		Banner <span class="tooltip" data-tip="Your brand matters. Now, seamlessly integrate your banner into the event room for an enriched, brand-consistent user experience. The banner will be visible to event attendees only. If you wish to view it, access the event room as an attendee."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-banner-size' => ////////////////////////////////////////////////////////////////
@@ -1839,7 +1839,7 @@ return [
 	'room-splash' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Background <span class="tooltip" data-click="true" data-tip="Adjust the event room registration page‘s background colours and design preferences to align with your brand or the theme of the event."></span>
+		Background <span class="tooltip" data-tip="Adjust the event room registration page‘s background colours and design preferences to align with your brand or the theme of the event."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-splash-size' => ////////////////////////////////////////////////////////////////
@@ -1857,13 +1857,13 @@ return [
 	'room-options-header-userlist' => ////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Attendees <span class="tooltip" data-click="true" data-tip="In our event room, you have the flexibility to customise your attendee list view. Choose whether to display the list of participants and showcase their country flags or gravatars if you wish. This allows for a more personalised and interactive experience tailored to your preferences."></span>
+		Attendees <span class="tooltip" data-tip="In our event room, you have the flexibility to customise your attendee list view. Choose whether to display the list of participants and showcase their country flags or gravatars if you wish. This allows for a more personalised and interactive experience tailored to your preferences."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Streaming source <span class="tooltip" data-click="true" data-click="true" data-tip="WebRTC – All event speakers will utilise the browser-based WebRTC protocol via UDP when streaming their webcam and microphone. To leverage the full potential of this technology, a fast and reliable internet connection is imperative.<br><br>Plugin DTS – All event speakers will employ our secure, downloadable plugin. This allows for SSL-secured, low-latency streaming of the webcam and microphone over TCP. It‘s specifically designed by us for slower internet connections, offering up to a 3-second latency.<br><br>OBS – Only one event speaker is permitted to use OBS studio for high-definition streaming, offering up to 1080p quality. However, please note there might be a substantial latency of over 20 seconds."></span>
+		Streaming source <span class="tooltip" data-tip="WebRTC – All event speakers will utilise the browser-based WebRTC protocol via UDP when streaming their webcam and microphone. To leverage the full potential of this technology, a fast and reliable internet connection is imperative.<br><br>Plugin DTS – All event speakers will employ our secure, downloadable plugin. This allows for SSL-secured, low-latency streaming of the webcam and microphone over TCP. It‘s specifically designed by us for slower internet connections, offering up to a 3-second latency.<br><br>OBS – Only one event speaker is permitted to use OBS studio for high-definition streaming, offering up to 1080p quality. However, please note there might be a substantial latency of over 20 seconds."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-browser' => //////////////////////////////////////////
@@ -1881,7 +1881,7 @@ return [
 	'room-options-header-conference' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Event mode <span class="tooltip" data-click="true" data-tip="Meeting – An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility.<br><br>Webinar – A presentation-focused event mode ideal for lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content."></span>
+		Event mode <span class="tooltip" data-tip="Meeting – An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility.<br><br>Webinar – A presentation-focused event mode ideal for lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
@@ -1899,25 +1899,25 @@ return [
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Chat width <span class="tooltip" data-click="true" data-tip="Choose the desired width for the public chat feature in the event room. The layout combines a chat section with an area dedicated to the speakers‘ video streams. To see how your event room will appear, refer to the preview in the bottom right corner."></span>
+		Chat width <span class="tooltip" data-tip="Choose the desired width for the public chat feature in the event room. The layout combines a chat section with an area dedicated to the speakers‘ video streams. To see how your event room will appear, refer to the preview in the bottom right corner."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-camchatsize' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webcam width <span class="tooltip" data-click="true" data-tip="Adjust the width of your webcam‘s viewing area in the event room. This space comprises both a dedicated webcam section and an area for your presentations or secure screen sharing. To see how your event room will appear, refer to the preview in the bottom right corner."></span>
+		Webcam width <span class="tooltip" data-tip="Adjust the width of your webcam‘s viewing area in the event room. This space comprises both a dedicated webcam section and an area for your presentations or secure screen sharing. To see how your event room will appear, refer to the preview in the bottom right corner."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-buttons' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Feedback <span class="tooltip" data-click="true" data-tip="Allow attendees to participate in your event or webinar actively. Choose to enable text submissions if you‘d like them to ask questions, or give them the option to voice their queries or comments by enabling the «request to speak» feature. Activating either option will add a corresponding menu item in the event room, enhancing interactivity and engagement."></span>
+		Feedback <span class="tooltip" data-tip="Allow attendees to participate in your event or webinar actively. Choose to enable text submissions if you‘d like them to ask questions, or give them the option to voice their queries or comments by enabling the «request to speak» feature. Activating either option will add a corresponding menu item in the event room, enhancing interactivity and engagement."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Description <span class="tooltip" data-click="true" data-tip="Utilise this feature to craft a concise and engaging overview for your event‘s registration page. A well-written description sets the tone, provides essential details, and entices potential attendees. Whether you‘re highlighting the event‘s key topics, introducing the speakers, or underscoring the benefits of attending, this space is your canvas to captivate and inform your audience."></span>
+		Description <span class="tooltip" data-tip="Utilise this feature to craft a concise and engaging overview for your event‘s registration page. A well-written description sets the tone, provides essential details, and entices potential attendees. Whether you‘re highlighting the event‘s key topics, introducing the speakers, or underscoring the benefits of attending, this space is your canvas to captivate and inform your audience."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc-placeholder' => ///////////////////////////////////////////////////////////
@@ -1941,13 +1941,13 @@ return [
 	'room-options-language' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Language <span class="tooltip" data-click="true" data-tip="Customise your event room‘s language to enhance attendees‘ experience. Whether catering to a specific region or a global audience, ensure seamless communication by selecting the preferred language. Make your webinars more accessible and user-friendly for everyone, no matter where they‘re joining from."></span>
+		Language <span class="tooltip" data-tip="Customise your event room‘s language to enhance attendees‘ experience. Whether catering to a specific region or a global audience, ensure seamless communication by selecting the preferred language. Make your webinars more accessible and user-friendly for everyone, no matter where they‘re joining from."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-group' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Group <span class="tooltip" data-click="true" data-tip="Enable this option to automatically add attendees to a special subscribers‘ group upon registration. This ensures they receive notifications for upcoming events, keeping them informed and engaged."></span>
+		Group <span class="tooltip" data-tip="Enable this option to automatically add attendees to a special subscribers‘ group upon registration. This ensures they receive notifications for upcoming events, keeping them informed and engaged."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-countdown' => //////////////////////////////////////////////////////////
@@ -1971,7 +1971,7 @@ return [
 	'room-options-login-settings' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Preferences <span class="tooltip" data-click="true" data-tip="Customize your event‘s registration page to suit your requirements. This feature allows you to tailor the sign-up process, ensuring it aligns with your event‘s branding and captures attendees‘ needed information."></span>
+		Preferences <span class="tooltip" data-tip="Customize your event‘s registration page to suit your requirements. This feature allows you to tailor the sign-up process, ensuring it aligns with your event‘s branding and captures attendees‘ needed information."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-login-theme' => ////////////////////////////////////////////////////////
@@ -1995,7 +1995,7 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Fields <span class="tooltip" data-click="true" data-tip="Select and arrange the fields you‘d like to display for event registration."></span>
+		Fields <span class="tooltip" data-tip="Select and arrange the fields you‘d like to display for event registration."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////
@@ -3147,7 +3147,7 @@ return [
 	'room-options-befostarttime' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Registration opens <span class="tooltip" data-click="true" data-tip="This feature lets you define how much time in advance attendees can enter the event room before the official start time."></span>
+		Registration opens <span class="tooltip" data-tip="This feature lets you define how much time in advance attendees can enter the event room before the official start time."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-after' => //////////////////////////////////////////////////////////////
@@ -3627,7 +3627,7 @@ return [
 	'room-close-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Thank you page <span class="tooltip" data-click="true" data-tip="This feature allows event organisers to provide attendees with a seamless transition after an event concludes or if they choose to leave early. By activating this setting, attendees will be automatically redirected to a custom webpage of your choice. This can be particularly useful for post-event surveys, offers, feedback forms, or a simple thank you message. Ensure your attendees‘ journey is well-rounded by guiding them to relevant content after your event."></span>
+		Thank you page <span class="tooltip" data-tip="This feature allows event organisers to provide attendees with a seamless transition after an event concludes or if they choose to leave early. By activating this setting, attendees will be automatically redirected to a custom webpage of your choice. This can be particularly useful for post-event surveys, offers, feedback forms, or a simple thank you message. Ensure your attendees‘ journey is well-rounded by guiding them to relevant content after your event."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-close-url-placeholder' => //////////////////////////////////////////////////////
@@ -4957,7 +4957,7 @@ return [
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Chat direction <span class="tooltip" data-click="true" data-tip="Choose the text flow direction for the public chat area, catering to left-to-right (e.g., English) and right-to-left (e.g., Arabic) languages. This ensures a seamless experience for all participants, regardless of their native script orientation."></span>
+		Chat direction <span class="tooltip" data-tip="Choose the text flow direction for the public chat area, catering to left-to-right (e.g., English) and right-to-left (e.g., Arabic) languages. This ensures a seamless experience for all participants, regardless of their native script orientation."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////

@@ -1599,7 +1599,7 @@ return [
 	'webcam-position' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Chat position
+		Chat position <span class="tooltip" data-tip="Choose the placement of the public text chat area in your event room. This setting allows you to adjust the chat display according to left-to-right or right-to-left reading preferences. Whether you want the chat on the left or the right side, select your desired orientation here."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webcam-chat-position' => ////////////////////////////////////////////////////////////

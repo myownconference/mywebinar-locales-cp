@@ -747,7 +747,7 @@ return [
 	'web-close' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Log in using your invitation link only <span class="tooltip" data-click="true" data-tip="To host private webinars or events, activate this option. It will conceal the registration form from all viewers."></span>
+		Log in using your invitation link only <span class="tooltip" data-tip="To host private webinars or events, activate this option. It will conceal the registration form from all viewers."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-moderator' => ////////////////////////////////////////////////////////////////

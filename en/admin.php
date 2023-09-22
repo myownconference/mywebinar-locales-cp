@@ -1803,7 +1803,7 @@ return [
 	'room-logo' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Logo
+		Logo <span class="tooltip" data-click="true" data-tip="Your brand matters. Now, seamlessly integrate your logo into the event room for an enriched, brand-consistent user experience. The logo will be visible to event attendees only. If you wish to view it, access the event room as an attendee."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-logo-size' => //////////////////////////////////////////////////////////////////
@@ -1821,7 +1821,7 @@ return [
 	'room-banner' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Banner
+		Banner <span class="tooltip" data-click="true" data-tip="Your brand matters. Now, seamlessly integrate your banner into the event room for an enriched, brand-consistent user experience. The banner will be visible to event attendees only. If you wish to view it, access the event room as an attendee."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-banner-size' => ////////////////////////////////////////////////////////////////
@@ -3627,7 +3627,7 @@ return [
 	'room-close-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Thank you page
+		Thank you page <span class="tooltip" data-click="true" data-tip="This feature allows event organisers to provide attendees with a seamless transition after an event concludes or if they choose to leave early. By activating this setting, attendees will be automatically redirected to a custom webpage of your choice. This can be particularly useful for post-event surveys, offers, feedback forms, or a simple thank you message. Ensure your attendees‘ journey is well-rounded by guiding them to relevant content after your event."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-close-url-placeholder' => //////////////////////////////////////////////////////

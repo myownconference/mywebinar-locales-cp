@@ -1329,7 +1329,7 @@ return [
 	'add-to-group' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Group
+		Group <span class="tooltip" data-click="true" data-tip="Enable this option to automatically add attendees to a special subscribers‘ group upon registration. This ensures they receive notifications for upcoming events, keeping them informed and engaged."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'add-to-group-desctop' => ////////////////////////////////////////////////////////////
@@ -1917,7 +1917,7 @@ return [
 	'room-desc' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Description
+		Description <span class="tooltip" data-click="true" data-tip="Utilise this feature to craft a concise and engaging overview for your event‘s registration page. A well-written description sets the tone, provides essential details, and entices potential attendees. Whether you‘re highlighting the event‘s key topics, introducing the speakers, or underscoring the benefits of attending, this space is your canvas to captivate and inform your audience."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc-placeholder' => ///////////////////////////////////////////////////////////
@@ -1971,7 +1971,7 @@ return [
 	'room-options-login-settings' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Preferences
+		Preferences <span class="tooltip" data-click="true" data-tip="Customize your event‘s registration page to suit your requirements. This feature allows you to tailor the sign-up process, ensuring it aligns with your event‘s branding and captures attendees‘ needed information."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-login-theme' => ////////////////////////////////////////////////////////

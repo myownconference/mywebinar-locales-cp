@@ -1899,13 +1899,13 @@ return [
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Chat width
+		Chat width <span class="tooltip" data-tip="Choose the desired width for the public chat feature in the event room. The layout combines a chat section with an area dedicated to the speakers‘ video streams. To see how your event room will appear, refer to the preview in the bottom right corner."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-camchatsize' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webcam width
+		Webcam width <span class="tooltip" data-tip="Adjust the width of your webcam‘s viewing area in the event room. This space comprises both a dedicated webcam section and an area for your presentations or secure screen sharing. To see how your event room will appear, refer to the preview in the bottom right corner."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-buttons' => /////////////////////////////////////////////////////
@@ -4957,7 +4957,7 @@ return [
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Chat direction
+		Chat direction <span class="tooltip" data-tip="Choose the text flow direction for the public chat area, catering to left-to-right (e.g., English) and right-to-left (e.g., Arabic) languages. This ensures a seamless experience for all participants, regardless of their native script orientation."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////

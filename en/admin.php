@@ -747,7 +747,7 @@ return [
 	'web-close' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Log in using your invitation link only <span class="tooltip" data-tip="To host private webinars or events, activate this option. It will conceal the registration form from all viewers."></span>
+		Login using your invitation link only <span class="tooltip" data-tip="To host private webinars or events, activate this option. It will conceal the registration form from all viewers."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-moderator' => ////////////////////////////////////////////////////////////////
@@ -3165,13 +3165,13 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link for event attendees
+		Link for event attendees <span class="tooltip" data-tip="This link provides direct access to the scheduled event. Copy and share it with your audience to grant them entry. The link is ideal for sending via email, social media, or messengers."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Links for moderators and event hosts
+		Links for moderators and event hosts <span class="tooltip" data-tip="This link grants moderators, presenters, and speakers direct access to the scheduled event. Copy and share it with your team to ensure their participation. Alternatively, click the «letter» icon to send the link directly to a moderator‘s email or click the «Open» button to log in to the event on behalf of that moderator."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-max' => //////////////////////////////////////////////////////////////////////

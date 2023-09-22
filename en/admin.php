@@ -1863,7 +1863,7 @@ return [
 	'room-options-broadcasting-type' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Streaming source <span class="tooltip" data-tip="WebRTC – All event speakers will utilise the browser-based WebRTC protocol via UDP when streaming their webcam and microphone. This technology is crucial for internet quality, demanding both high speed and a stable connection.<br><br>Plugin DTS – All event speakers will employ our secure, downloadable plugin. This allows for SSL-secured, low-latency streaming of the webcam and microphone over TCP. It‘s specifically designed by us for slower internet connections, offering up to a 3-second latency.<br><br>OBS – Only one event speaker is permitted to use OBS studio for high-definition streaming, offering up to 1080p quality. However, please note there might be a substantial latency of over 20 seconds."></span>
+		Streaming source <span class="tooltip" data-tip="WebRTC – All event speakers will utilise the browser-based WebRTC protocol via UDP when streaming their webcam and microphone. To leverage the full potential of this technology, a fast and reliable internet connection is imperative.<br><br>Plugin DTS – All event speakers will employ our secure, downloadable plugin. This allows for SSL-secured, low-latency streaming of the webcam and microphone over TCP. It‘s specifically designed by us for slower internet connections, offering up to a 3-second latency.<br><br>OBS – Only one event speaker is permitted to use OBS studio for high-definition streaming, offering up to 1080p quality. However, please note there might be a substantial latency of over 20 seconds."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-browser' => //////////////////////////////////////////
@@ -1881,7 +1881,7 @@ return [
 	'room-options-header-conference' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Event mode
+		Event mode <span class="tooltip" data-tip="Meeting – An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility.<br><br>Webinar – A presentation-focused event mode ideal for lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-webinar' => ////////////////////////////////////////////////////////////

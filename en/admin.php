@@ -1863,19 +1863,19 @@ return [
 	'room-options-broadcasting-type' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Streaming source
+		Streaming source <span class="tooltip" data-tip="WebRTC – All event speakers will utilise the browser-based WebRTC protocol via UDP when streaming their webcam and microphone. This technology is crucial for internet quality, demanding both high speed and a stable connection.<br><br>Plugin DTS – All event speakers will employ our secure, downloadable plugin. This allows for SSL-secured, low-latency streaming of the webcam and microphone over TCP. It‘s specifically designed by us for slower internet connections, offering up to a 3-second latency.<br><br>OBS – Only one event speaker is permitted to use OBS studio for high-definition streaming, offering up to 1080p quality. However, please note there might be a substantial latency of over 20 seconds."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-browser' => //////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		WebRTC <span class="tooltip" data-tip="All event speakers will utilise the browser-based WebRTC protocol via UDP when streaming their webcam and microphone. This technology is crucial for internet quality, demanding both high speed and a stable connection."></span>
+		WebRTC
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-plugin' => ///////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Plugin DTS <span class="tooltip" data-tip="All event speakers will employ our secure, downloadable plugin. This allows for SSL-secured, low-latency streaming of the webcam and microphone over TCP. It‘s specifically designed by us for slower internet connections, offering up to a 3-second latency."></span>
+		Plugin DTS
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-conference' => //////////////////////////////////////////////////
@@ -4993,7 +4993,7 @@ return [
 	'room-options-obs' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		OBS <span class="tooltip" data-tip="Only one event speaker is permitted to use OBS studio for high-definition streaming, offering up to 1080p quality. However, please note there might be a substantial latency of over 20 seconds."></span>
+		OBS
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-links-moder' => /////////////////////////////////////////////////////////////

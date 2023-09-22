@@ -747,7 +747,7 @@ return [
 	'web-close' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Log in using your invitation link only <span class="tooltip" data-tip="To host private webinars or events, activate this option. It will conceal the registration form from all viewers."></span>
+		Log in using your invitation link only <span class="tooltip" data-click="true" data-tip="To host private webinars or events, activate this option. It will conceal the registration form from all viewers."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-moderator' => ////////////////////////////////////////////////////////////////
@@ -1599,7 +1599,7 @@ return [
 	'webcam-position' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Chat position <span class="tooltip" data-tip="Choose the placement of the public text chat area in your event room. This setting allows you to adjust the chat display according to left-to-right or right-to-left reading preferences. Whether you want the chat on the left or the right side, select your desired orientation here."></span>
+		Chat position <span class="tooltip" data-click="true" data-tip="Choose the placement of the public text chat area in your event room. This setting allows you to adjust the chat display according to left-to-right or right-to-left reading preferences. Whether you want the chat on the left or the right side, select your desired orientation here."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webcam-chat-position' => ////////////////////////////////////////////////////////////
@@ -1785,7 +1785,7 @@ return [
 	'room-options-header-theme' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Colours <span class="tooltip" data-tip="Tailor the look of your event room to match your brand or mood. Effortlessly adjust colours, set the room background, and choose the perfect shade for the foreground text. Create an ambiance that resonates with your audience, making each webinar uniquely yours."></span>
+		Colours <span class="tooltip" data-click="true" data-tip="Tailor the look of your event room to match your brand or mood. Effortlessly adjust colours, set the room background, and choose the perfect shade for the foreground text. Create an ambiance that resonates with your audience, making each webinar uniquely yours."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-color-room' => /////////////////////////////////////////////////////////
@@ -1857,13 +1857,13 @@ return [
 	'room-options-header-userlist' => ////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Attendees <span class="tooltip" data-tip="In our event room, you have the flexibility to customise your attendee list view. Choose whether to display the list of participants and showcase their country flags or gravatars if you wish. This allows for a more personalised and interactive experience tailored to your preferences."></span>
+		Attendees <span class="tooltip" data-click="true" data-tip="In our event room, you have the flexibility to customise your attendee list view. Choose whether to display the list of participants and showcase their country flags or gravatars if you wish. This allows for a more personalised and interactive experience tailored to your preferences."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Streaming source <span class="tooltip" data-click="true" data-tip="WebRTC – All event speakers will utilise the browser-based WebRTC protocol via UDP when streaming their webcam and microphone. To leverage the full potential of this technology, a fast and reliable internet connection is imperative.<br><br>Plugin DTS – All event speakers will employ our secure, downloadable plugin. This allows for SSL-secured, low-latency streaming of the webcam and microphone over TCP. It‘s specifically designed by us for slower internet connections, offering up to a 3-second latency.<br><br>OBS – Only one event speaker is permitted to use OBS studio for high-definition streaming, offering up to 1080p quality. However, please note there might be a substantial latency of over 20 seconds."></span>
+		Streaming source <span class="tooltip" data-click="true" data-click="true" data-tip="WebRTC – All event speakers will utilise the browser-based WebRTC protocol via UDP when streaming their webcam and microphone. To leverage the full potential of this technology, a fast and reliable internet connection is imperative.<br><br>Plugin DTS – All event speakers will employ our secure, downloadable plugin. This allows for SSL-secured, low-latency streaming of the webcam and microphone over TCP. It‘s specifically designed by us for slower internet connections, offering up to a 3-second latency.<br><br>OBS – Only one event speaker is permitted to use OBS studio for high-definition streaming, offering up to 1080p quality. However, please note there might be a substantial latency of over 20 seconds."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-browser' => //////////////////////////////////////////
@@ -1899,19 +1899,19 @@ return [
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Chat width <span class="tooltip" data-tip="Choose the desired width for the public chat feature in the event room. The layout combines a chat section with an area dedicated to the speakers‘ video streams. To see how your event room will appear, refer to the preview in the bottom right corner."></span>
+		Chat width <span class="tooltip" data-click="true" data-tip="Choose the desired width for the public chat feature in the event room. The layout combines a chat section with an area dedicated to the speakers‘ video streams. To see how your event room will appear, refer to the preview in the bottom right corner."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-camchatsize' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webcam width <span class="tooltip" data-tip="Adjust the width of your webcam‘s viewing area in the event room. This space comprises both a dedicated webcam section and an area for your presentations or secure screen sharing. To see how your event room will appear, refer to the preview in the bottom right corner."></span>
+		Webcam width <span class="tooltip" data-click="true" data-tip="Adjust the width of your webcam‘s viewing area in the event room. This space comprises both a dedicated webcam section and an area for your presentations or secure screen sharing. To see how your event room will appear, refer to the preview in the bottom right corner."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-buttons' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Feedback <span class="tooltip" data-tip="Allow attendees to participate in your event or webinar actively. Choose to enable text submissions if you‘d like them to ask questions, or give them the option to voice their queries or comments by enabling the «request to speak» feature. Activating either option will add a corresponding menu item in the event room, enhancing interactivity and engagement."></span>
+		Feedback <span class="tooltip" data-click="true" data-tip="Allow attendees to participate in your event or webinar actively. Choose to enable text submissions if you‘d like them to ask questions, or give them the option to voice their queries or comments by enabling the «request to speak» feature. Activating either option will add a corresponding menu item in the event room, enhancing interactivity and engagement."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc' => ///////////////////////////////////////////////////////////////////////
@@ -1995,7 +1995,7 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Fields <span class="tooltip" data-tip="Select and arrange the fields you‘d like to display for event registration."></span>
+		Fields <span class="tooltip" data-click="true" data-tip="Select and arrange the fields you‘d like to display for event registration."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////
@@ -4957,7 +4957,7 @@ return [
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Chat direction <span class="tooltip" data-tip="Choose the text flow direction for the public chat area, catering to left-to-right (e.g., English) and right-to-left (e.g., Arabic) languages. This ensures a seamless experience for all participants, regardless of their native script orientation."></span>
+		Chat direction <span class="tooltip" data-click="true" data-tip="Choose the text flow direction for the public chat area, catering to left-to-right (e.g., English) and right-to-left (e.g., Arabic) languages. This ensures a seamless experience for all participants, regardless of their native script orientation."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////

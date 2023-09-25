@@ -1671,7 +1671,7 @@ return [
 	'record-auto' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Auto-record upon any moderator‘s login
+		Auto-record upon any moderator‘s login <span class="tooltip" data-tip="Streamline your event recording process with this convenient feature. When enabled, the recording will automatically commence as soon as the first moderator logs into the event, ensuring you capture every important moment from start to finish. The recording will conclude once the last moderator exits the event, providing a comprehensive capture of your session without any manual intervention."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-cams-and-slides' => //////////////////////////////////////////////////////////
@@ -1929,7 +1929,7 @@ return [
 	'room-desc-clndr' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Calendar
+		Calendar <span class="tooltip" data-tip="Enhance your email notifications by providing a concise summary of your event. This description will be embedded in the calendar file attached to outgoing email notifications, giving recipients a quick overview when they add the event to their personal calendars. Craft a brief yet informative summary to set expectations, highlight key points, and encourage attendance. Remember, this is a snapshot of your event, so make every word count!"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc-clndr-placeholder' => /////////////////////////////////////////////////////
@@ -3645,7 +3645,7 @@ return [
 	'record-email-identification' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Access
+		Access <span class="tooltip" data-tip="Ensure a higher level of event privacy and security with this feature. When activated, attendees must confirm their access by entering a code sent to their registered email. This process guarantees that only genuine attendees who‘ve registered with valid email addresses can access the event. It also deters the sharing of personal event links, maintaining the exclusivity of your online gathering."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-email-identification-enable' => //////////////////////////////////////////////
@@ -4173,7 +4173,7 @@ return [
 	'room-mail-header' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Banner
+		Banner <span class="tooltip" data-tip="Enhance your email notifications with a distinctive top banner that immediately capturing recipients‘ attention. This banner serves as a visual cue for recipients, ensuring they recognize and prioritize your event notifications amidst the clutter of their inboxes. A well-designed banner can reinforce your brand identity, highlight key event details, and set the tone for the event. Incorporate striking visuals, concise text, and relevant branding to make your email notifications stand out and leave a memorable impression."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-header-size' => ///////////////////////////////////////////////////////////
@@ -4185,7 +4185,7 @@ return [
 	'room-mail-footer' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Signature
+		Signature <span class="tooltip" data-tip="Personalise the footer of your email notifications with a custom signature. This feature allows you to add a unique touch to every outgoing email about your online events, be it your name, title, organization, or a brief message. This signature will appear at the bottom of each notification, reinforcing your brand‘s identity or providing additional contact information to your recipients. Craft a signature that leaves a lasting impression and ensures consistency across all your event communications."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-default-footer' => ////////////////////////////////////////////////////////
@@ -5521,7 +5521,7 @@ return [
 	'room-mail-notification' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Recipients
+		Recipients <span class="tooltip" data-tip="Specify the individuals you wish to notify about your upcoming online events. Tailor your email notifications based on the recipient‘s role or involvement in the event. Select from the following options:<br><br>– Moderators and Attendees – Send notifications to both the event organizers and the audience.<br><br>– Moderators Only – Limit the notifications to just the event organizers.<br><br>– Attendees Only – Direct notifications exclusively to the audience.<br><br>Nobody – Opt-out of sending email notifications for this event."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'notification-all' => ////////////////////////////////////////////////////////////////

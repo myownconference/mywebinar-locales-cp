@@ -2217,7 +2217,7 @@ return [
 	'mail-1DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1 day reminder
+		1 day reminder <span class="tooltip" data-tip="Enable this feature to automatically send a reminder email to registered attendees 24 hours before your online event commences. This last-minute nudge can bolster attendance and ensure participants are primed and ready for your session. Help your attendees set their schedules by giving them a timely heads-up!"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2229,7 +2229,7 @@ return [
 	'mail-3DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		3 day reminder
+		3 day reminder <span class="tooltip" data-tip="Enable this feature to automatically send a reminder email to registered attendees three days before your online event. A timely reminder can increase participation rates and ensure your event remains top-of-mind for your audience. Keep your attendees informed and engaged!"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-3DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2241,7 +2241,7 @@ return [
 	'mail-1HOUR' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1-hour alert
+		1-hour alert <span class="tooltip" data-tip="Enable this feature to send out an email reminder to your registered attendees 60 minutes before the start of your online event. This prompt includes a direct link to the event, allowing participants to join easily. A last-minute reminder ensures attendees have your event on their minds, maximizing participation."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1HOUR-desc' => /////////////////////////////////////////////////////////////////
@@ -2253,7 +2253,7 @@ return [
 	'mail-FINISHED' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Post-webinar
+		Post-webinar <span class="tooltip" data-tip="Enable this feature to automatically send out a follow-up email to attendees once the online event concludes. This can be a gracious thank-you note, a brief survey for feedback, or even an exclusive link to access the event recording. Tailor your post-event communication to engage different groups of attendees and provide additional value long after the event has ended."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-FINISHED-desc' => //////////////////////////////////////////////////////////////
@@ -2265,7 +2265,7 @@ return [
 	'mail-REGISTRATIONCONFIRM' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Confirmation
+		Confirmation <span class="tooltip" data-tip="Activate this feature to send a confirmation email to attendees upon registration. By doing so, you ensure the registrants verify their email addresses, offering an additional layer of security and authenticity. This double-opt-in process helps maintain the integrity of your online event by confirming the genuine interest of attendees and minimizing potential spam registrations."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-REGISTRATIONCONFIRM-desc' => ///////////////////////////////////////////////////
@@ -2277,7 +2277,7 @@ return [
 	'mail-STARTED' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Latecomers
+		Latecomers <span class="tooltip" data-tip="Enable this feature to send out a nudge to attendees who haven‘t joined the event yet, letting them know that the event has already begun. This prompt encourages timely participation and is a gentle reminder for those who may have lost track of time. Ensure no one misses valuable content by reminding them to join in quickly."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-STARTED-desc' => ///////////////////////////////////////////////////////////////
@@ -4095,7 +4095,7 @@ return [
 	'will-be-link-title' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Button «I will attend»
+		Button «I will attend» <span class="tooltip" data-tip="Customize the destination for attendees who click the «I will attend» button in the email notification. Enter a specific webpage or landing page URL here. This is an excellent opportunity to guide attendees to additional resources, pre-event content, or any other pertinent information before the online event begins."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-be-link-desc' => ///////////////////////////////////////////////////////////////
@@ -4107,7 +4107,7 @@ return [
 	'will-not-be-link-title' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Button «Next time»
+		Button «Next time» <span class="tooltip" data-tip="Customize the destination for attendees who click the «Next time» button in the email notification. By entering a specific webpage or landing page URL here, you can engage with attendees who might not be available for this event but could be interested in future ones. Please note: selecting this option will automatically unsubscribe the attendee from further email notifications about this specific event, ensuring they won’t receive reminders they didn’t request."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-not-be-link-desc' => ///////////////////////////////////////////////////////////
@@ -4119,7 +4119,7 @@ return [
 	'unsubscribe-link-title' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Button «Unsubscribe»
+		Button «Unsubscribe» <span class="tooltip" data-tip="Provide a bespoke experience for attendees choosing to opt out of event notifications. By setting a custom webpage or landing page URL for the «Unsubscribe» button, you can present additional information, a feedback form, or other engagement options. Please bear in mind, once attendees choose this option, they‘ll be permanently removed from all future email notifications, ensuring we honour their decision to halt communications from our platform."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'unsubscribe-link-desc' => ///////////////////////////////////////////////////////////
@@ -5521,7 +5521,7 @@ return [
 	'room-mail-notification' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Recipients <span class="tooltip" data-tip="Specify the individuals you wish to notify about your upcoming online events. Tailor your email notifications based on the recipient‘s role or involvement in the event. Select from the following options:<br><br>– Moderators and Attendees – Send notifications to both the event organizers and the audience.<br><br>– Moderators Only – Limit the notifications to just the event organizers.<br><br>– Attendees Only – Direct notifications exclusively to the audience.<br><br>Nobody – Opt-out of sending email notifications for this event."></span>
+		Recipients <span class="tooltip" data-tip="Specify the individuals you wish to notify about your upcoming online events. Tailor your email notifications based on the recipient‘s role or involvement in the event."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'notification-all' => ////////////////////////////////////////////////////////////////

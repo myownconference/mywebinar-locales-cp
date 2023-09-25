@@ -3249,7 +3249,7 @@ return [
 	'mail-send-record' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Include a link to the event recording
+		Include a link to the event recording <span class="tooltip" data-tip="Toggle this switch to automatically share a link to the recorded event once it concludes. This provides attendees with a chance to revisit the content. Please bear in mind, that access to the recording can be time-limited, ensuring content remains exclusive for a designated period only."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-send-record-to' => /////////////////////////////////////////////////////////////
@@ -4107,7 +4107,7 @@ return [
 	'will-not-be-link-title' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Button «Next time» <span class="tooltip" data-tip="Customize the destination for attendees who click the «Next time» button in the email notification. By entering a specific webpage or landing page URL here, you can engage with attendees who might not be available for this event but could be interested in future ones. Please note: selecting this option will automatically unsubscribe the attendee from further email notifications about this specific event, ensuring they won’t receive reminders they didn’t request."></span>
+		Button «Next time» <span class="tooltip" data-tip="Customize the destination for attendees who click the «Next time» button in the email notification. By entering a specific webpage or landing page URL here, you can engage with attendees who might not be available for this event but could be interested in future ones. Please bear in mind, that selecting this option will automatically unsubscribe the attendee from further email notifications about this specific event, ensuring they won’t receive reminders they didn’t request."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-not-be-link-desc' => ///////////////////////////////////////////////////////////

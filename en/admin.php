@@ -2157,7 +2157,7 @@ return [
 	'room-embed-form' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Enable form embedding
+		Enable form embedding <span class="tooltip" data-tip="Activate this switch to generate an IFRAME code for your event‘s registration and login form. By doing so, you can seamlessly embed the form directly onto your own website, providing your visitors with a streamlined experience without having to navigate to a separate page. It‘s a handy tool for integrating event sign-up directly into your site‘s ecosystem."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
@@ -2739,7 +2739,7 @@ return [
 	'landing-page-mode' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Landing page mode for email collection
+		Landing page mode for email collection <span class="tooltip" data-tip="Activate this mode to transform your event room into a dedicated landing page. Instead of directly entering the event, attendees will first provide their email and any other required information. This mode is ideal for building your subscriber list and gathering attendee data before granting access to the event. Toggle on to prioritize data collection; toggle off for direct event entry."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page' => ////////////////////////////////////////////////////////////////////
@@ -4699,7 +4699,7 @@ return [
 	'room-options-password' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Login password
+		Login password <span class="tooltip" data-tip="Toggle this feature to secure your event with a password. When enabled, attendees will need to enter the designated password before accessing the event, ensuring that your webinar remains private and accessible only to those with the password. It‘s a perfect solution for hosting exclusive, private, or sensitive sessions."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password' => ////////////////////////////////////////////////////////////////////////

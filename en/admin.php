@@ -1953,19 +1953,19 @@ return [
 	'room-options-countdown' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Show countdown timer
+		Show countdown timer <span class="tooltip" data-tip="Enable this feature to display a countdown timer on your event page, letting attendees see the time remaining until the event begins. It builds anticipation, ensures attendees know the start time, and helps in punctual participation."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Allow sign up with Google
+		Allow sign up with Google <span class="tooltip" data-tip="Enable this feature to offer a «Login with Google» option on your event registration and entrance forms. By doing so, attendees can swiftly and securely access the event using their Google accounts, simplifying the login process. It‘s a convenient way to streamline access and enhance user experience for those familiar with Google services."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Show number of available spots
+		Show number of available spots <span class="tooltip" data-tip="Activate this feature to display the remaining seats for your online event. This transparency informs attendees of the event‘s capacity and creates a sense of urgency, motivating them to secure their spot before it fills up."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-login-settings' => /////////////////////////////////////////////////////
@@ -1977,7 +1977,7 @@ return [
 	'room-options-login-theme' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Left side solid colour
+		Left side solid colour <span class="tooltip" data-tip="Enhance the readability and visual appeal of your event registration and login page by activating this feature. When toggled on, the page will be divided into two sections. The left side will feature a solid colour background, providing a clearer backdrop for your event description and details, while the right remains as per your existing design. This separation not only adds a modern aesthetic but ensures attendees can easily read and understand the event‘s particulars."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-login-bg' => ///////////////////////////////////////////////////////////
@@ -2001,25 +2001,25 @@ return [
 	'room-login-show-start' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Show the event date
+		Show the event date <span class="tooltip" data-tip="Enable this feature to prominently display the date of your event on both the registration and login pages. Providing this information upfront helps attendees plan and ensure they are clear on when the event will occur."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-name' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Show the event details
+		Show the event details <span class="tooltip" data-tip="Activate this feature to display detailed information about your event on the registration and login pages, whether a concise overview or an extensive agenda. Offering attendees a clear picture of what to expect enhances engagement and helps them prepare better for the session."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-moderators' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Show moderators of the event
+		Show moderators of the event <span class="tooltip" data-tip="Enable this feature to display a list of the event‘s key figures, moderators, presenters, and notable attendees. By showcasing the individuals who will be steering the online event, you offer potential attendees an insight into the expertise and personalities they can expect to encounter."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-main-moderator' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Including the account‘s owner
+		Including the account‘s owner <span class="tooltip" data-tip="By toggling on this sub-feature, you can include the account administrator in the displayed list of the event‘s key figures alongside the moderators, presenters, and notable attendees. This provides a more comprehensive view of all the main organizers and contributors to the event."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-started' => /////////////////////////////////////////////////////////////////
@@ -4795,7 +4795,7 @@ return [
 	'payweb-get-to' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paid event
+		Paid event <span class="tooltip" data-tip="Turn on this feature to set an entrance fee for your event. You‘re transforming your webinar or session into a premium experience by activating, ensuring only paying attendees can access the content. This is ideal for exclusive workshops, specialized training, or any content you deem valuable."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'records-send-wait' => ///////////////////////////////////////////////////////////////

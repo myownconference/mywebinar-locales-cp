@@ -4227,7 +4227,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permissions
+		Permissions <span class="tooltip" data-tip="Use this feature to assign varied access levels to your event moderators. By customising permissions, you can ensure that each moderator has the right level of control and access suited to their role, ensuring a smooth and orderly event experience."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

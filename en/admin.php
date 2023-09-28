@@ -1857,13 +1857,13 @@ return [
 	'room-options-header-userlist' => ////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Attendees <span class="tooltip" data-tip="In our event room, you have the flexibility to customise your attendee list view. Choose whether to display the list of participants and showcase their country flags or gravatars if you wish. This allows for a more personalised and interactive experience tailored to your preferences."></span>
+		Attendees <span class="tooltip" data-tip="In our event room, you can easily adjust how you see your attendee list. You can choose to show participant names, their country flags, or gravatars. This lets you create a more personal and interactive experience just the way you like."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Streaming source <span class="tooltip" data-tip="WebRTC – All event speakers will utilise the browser-based WebRTC protocol via UDP when streaming their webcam and microphone. To leverage the full potential of this technology, a fast and reliable internet connection is imperative.<br><br>Plugin DTS – All event speakers will employ our secure, downloadable plugin. This allows for SSL-secured, low-latency streaming of the webcam and microphone over TCP. It‘s specifically designed by us for slower internet connections, offering up to a 3-second latency.<br><br>OBS – Only one event speaker is permitted to use OBS studio for high-definition streaming, offering up to 1080p quality. However, please note there might be a substantial latency of over 20 seconds."></span>
+		Streaming source <span class="tooltip" data-tip="Our webinar and video conferencing platform supports three distinct streaming sources:<br><br>• WebRTC – All event speakers will utilise the browser-based WebRTC protocol via UDP when streaming their webcam and microphone. To leverage the full potential of this technology, a fast and reliable internet connection is imperative.<br><br>• Plugin DTS – All our event speakers can easily download our secure DTS plugin. It works smoothly for webcam and microphone streaming, even on slower internet connections. Created by our team, this plugin minimizes delays. So, even on a not-so-great internet connection, you‘ll experience a lag of up to 3 seconds from real-time.<br><br>• OBS – Only one event speaker is permitted to use OBS studio for high-definition streaming, offering up to 1080p quality. However, please note there might be a substantial latency of over 20 seconds."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-browser' => //////////////////////////////////////////
@@ -4233,7 +4233,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permissions <span class="tooltip" data-tip="Use this feature to assign varied access levels to your event moderators. By customising permissions, you can ensure that each moderator has the right level of control and access suited to their role, ensuring a smooth and orderly event experience."></span>
+		Permissions <span class="tooltip" data-tip="Use this feature to assign varied access levels to your event moderators. By customising permissions, you give each moderator the appropriate level of control and access for their role, promoting a smooth and orderly event experience."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

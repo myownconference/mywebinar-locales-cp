@@ -435,13 +435,13 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Instant meeting rooms with permanent links
+		Instant meeting rooms with permanent links <span class="tooltip" data-tip="Create immediate meeting rooms that come with unchanging, static links. Opt to add password protection for extra security or switch to the landing page mode. In the landing page mode, instead of accessing the room, attendees will encounter a form to provide their email and other details. Ideal for gathering attendee information before granting access."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Scheduled events
+		Scheduled events <span class="tooltip" data-tip="Use our integrated calendar to schedule your future events. Make events private with unique links sent by email or share them yourself. Add logos and banners for a professional touch. You can also record events as MP4 files. Plus, remember we automatically send out email notifications to your attendees."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-edit-section' => ////////////////////////////////////////////////////////////

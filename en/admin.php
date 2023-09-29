@@ -1659,7 +1659,7 @@ return [
 	'record-options' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		PreferencesPreferences <span class="tooltip" data-tip="Personalise your webinar recording settings to capture precisely what matters most to you. Whether you aim to highlight a specific section or record the entire event room, adjust your selections to meet your requirements. Remember to save your preferences and review them before each session to guarantee the best recording quality."></span>
+		Preferences <span class="tooltip" data-tip="Personalise your webinar recording settings to capture precisely what matters most to you. Whether you aim to highlight a specific section or record the entire event room, adjust your selections to meet your requirements. Remember to save your preferences and review them before each session to guarantee the best recording quality."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-only-webcams' => /////////////////////////////////////////////////////////////
@@ -1725,7 +1725,7 @@ return [
 	'gtm-id' => //////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Google Tag Manager ID <span class="tooltip" data-tip="Enter your Google Tag Manager ID to set the precise opening time for your event room. This integration allows for advanced time scheduling using GTM, ensuring your attendees can access the room exactly when you intend them to."></span>
+		Google Tag Manager ID <span class="tooltip" data-tip="Enter your unique GTM ID to unlock in-depth traffic analytics and comprehensive reporting for your events. This integration provides granular insights into attendee behavior and interactions."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'gtm-id-placeholder' => //////////////////////////////////////////////////////////////
@@ -1881,7 +1881,7 @@ return [
 	'room-options-header-conference' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Event mode <span class="tooltip" data-tip="Meeting – An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility.<br><br>Webinar – A presentation-focused event mode ideal for lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content."></span>
+		Event mode <span class="tooltip" data-tip="We offer two types of events:<br><br>• Meeting – An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility.<br><br>• Webinar – A presentation-focused event mode ideal for lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
@@ -2259,7 +2259,7 @@ return [
 	'mail-FINISHED' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Post-webinar <span class="tooltip" data-tip="Enable this feature to automatically send out a follow-up email to attendees once the online event concludes. This can be a gracious thank-you note, a brief survey for feedback, or even an exclusive link to access the event recording. Tailor your post-event communication to engage different groups of attendees and provide additional value long after the event has ended."></span>
+		Post-event <span class="tooltip" data-tip="Enable this feature to automatically send out a follow-up email to attendees once the online event concludes. This can be a gracious thank-you note, a brief survey for feedback, or even an exclusive link to access the event recording. Tailor your post-event communication to engage different groups of attendees and provide additional value long after the event has ended."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-FINISHED-desc' => //////////////////////////////////////////////////////////////

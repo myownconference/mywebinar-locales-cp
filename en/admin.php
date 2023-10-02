@@ -471,7 +471,7 @@ return [
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Advanced settings <span class="tooltip" data-tip="Click this button to access and configure professional-level settings for your event. It offers greater control and customization to tailor the session to your specific needs."></span>
+		Advanced settings
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section-lp' => //////////////////////////////////////////////////
@@ -765,7 +765,7 @@ return [
 	'room-options' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Advanced settings <span class="tooltip" data-tip="Click this button to access and configure professional-level settings for your instant meeting room. It offers greater control and customization to tailor the session to your specific needs."></span>
+		Advanced settings <span class="tooltip" data-tip="Click this button to access and configure professional-level settings for your scheduled event or the instant meeting room. It offers greater control and customization to tailor the session to your specific needs."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-options' => ///////////////////////////////////////////////////////////////

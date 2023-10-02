@@ -1755,13 +1755,13 @@ return [
 	'room-options-buttonquestion' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permit questions submission
+		Permit questions submission <span class="tooltip" data-tip="When activated, a special menu item will appear in the event room, allowing attendees to submit text questions. Any event moderator can view and respond to these questions, facilitating interaction and engagement during the event."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-buttonvoice' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permit request to speak
+		Permit request to speak <span class="tooltip" data-tip="When activated, a special menu item will be available in the event room, allowing attendees to send a request to speak. Moderators have the authority to approve or decline these requests. If approved, the attendee will need to grant webcam and microphone access to participate vocally in the discussion."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-message' => ///////////////////////////////////////////////////////////////////

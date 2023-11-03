@@ -435,7 +435,7 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar rooms with instant access via permanent links <span class="tooltip" data-tip="Create immediate meeting rooms that come with unchanging, static links. Opt to add password protection for extra security or switch to the landing page mode. In the landing page mode, instead of accessing the room, attendees will encounter a form to provide their email and other details. Ideal for gathering attendee information before granting access."></span>
+		Webinar rooms with instant access via permanent links <span class="tooltip" data-tip="Create webinar rooms that come with unchanging, static links. Opt to add password protection for extra security or switch to the landing page mode. In the landing page mode, instead of accessing the room, attendees will encounter a form to provide their email and other details. Ideal for gathering attendee information before granting access."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
@@ -741,7 +741,7 @@ return [
 	'create-webinar-room' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		New meeting room
+		New webinar room
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'web-close' => ///////////////////////////////////////////////////////////////////////
@@ -5305,7 +5305,7 @@ return [
 	'autoweb-novideos-alert' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Create and record your first webinar, or log in to the meeting room as a moderator and upload a video file.
+		Create and record your first webinar, or log in to the webinar room as a moderator and upload a video file.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payment-systems-info' => ////////////////////////////////////////////////////////////

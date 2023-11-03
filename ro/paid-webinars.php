@@ -15,73 +15,73 @@ return [
 	'paypal-summ' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Deja plătit
+		Already paid
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'funds-received' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Evenimente cu plată
+		Paid webinars
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'hold-title' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tariful nostru
+		Our fee
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'output-title' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Veniturile tale
+		Your earnings
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'output-button' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Retrage
+		Withdraw
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-title' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Termeni și condiții pentru procesarea plăților pentru evenimente cu plată
+		Terms and conditions of payment processing for paid webinars
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-subtitle' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vă rugăm să citiți cu atenție termenii și condițiile pentru utilizarea funcției de procesare a plăților. Utilizarea incorectă a acestei funcții poate duce la blocarea automată a contului dvs.
+		Read the terms and conditions for using the payment processing function carefully please. Incorrect use of this function may result in automatic blocking of your account.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-bottom' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Semnați aici dacă sunteți de acord cu termenii și condițiile procesării plăților
+		Sign here if you agree with term and conditions of the payments processing
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'freeze-title' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		În așteptare
+		On hold
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'service-commission-title' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tariful nostru
+		Our fee
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'our-bank-commission-title' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Comision bancar
+		Bank fee
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'available-title' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Venit
+		Revenue
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'extend-package-confirm' => //////////////////////////////////////////////////////////
@@ -108,12 +108,12 @@ return [
 	'payweb-rules' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<h3>Handling payments for your paid events</h3>
+		<h3>Handling payments for your paid webinars</h3>
 		<sup style="color:grey">(Last edited: August 24, 2023. Revision: 1.2)</sup>
 		<br><br><br><br>
 		<h3>Terms and definitions</h3>
 		<p>
-			– <b>Paid events</b> — this encompasses webinars, online lectures, conferences, seminars, courses, lessons, and live broadcasts that require payment for participation. Attendees can access and participate in these events only after they‘ve made the necessary payment.
+			– <b>Paid webinars</b> — this encompasses webinars, online lectures, conferences, seminars, courses, lessons, and live broadcasts that require payment for participation. Attendees can access and participate in these webinars only after they‘ve made the necessary payment.
 			<br><br>
 			– <b>Webinar software MyOwnConference</b> — we are “Akovana, UAB“, a service provider specializing in the organization of both free and paid webinars, live broadcasts, web conferences, and more. Our registered address is 18 Djioyi Street, Vilnius, Lithuania, LT-01128.
 			<br><br>
@@ -123,12 +123,12 @@ return [
 			<br><br>
 			– <b>User Account, Control Panel, or Dashboard</b> — this is a collection of the User‘s personal data crucial for accessing the services offered by the Website. It also contains files the User has stored on the Website‘s server.
 			<br><br>
-			– <b>Attendee, Participant or Guest</b> – an individual invited by the User, who compensates the User for access to a paid event hosted by the User via the Website.
+			– <b>Attendee, Participant or Guest</b> – an individual invited by the User, who compensates the User for access to a paid webinar hosted by the User via the Website.
 		</p>
 		<br><br>
 		<h3>General provisions</h3>
 		<p>
-			When arranging paid events, the online platform for webinars, live broadcasts, and web conferences, namely “MyOwnConference“, hereinafter referred to as “the Platform“, serves as an intermediary. The platform is entrusted by the User to receive and process payments from attendees participating in the webinar, online lecture, conference, course, or lesson facilitated via the platform‘s services.
+			When arranging paid webinars, the online platform for webinars, live broadcasts, and web conferences, namely “MyOwnConference“, hereinafter referred to as “the Platform“, serves as an intermediary. The platform is entrusted by the User to receive and process payments from attendees participating in the webinar, online lecture, conference, course, or lesson facilitated via the platform‘s services.
 		</p>
 		<br>
 		<p>
@@ -136,7 +136,7 @@ return [
 		</p>
 		<br>
 		<p>
-			The Platform conscientiously oversees the quality of the User‘s paid events, keeps track of any discontented participants, and manages refunds for previously processed payments if warranted. Accordingly, during the preliminary verification of the User‘s account, the Platform holds the discretion to deny the User‘s request to process payments without stating a specific reason.
+			The Platform conscientiously oversees the quality of the User‘s paid webinars, keeps track of any discontented participants, and manages refunds for previously processed payments if warranted. Accordingly, during the preliminary verification of the User‘s account, the Platform holds the discretion to deny the User‘s request to process payments without stating a specific reason.
 		</p>
 		<br>
 		<p>
@@ -157,7 +157,7 @@ return [
 		<br><br>
 		<h3>Platform fees</h3>
 		<p>
-			The website applies a <b>10%</b> commission to every successful payment made by participants attending a user‘s paid event.
+			The website applies a <b>10%</b> commission to every successful payment made by participants attending a user‘s paid webinar.
 		</p>
 		<p>
 			For instance, if you set the entry fee for a webinar at €10 and 10 people attend, generating €10 x 10 = €100 in total payments, you would earn €100 – 10% = €90 after commission.
@@ -226,7 +226,7 @@ return [
 		<br><br>
 		<h3>Refund request from the webinar attendee‘s bank</h3>
 		<p>
-			Such refund requests arise from the bank that serves the attendee of a paid webinar. All payments made by attendees for paid events are fully refundable, adhering to the principle that “The Attendee is Always Right“.
+			Such refund requests arise from the bank that serves the attendee of a paid webinar. All payments made by attendees for paid webinars are fully refundable, adhering to the principle that “The Attendee is Always Right“.
 		</p>
 		<br>
 		<p>
@@ -259,24 +259,24 @@ return [
 		</p>
 		<br>
 		<p>
-			The Website reserves the right to suspend or terminate its services without prior notice to the User. This may also involve retaining all proceeds from paid events on the Website‘s account, especially in cases where paid webinars, live broadcasts, or web conferences contain illegal or offensive content.
+			The Website reserves the right to suspend or terminate its services without prior notice to the User. This may also involve retaining all proceeds from paid webinars on the Website‘s account, especially in cases where paid webinars, live broadcasts, or web conferences contain illegal or offensive content.
 		</p>
 		<br><br>
 		<h3>User‘s rights and obligations</h3>
 		<p>
-			The User is personally responsible to the attendees of paid events for their content, quality, and the timely delivery using the services provided by the Website.
+			The User is personally responsible to the attendees of paid webinars for their content, quality, and the timely delivery using the services provided by the Website.
 		</p>
 		<br>
 		<p>
-			The User assumes personal responsibility towards attendees of paid events for any technical issues, glitches, delays, or cancellations related to the organization of the paid webinar.
+			The User assumes personal responsibility towards attendees of paid webinars for any technical issues, glitches, delays, or cancellations related to the organization of the paid webinar.
 		</p>
 		<br>
 		<p>
-			The User agrees not to use the services of the Website for illegal purposes. Breaching this agreement will result in the immediate suspension of the User‘s account, and any funds accrued from paid events will be retained by the Website.
+			The User agrees not to use the services of the Website for illegal purposes. Breaching this agreement will result in the immediate suspension of the User‘s account, and any funds accrued from paid webinars will be retained by the Website.
 		</p>
 		<br>
 		<p>
-			The User is not permitted to use the Service or its messaging system to send, share, or distribute spam or other unauthorized promotional content. Should attendees file complaints against the User for such unauthorized activities, the Website reserves the right to suspend the User‘s account and retain all funds acquired from paid events on the Website.
+			The User is not permitted to use the Service or its messaging system to send, share, or distribute spam or other unauthorized promotional content. Should attendees file complaints against the User for such unauthorized activities, the Website reserves the right to suspend the User‘s account and retain all funds acquired from paid webinars on the Website.
 		</p>
 		<br><br>
 		<h3>Copyright policy</h3>
@@ -298,11 +298,11 @@ return [
 		</p>
 		<br>
 		<p>
-			For Participants of paid events, the Website‘s liability is confined solely to the monetary sum received by the User.
+			For Participants of paid webinars, the Website‘s liability is confined solely to the monetary sum received by the User.
 		</p>
 		<br>
 		<p>
-			The Website offers no assurances to Participants of paid events concerning the accuracy, currentness, or comprehensiveness of the information provided by the User. The User acknowledges that the content or materials they present during paid events might have inaccuracies or errors. The Website shall not be accountable for any inaccuracies or for any lost profits of the User or Participants.
+			The Website offers no assurances to Participants of paid webinars concerning the accuracy, currentness, or comprehensiveness of the information provided by the User. The User acknowledges that the content or materials they present during paid webinars might have inaccuracies or errors. The Website shall not be accountable for any inaccuracies or for any lost profits of the User or Participants.
 		</p>
 		<br>
 		<p>
@@ -311,7 +311,7 @@ return [
 		<br><br>
 		<h3>Disputes</h3>
 		<p>
-			While the Website strives to address concerns comprehensively, it cannot guarantee a resolution in favor of every User or Participant of paid events. However, we commit to taking all necessary actions and making every effort to resolve any situation or problem promptly. Should disputes arise that necessitate the involvement of public authorities, both the User and the Participant agree to be governed by applicable EU law.
+			While the Website strives to address concerns comprehensively, it cannot guarantee a resolution in favor of every User or Participant of paid webinars. However, we commit to taking all necessary actions and making every effort to resolve any situation or problem promptly. Should disputes arise that necessitate the involvement of public authorities, both the User and the Participant agree to be governed by applicable EU law.
 		</p>
 		<br><br>
 		<h3>Notifications</h3>

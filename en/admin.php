@@ -4831,7 +4831,7 @@ return [
 	'storage-title' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		File storage <span class="tooltip" data-tip="Your central hub for all uploaded content. Efficiently filter, sort, and locate files. You have the option to delete, download, or upload new files with ease. Additionally, integrate videos directly from YouTube or Vimeo to enrich your content repository."></span>
+		Storage <span class="tooltip" data-tip="Your central hub for all uploaded content, polls, surveys, tests, and CTAs. Efficiently filter, sort, and locate files and other stuff. You have the option to delete, download, or upload new files with ease. Integrate videos directly from YouTube or Vimeo to enrich your content repository. Additionally, you can create or edit your polls, surveys, tests, and CTAs. Everything is in one place."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-search-placeholder' => //////////////////////////////////////////////////////

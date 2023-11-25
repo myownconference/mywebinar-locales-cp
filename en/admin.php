@@ -1881,7 +1881,7 @@ return [
 	'room-options-header-conference' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar mode <span class="tooltip" data-tip="We offer two types of webinars:<br><br>• Meeting – An interactive webinar mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility.<br><br>• Webinar – A presentation-focused webinar mode ideal for lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content."></span>
+		Event mode <span class="tooltip" data-tip="We offer two types of webinars:<br><br>• Meeting – An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility.<br><br>• Webinar – A presentation-focused event mode ideal for lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-webinar' => ////////////////////////////////////////////////////////////

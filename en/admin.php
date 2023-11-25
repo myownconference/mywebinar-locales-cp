@@ -429,13 +429,13 @@ return [
 	'adhoc-webinars' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar rooms
+		Permanent webinars
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar rooms with instant access via permanent links <span class="tooltip" data-tip="Create webinar rooms that come with unchanging, static links. Opt to add password protection for extra security or switch to the landing page mode. In the landing page mode, instead of accessing the room, attendees will encounter a form to provide their email and other details. Ideal for gathering attendee information before granting access."></span>
+		Permanent webinars <span class="tooltip" data-tip="Create webinar rooms that come with unchanging, static links. Opt to add password protection for extra security or switch to the landing page mode. In the landing page mode, instead of accessing the room, attendees will encounter a form to provide their email and other details. Ideal for gathering attendee information before granting access."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////

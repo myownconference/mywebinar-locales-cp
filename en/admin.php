@@ -1773,19 +1773,19 @@ return [
 	'room-options-buttonquestion' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permit questions submission <span class="tooltip" data-tip="When activated, a special menu item will appear in the webinar room, allowing attendees to submit text questions. Any webinar moderator can view and respond to these questions, facilitating interaction and engagement during the webinar."></span>
+		Enable private chat with moderators <span class="tooltip" data-tip="When activated, a special menu item will appear in the webinar room, allowing attendees to submit text questions. Any webinar moderator can view and respond to these questions, facilitating interaction and engagement during the webinar."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-buttonvoice' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permit request to speak <span class="tooltip" data-tip="When activated, a special menu item will be available in the webinar room, allowing attendees to send a request to speak. Moderators have the authority to approve or decline these requests. If approved, the attendee will need to grant webcam and microphone access to participate vocally in the discussion."></span>
+		Allow request to speak <span class="tooltip" data-tip="When activated, a special menu item will be available in the webinar room, allowing attendees to send a request to speak. Moderators have the authority to approve or decline these requests. If approved, the attendee will need to grant webcam and microphone access to participate vocally in the discussion."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-buttonqa' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		QA button
+		Enable Q&A section <span class="tooltip" data-tip="When activated, a particular menu item will be available in the webinar room, allowing moderators to highlight questions in the public text chat during the event and enable attendees to vote for their favorites. This feature gives moderators a dedicated Q&A interface to track and manage questions, showing which are currently being addressed and resolved. Attendee votes will prioritize questions, ensuring the most popular ones are easily visible at the top."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-message' => ///////////////////////////////////////////////////////////////////

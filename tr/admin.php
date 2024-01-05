@@ -1773,7 +1773,7 @@ return [
 	'room-options-buttonquestion' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Soru gönderimine izin ver
+		Moderatörlerle özel sohbeti etkinleştir
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-buttonvoice' => ////////////////////////////////////////////////////////
@@ -1785,7 +1785,7 @@ return [
 	'room-options-buttonqa' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		QA button
+		Q&A bölümünü etkinleştir <span class="tooltip" data-tip="Aktif edildiğinde, webinar odasında özel bir menü öğesi kullanıma sunulacak, bu da moderatörlere etkinlik sırasında halka açık metin sohbetinde soruları vurgulama ve katılımcıların favorileri için oy kullanmalarını sağlama imkanı verecek. Bu özellik, moderatörlere soruları takip etmeleri ve yönetmeleri için özel bir Q&A arayüzü sunar, hangi soruların şu anda ele alındığını ve çözüldüğünü gösterir. Katılımcı oyları, soruların önceliklendirilmesini sağlayacak ve en popüler olanlar listenin en üstünde kolayca görülebilir olacak."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-message' => ///////////////////////////////////////////////////////////////////

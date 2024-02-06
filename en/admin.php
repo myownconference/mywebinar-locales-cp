@@ -723,7 +723,7 @@ return [
 	'profile-pay-system' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Payment system <span class="tooltip" data-tip="Select your preferred payment method from Paysera, PayPal, and Revolut. Also, choose the currency that suits you best, like Euros, Polish zlotys, Ukrainian hryvnia, and more."></span>
+		Payment system <span class="tooltip" data-tip="Select your preferred payment method from Paysera, PayPal, and Revolut. Also, choose the currency that suits you best, like euros, dollars, pounds, polish zlotys, ukrainian hryvnia, and more."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-language' => ////////////////////////////////////////////////////////////////
@@ -1893,13 +1893,13 @@ return [
 	'room-options-broadcasting-type-browser' => //////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		WebRTC
+		WebRTC <span class="tooltip" data-tip="All webinar speakers will utilise the browser-based WebRTC protocol via UDP when streaming their webcam and microphone. To leverage the full potential of this technology, a fast and reliable internet connection is imperative."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-plugin' => ///////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Plugin DTS
+		Plugin DTS <span class="tooltip" data-tip="All our webinar speakers can easily download our secure DTS plugin. It works smoothly for webcam and microphone streaming, even on slower internet connections. Created by our team, this plugin minimizes delays. So, even on a not-so-great internet connection, you‘ll experience a lag of up to 3 seconds from real-time."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-conference' => //////////////////////////////////////////////////

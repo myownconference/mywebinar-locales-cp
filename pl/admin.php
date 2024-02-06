@@ -1887,19 +1887,19 @@ return [
 	'room-options-broadcasting-type' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Technologia transmisji
+		Technologia transmisji <span class="tooltip" data-tip="Nasza platforma do webinarów i wideokonferencji obsługuje trzy różne źródła transmisji:<br><br>• WebRTC – Wszyscy prelegenci webinarów korzystają z protokołu WebRTC opartego na przeglądarce za pośrednictwem UDP do transmisji obrazu z kamery i dźwięku z mikrofonu. Dla pełnego wykorzystania potencjału tej technologii niezbędne jest szybkie i stabilne połączenie internetowe.<br><br>• Wszyscy nasi prelegenci mogą łatwo pobrać naszą bezpieczną wtyczkę DTS. Działa ona płynnie przy transmisji z kamery i mikrofonu, nawet przy wolniejszych połączeniach internetowych. Stworzona przez nasz zespół wtyczka minimalizuje opóźnienia. Nawet przy niezbyt szybkim połączeniu internetowym, można doświadczyć opóźnienia do 3 sekund od czasu rzeczywistego.<br><br>• Tylko jeden prelegent webinaru może używać studia OBS do transmisji w wysokiej rozdzielczości, oferując jakość do 1080p. Należy jednak zauważyć, że może wystąpić znaczne opóźnienie ponad 20 sekund."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-browser' => //////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		WebRTC
+		WebRTC <span class="tooltip" data-tip="Wszyscy prelegenci webinarów korzystają z protokołu WebRTC opartego na przeglądarce za pośrednictwem UDP do transmisji obrazu z kamery i dźwięku z mikrofonu. Dla pełnego wykorzystania potencjału tej technologii niezbędne jest szybkie i stabilne połączenie internetowe."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-plugin' => ///////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Plugin DTS
+		Plugin DTS <span class="tooltip" data-tip="Wszyscy nasi prelegenci mogą łatwo pobrać naszą bezpieczną wtyczkę DTS. Działa ona płynnie przy transmisji z kamery i mikrofonu, nawet przy wolniejszych połączeniach internetowych. Stworzona przez nasz zespół wtyczka minimalizuje opóźnienia. Nawet przy niezbyt szybkim połączeniu internetowym, można doświadczyć opóźnienia do 3 sekund od czasu rzeczywistego."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-conference' => //////////////////////////////////////////////////

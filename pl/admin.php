@@ -1905,19 +1905,19 @@ return [
 	'room-options-header-conference' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tryb transmisji
+		Tryb transmisji <span class="tooltip" data-tip="Oferujemy dwa rodzaje webinarów:<br><br>• Wideokonferencja – Interaktywny tryb wydarzenia zaprojektowany do współpracy i dyskusji. Wizualizacje kamery prelegenta dominują na ekranie, zapewniając osobistą komunikację twarzą w twarz. Przestrzeń robocza jest równo podzielona między wszystkich prelegentów, dając każdemu wystarczająco dużo widoczności.<br><br>• Webinar – Tryb wydarzenia skoncentrowany na prezentacji, idealny na wykłady, warsztaty lub pokazy produktów. Kamery jednego lub więcej prelegentów są dyskretnie umieszczone w rogu, podczas gdy większość przestrzeni roboczej prezentuje pokaz slajdów lub udostępnianie ekranu, co pozwala uczestnikom skupić się na prezentowanej treści."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar
+		Webinar <span class="tooltip" data-tip="Tryb wydarzenia skoncentrowany na prezentacji, idealny na wykłady, warsztaty lub pokazy produktów. Kamery jednego lub więcej prelegentów są dyskretnie umieszczone w rogu, podczas gdy większość przestrzeni roboczej prezentuje pokaz slajdów lub udostępnianie ekranu, co pozwala uczestnikom skupić się na prezentowanej treści."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-conference' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Wideokonferencja
+		Wideokonferencja <span class="tooltip" data-tip="Interaktywny tryb wydarzenia zaprojektowany do współpracy i dyskusji. Wizualizacje kamery prelegenta dominują na ekranie, zapewniając osobistą komunikację twarzą w twarz. Przestrzeń robocza jest równo podzielona między wszystkich prelegentów, dając każdemu wystarczająco dużo widoczności."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////

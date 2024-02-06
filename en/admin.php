@@ -1911,13 +1911,13 @@ return [
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar
+		Webinar <span class="tooltip" data-tip="A presentation-focused event mode ideal for lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-conference' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Meeting
+		Meeting <span class="tooltip" data-tip="An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////

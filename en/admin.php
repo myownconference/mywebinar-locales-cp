@@ -423,19 +423,19 @@ return [
 	'schedul-webinar' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Scheduled webinars
+		Scheduled
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'adhoc-webinars' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permanent webinars
+		Instant
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permanent webinars <span class="tooltip" data-tip="Create webinar rooms that are available 24/7 and come with unchanging, static links. Add password protection for extra security or switch to the landing page mode. In the landing page mode, instead of accessing the room, attendees will encounter a form to provide their email and other details. The landing page mode is ideal for gathering attendee information before granting access to future webinars."></span>
+		Instant webinars <span class="tooltip" data-tip="Create webinar rooms that are available 24/7 and come with unchanging, static links. Add password protection for extra security or switch to the landing page mode. In the landing page mode, instead of accessing the room, attendees will encounter a form to provide their email and other details. The landing page mode is ideal for gathering attendee information before granting access to future webinars."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////

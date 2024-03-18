@@ -1461,7 +1461,7 @@ return [
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		אין לך אירועים מתוכננים להיום
+		אין סדנאות מתוזמנות היום<br><br><br><br>לחיבור מהיר, <a href="https://support.myownconference.com/he/article/public-events-in-an-instant-meeting-room-1joepxf/" target="_blank" rel="noopener"><u>התחל פגישה מיידית</u></a> כעת<br><br>או<br><br>רוצה לתכנן מראש, <a href="https://support.myownconference.com/he/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener"><u>למד כיצד לתכנן סדנה</u></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-day' => /////////////////////////////////////////////////////////////////

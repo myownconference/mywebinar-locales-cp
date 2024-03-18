@@ -1461,7 +1461,7 @@ return [
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		No webinars scheduled today<br><br><br><br>For quick connection, <a href="https://support.myownconference.com/en/article/public-events-in-an-instant-meeting-room-1joepxf/" target="_blank" rel="noopener"><u>start an instant meeting</u></a> now<br><br>or<br><br>want to plan ahead, <a href="https://support.myownconference.com/en/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener"><u>learn how to schedule a webinar</u></a>
+		Nincsenek mai webináriumok tervezve<br><br><br><br>Gyors kapcsolódásért, <a href="https://support.myownconference.com/en/article/public-events-in-an-instant-meeting-room-1joepxf/" target="_blank" rel="noopener"><u>indítsa el azonnali találkozóját</u></a> most<br><br>vagy<br><br>szeretne előre tervezni, <a href="https://support.myownconference.com/en/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener"><u>tudja meg, hogyan ütemezhet be egy webináriumot</u></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-day' => /////////////////////////////////////////////////////////////////

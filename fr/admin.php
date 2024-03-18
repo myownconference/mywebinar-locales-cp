@@ -1461,7 +1461,7 @@ return [
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vous n‘avez aucun événement prévu pour aujourd‘hui
+		Aucun webinaire n‘est prévu pour aujourd‘hui<br><br><br><br>Pour une connexion rapide, <a href="https://support.myownconference.com/fr/article/public-events-in-an-instant-meeting-room-1joepxf/" target="_blank" rel="noopener"><u>démarrez une réunion instantanée</u></a> maintenant<br><br>ou<br><br>si vous souhaitez planifier à l‘avance, <a href="https://support.myownconference.com/fr/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener"><u>apprenez comment planifier un webinaire</u></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-day' => /////////////////////////////////////////////////////////////////

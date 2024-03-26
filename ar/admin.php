@@ -1461,7 +1461,7 @@ return [
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		ليس لديك أي أحداث مقررة لليوم
+		لا يوجد ويبينارات مجدولة اليوم<br><br><br><br>للاتصال السريع، <a href="https://support.myownconference.com/en/article/public-events-in-an-instant-meeting-room-1joepxf/" target="_blank" rel="noopener"><u>ابدأ اجتماع فوري الآن</u></a><br><br>أو<br><br>ترغب في التخطيط مسبقًا، <a href="https://support.myownconference.com/en/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener"><u>تعلم كيفية جدولة ويبينار</u></a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-day' => /////////////////////////////////////////////////////////////////

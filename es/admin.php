@@ -1461,7 +1461,7 @@ return [
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		No hay seminarios web programados para hoy<br><br><br><br>Para una conexión rápida, <a href="https://support.myownconference.com/en/article/public-events-in-an-instant-meeting-room-1joepxf/" target="_blank" rel="noopener"><u>inicie una reunión instantánea</u></a> ahora<br><br>o<br><br>si desea planificar con anticipación, <a href="https://support.myownconference.com/en/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener"><u>aprenda cómo programar un seminario web</u></a>
+		No hay seminarios web programados para hoy
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-day' => /////////////////////////////////////////////////////////////////

@@ -1461,7 +1461,7 @@ return [
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nu sunt programate seminarii web astăzi<br><br><br><br>Pentru o conexiune rapidă, <a href="https://support.myownconference.com/en/article/public-events-in-an-instant-meeting-room-1joepxf/" target="_blank" rel="noopener"><u>începeți o întâlnire instantanee</u></a> acum<br><br>sau<br><br>doriți să planificați în avans, <a href="https://support.myownconference.com/en/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener"><u>aflați cum să programați un webinar</u></a>
+		Nu sunt programate seminarii web astăzi
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-day' => /////////////////////////////////////////////////////////////////

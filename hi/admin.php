@@ -1461,7 +1461,7 @@ return [
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		आज कोई वेबिनार निर्धारित नहीं है<br><br><br><br>त्वरित कनेक्शन के लिए, <a href="https://support.myownconference.com/en/article/public-events-in-an-instant-meeting-room-1joepxf/" target="_blank" rel="noopener"><u>तुरंत एक तत्काल मीटिंग शुरू करें</u></a> अभी<br><br>या<br><br>आगे की योजना बनाना चाहते हैं, <a href="https://support.myownconference.com/en/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener"><u>वेबिनार को कैसे शेड्यूल करें यह सीखें</u></a>
+		आज कोई वेबिनार निर्धारित नहीं है
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-day' => /////////////////////////////////////////////////////////////////

@@ -1461,7 +1461,7 @@ return [
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bugün planlanmış web semineri bulunmamaktadır.<br><br><br><br>Hızlı bağlantı için, <a href="https://support.myownconference.com/en/article/public-events-in-an-instant-meeting-room-1joepxf/" target="_blank" rel="noopener"><u>hemen anlık bir toplantı başlatın</u></a><br><br>veya<br><br>ilere dönük plan yapmak isterseniz, <a href="https://support.myownconference.com/en/article/how-to-schedule-your-event-1yrojvj/" target="_blank" rel="noopener"><u>web semineri nasıl planlayacağınızı öğrenin</u></a>
+		Bugün planlanmış web semineri bulunmamaktadır
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-day' => /////////////////////////////////////////////////////////////////

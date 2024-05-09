@@ -435,13 +435,13 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sale webinarowe <span class="tooltip" data-tip="Create webinar rooms that are available 24/7 and come with unchanging, static links. Add password protection for extra security or switch to the landing page mode. In the landing page mode, instead of accessing the room, attendees will encounter a form to provide their email and other details. The landing page mode is ideal for gathering attendee information before granting access to future webinars."></span>
+		Sale webinarowe <span class="tooltip" data-tip="Utwórz sale webinarowe dostępne 24/7 z niezmieniającymi się, stałymi linkami. Dodaj ochronę hasłem dla dodatkowego bezpieczeństwa lub przełącz się na tryb strony startowej. W trybie strony startowej, zamiast dostępu do sali, uczestnicy napotkają formularz do podania swojego e-maila i innych danych. Tryb strony startowej jest idealny do zbierania informacji o uczestnikach przed przyznaniem dostępu do przyszłych webinarów."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kalendarz zaplanowanych webinarów <span class="tooltip" data-tip="Use our integrated calendar to schedule your future webinars. Make webinars private with unique links sent by email or share them yourself. Add logos and banners for a professional touch. You can also record webinars as MP4 files. Plus, remember we automatically send out email notifications to your attendees. All features are available in the "Advanced settings" section during the scheduling process."></span>
+		Kalendarz zaplanowanych webinarów <span class="tooltip" data-tip="Użyj naszego zintegrowanego kalendarza, aby zaplanować swoje przyszłe webinary. Zorganizuj webinary prywatne z unikalnymi linkami wysyłanymi e-mailem lub udostępnij je samodzielnie. Dodaj logotypy i banery dla profesjonalnego wyglądu. Możesz także nagrywać webinary jako pliki MP4. Ponadto, automatycznie wysyłamy powiadomienia e-mail do Twoich uczestników. Wszystkie funkcje dostępne są w sekcji «Ustawienia zaawansowane» podczas procesu planowania."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-edit-section' => ////////////////////////////////////////////////////////////
@@ -483,19 +483,19 @@ return [
 	'webinar-date' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Data <span class="tooltip" data-tip="The scheduled date of the webinar"></span>
+		Data <span class="tooltip" data-tip="Data planowanego webinaru"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-time' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Początek <span class="tooltip" data-tip="Kick-off time of the webinar"></span>
+		Początek <span class="tooltip" data-tip="Czas rozpoczęcia webinaru"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-duration' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Czas <span class="tooltip" data-tip="Estimated webinar duration. The webinar won‘t conclude on its own when this duration elapses. However, a button will be displayed within the webinar room, allowing you to end the webinar at your discretion."></span>
+		Czas <span class="tooltip" data-tip="Szacowany czas trwania webinaru. Webinar nie zakończy się automatycznie po upływie tego czasu. Jednakże, w sali webinarowej zostanie wyświetlony przycisk, pozwalający zakończyć webinar według własnego uznania."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderators' => //////////////////////////////////////////////////////////////////////
@@ -573,7 +573,7 @@ return [
 	'profile-name-short' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pełne imię i nazwisko <span class="tooltip" data-tip="Enter your account name or personal name here. This name will be visible only to the MyOwnConference platform and won‘t be shared with others."></span>
+		Pełne imię i nazwisko <span class="tooltip" data-tip="Wpisz tutaj nazwę swojego konta lub imię i nazwisko. Ta nazwa będzie widoczna tylko dla platformy MyOwnConference i nie będzie udostępniana innym."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-name-placeholder' => ////////////////////////////////////////////////////////
@@ -609,7 +609,7 @@ return [
 	'profile-password' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Hasło <span class="tooltip" data-tip="Protect your account by setting a strong password. We recommend including uppercase letters, numbers, and special characters for security."></span>
+		Hasło <span class="tooltip" data-tip="Zabezpiecz swoje konto, ustawiając silne hasło. Zalecamy włączenie dużych liter, cyfr i znaków specjalnych dla bezpieczeństwa."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-change-password' => /////////////////////////////////////////////////////////
@@ -651,7 +651,7 @@ return [
 	'profile-timezone' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Strefa czasowa <span class="tooltip" data-tip="Choosing the correct time zone is crucial as all scheduled webinars will adhere to this setting. Please ensure it aligns with your computer‘s clock for accurate scheduling and webinar timings."></span>
+		Strefa czasowa <span class="tooltip" data-tip="Wybór odpowiedniej strefy czasowej jest kluczowy, ponieważ wszystkie zaplanowane webinary będą dostosowane do tego ustawienia. Upewnij się, że jest zgodne z zegarem Twojego komputera, aby zapewnić dokładne planowanie i czas trwania webinarów."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invalid-character' => ///////////////////////////////////////////////////////////////
@@ -711,7 +711,7 @@ return [
 	'profile-news' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Newslettery <span class="tooltip" data-tip="Toggle to subscribe to MyOwnConference newsletters. Stay updated with the latest news and changes related to our webinar software."></span>
+		Newslettery <span class="tooltip" data-tip="Przełącz, aby subskrybować newslettery MyOwnConference. Bądź na bieżąco z najnowszymi wiadomościami i zmianami związanymi z naszym oprogramowaniem do webinarów."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-active-news' => /////////////////////////////////////////////////////////////
@@ -729,13 +729,13 @@ return [
 	'profile-pay-system' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		System płatności <span class="tooltip" data-tip="Select your preferred payment method from Paysera, PayPal, and Revolut. Also, choose the currency that suits you best, like euros, dollars, pounds, polish zlotys, ukrainian hryvnia, and more."></span>
+		System płatności <span class="tooltip" data-tip="Wybierz preferowaną metodę płatności spośród Paysera, PayPal i Revolut. Wybierz także walutę, która najbardziej Ci odpowiada, taką jak euro, dolary, funty, złote polskie, hrywny ukraińskie i inne."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-language' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Język <span class="tooltip" data-tip="Select your preferred language to customize the dashboard interface to your comfort. Changes will reflect immediately upon selection."></span>
+		Język <span class="tooltip" data-tip="Wybierz preferowany język, aby dostosować interfejs pulpitu do swojego komfortu. Zmiany zostaną odzwierciedlone natychmiast po wyborze."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'create-webinar' => //////////////////////////////////////////////////////////////////
@@ -759,7 +759,7 @@ return [
 	'web-close' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Wejście tylko z linkiem indywidualnym <span class="tooltip" data-tip="To host private webinars or webinars, activate this option. It will conceal the registration form from all viewers."></span>
+		Wejście tylko z linkiem indywidualnym <span class="tooltip" data-tip="Aby organizować prywatne webinary, aktywuj tę opcję. Ukryje ona formularz rejestracyjny przed wszystkimi widzami."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-moderator' => ////////////////////////////////////////////////////////////////
@@ -777,7 +777,7 @@ return [
 	'room-options' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ustawienia zaawansowane <span class="tooltip" data-tip="Click this button to access and configure professional-level settings for your scheduled webinar or the webinar room. It offers greater control and customization to tailor the session to your specific needs."></span>
+		Ustawienia zaawansowane <span class="tooltip" data-tip="Kliknij ten przycisk, aby uzyskać dostęp do i skonfigurować ustawienia na poziomie profesjonalnym dla zaplanowanego webinaru lub sali webinarowej. Oferuje większą kontrolę i możliwość dostosowania sesji do swoich konkretnych potrzeb."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-options' => ///////////////////////////////////////////////////////////////
@@ -849,7 +849,7 @@ return [
 	'moderators-list' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Lista prezenterów <span class="tooltip" data-tip="This section allows you to create and manage the moderators for your online webinars. Assign roles, set permissions, and ensure your webinar runs smoothly by designating the right individuals to oversee and facilitate it."></span>
+		Lista prezenterów <span class="tooltip" data-tip="Ta sekcja pozwala tworzyć i zarządzać moderatorami dla Twoich online webinarów. Przydziel role, ustaw uprawnienia i upewnij się, że Twój webinar przebiega płynnie, wyznaczając odpowiednie osoby do nadzorowania i ułatwiania jego przebiegu."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mod-search-placeholder' => //////////////////////////////////////////////////////////
@@ -1209,7 +1209,7 @@ return [
 	'attendees-list' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Lista uczestników <span class="tooltip" data-tip="Manage your online webinar attendees here. Add, edit, or update attendee information, including email details. Easily import or export attendee lists in bulk, apply filters, and organize attendee data to streamline your webinar preparation and communication."></span>
+		Lista uczestników <span class="tooltip" data-tip="Zarządzaj tutaj swoimi uczestnikami webinarów online. Dodawaj, edytuj lub aktualizuj informacje o uczestnikach, w tym dane e-mailowe. Łatwo importuj lub eksportuj listy uczestników hurtowo, stosuj filtry i organizuj dane uczestników, aby usprawnić przygotowania do webinaru i komunikację."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'att-search-placeholder' => //////////////////////////////////////////////////////////
@@ -1431,7 +1431,7 @@ return [
 	'record-quality' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Jakość <span class="tooltip" data-tip="Choose the desired resolution for your webinar recording. A higher resolution offers clearer visuals but may require more storage space and bandwidth."></span>
+		Jakość <span class="tooltip" data-tip="Wybierz żądaną rozdzielczość dla nagrania webinaru. Wyższa rozdzielczość oferuje jaśniejsze obrazy, ale może wymagać więcej miejsca na dysku i przepustowości."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sd-fullhd' => ///////////////////////////////////////////////////////////////////////
@@ -1630,7 +1630,7 @@ return [
 	'webcam-position' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pozycja chatu <span class="tooltip" data-tip="Choose the placement of the public text chat area in your webinar room. This setting allows you to adjust the chat display according to left-to-right or right-to-left reading preferences. Whether you want the chat on the left or the right side, select your desired orientation here."></span>
+		Pozycja chatu <span class="tooltip" data-tip="Wybierz położenie publicznego obszaru czatu tekstowego w sali webinarowej. To ustawienie pozwala dostosować wyświetlanie czatu zgodnie z preferencjami czytania od lewej do prawej lub od prawej do lewej. Niezależnie od tego, czy chcesz mieć czat po lewej, czy po prawej stronie, wybierz żądaną orientację tutaj."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webcam-chat-position' => ////////////////////////////////////////////////////////////
@@ -1690,19 +1690,19 @@ return [
 	'record-options' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ustawienia <span class="tooltip" data-tip="Personalise your webinar recording settings to capture precisely what matters most to you. Whether you aim to highlight a specific section or record the entire webinar room, adjust your selections to meet your requirements. Remember to save your preferences and review them before each session to guarantee the best recording quality."></span>
+		Ustawienia <span class="tooltip" data-tip="Spersonalizuj ustawienia nagrywania webinaru, aby dokładnie uchwycić to, co dla Ciebie najważniejsze. Niezależnie od tego, czy chcesz podkreślić konkretną sekcję, czy nagrać całą salę webinarową, dostosuj swoje wybory, aby spełnić swoje wymagania. Pamiętaj, aby zapisać swoje preferencje i przejrzeć je przed każdą sesją, aby zagwarantować najlepszą jakość nagrania."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-only-webcams' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nagrywaj tylko kamerę i mikrofon <span class="tooltip" data-tip="When activated, the webinar recording will capture only the webcam feed and audio from the microphone, excluding all other elements of the working area."></span>
+		Nagrywaj tylko kamerę i mikrofon <span class="tooltip" data-tip="Gdy aktywowane, nagranie webinaru będzie obejmować tylko obraz z kamery internetowej i dźwięk z mikrofonu, wykluczając wszystkie inne elementy obszaru roboczego."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Automatyczne nagrywanie po zalogowaniu dowolnego moderatora <span class="tooltip" data-tip="Streamline your webinar recording process with this convenient feature. When enabled, the recording will automatically commence as soon as the first moderator logs into the webinar, ensuring you capture every important moment from start to finish. The recording will conclude once the last moderator exits the webinar, providing a comprehensive capture of your session without any manual intervention."></span>
+		Automatyczne nagrywanie po zalogowaniu dowolnego moderatora <span class="tooltip" data-tip="Usprawnij proces nagrywania webinaru dzięki tej wygodnej funkcji. Gdy jest włączona, nagranie automatycznie rozpocznie się, gdy pierwszy moderator zaloguje się do webinaru, zapewniając rejestrację każdej ważnej chwili od początku do końca. Nagranie zakończy się, gdy ostatni moderator opuści webinar, zapewniając kompleksowe uchwycenie Twojej sesji bez żadnej ręcznej interwencji."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto-no-stop' => /////////////////////////////////////////////////////////////
@@ -1714,13 +1714,13 @@ return [
 	'record-cams-and-slides' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nagrywaj kamerę, mikrofon i obszar pokazywania plików <span class="tooltip" data-tip="When activated, the webinar recording will capture the webcam feed, audio from the microphone, and the working area with your presentation, video, or screen sharing, excluding other elements or activities outside this scope."></span>
+		Nagrywaj kamerę, mikrofon i obszar pokazywania plików <span class="tooltip" data-tip="Gdy aktywowane, nagranie webinaru będzie obejmować obraz z kamery internetowej, dźwięk z mikrofonu i obszar roboczy z Twoją prezentacją, wideo lub udostępnianiem ekranu, wykluczając inne elementy lub działania poza tym zakresem."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-cams-slides-chat' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nagrywaj kamerę, mikrofon, czat i obszar pokazywania plików <span class="tooltip" data-tip="When activated, the webinar recording will include the webcam feed, audio from the microphone, chat interactions, and the working area, ensuring a comprehensive capture of your webinar environment."></span>
+		Nagrywaj kamerę, mikrofon, czat i obszar pokazywania plików Gdy aktywowane, nagranie webinaru będzie obejmować obraz z kamery internetowej, dźwięk z mikrofonu, interakcje czatu i obszar roboczy, zapewniając kompleksowe uchwycenie środowiska webinaru."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-all' => //////////////////////////////////////////////////////////////////////
@@ -1762,7 +1762,7 @@ return [
 	'gtm-id' => //////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Google Tag Manager ID <span class="tooltip" data-tip="Enter your unique GTM ID to unlock in-depth traffic analytics and comprehensive reporting for your webinars. This integration provides granular insights into attendee behavior and interactions."></span>
+		Google Tag Manager ID <span class="tooltip" data-tip="Wpisz swój unikalny identyfikator GTM, aby odblokować dogłębne analizy ruchu i kompleksowe raportowanie dla Twoich webinarów. Ta integracja zapewnia szczegółowe wglądy w zachowania i interakcje uczestników."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'gtm-id-placeholder' => //////////////////////////////////////////////////////////////
@@ -1792,19 +1792,19 @@ return [
 	'room-options-buttonquestion' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Włącz prywatny czat z moderatorami <span class="tooltip" data-tip="When activated, a special menu item will appear in the webinar room, allowing attendees to submit text questions. Any webinar moderator can view and respond to these questions, facilitating interaction and engagement during the webinar."></span>
+		Włącz prywatny czat z moderatorami <span class="tooltip" data-tip="Gdy aktywowane, w sali webinarowej pojawi się specjalny element menu, pozwalający uczestnikom przesyłać pytania tekstowe. Każdy moderator webinaru może je przeglądać i odpowiadać, ułatwiając interakcję i zaangażowanie podczas webinaru."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-buttonvoice' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Zezwalaj na prośby o wypowiedź <span class="tooltip" data-tip="When activated, a special menu item will be available in the webinar room, allowing attendees to send a request to speak. Moderators have the authority to approve or decline these requests. If approved, the attendee will need to grant webcam and microphone access to participate vocally in the discussion."></span>
+		Zezwalaj na prośby o wypowiedź <span class="tooltip" data-tip="Gdy aktywowane, w sali webinarowej będzie dostępny specjalny element menu, pozwalający uczestnikom wysłać prośbę o przemówienie. Moderatorzy mają uprawnienia do zatwierdzania lub odrzucania tych żądań. Jeśli zostaną zatwierdzone, uczestnik będzie musiał udzielić dostępu do kamery internetowej i mikrofonu, aby móc aktywnie uczestniczyć w dyskusji."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-buttonqa' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Włącz sekcję Q&A <span class="tooltip" data-tip="Po aktywacji, w pokoju webinarowym będzie dostępny specjalny element menu, który umożliwi moderatorom wyróżnienie pytań w publicznym czacie tekstowym podczas wydarzenia i pozwoli uczestnikom głosować na ich ulubione. Ta funkcja zapewnia moderatorom dedykowany interfejs Q&A do śledzenia i zarządzania pytaniami, pokazując, które są obecnie adresowane i rozwiązane. Głosy uczestników będą priorytetowe dla pytań, zapewniając, że najpopularniejsze są łatwo widoczne na górze listy."></span>
+		Włącz sekcję Q&A <span class="tooltip" data-tip="Gdy aktywowane, w sali webinarowej będzie dostępny specjalny element menu, pozwalający moderatorom wyróżniać pytania w publicznym czacie tekstowym podczas webinaru i umożliwiać uczestnikom głosowanie na ich ulubione. Ta funkcja zapewnia moderatorom dedykowany interfejs Q&A do śledzenia i zarządzania pytaniami, pokazując, które są aktualnie rozpatrywane i rozwiązane. Głosy uczestników będą priorytetyzować pytania, zapewniając, że najpopularniejsze są łatwo widoczne na górze."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-message' => ///////////////////////////////////////////////////////////////////
@@ -1828,7 +1828,7 @@ return [
 	'room-options-header-theme' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kolory <span class="tooltip" data-tip="Tailor the look of your webinar room to match your brand or mood. Effortlessly adjust colours, set the room background, and choose the perfect shade for the foreground text. Create an ambiance that resonates with your audience, making each webinar uniquely yours."></span>
+		Kolory <span class="tooltip" data-tip="Dostosuj wygląd swojej sali webinarowej, aby pasowała do Twojej marki lub nastroju. Łatwo dostosuj kolory, ustaw tło sali i wybierz idealny odcień dla tekstu pierwszego planu. Stwórz atmosferę, która rezonuje z Twoją publicznością, czyniąc każdy webinar wyjątkowym."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-color-room' => /////////////////////////////////////////////////////////
@@ -1846,7 +1846,7 @@ return [
 	'room-logo' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Logo <span class="tooltip" data-tip="Your brand matters. Now, seamlessly integrate your logo into the webinar room for an enriched, brand-consistent user experience. The logo will be visible to webinar attendees only. If you wish to view it, access the webinar room as an attendee."></span>
+		Logo <span class="tooltip" data-tip="Twoja marka ma znaczenie. Teraz zintegruj swój logotyp bezproblemowo z salą webinarową, wzbogacając wrażenia użytkowników zgodnie z marką. Logotyp będzie widoczny tylko dla uczestników webinaru. Jeśli chcesz go zobaczyć, uzyskaj dostęp do sali webinarowej jako uczestnik."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-logo-size' => //////////////////////////////////////////////////////////////////
@@ -1864,7 +1864,7 @@ return [
 	'room-banner' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Baner <span class="tooltip" data-tip="Your brand matters. Now, seamlessly integrate your banner into the webinar room for an enriched, brand-consistent user experience. The banner will be visible to webinar attendees only. If you wish to view it, access the webinar room as an attendee."></span>
+		Baner <span class="tooltip" data-tip="Twoja marka ma znaczenie. Teraz zintegruj swój baner bezproblemowo z salą webinarową, wzbogacając wrażenia użytkowników zgodnie z marką. Baner będzie widoczny tylko dla uczestników webinaru. Jeśli chcesz go zobaczyć, uzyskaj dostęp do sali webinarowej jako uczestnik."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-banner-size' => ////////////////////////////////////////////////////////////////
@@ -1882,7 +1882,7 @@ return [
 	'room-splash' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tło strony <span class="tooltip" data-tip="Adjust the webinar room registration page‘s background colours and design preferences to align with your brand or the theme of the webinar."></span>
+		Tło strony <span class="tooltip" data-tip="Dostosuj kolory tła i preferencje projektowe strony rejestracji w sali webinarowej, aby były zgodne z Twoją marką lub tematem webinaru."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-splash-size' => ////////////////////////////////////////////////////////////////
@@ -1900,67 +1900,67 @@ return [
 	'room-options-header-userlist' => ////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Uczestnicy <span class="tooltip" data-tip="In our webinar room, you can easily adjust how you see your attendee list. You can choose to show participant names, their country flags, or gravatars. This lets you create a more personal and interactive experience just the way you like."></span>
+		Uczestnicy <span class="tooltip" data-tip="W naszej sali webinarowej łatwo dostosujesz sposób, w jaki widzisz listę uczestników. Możesz wybrać, czy chcesz pokazać nazwy uczestników, ich flagi krajów lub awatary. To pozwala stworzyć bardziej osobiste i interaktywne doświadczenie, dokładnie tak, jak lubisz."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Technologia transmisji <span class="tooltip" data-tip="Nasza platforma do webinarów i wideokonferencji obsługuje trzy różne źródła transmisji:<br><br>• WebRTC – Wszyscy prelegenci webinarów korzystają z protokołu WebRTC opartego na przeglądarce za pośrednictwem UDP do transmisji obrazu z kamery i dźwięku z mikrofonu. Dla pełnego wykorzystania potencjału tej technologii niezbędne jest szybkie i stabilne połączenie internetowe.<br><br>• Plugin DTS – Wszyscy nasi prelegenci mogą łatwo pobrać naszą bezpieczną wtyczkę DTS. Działa ona płynnie przy transmisji z kamery i mikrofonu, nawet przy wolniejszych połączeniach internetowych. Stworzona przez nasz zespół wtyczka minimalizuje opóźnienia. Nawet przy niezbyt szybkim połączeniu internetowym, można doświadczyć opóźnienia do 3 sekund od czasu rzeczywistego.<br><br>• OBS – Tylko jeden prelegent webinaru może używać studia OBS do transmisji w wysokiej rozdzielczości, oferując jakość do 1080p. Należy jednak zauważyć, że może wystąpić znaczne opóźnienie ponad 20 sekund."></span>
+		Technologia transmisji <span class="tooltip" data-tip="Nasza platforma do webinarów i wideokonferencji obsługuje trzy różne źródła strumieniowania:<br><br>• WebRTC – Wszyscy prelegenci webinarów będą korzystać z protokołu WebRTC opartego na przeglądarce za pośrednictwem UDP podczas strumieniowania swojej kamery internetowej i mikrofonu. Aby wykorzystać pełny potencjał tej technologii, niezbędne jest szybkie i niezawodne połączenie internetowe.<br><br>• Wtyczka DTS – Wszyscy nasi prelegenci webinarów mogą łatwo pobrać naszą bezpieczną wtyczkę DTS. Działa płynnie przy strumieniowaniu kamery internetowej i mikrofonu, nawet przy wolniejszych połączeniach internetowych. Stworzona przez nasz zespół, ta wtyczka minimalizuje opóźnienia. Więc nawet przy niezbyt dobrym połączeniu internetowym doświadczysz opóźnienia do 3 sekund od rzeczywistości.<br><br>• OBS – Tylko jeden prelegent webinaru może korzystać z OBS Studio do strumieniowania w wysokiej rozdzielczości, oferując jakość do 1080p. Jednakże proszę zauważyć, że może wystąpić znaczne opóźnienie, przekraczające 20 sekund."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-browser' => //////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		WebRTC <span class="tooltip" data-tip="Wszyscy prelegenci webinarów korzystają z protokołu WebRTC opartego na przeglądarce za pośrednictwem UDP do transmisji obrazu z kamery i dźwięku z mikrofonu. Dla pełnego wykorzystania potencjału tej technologii niezbędne jest szybkie i stabilne połączenie internetowe."></span>
+		WebRTC <span class="tooltip" data-tip="Wszyscy prelegenci webinarów będą korzystać z protokołu WebRTC opartego na przeglądarce za pośrednictwem UDP podczas strumieniowania swojej kamery internetowej i mikrofonu. Aby wykorzystać pełny potencjał tej technologii, niezbędne jest szybkie i niezawodne połączenie internetowe."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-plugin' => ///////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Plugin DTS <span class="tooltip" data-tip="Wszyscy nasi prelegenci mogą łatwo pobrać naszą bezpieczną wtyczkę DTS. Działa ona płynnie przy transmisji z kamery i mikrofonu, nawet przy wolniejszych połączeniach internetowych. Stworzona przez nasz zespół wtyczka minimalizuje opóźnienia. Nawet przy niezbyt szybkim połączeniu internetowym, można doświadczyć opóźnienia do 3 sekund od czasu rzeczywistego."></span>
+		Plugin DTS <span class="tooltip" data-tip="Wszyscy nasi prelegenci webinarów mogą łatwo pobrać naszą bezpieczną wtyczkę DTS. Działa płynnie przy strumieniowaniu kamery internetowej i mikrofonu, nawet przy wolniejszych połączeniach internetowych. Stworzona przez nasz zespół, ta wtyczka minimalizuje opóźnienia. Więc nawet przy niezbyt dobrym połączeniu internetowym doświadczysz opóźnienia do 3 sekund od rzeczywistości."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-conference' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tryb transmisji <span class="tooltip" data-tip="Oferujemy dwa rodzaje webinarów:<br><br>• Wideokonferencja – Interaktywny tryb wydarzenia zaprojektowany do współpracy i dyskusji. Wizualizacje kamery prelegenta dominują na ekranie, zapewniając osobistą komunikację twarzą w twarz. Przestrzeń robocza jest równo podzielona między wszystkich prelegentów, dając każdemu wystarczająco dużo widoczności.<br><br>• Webinar – Tryb wydarzenia skoncentrowany na prezentacji, idealny na wykłady, warsztaty lub pokazy produktów. Kamery jednego lub więcej prelegentów są dyskretnie umieszczone w rogu, podczas gdy większość przestrzeni roboczej prezentuje pokaz slajdów lub udostępnianie ekranu, co pozwala uczestnikom skupić się na prezentowanej treści."></span>
+		Tryb transmisji <span class="tooltip" data-tip="Oferujemy dwa rodzaje webinarów:<br><br>• Spotkanie – interaktywny tryb wydarzenia zaprojektowany do współpracy i dyskusji. Obraz z kamery prelegenta dominuje na ekranie, zapewniając osobistą i twarzą w twarz komunikację. Dostępna przestrzeń robocza jest równo podzielona między wszystkich prezentujących, dając każdemu prelegentowi wystarczającą widoczność.<br><br>• Webinar – tryb wydarzenia skoncentrowany na prezentacji, idealny dla webinarów, wykładów, warsztatów lub prezentacji produktów. Podczas gdy jedna lub więcej kamer prelegentów jest dyskretnie umieszczona w rogu, większość przestrzeni roboczej prezentuje prezentację lub udostępnianie ekranu, pozwalając uczestnikom skupić się na prezentowanych treściach."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar <span class="tooltip" data-tip="Tryb wydarzenia skoncentrowany na prezentacji, idealny na wykłady, warsztaty lub pokazy produktów. Kamery jednego lub więcej prelegentów są dyskretnie umieszczone w rogu, podczas gdy większość przestrzeni roboczej prezentuje pokaz slajdów lub udostępnianie ekranu, co pozwala uczestnikom skupić się na prezentowanej treści."></span>
+		Webinar <span class="tooltip" data-tip="Tryb wydarzenia skoncentrowany na prezentacji, idealny dla webinarów, wykładów, warsztatów lub prezentacji produktów. Podczas gdy jedna lub więcej kamer prelegentów jest dyskretnie umieszczona w rogu, większość przestrzeni roboczej prezentuje prezentację lub udostępnianie ekranu, pozwalając uczestnikom skupić się na prezentowanych treściach."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-conference' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Wideokonferencja <span class="tooltip" data-tip="Interaktywny tryb wydarzenia zaprojektowany do współpracy i dyskusji. Wizualizacje kamery prelegenta dominują na ekranie, zapewniając osobistą komunikację twarzą w twarz. Przestrzeń robocza jest równo podzielona między wszystkich prelegentów, dając każdemu wystarczająco dużo widoczności."></span>
+		Wideokonferencja <span class="tooltip" data-tip="Interaktywny tryb wydarzenia zaprojektowany do współpracy i dyskusji. Obraz z kamery prelegenta dominuje na ekranie, zapewniając osobistą i twarzą w twarz komunikację. Dostępna przestrzeń robocza jest równo podzielona między wszystkich prezentujących, dając każdemu prelegentowi wystarczającą widoczność."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Szerokość czatu <span class="tooltip" data-tip="Choose the desired width for the public chat feature in the webinar room. The layout combines a chat section with an area dedicated to the speakers‘ video streams. To see how your webinar room will appear, refer to the preview in the bottom right corner."></span>
+		Szerokość czatu <span class="tooltip" data-tip="Wybierz żądaną szerokość dla publicznego czatu w sali webinarowej. Układ łączy sekcję czatu z obszarem przeznaczonym dla strumieni wideo prelegentów. Aby zobaczyć, jak będzie wyglądała Twoja sala webinarowa, odnieś się do podglądu w prawym dolnym rogu."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-camchatsize' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Szerokość kamery <span class="tooltip" data-tip="Adjust the width of your webcam‘s viewing area in the webinar room. This space comprises both a dedicated webcam section and an area for your presentations or secure screen sharing. To see how your webinar room will appear, refer to the preview in the bottom right corner."></span>
+		Szerokość kamery <span class="tooltip" data-tip="Dostosuj szerokość obszaru widzenia Twojej kamery w sali webinarowej. Ta przestrzeń obejmuje zarówno dedykowaną sekcję kamery, jak i obszar na Twoje prezentacje lub bezpieczne udostępnianie ekranu. Aby zobaczyć, jak będzie wyglądała Twoja sala webinarowa, odnieś się do podglądu w prawym dolnym rogu."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-buttons' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Informacje zwrotne <span class="tooltip" data-tip="Allow attendees to participate in your webinar or webinar actively. Choose to enable text submissions if you‘d like them to ask questions, or give them the option to voice their queries or comments by enabling the «request to speak» feature. Activating either option will add a corresponding menu item in the webinar room, enhancing interactivity and engagement."></span>
+		Informacje zwrotne <span class="tooltip" data-tip="Pozwól uczestnikom aktywnie uczestniczyć w Twoim webinarze. Wybierz opcję umożliwienia przesyłania tekstów, jeśli chcesz, aby zadawali pytania, lub daj im możliwość wypowiedzenia się, aktywując funkcję „prośba o przemówienie”. Aktywacja którejkolwiek z opcji doda odpowiedni element menu w sali webinarowej, zwiększając interaktywność i zaangażowanie."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Opis webinaru <span class="tooltip" data-tip="Utilise this feature to craft a concise and engaging overview for your webinar‘s registration page. A well-written description sets the tone, provides essential details, and entices potential attendees. Whether you‘re highlighting the webinar‘s key topics, introducing the speakers, or underscoring the benefits of attending, this space is your canvas to captivate and inform your audience."></span>
+		Opis webinaru <span class="tooltip" data-tip="Wykorzystaj tę funkcję, aby stworzyć zwięzły i angażujący opis na stronie rejestracyjnej twojego webinaru. Dobrze napisany opis ustanawia ton, dostarcza istotnych informacji i przyciąga potencjalnych uczestników. Bez względu na to, czy podkreślasz kluczowe tematy webinaru, przedstawiasz prelegentów, czy podkreślasz korzyści z uczestnictwa, to miejsce jest twoim płótnem do przyciągania i informowania odbiorców."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc-placeholder' => ///////////////////////////////////////////////////////////
@@ -1972,7 +1972,7 @@ return [
 	'room-desc-clndr' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kalendarz <span class="tooltip" data-tip="Enhance your email notifications by providing a concise summary of your webinar. This description will be embedded in the calendar file attached to outgoing email notifications, giving recipients a quick overview when they add the webinar to their personal calendars. Craft a brief yet informative summary to set expectations, highlight key points, and encourage attendance. Remember, this is a snapshot of your webinar, so make every word count!"></span>
+		Kalendarz <span class="tooltip" data-tip="Ulepsz powiadomienia e-mail, dostarczając zwięzły opis swojego webinaru. Opis ten zostanie osadzony w pliku kalendarza dołączonym do wychodzących powiadomień e-mail, dając odbiorcom szybki przegląd, gdy dodadzą webinar do swoich osobistych kalendarzy. Stwórz krótkie, lecz informacyjne podsumowanie, aby ustawić oczekiwania, wyróżnić kluczowe punkty i zachęcić do uczestnictwa. Pamiętaj, że to migawka twojego webinaru, więc każde słowo ma znaczenie!"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc-clndr-placeholder' => /////////////////////////////////////////////////////
@@ -1984,43 +1984,43 @@ return [
 	'room-options-language' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Język <span class="tooltip" data-tip="Customise your webinar room‘s language to enhance attendees‘ experience. Whether catering to a specific region or a global audience, ensure seamless communication by selecting the preferred language. Make your webinars more accessible and user-friendly for everyone, no matter where they‘re joining from."></span>
+		Język <span class="tooltip" data-tip="Dostosuj język pokoju webinarowego, aby poprawić doświadczenia uczestników. Niezależnie od tego, czy obsługujesz określony region, czy globalną publiczność, zapewnij płynną komunikację, wybierając preferowany język. Spraw, aby twoje webinary były bardziej dostępne i przyjazne dla użytkownika dla każdego, kto dołącza."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-group' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Dodaj do grupy <span class="tooltip" data-tip="Enable this option to automatically add attendees to a special subscribers‘ group upon registration. This ensures they receive notifications for upcoming webinars, keeping them informed and engaged."></span>
+		Dodaj do grupy <span class="tooltip" data-tip="Włącz tę opcję, aby automatycznie dodawać uczestników do specjalnej grupy subskrybentów po rejestracji. Zapewnia to otrzymywanie powiadomień o nadchodzących webinarach, utrzymując ich informację i zaangażowanie."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-countdown' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Odliczanie <span class="tooltip" data-tip="Enable this feature to display a countdown timer on your webinar page, letting attendees see the time remaining until the webinar begins. It builds anticipation, ensures attendees know the start time, and helps in punctual participation."></span>
+		Odliczanie <span class="tooltip" data-tip="Włącz tę funkcję, aby wyświetlić na stronie webinaru odliczanie czasu do rozpoczęcia webinaru. Buduje to napięcie, zapewnia, że uczestnicy znają czas rozpoczęcia i pomaga w punktualnym uczestnictwie."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Logowanie przez media społecznościowe <span class="tooltip" data-tip="Enable this feature to offer a «Login with Google» option on your webinar registration and entrance forms. By doing so, attendees can swiftly and securely access the webinar using their Google accounts, simplifying the login process. It‘s a convenient way to streamline access and enhance user experience for those familiar with Google services."></span>
+		Logowanie przez media społecznościowe <span class="tooltip" data-tip="Włącz tę funkcję, aby zaoferować opcję «Logowanie przez Google» na formularzach rejestracyjnych i wejściowych webinaru. Dzięki temu uczestnicy mogą szybko i bezpiecznie uzyskać dostęp do webinaru, korzystając z kont Google, upraszczając proces logowania. Jest to wygodny sposób na usprawnienie dostępu i poprawę doświadczeń użytkownika dla osób znających usługi Google."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Liczba wolnych miejsc <span class="tooltip" data-tip="Activate this feature to display the remaining seats for your online webinar. This transparency informs attendees of the webinar‘s capacity and creates a sense of urgency, motivating them to secure their spot before it fills up."></span>
+		Liczba wolnych miejsc <span class="tooltip" data-tip="Aktywuj tę funkcję, aby wyświetlać pozostałą liczbę miejsc na twoim webinarze online. Ta przejrzystość informuje uczestników o pojemności webinaru i tworzy poczucie pilności, motywując ich do zabezpieczenia swojego miejsca, zanim się wypełni."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-login-settings' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ustawienia <span class="tooltip" data-tip="Customize your webinar‘s registration page to suit your requirements. This feature allows you to tailor the sign-up process, ensuring it aligns with your webinar‘s branding and captures attendees‘ needed information."></span>
+		Ustawienia <span class="tooltip" data-tip="Dostosuj stronę rejestracji twojego webinaru do swoich wymagań. Ta funkcja pozwala dostosować proces rejestracji, zapewniając, że jest zgodny z brandingiem twojego webinaru i zbiera potrzebne informacje od uczestników."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-login-theme' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Użyj koloru tła dla lewej kolumny <span class="tooltip" data-tip="Enhance the readability and visual appeal of your webinar registration and login page by activating this feature. When toggled on, the page will be divided into two sections. The left side will feature a solid colour background, providing a clearer backdrop for your webinar description and details, while the right remains as per your existing design. This separation not only adds a modern aesthetic but ensures attendees can easily read and understand the webinar‘s particulars."></span>
+		Użyj koloru tła dla lewej kolumny <span class="tooltip" data-tip="Zwiększ czytelność i atrakcyjność wizualną twojej strony rejestracyjnej i logowania do webinaru, aktywując tę funkcję. Po włączeniu, strona zostanie podzielona na dwie sekcje. Lewa strona będzie miała jednolite tło kolorystyczne, zapewniając lepsze tło dla opisu twojego webinaru i szczegółów, podczas gdy prawa pozostanie zgodnie z twoim obecnym projektem. To rozdzielenie nie tylko dodaje nowoczesnego estetycznego wyglądu, ale zapewnia, że uczestnicy mogą łatwo czytać i rozumieć szczegóły webinaru."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-login-bg' => ///////////////////////////////////////////////////////////
@@ -2038,31 +2038,31 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Formularz logowania <span class="tooltip" data-tip="Select and arrange the fields you‘d like to display for webinar registration."></span>
+		Formularz logowania <span class="tooltip" data-tip="Wybierz i ułóż pola, które chciałbyś wyświetlić przy rejestracji na webinar."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Data webinaru <span class="tooltip" data-tip="Enable this feature to prominently display the date of your webinar on both the registration and login pages. Providing this information upfront helps attendees plan and ensure they are clear on when the webinar will occur."></span>
+		Data webinaru <span class="tooltip" data-tip="Włącz tę funkcję, aby wyraźnie wyświetlić datę twojego webinaru zarówno na stronach rejestracji, jak i logowania. Udostępnienie tej informacji z góry pomaga uczestnikom planować i upewniać się, kiedy odbędzie się webinar."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-name' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nazwa webinaru <span class="tooltip" data-tip="Activate this feature to display detailed information about your webinar on the registration and login pages, whether a concise overview or an extensive agenda. Offering attendees a clear picture of what to expect enhances engagement and helps them prepare better for the session."></span>
+		Nazwa webinaru <span class="tooltip" data-tip="Aktywuj tę funkcję, aby wyświetlać szczegółowe informacje o twoim webinarze na stronach rejestracji i logowania, czy to krótkie podsumowanie, czy obszerny program. Oferowanie uczestnikom jasnego obrazu tego, czego można się spodziewać, zwiększa zaangażowanie i pomaga im lepiej przygotować się na sesję."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-moderators' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Prezenterzy webinaru <span class="tooltip" data-tip="Enable this feature to display a list of the webinar‘s key figures, moderators, presenters, and notable attendees. By showcasing the individuals who will be steering the online webinar, you offer potential attendees an insight into the expertise and personalities they can expect to encounter."></span>
+		Prezenterzy webinaru <span class="tooltip" data-tip="Włącz tę funkcję, aby wyświetlić listę kluczowych postaci, moderatorów, prelegentów i znaczących uczestników webinaru. Prezentując osoby, które będą prowadzić webinar online, oferujesz potencjalnym uczestnikom wgląd w wiedzę i osobowości, z którymi będą mogli się spotkać."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-main-moderator' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pokaż właściciela jako prowadzącego webinar <span class="tooltip" data-tip="By toggling on this sub-feature, you can include the account administrator in the displayed list of the webinar‘s key figures alongside the moderators, presenters, and notable attendees. This provides a more comprehensive view of all the main organizers and contributors to the webinar."></span>
+		Pokaż właściciela jako prowadzącego webinar <span class="tooltip" data-tip="Przełączając tę sub-funkcję, możesz dodać administratora konta do wyświetlanej listy kluczowych postaci webinaru wraz z moderatorami, prelegentami i znaczącymi uczestnikami. Zapewnia to bardziej kompleksowy widok wszystkich głównych organizatorów i współtwórców webinaru."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-started' => /////////////////////////////////////////////////////////////////
@@ -2206,7 +2206,7 @@ return [
 	'room-embed-form' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kod osadzania formularza rejestracyjnego <span class="tooltip" data-tip="Activate this switch to generate an IFRAME code for your webinar‘s registration and login form. By doing so, you can seamlessly embed the form directly onto your own website, providing your visitors with a streamlined experience without having to navigate to a separate page. It‘s a handy tool for integrating webinar sign-up directly into your site‘s ecosystem."></span>
+		Kod osadzania formularza rejestracyjnego <span class="tooltip" data-tip="Aktywuj ten przełącznik, aby wygenerować kod IFRAME dla formularza rejestracji i logowania do Twojego webinaru. Dzięki temu możesz bezproblemowo osadzić formularz bezpośrednio na swojej stronie internetowej, oferując odwiedzającym płynne doświadczenie bez konieczności przechodzenia na oddzielną stronę. To przydatne narzędzie umożliwia zintegrowanie zapisów na webinar bezpośrednio z ekosystemem Twojej strony."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
@@ -2266,7 +2266,7 @@ return [
 	'mail-1DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1 dzień przed <span class="tooltip" data-tip="Enable this feature to automatically send a reminder email to registered attendees 24 hours before your online webinar commences. This last-minute nudge can bolster attendance and ensure participants are primed and ready for your session. Help your attendees set their schedules by giving them a timely heads-up!"></span>
+		1 dzień przed <span class="tooltip" data-tip="Włącz tę funkcję, aby automatycznie wysłać przypomnienie e-mailowe zarejestrowanym uczestnikom na 24 godziny przed rozpoczęciem Twojego webinaru online. To ostatnie przypomnienie może zwiększyć frekwencję i zapewnić, że uczestnicy będą przygotowani na Twoją sesję. Pomóż swoim uczestnikom zaplanować ich harmonogramy, dając im odpowiednie wyprzedzenie!"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2278,7 +2278,7 @@ return [
 	'mail-3DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		3 dni przed <span class="tooltip" data-tip="Enable this feature to automatically send a reminder email to registered attendees three days before your online webinar. A timely reminder can increase participation rates and ensure your webinar remains top-of-mind for your audience. Keep your attendees informed and engaged!"></span>
+		3 dni przed <span class="tooltip" data-tip="Włącz tę funkcję, aby automatycznie wysłać przypomnienie e-mailowe zarejestrowanym uczestnikom trzy dni przed Twoim webinarium online. Terminowe przypomnienie może zwiększyć wskaźniki uczestnictwa i zapewnić, że Twój webinar pozostanie w świadomości Twojej publiczności. Informuj swoich uczestników i angażuj ich!"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-3DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2290,7 +2290,7 @@ return [
 	'mail-1HOUR' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1 godzina przed <span class="tooltip" data-tip="Enable this feature to send out an email reminder to your registered attendees 60 minutes before the start of your online webinar. This prompt includes a direct link to the webinar, allowing participants to join easily. A last-minute reminder ensures attendees have your webinar on their minds, maximizing participation."></span>
+		1 godzina przed <span class="tooltip" data-tip="Włącz tę funkcję, aby wysłać przypomnienie e-mailowe zarejestrowanym uczestnikom 60 minut przed rozpoczęciem Twojego webinaru online. To przypomnienie zawiera bezpośredni link do webinaru, co umożliwia uczestnikom łatwe dołączenie. Ostatnie przypomnienie zapewnia, że Twoj webinar będzie obecny w umysłach uczestników, maksymalizując uczestnictwo."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1HOUR-desc' => /////////////////////////////////////////////////////////////////
@@ -2302,7 +2302,7 @@ return [
 	'mail-FINISHED' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Po spotkaniu <span class="tooltip" data-tip="Enable this feature to automatically send out a follow-up email to attendees once the online webinar concludes. This can be a gracious thank-you note, a brief survey for feedback, or even an exclusive link to access the webinar recording. Tailor your post-webinar communication to engage different groups of attendees and provide additional value long after the webinar has ended."></span>
+		Po spotkaniu <span class="tooltip" data-tip="Włącz tę funkcję, aby automatycznie wysłać e-mail z podziękowaniami do uczestników po zakończeniu webinaru online. Może to być uprzejma wiadomość z podziękowaniami, krótka ankieta w celu uzyskania opinii lub nawet ekskluzywny link do nagrania webinaru. Dostosuj swoją komunikację po webinarze, aby zaangażować różne grupy uczestników i dostarczyć dodatkową wartość na długo po zakończeniu webinaru."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-FINISHED-desc' => //////////////////////////////////////////////////////////////
@@ -2314,7 +2314,7 @@ return [
 	'mail-REGISTRATIONCONFIRM' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Potwierdzenie <span class="tooltip" data-tip="Activate this feature to send a confirmation email to attendees upon registration. By doing so, you ensure the registrants verify their email addresses, offering an additional layer of security and authenticity. This double-opt-in process helps maintain the integrity of your online webinar by confirming the genuine interest of attendees and minimizing potential spam registrations."></span>
+		Potwierdzenie <span class="tooltip" data-tip="Aktywuj tę funkcję, aby wysłać e-mail z potwierdzeniem do uczestników po rejestracji. Dzięki temu zapewnisz, że zarejestrowani zweryfikują swoje adresy e-mail, oferując dodatkową warstwę bezpieczeństwa i autentyczności. Proces dwukrotnego potwierdzenia pomaga utrzymać integralność Twojego webinaru online, potwierdzając prawdziwe zainteresowanie uczestników i minimalizując potencjalne rejestracje spamowe."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-REGISTRATIONCONFIRM-desc' => ///////////////////////////////////////////////////
@@ -2326,7 +2326,7 @@ return [
 	'mail-STARTED' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Spóźnieni <span class="tooltip" data-tip="Enable this feature to send out a nudge to attendees who haven‘t joined the webinar yet, letting them know that the webinar has already begun. This prompt encourages timely participation and is a gentle reminder for those who may have lost track of time. Ensure no one misses valuable content by reminding them to join in quickly."></span>
+		Spóźnieni <span class="tooltip" data-tip="Włącz tę funkcję, aby wysłać przypomnienie uczestnikom, którzy jeszcze nie dołączyli do webinaru, informując ich, że webinar już się rozpoczął. Zachęta ta sprzyja terminowemu uczestnictwu i jest delikatnym przypomnieniem dla tych, którzy mogli stracić poczucie czasu. Zapewnij, że nikt nie przegapi cennych treści, przypominając im o szybkim dołączeniu."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-STARTED-desc' => ///////////////////////////////////////////////////////////////
@@ -2790,7 +2790,7 @@ return [
 	'landing-page-mode' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tryb landingu do zbierania e-mailów <span class="tooltip" data-tip="Activate this mode to transform your webinar room into a dedicated landing page. Instead of directly entering the webinar, attendees will first provide their email and any other required information. This mode is ideal for building your subscriber list and gathering attendee data before granting access to the webinar. Toggle on to prioritize data collection; toggle off for direct webinar entry."></span>
+		Tryb landingu do zbierania e-mailów <span class="tooltip" data-tip="Aktywuj ten tryb, aby zamienić Twoją salę webinarową w dedykowaną stronę startową. Zamiast bezpośredniego wejścia na webinar, uczestnicy najpierw podadzą swój email oraz inne wymagane informacje. Tryb ten jest idealny do budowania listy subskrybentów i zbierania danych uczestników przed udzieleniem dostępu do webinaru. Włącz, aby priorytetowo zbierać dane; wyłącz, aby umożliwić bezpośredni dostęp do webinaru."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page' => ////////////////////////////////////////////////////////////////////
@@ -3104,7 +3104,7 @@ return [
 	'two-factor' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Weryfikacja dwuetapowa <span class="tooltip" data-tip="Enhance your account security by enabling this feature. Once activated, you‘ll need your password and a code from apps like Google Authenticator to log in."></span>
+		Weryfikacja dwuetapowa <span class="tooltip" data-tip="Zwiększ bezpieczeństwo swojego konta, aktywując tę funkcję. Po włączeniu będziesz potrzebować hasła oraz kodu z aplikacji takich jak Google Authenticator, aby się zalogować."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'wrong-code' => //////////////////////////////////////////////////////////////////////
@@ -3202,7 +3202,7 @@ return [
 	'room-options-befostarttime' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Rejestracja otwiera się <span class="tooltip" data-tip="This feature lets you define how much time in advance attendees can enter the webinar room before the official start time."></span>
+		Rejestracja otwiera się <span class="tooltip" data-tip="Ta funkcja pozwala określić, ile czasu przed oficjalnym rozpoczęciem uczestnicy mogą wejść do sali webinarowej."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-after' => //////////////////////////////////////////////////////////////
@@ -3220,13 +3220,13 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link dla uczestników webinaru <span class="tooltip" data-tip="This link provides direct access to the scheduled webinar. Copy and share it with your audience to grant them entry. The link is ideal for sending via email, social media, or messengers."></span>
+		Link dla uczestników webinaru <span class="tooltip" data-tip="Ten link zapewnia bezpośredni dostęp do zaplanowanego webinaru. Skopiuj go i udostępnij swojej publiczności, aby umożliwić jej wejście. Link jest idealny do wysyłania przez email, media społecznościowe lub komunikatory."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Linki dla moderatorów i prowadzących webinar <span class="tooltip" data-tip="This link grants moderators, presenters, and speakers direct access to the scheduled webinar. Copy and share it with your team to ensure their participation. Alternatively, click the «letter» icon to send the link directly to a moderator‘s email or click the «Open» button to log in to the webinar on behalf of that moderator."></span>
+		Linki dla moderatorów i prowadzących webinar <span class="tooltip" data-tip="Ten link zapewnia moderatorom, prelegentom i mówcom bezpośredni dostęp do zaplanowanego webinaru. Skopiuj go i udostępnij swojemu zespołowi, aby zapewnić ich udział. Alternatywnie kliknij ikonę «list» aby wysłać link bezpośrednio na email moderatora lub kliknij przycisk «Otwórz», aby zalogować się na webinar w imieniu tego moderatora."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-max' => //////////////////////////////////////////////////////////////////////
@@ -3316,7 +3316,7 @@ return [
 	'mail-send-record' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Dodaj nagranie webinaru do maila <span class="tooltip" data-tip="Toggle this switch to automatically share a link to the recorded webinar once it concludes. This provides attendees with a chance to revisit the content. Please bear in mind, that access to the recording can be time-limited, ensuring content remains exclusive for a designated period only."></span>
+		Dodaj nagranie webinaru do maila <span class="tooltip" data-tip="Przełącz ten przełącznik, aby automatycznie udostępnić link do nagranego webinaru po jego zakończeniu. Daje to uczestnikom szansę na ponowne przeglądanie treści. Należy pamiętać, że dostęp do nagrania może być ograniczony czasowo, co gwarantuje wyłączność treści tylko na wyznaczony okres."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-send-record-to' => /////////////////////////////////////////////////////////////
@@ -3412,7 +3412,7 @@ return [
 	'requisites' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Dane płatnika <span class="tooltip" data-tip="Enable this switch if you operate as a company to input company details and tax information."></span>
+		Dane płatnika <span class="tooltip" data-tip="Włącz ten przełącznik, jeśli działasz jako firma, aby wprowadzić dane firmy i informacje podatkowe."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-by-card' => /////////////////////////////////////////////////////////////////////
@@ -3695,7 +3695,7 @@ return [
 	'room-close-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Strona podziękowania po webinarze <span class="tooltip" data-tip="This feature allows webinar organisers to provide attendees with a seamless transition after an webinar concludes or if they choose to leave early. By activating this setting, attendees will be automatically redirected to a custom webpage of your choice. This can be particularly useful for post-webinar surveys, offers, feedback forms, or a simple thank you message. Ensure your attendees‘ journey is well-rounded by guiding them to relevant content after your webinar."></span>
+		Strona podziękowania po webinarze <span class="tooltip" data-tip="Ta funkcja pozwala organizatorom webinarów zapewnić uczestnikom płynne przejście po zakończeniu webinaru lub jeśli zdecydują się wcześnie odejść. Aktywując to ustawienie, uczestnicy zostaną automatycznie przekierowani na dowolną wybraną stronę internetową. Może to być szczególnie przydatne dla ankiet po webinarze, ofert, formularzy opinii lub prostego podziękowania. Zapewnij dobrze zaokrągloną podróż uczestników, kierując ich do odpowiednich treści po twoim webinarze."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-close-url-placeholder' => //////////////////////////////////////////////////////
@@ -3713,7 +3713,7 @@ return [
 	'record-email-identification' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ograniczenie dostępu <span class="tooltip" data-tip="Ensure a higher level of webinar privacy and security with this feature. When activated, attendees must confirm their access by entering a code sent to their registered email. This process guarantees that only genuine attendees who‘ve registered with valid email addresses can access the webinar. It also deters the sharing of personal webinar links, maintaining the exclusivity of your online gathering."></span>
+		Ograniczenie dostępu <span class="tooltip" data-tip="Zapewnij wyższy poziom prywatności i bezpieczeństwa webinaru dzięki tej funkcji. Po aktywacji uczestnicy muszą potwierdzić swój dostęp, wprowadzając kod wysłany na ich zarejestrowany email. Proces ten gwarantuje, że dostęp do webinaru mają tylko prawdziwi uczestnicy, którzy zarejestrowali się za pomocą ważnych adresów email. Zapobiega to również udostępnianiu osobistych linków do webinaru, zachowując wyłączność twojego spotkania online."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-email-identification-enable' => //////////////////////////////////////////////
@@ -4034,7 +4034,7 @@ return [
 	'room-options-comment-off' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Komentarze <span class="tooltip" data-tip="Toggle this switch to either allow or prwebinar viewers from leaving comments on the webinar recording. Enabling this feature encourages interaction and feedback while disabling it ensures a static viewing experience."></span>
+		Komentarze <span class="tooltip" data-tip="Przełącz ten przełącznik, aby umożliwić lub zablokować możliwość zostawiania komentarzy przez uczestników na nagraniu webinaru. Włączenie tej funkcji zachęca do interakcji i uzyskiwania opinii, natomiast wyłączenie zapewnia statyczne doświadczenie oglądania."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-comments-enable' => //////////////////////////////////////////////////////////
@@ -4167,7 +4167,7 @@ return [
 	'will-be-link-title' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Przycisk «Wezmę udział» <span class="tooltip" data-tip="Customize the destination for attendees who click the «I will attend» button in the email notification. Enter a specific webpage or landing page URL here. This is an excellent opportunity to guide attendees to additional resources, pre-webinar content, or any other pertinent information before the online webinar begins."></span>
+		Przycisk «Wezmę udział» <span class="tooltip" data-tip="Dostosuj miejsce docelowe dla uczestników klikających przycisk «Wezmę udział» w powiadomieniu e-mailowym. Tutaj wprowadź adres określonej strony internetowej lub strony docelowej. To doskonała okazja, aby skierować uczestników do dodatkowych zasobów, treści przedwebinarowych lub innych istotnych informacji przed rozpoczęciem webinaru online."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-be-link-desc' => ///////////////////////////////////////////////////////////////
@@ -4179,7 +4179,7 @@ return [
 	'will-not-be-link-title' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Przycisk «Nie jestem zainteresowany/a» <span class="tooltip" data-tip="Customize the destination for attendees who click the «Next time» button in the email notification. By entering a specific webpage or landing page URL here, you can engage with attendees who might not be available for this webinar but could be interested in future ones. Please bear in mind, that selecting this option will automatically unsubscribe the attendee from further email notifications about this specific webinar, ensuring they won’t receive reminders they didn’t request."></span>
+		Przycisk «Nie jestem zainteresowany/a» <span class="tooltip" data-tip="Dostosuj miejsce docelowe dla uczestników klikających przycisk «Następnym razem» w powiadomieniu e-mailowym. Wprowadzając tutaj adres określonej strony internetowej lub strony docelowej, możesz zaangażować uczestników, którzy mogą nie być dostępni na ten webinar, ale mogliby być zainteresowani przyszłymi. Pamiętaj, że wybranie tej opcji automatycznie wypisze uczestnika z dalszych powiadomień e-mailowych o tym konkretnym webinarze, co zapewni, że nie otrzymają oni niechcianych przypomnień."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-not-be-link-desc' => ///////////////////////////////////////////////////////////
@@ -4191,7 +4191,7 @@ return [
 	'unsubscribe-link-title' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Przycisk «Zrezygnować z subskrypcji» <span class="tooltip" data-tip="Provide a bespoke experience for attendees choosing to opt out of webinar notifications. By setting a custom webpage or landing page URL for the «Unsubscribe» button, you can present additional information, a feedback form, or other engagement options. Please bear in mind, once attendees choose this option, they‘ll be permanently removed from all future email notifications, ensuring we honour their decision to halt communications from our platform."></span>
+		Przycisk «Zrezygnować z subskrypcji» <span class="tooltip" data-tip="Zapewnij spersonalizowane doświadczenie dla uczestników decydujących się na rezygnację z powiadomień o webinarach. Ustawiając niestandardowy adres strony internetowej lub strony docelowej dla przycisku «Wypisz się», możesz przedstawić dodatkowe informacje, formularz opinii lub inne opcje zaangażowania. Pamiętaj, że gdy uczestnicy wybiorą tę opcję, zostaną trwale usunięci ze wszystkich przyszłych powiadomień e-mailowych, co zapewni, że uszanujemy ich decyzję o zaprzestaniu komunikacji z naszej platformy."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'unsubscribe-link-desc' => ///////////////////////////////////////////////////////////
@@ -4245,7 +4245,7 @@ return [
 	'room-mail-header' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Baner <span class="tooltip" data-tip="Enhance your email notifications with a distinctive top banner that immediately capturing recipients‘ attention. This banner serves as a visual cue for recipients, ensuring they recognize and prioritize your webinar notifications amidst the clutter of their inboxes. A well-designed banner can reinforce your brand identity, highlight key webinar details, and set the tone for the webinar. Incorporate striking visuals, concise text, and relevant branding to make your email notifications stand out and leave a memorable impression."></span>
+		Baner <span class="tooltip" data-tip="Ulepsz swoje powiadomienia e-mailowe o charakterystyczny górny baner, który natychmiast przyciąga uwagę odbiorców. Ten baner służy jako wizualny sygnał dla odbiorców, zapewniając, że rozpoznają i priorytetyzują Twoje powiadomienia o webinarach wśród chaosu w ich skrzynkach odbiorczych. Dobrze zaprojektowany baner może wzmacniać tożsamość Twojej marki, podkreślać kluczowe szczegóły webinaru i nadawać ton dla webinaru. Włącz atrakcyjne elementy wizualne, zwięzły tekst i odpowiednie elementy brandingu, aby Twoje powiadomienia e-mailowe wyróżniały się i pozostawiały trwałe wrażenie."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-header-size' => ///////////////////////////////////////////////////////////
@@ -4257,7 +4257,7 @@ return [
 	'room-mail-footer' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Podpis <span class="tooltip" data-tip="Personalise the footer of your email notifications with a custom signature. This feature allows you to add a unique touch to every outgoing email about your online webinars, be it your name, title, organization, or a brief message. This signature will appear at the bottom of each notification, reinforcing your brand‘s identity or providing additional contact information to your recipients. Craft a signature that leaves a lasting impression and ensures consistency across all your webinar communications."></span>
+		Podpis <span class="tooltip" data-tip="Spersonalizuj stopkę swoich powiadomień e-mailowych o webinarach niestandardowym podpisem. Ta funkcja pozwala dodać unikalny akcent do każdego wychodzącego e-maila o Twoich webinarach online, czy to Twoje imię, tytuł, organizacja lub krótka wiadomość. Ten podpis pojawi się na dole każdego powiadomienia, wzmacniając tożsamość Twojej marki lub dostarczając dodatkowych informacji kontaktowych odbiorcom. Stwórz podpis, który pozostawia trwałe wrażenie i zapewnia spójność we wszystkich komunikatach webinarowych."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-default-footer' => ////////////////////////////////////////////////////////
@@ -4302,7 +4302,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Uprawnienia <span class="tooltip" data-tip="Use this feature to assign varied access levels to your webinar moderators. By customising permissions, you give each moderator the appropriate level of control and access for their role, promoting a smooth and orderly webinar experience."></span>
+		Uprawnienia <span class="tooltip" data-tip="Wykorzystaj tę funkcję do przypisywania zróżnicowanych poziomów dostępu swoim moderatorom webinarów. Dostosowując uprawnienia, nadajesz każdemu moderatorowi odpowiedni poziom kontroli i dostępu odpowiedni do ich roli, promując płynne i uporządkowane doświadczenie webinarowe."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4775,7 +4775,7 @@ return [
 	'room-options-password' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Hasło logowania <span class="tooltip" data-tip="Toggle this feature to secure your webinar with a password. When enabled, attendees will need to enter the designated password before accessing the webinar, ensuring that your webinar remains private and accessible only to those with the password. It‘s a perfect solution for hosting exclusive, private, or sensitive sessions."></span>
+		Hasło logowania <span class="tooltip" data-tip="Włącz tę funkcję, aby zabezpieczyć swoje webinarium hasłem. Po aktywacji uczestnicy będą musieli wprowadzić wyznaczone hasło, zanim uzyskają dostęp do webinarium, co gwarantuje, że Twoje spotkanie pozostanie prywatne i dostępne tylko dla osób posiadających hasło. To idealne rozwiązanie do prowadzenia ekskluzywnych, prywatnych lub poufnych sesji."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password' => ////////////////////////////////////////////////////////////////////////
@@ -4871,7 +4871,7 @@ return [
 	'payweb-get-to' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Płatne wejście <span class="tooltip" data-tip="Turn on this feature to set an entrance fee for your webinar. You‘re transforming your webinar or session into a premium experience by activating, ensuring only paying attendees can access the content. This is ideal for exclusive workshops, specialized training, or any content you deem valuable."></span>
+		Płatne wejście <span class="tooltip" data-tip="Włącz tę funkcję, aby ustawić opłatę za wejście na Twoje webinarium. Transformując Twoje webinarium lub sesję w doświadczenie premium, zapewnisz dostęp do treści tylko płacącym uczestnikom. Jest to idealne dla ekskluzywnych warsztatów, specjalistycznych szkoleń lub dowolnej wartościowej treści."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'records-send-wait' => ///////////////////////////////////////////////////////////////
@@ -4901,7 +4901,7 @@ return [
 	'storage-title' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Przechowywanie plików <span class="tooltip" data-tip="Your central hub for all uploaded content, polls, surveys, tests, and CTAs. Efficiently filter, sort, and locate files and other stuff. You have the option to delete, download, or upload new files with ease. Integrate videos directly from YouTube or Vimeo to enrich your content repository. Additionally, you can create or edit your polls, surveys, tests, and CTAs. Everything is in one place."></span>
+		Przechowywanie plików <span class="tooltip" data-tip="Twoje centralne miejsce na wszystkie przesłane materiały, ankiety, badania, testy i wezwania do działania (CTA). Efektywnie filtruj, sortuj i lokalizuj pliki oraz inne materiały. Masz możliwość łatwego usuwania, pobierania lub przesyłania nowych plików. Integruj filmy bezpośrednio z YouTube lub Vimeo, aby wzbogacić swoją bibliotekę treści. Dodatkowo możesz tworzyć lub edytować swoje ankiety, badania, testy i CTA. Wszystko w jednym miejscu."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-search-placeholder' => //////////////////////////////////////////////////////
@@ -5033,7 +5033,7 @@ return [
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kierunek czatu <span class="tooltip" data-tip="Choose the text flow direction for the public chat area, catering to left-to-right (e.g., English) and right-to-left (e.g., Arabic) languages. This ensures a seamless experience for all participants, regardless of their native script orientation."></span>
+		Kierunek czatu <span class="tooltip" data-tip="Wybierz kierunek przepływu tekstu dla publicznego czatu, obsługujący języki od lewej do prawej (np. angielski) i od prawej do lewej (np. arabski). Zapewnia to płynne doświadczenie dla wszystkich uczestników, niezależnie od orientacji ich rodzimych skryptów."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////
@@ -5069,7 +5069,7 @@ return [
 	'room-options-obs' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		OBS <span class="tooltip" data-tip="Tylko jeden prelegent webinaru może używać studia OBS do transmisji w wysokiej rozdzielczości, oferując jakość do 1080p. Należy jednak zauważyć, że może wystąpić znaczne opóźnienie ponad 20 sekund."></span>
+		OBS <span class="tooltip" data-tip="Tylko jeden prelegent webinarium może korzystać z OBS Studio do strumieniowania w wysokiej definicji, oferując jakość do 1080p. Należy jednak zauważyć, że może wystąpić znaczne opóźnienie, przekraczające 20 sekund."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-links-moder' => /////////////////////////////////////////////////////////////
@@ -5591,7 +5591,7 @@ return [
 	'room-mail-notification' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Odbiorcy <span class="tooltip" data-tip="Specify the individuals you wish to notify about your upcoming online webinars. Tailor your email notifications based on the recipient‘s role or involvement in the webinar."></span>
+		Odbiorcy <span class="tooltip" data-tip="Określ osoby, które chcesz powiadomić o swoich nadchodzących webinarach online. Dostosuj powiadomienia e-mailowe w zależności od roli lub zaangażowania odbiorcy w webinarium."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'notification-all' => ////////////////////////////////////////////////////////////////
@@ -5665,7 +5665,7 @@ return [
 	'personal-domain' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Domena osobista <span class="tooltip" data-tip="Enter a keyword that represents your business to select a custom domain. Personalize your webinar rooms to align with your brand."></span>
+		Domena osobista <span class="tooltip" data-tip="Wprowadź słowo kluczowe, które reprezentuje Twoją firmę, aby wybrać niestandardową domenę. Dostosuj swoje sale webinarowe, aby były zgodne z Twoją marką."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'domain-exists' => ///////////////////////////////////////////////////////////////////

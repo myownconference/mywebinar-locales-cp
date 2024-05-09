@@ -435,13 +435,13 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		永久网络研讨会 <span class="tooltip" data-tip="Create webinar rooms that are available 24/7 and come with unchanging, static links. Add password protection for extra security or switch to the landing page mode. In the landing page mode, instead of accessing the room, attendees will encounter a form to provide their email and other details. The landing page mode is ideal for gathering attendee information before granting access to future webinars."></span>
+		永久网络研讨会 <span class="tooltip" data-tip="创建可全天候使用的网络研讨会室，提供不变的固定链接。您可以增加密码保护以增强安全性，或切换到登陆页面模式。在登陆页面模式中，与会者不会直接进入会议室，而是会遇到一个表格，需要提供他们的电子邮件和其他详细信息。此模式非常适合在允许访问未来网络研讨会之前收集参与者信息。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		已安排的活动 <span class="tooltip" data-tip="Use our integrated calendar to schedule your future webinars. Make webinars private with unique links sent by email or share them yourself. Add logos and banners for a professional touch. You can also record webinars as MP4 files. Plus, remember we automatically send out email notifications to your attendees. All features are available in the "Advanced settings" section during the scheduling process."></span>
+		已安排的活动 <span class="tooltip" data-tip="使用我们的集成日历来安排您未来的网络研讨会。将研讨会设为私密，并通过电子邮件发送独特的链接，或自行分享。添加标志和横幅以增加专业触感。您还可以将研讨会录制为MP4文件。另外，我们会自动向您的与会者发送电子邮件通知。所有这些功能都可以在安排过程中的“高级设置”部分找到。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-edit-section' => ////////////////////////////////////////////////////////////
@@ -483,19 +483,19 @@ return [
 	'webinar-date' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		日期 <span class="tooltip" data-tip="The scheduled date of the webinar"></span>
+		日期 <span class="tooltip" data-tip="网络研讨会的预定日期"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-time' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		时间 <span class="tooltip" data-tip="Kick-off time of the webinar"></span>
+		时间 <span class="tooltip" data-tip="网络研讨会的开始时间"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-duration' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		持续时间 <span class="tooltip" data-tip="Estimated webinar duration. The webinar won‘t conclude on its own when this duration elapses. However, a button will be displayed within the webinar room, allowing you to end the webinar at your discretion."></span>
+		持续时间 <span class="tooltip" data-tip="预计的网络研讨会持续时间。当时间流逝后，研讨会不会自动结束。然而，会议室内会显示一个按钮，允许您根据自己的判断结束研讨会。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderators' => //////////////////////////////////////////////////////////////////////
@@ -573,7 +573,7 @@ return [
 	'profile-name-short' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		姓名 <span class="tooltip" data-tip="Enter your account name or personal name here. This name will be visible only to the MyOwnConference platform and won‘t be shared with others."></span>
+		姓名 <span class="tooltip" data-tip="在此输入您的账户名称或个人名字。这个名字只对MyOwnConference平台可见，不会与他人共享。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-name-placeholder' => ////////////////////////////////////////////////////////
@@ -609,7 +609,7 @@ return [
 	'profile-password' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		密码 <span class="tooltip" data-tip="Protect your account by setting a strong password. We recommend including uppercase letters, numbers, and special characters for security."></span>
+		密码 <span class="tooltip" data-tip="通过设置强密码来保护您的账户。我们建议包括大写字母、数字和特殊字符以提高安全性。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-change-password' => /////////////////////////////////////////////////////////
@@ -651,7 +651,7 @@ return [
 	'profile-timezone' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		时区 <span class="tooltip" data-tip="Choosing the correct time zone is crucial as all scheduled webinars will adhere to this setting. Please ensure it aligns with your computer‘s clock for accurate scheduling and webinar timings."></span>
+		时区 <span class="tooltip" data-tip="选择正确的时区非常关键，因为所有预定的网络研讨会都将遵循这一设置。请确保它与您的计算机时钟一致，以确保准确的排程和网络研讨会时间。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invalid-character' => ///////////////////////////////////////////////////////////////
@@ -711,7 +711,7 @@ return [
 	'profile-news' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		新闻通讯 <span class="tooltip" data-tip="Toggle to subscribe to MyOwnConference newsletters. Stay updated with the latest news and changes related to our webinar software."></span>
+		新闻通讯 <span class="tooltip" data-tip="切换以订阅 MyOwnConference 新闻通讯。随时了解我们网络研讨会软件的最新消息和更新。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-active-news' => /////////////////////////////////////////////////////////////
@@ -729,13 +729,13 @@ return [
 	'profile-pay-system' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		支付系统 <span class="tooltip" data-tip="Select your preferred payment method from Paysera, PayPal, and Revolut. Also, choose the currency that suits you best, like euros, dollars, pounds, polish zlotys, ukrainian hryvnia, and more."></span>
+		支付系统 <span class="tooltip" data-tip="从Paysera、PayPal和Revolut中选择您偏好的支付方式。同时，选择最适合您的货币，如欧元、美元、英镑、波兰兹罗提、乌克兰格里夫纳等。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-language' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		语言 <span class="tooltip" data-tip="Select your preferred language to customize the dashboard interface to your comfort. Changes will reflect immediately upon selection."></span>
+		语言 <span class="tooltip" data-tip="选择您偏好的语言来定制仪表板界面，使其更符合您的使用习惯。选择后立即反映更改。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'create-webinar' => //////////////////////////////////////////////////////////////////
@@ -759,7 +759,7 @@ return [
 	'web-close' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		仅使用您的邀请链接登录 <span class="tooltip" data-tip="To host private webinars or webinars, activate this option. It will conceal the registration form from all viewers."></span>
+		仅使用您的邀请链接登录 <span class="tooltip" data-tip="要举办私密网络研讨会或研讨会，请激活此选项。这将对所有观众隐藏注册表单。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-moderator' => ////////////////////////////////////////////////////////////////
@@ -777,7 +777,7 @@ return [
 	'room-options' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		高级设置 <span class="tooltip" data-tip="Click this button to access and configure professional-level settings for your scheduled webinar or the webinar room. It offers greater control and customization to tailor the session to your specific needs."></span>
+		高级设置 <span class="tooltip" data-tip="点击此按钮访问并配置您预定的网络研讨会或会议室的专业级设置。它提供更多控制和定制选项，以满足您的特定需求。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-options' => ///////////////////////////////////////////////////////////////
@@ -849,7 +849,7 @@ return [
 	'moderators-list' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		版主 <span class="tooltip" data-tip="This section allows you to create and manage the moderators for your online webinars. Assign roles, set permissions, and ensure your webinar runs smoothly by designating the right individuals to oversee and facilitate it."></span>
+		版主 <span class="tooltip" data-tip="本节允许您创建和管理在线网络研讨会的主持人。分配角色，设置权限，并通过指定合适的人员来监督和促进研讨会，确保研讨会顺利进行。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mod-search-placeholder' => //////////////////////////////////////////////////////////
@@ -1209,7 +1209,7 @@ return [
 	'attendees-list' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		参与者 <span class="tooltip" data-tip="Manage your online webinar attendees here. Add, edit, or update attendee information, including email details. Easily import or export attendee lists in bulk, apply filters, and organize attendee data to streamline your webinar preparation and communication."></span>
+		参与者 <span class="tooltip" data-tip="在此管理您的在线网络研讨会与会者。添加、编辑或更新与会者信息，包括电子邮件详情。轻松批量导入或导出与会者名单，应用过滤器，并组织与会者数据，以简化您的研讨会准备和沟通工作。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'att-search-placeholder' => //////////////////////////////////////////////////////////
@@ -1431,7 +1431,7 @@ return [
 	'record-quality' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		质量 <span class="tooltip" data-tip="Choose the desired resolution for your webinar recording. A higher resolution offers clearer visuals but may require more storage space and bandwidth."></span>
+		质量 <span class="tooltip" data-tip="选择您网络研讨会录制的所需分辨率。更高的分辨率提供更清晰的视觉效果，但可能需要更多的存储空间和带宽。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sd-fullhd' => ///////////////////////////////////////////////////////////////////////
@@ -1629,7 +1629,7 @@ return [
 	'webcam-position' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		聊天位置 <span class="tooltip" data-tip="Choose the placement of the public text chat area in your webinar room. This setting allows you to adjust the chat display according to left-to-right or right-to-left reading preferences. Whether you want the chat on the left or the right side, select your desired orientation here."></span>
+		聊天位置 <span class="tooltip" data-tip="在您的网络研讨会室内选择公共文字聊天区域的放置位置。此设置允许您根据从左到右或从右到左的阅读偏好调整聊天显示。无论您想将聊天区放在左侧还是右侧，都可以在此选择您想要的方向。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webcam-chat-position' => ////////////////////////////////////////////////////////////
@@ -1689,19 +1689,19 @@ return [
 	'record-options' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		偏好设置 <span class="tooltip" data-tip="Personalise your webinar recording settings to capture precisely what matters most to you. Whether you aim to highlight a specific section or record the entire webinar room, adjust your selections to meet your requirements. Remember to save your preferences and review them before each session to guarantee the best recording quality."></span>
+		偏好设置 <span class="tooltip" data-tip="个性化您的网络研讨会录制设置，精确捕捉对您最重要的内容。无论您是想突出显示特定部分还是录制整个会议室，都可以调整选择以满足您的需求。记得保存您的偏好设置，并在每次会议前复查，以确保最佳的录制质量。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-only-webcams' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		仅摄像头和麦克风 <span class="tooltip" data-tip="When activated, the webinar recording will capture only the webcam feed and audio from the microphone, excluding all other elements of the working area."></span>
+		仅摄像头和麦克风 <span class="tooltip" data-tip="当启动时，网络研讨会录制只会捕捉摄像头画面和麦克风声音，不包括工作区的其他元素。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		任何版主登录时自动录制 <span class="tooltip" data-tip="Streamline your webinar recording process with this convenient feature. When enabled, the recording will automatically commence as soon as the first moderator logs into the webinar, ensuring you capture every important moment from start to finish. The recording will conclude once the last moderator exits the webinar, providing a comprehensive capture of your session without any manual intervention."></span>
+		任何版主登录时自动录制 <span class="tooltip" data-tip="简化您的网络研讨会录制流程。启用此功能后，一旦第一个主持人登录研讨会，录制将自动开始，确保从开始到结束捕捉每一个重要时刻。当最后一个主持人退出研讨会时，录制将结束，无需手动操作，从而全面捕获您的会议内容。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto-no-stop' => /////////////////////////////////////////////////////////////
@@ -1713,13 +1713,13 @@ return [
 	'record-cams-and-slides' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		摄像头、麦克风和工作区 <span class="tooltip" data-tip="When activated, the webinar recording will capture the webcam feed, audio from the microphone, and the working area with your presentation, video, or screen sharing, excluding other elements or activities outside this scope."></span>
+		摄像头、麦克风和工作区 <span class="tooltip" data-tip="当启动时，网络研讨会录制将包括摄像头画面、麦克风声音以及包含您的演示、视频或屏幕共享的工作区，排除此范围外的其他元素或活动。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-cams-slides-chat' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		摄像头、麦克风、聊天和工作区 <span class="tooltip" data-tip="When activated, the webinar recording will include the webcam feed, audio from the microphone, chat interactions, and the working area, ensuring a comprehensive capture of your webinar environment."></span>
+		摄像头、麦克风、聊天和工作区 <span class="tooltip" data-tip="当启动时，网络研讨会录制将包括摄像头画面、麦克风声音、聊天互动以及工作区，确保全面捕捉您的网络研讨会环境。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-all' => //////////////////////////////////////////////////////////////////////
@@ -1761,7 +1761,7 @@ return [
 	'gtm-id' => //////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Google Tag Manager ID <span class="tooltip" data-tip="Enter your unique GTM ID to unlock in-depth traffic analytics and comprehensive reporting for your webinars. This integration provides granular insights into attendee behavior and interactions."></span>
+		Google Tag Manager ID <span class="tooltip" data-tip="输入您的独特GTM ID，以解锁深入的流量分析和您的网络研讨会的全面报告。此集成提供对参与者行为和互动的详细洞察。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'gtm-id-placeholder' => //////////////////////////////////////////////////////////////
@@ -1791,19 +1791,19 @@ return [
 	'room-options-buttonquestion' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		启用与管理员的私人聊天 <span class="tooltip" data-tip="When activated, a special menu item will appear in the webinar room, allowing attendees to submit text questions. Any webinar moderator can view and respond to these questions, facilitating interaction and engagement during the webinar."></span>
+		启用与管理员的私人聊天 <span class="tooltip" data-tip="当启动时，研讨会房间中会出现一个特殊菜单项，允许与会者提交文本问题。任何网络研讨会主持人都可以查看并回答这些问题，促进研讨会期间的互动和参与。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-buttonvoice' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		允许发言请求 <span class="tooltip" data-tip="When activated, a special menu item will be available in the webinar room, allowing attendees to send a request to speak. Moderators have the authority to approve or decline these requests. If approved, the attendee will need to grant webcam and microphone access to participate vocally in the discussion."></span>
+		允许发言请求 <span class="tooltip" data-tip="当启动时，研讨会房间中将提供一个特殊菜单项，允许与会者发送发言请求。主持人有权批准或拒绝这些请求。若获批准，与会者需要授权摄像头和麦克风访问权，才能在讨论中以声音参与。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-buttonqa' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		启用问答环节 <span class="tooltip" data-tip="激活后，将在网络研讨会室中提供一个特别的菜单项，允许主持人在活动中突出显示公共文本聊天中的问题，并使与会者能够为他们最喜欢的问题投票。此功能为主持人提供了一个专用的问答界面，用于跟踪和管理问题，显示当前正在解决和已解决的问题。与会者的投票将优先考虑问题，确保最受欢迎的问题在列表顶部清晰可见。"></span>
+		启用问答环节 <span class="tooltip" data-tip="当启动时，研讨会房间中将提供一个特别菜单项，允许主持人在网络研讨会期间突出显示公开文本聊天中的问题，并使与会者可以对他们最喜欢的问题进行投票。此功能为主持人提供了一个专用的问答界面，用于跟踪和管理问题，显示哪些问题正在被解决。与会者的投票将优先考虑问题，确保最受欢迎的问题在顶部轻松可见。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-message' => ///////////////////////////////////////////////////////////////////
@@ -1827,7 +1827,7 @@ return [
 	'room-options-header-theme' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		颜色 <span class="tooltip" data-tip="Tailor the look of your webinar room to match your brand or mood. Effortlessly adjust colours, set the room background, and choose the perfect shade for the foreground text. Create an ambiance that resonates with your audience, making each webinar uniquely yours."></span>
+		颜色 <span class="tooltip" data-tip="为您的网络研讨会室定制风格，以匹配您的品牌或心情。轻松调整颜色，设置房间背景，并选择前景文本的完美色调。创建与您的观众共鸣的氛围，使每个网络研讨会都独具一格。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-color-room' => /////////////////////////////////////////////////////////
@@ -1845,7 +1845,7 @@ return [
 	'room-logo' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		标志 <span class="tooltip" data-tip="Your brand matters. Now, seamlessly integrate your logo into the webinar room for an enriched, brand-consistent user experience. The logo will be visible to webinar attendees only. If you wish to view it, access the webinar room as an attendee."></span>
+		标志 <span class="tooltip" data-tip="您的品牌很重要。现在，无缝集成您的标志到网络研讨会室中，为用户提供丰富而符合品牌一致性的体验。标志仅对网络研讨会参与者可见。如果您想查看，可作为参与者进入网络研讨会室。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-logo-size' => //////////////////////////////////////////////////////////////////
@@ -1863,7 +1863,7 @@ return [
 	'room-banner' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		横幅 <span class="tooltip" data-tip="Your brand matters. Now, seamlessly integrate your banner into the webinar room for an enriched, brand-consistent user experience. The banner will be visible to webinar attendees only. If you wish to view it, access the webinar room as an attendee."></span>
+		横幅 <span class="tooltip" data-tip="您的品牌很重要。现在，无缝集成您的横幅到网络研讨会室中，为用户提供丰富而符合品牌一致性的体验。横幅仅对网络研讨会参与者可见。如果您想查看，可作为参与者进入网络研讨会室。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-banner-size' => ////////////////////////////////////////////////////////////////
@@ -1881,7 +1881,7 @@ return [
 	'room-splash' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		背景 <span class="tooltip" data-tip="Adjust the webinar room registration page‘s background colours and design preferences to align with your brand or the theme of the webinar."></span>
+		背景 <span class="tooltip" data-tip="调整网络研讨会室注册页面的背景颜色和设计偏好，以与您的品牌或研讨会主题相协调。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-splash-size' => ////////////////////////////////////////////////////////////////
@@ -1899,19 +1899,19 @@ return [
 	'room-options-header-userlist' => ////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		参与者 <span class="tooltip" data-tip="In our webinar room, you can easily adjust how you see your attendee list. You can choose to show participant names, their country flags, or gravatars. This lets you create a more personal and interactive experience just the way you like."></span>
+		参与者 <span class="tooltip" data-tip="在我们的网络研讨会室，您可以轻松调整如何查看参与者列表。您可以选择显示参与者姓名、他们的国家旗帜或头像。这让您能够按照自己喜欢的方式创造更加个性化和互动的体验。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		流媒体源 <span class="tooltip" data-tip="Our webinar and video conferencing platform supports three distinct streaming sources:<br><br>• WebRTC – All webinar speakers will utilise the browser-based WebRTC protocol via UDP when streaming their webcam and microphone. To leverage the full potential of this technology, a fast and reliable internet connection is imperative.<br><br>• Plugin DTS – All our webinar speakers can easily download our secure DTS plugin. It works smoothly for webcam and microphone streaming, even on slower internet connections. Created by our team, this plugin minimizes delays. So, even on a not-so-great internet connection, you‘ll experience a lag of up to 3 seconds from real-time.<br><br>• OBS – Only one webinar speaker is permitted to use OBS studio for high-definition streaming, offering up to 1080p quality. However, please note there might be a substantial latency of over 20 seconds."></span>
+		流媒体源 <span class="tooltip" data-tip="我们的网络研讨会和视频会议平台支持三种不同的流媒体来源：<br><br>• WebRTC – 所有网络研讨会讲师将通过UDP使用基于浏览器的WebRTC协议来流式传输他们的网络摄像头和麦克风。为了充分利用这项技术的潜力，快速且可靠的互联网连接是必不可少的。<br><br>• 插件 DTS – 我们的所有网络研讨会讲师都可以轻松下载我们的安全DTS插件。即使在较慢的互联网连接上，它也能顺畅地用于网络摄像头和麦克风流式传输。该插件由我们的团队创建，可最大限度地减少延迟。因此，即使在不太理想的互联网连接上，您也只会经历最多3秒的实时延迟。<br><br>• OBS – 只允许一位网络研讨会讲师使用OBS工作室进行高清流媒体传输，提供高达1080p的质量。但请注意，可能会有超过20秒的显著延迟。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-browser' => //////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		WebRTC <span class="tooltip" data-tip="All webinar speakers will utilise the browser-based WebRTC protocol via UDP when streaming their webcam and microphone. To leverage the full potential of this technology, a fast and reliable internet connection is imperative."></span>
+		WebRTC <span class="tooltip" data-tip="所有网络研讨会讲师将通过UDP使用基于浏览器的WebRTC协议来流式传输他们的网络摄像头和麦克风。为了充分利用这项技术的潜力，快速且可靠的互联网连接是必不可少的。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-plugin' => ///////////////////////////////////////////

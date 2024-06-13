@@ -741,7 +741,7 @@ return [
 	'profile-news' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Newslettery <span class="tooltip" data-tip="Przełącz, aby subskrybować newslettery MyOwnConference. Bądź na bieżąco z najnowszymi wiadomościami i zmianami związanymi z naszym oprogramowaniem do webinarów."></span>
+		Powiadomienia systemowe <span class="tooltip" data-tip="Włącz, aby subskrybować powiadomienia systemowe MyOwnConference. Bądź na bieżąco z najnowszymi aktualizacjami systemu i zmianami związanymi z naszym oprogramowaniem do webinariów."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-active-news' => /////////////////////////////////////////////////////////////

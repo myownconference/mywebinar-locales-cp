@@ -741,7 +741,7 @@ return [
 	'profile-news' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Hírlevelek <span class="tooltip" data-tip="Kapcsolja be a MyOwnConference hírleveleinek megrendeléséhez. Legyen naprakész a legfrissebb hírekkel és változásokkal kapcsolatban a webinar szoftverünkkel."></span>
+		Rendszerértesítések <span class="tooltip" data-tip="Kapcsolja be a MyOwnConference rendszerértesítések feliratkozásához. Maradjon naprakész a legújabb rendszerfrissítésekkel és a webinárium szoftverünk változásaival kapcsolatban."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-active-news' => /////////////////////////////////////////////////////////////

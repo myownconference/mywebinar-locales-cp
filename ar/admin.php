@@ -741,7 +741,7 @@ return [
 	'profile-news' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		نشرات إخبارية <span class="tooltip" data-tip="Toggle to subscribe to MyOwnConference newsletters. Stay updated with the latest news and changes related to our webinar software."></span>
+		إشعارات النظام <span class="tooltip" data-tip="بدّل للاشتراك في إشعارات نظام MyOwnConference. ابقَ على اطلاع بأحدث التحديثات والتغييرات المتعلقة ببرمجيات الويبينار لدينا."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-active-news' => /////////////////////////////////////////////////////////////

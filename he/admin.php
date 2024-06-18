@@ -3729,13 +3729,12 @@ return [
 	'record-email-identification' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		הגנת גישה <span class="tooltip" data-tip="Ensure a higher level of webinar privacy and security with this feature. When activated, attendees must confirm their access by entering a code sent to their registered email. This process guarantees that only genuine attendees who‘ve registered with valid email addresses can access the webinar. It also deters the sharing of personal webinar links, maintaining the exclusivity of your online gathering."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-email-identification-enable' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		השתמש בהגנת גישה
+		הגבלת גישה <span class="tooltip" data-tip="שפר את הפרטיות והאבטחה של הקלטות האירועים שלך עם תכונה זו. כאשר האפשרות מופעלת, הצופים חייבים לאמת את הגישה שלהם על ידי הזנת קוד שנשלח לדוא‘’ל הרשום שלהם. תהליך זה מבטיח שרק הצופים שלך עם כתובות דוא‘’ל תקפות יוכלו לגשת להקלטות. הוא גם מונע שיתוף קישורים אישיים, תוך שמירה על הבלעדיות של התוכן המוקלט שלך."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-clicks' => //////////////////////////////////////////////////////////////////////

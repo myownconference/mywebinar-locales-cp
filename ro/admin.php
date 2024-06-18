@@ -3729,13 +3729,12 @@ return [
 	'record-email-identification' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Protecție de acces <span class="tooltip" data-tip="Ensure a higher level of webinar privacy and security with this feature. When activated, attendees must confirm their access by entering a code sent to their registered email. This process guarantees that only genuine attendees who‘ve registered with valid email addresses can access the webinar. It also deters the sharing of personal webinar links, maintaining the exclusivity of your online gathering."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-email-identification-enable' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Folosește protecția de acces
+		Restricționați accesul <span class="tooltip" data-tip="Îmbunătățiți confidențialitatea și securitatea înregistrărilor evenimentului dvs. cu această funcție. Când este activată, spectatorii trebuie să-și verifice accesul introducând un cod trimis la e-mailul lor înregistrat. Acest proces asigură că numai spectatorii dvs. cu adrese de e-mail valide pot accesa înregistrările. De asemenea, împiedică partajarea linkurilor personale, menținând exclusivitatea conținutului dvs. înregistrat."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-clicks' => //////////////////////////////////////////////////////////////////////

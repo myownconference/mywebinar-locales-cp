@@ -3729,13 +3729,12 @@ return [
 	'record-email-identification' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		访问保护 <span class="tooltip" data-tip="Ensure a higher level of webinar privacy and security with this feature. When activated, attendees must confirm their access by entering a code sent to their registered email. This process guarantees that only genuine attendees who‘ve registered with valid email addresses can access the webinar. It also deters the sharing of personal webinar links, maintaining the exclusivity of your online gathering."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-email-identification-enable' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		使用访问保护
+		限制访问 <span class="tooltip" data-tip="通过此功能增强您的活动录音的隐私和安全性。启用后，观众必须通过输入发送到其注册电子邮件的代码来验证访问权限。此过程确保只有拥有有效电子邮件地址的观众才能访问录音。它还防止共享个人链接，保持您录制内容的独占性。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-clicks' => //////////////////////////////////////////////////////////////////////

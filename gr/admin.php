@@ -3729,13 +3729,12 @@ return [
 	'record-email-identification' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Προστασία πρόσβασης <span class="tooltip" data-tip="Ensure a higher level of webinar privacy and security with this feature. When activated, attendees must confirm their access by entering a code sent to their registered email. This process guarantees that only genuine attendees who‘ve registered with valid email addresses can access the webinar. It also deters the sharing of personal webinar links, maintaining the exclusivity of your online gathering."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-email-identification-enable' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Χρησιμοποιήστε προστασία πρόσβασης
+		Περιορισμός πρόσβασης <span class="tooltip" data-tip="Ενισχύστε το απόρρητο και την ασφάλεια των εγγραφών της εκδήλωσής σας με αυτήν τη λειτουργία. Όταν ενεργοποιηθεί, οι θεατές πρέπει να επαληθεύσουν την πρόσβασή τους εισάγοντας έναν κωδικό που αποστέλλεται στο καταχωρημένο email τους. Αυτή η διαδικασία διασφαλίζει ότι μόνο οι θεατές σας με έγκυρες διευθύνσεις email μπορούν να έχουν πρόσβαση στις εγγραφές. Επίσης, αποτρέπει την κοινοποίηση προσωπικών συνδέσμων, διατηρώντας την αποκλειστικότητα του εγγεγραμμένου περιεχομένου σας."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-clicks' => //////////////////////////////////////////////////////////////////////

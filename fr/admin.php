@@ -3742,13 +3742,12 @@ return [
 	'record-email-identification' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Protection de l‘accès <span class="tooltip" data-tip="Ensure a higher level of webinar privacy and security with this feature. When activated, attendees must confirm their access by entering a code sent to their registered email. This process guarantees that only genuine attendees who‘ve registered with valid email addresses can access the webinar. It also deters the sharing of personal webinar links, maintaining the exclusivity of your online gathering."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-email-identification-enable' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Utiliser la protection de l‘accès
+		Restreindre l‘accès <span class="tooltip" data-tip="Améliorez la confidentialité et la sécurité des enregistrements de vos événements grâce à cette fonctionnalité. Lorsqu‘elle est activée, les spectateurs doivent vérifier leur accès en entrant un code envoyé à leur e-mail enregistré. Ce processus garantit que seuls vos spectateurs avec des adresses e-mail valides peuvent accéder aux enregistrements. Il empêche également le partage de liens personnels, maintenant ainsi l‘exclusivité de vos contenus enregistrés."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-clicks' => //////////////////////////////////////////////////////////////////////

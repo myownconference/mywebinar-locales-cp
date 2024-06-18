@@ -3729,13 +3729,12 @@ return [
 	'record-email-identification' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Access <span class="tooltip" data-tip="Ensure a higher level of webinar privacy and security with this feature. When activated, attendees must confirm their access by entering a code sent to their registered email. This process guarantees that only genuine attendees who‘ve registered with valid email addresses can access the webinar. It also deters the sharing of personal webinar links, maintaining the exclusivity of your online gathering."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-email-identification-enable' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Through email verification
+		Hozzáférés korlátozása <span class="tooltip" data-tip="Növelje eseményfelvételei adatvédelmét és biztonságát ezzel a funkcióval. Aktiváláskor a nézőknek ellenőrizniük kell hozzáférésüket azáltal, hogy beírják a regisztrált e-mail címükre küldött kódot. Ez a folyamat biztosítja, hogy csak a nézők érvényes e-mail címekkel férhessenek hozzá a felvételekhez. Ezenkívül megakadályozza a személyes linkek megosztását, megőrizve a rögzített tartalom exkluzivitását."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-clicks' => //////////////////////////////////////////////////////////////////////

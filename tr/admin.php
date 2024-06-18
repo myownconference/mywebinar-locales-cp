@@ -3729,13 +3729,12 @@ return [
 	'record-email-identification' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Erişim koruması <span class="tooltip" data-tip="Ensure a higher level of webinar privacy and security with this feature. When activated, attendees must confirm their access by entering a code sent to their registered email. This process guarantees that only genuine attendees who‘ve registered with valid email addresses can access the webinar. It also deters the sharing of personal webinar links, maintaining the exclusivity of your online gathering."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-email-identification-enable' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Erişim koruması kullanın
+		Erişimi kısıtla <span class="tooltip" data-tip="Bu özellikle etkinlik kayıtlarınızın gizliliğini ve güvenliğini artırın. Etkinleştirildiğinde, izleyicilerin kayıtlı e-posta adreslerine gönderilen kodu girerek erişimlerini doğrulamaları gerekir. Bu süreç, yalnızca geçerli e-posta adreslerine sahip izleyicilerin kayıtlara erişebilmesini sağlar. Ayrıca kişisel bağlantıların paylaşılmasını önleyerek kaydedilen içeriğinizin özel kalmasını sağlar."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-clicks' => //////////////////////////////////////////////////////////////////////

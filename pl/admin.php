@@ -3749,13 +3749,12 @@ return [
 	'record-email-identification' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ograniczenie dostępu <span class="tooltip" data-tip="Zapewnij wyższy poziom prywatności i bezpieczeństwa webinaru dzięki tej funkcji. Po aktywacji uczestnicy muszą potwierdzić swój dostęp, wprowadzając kod wysłany na ich zarejestrowany email. Proces ten gwarantuje, że dostęp do webinaru mają tylko prawdziwi uczestnicy, którzy zarejestrowali się za pomocą ważnych adresów email. Zapobiega to również udostępnianiu osobistych linków do webinaru, zachowując wyłączność twojego spotkania online."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-email-identification-enable' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ogranicz dostęp
+		Ograniczyć dostęp <span class="tooltip" data-tip="Zwiększ prywatność i bezpieczeństwo nagrań z Twojego wydarzenia dzięki tej funkcji. Po włączeniu, widzowie muszą zweryfikować swoje dane, wprowadzając kod wysłany na ich zarejestrowany adres e-mail. Proces ten zapewnia, że tylko widzowie z ważnymi adresami e-mail mogą uzyskać dostęp do nagrań. Zapobiega również udostępnianiu osobistych linków, zachowując ekskluzywność Twoich nagranych treści."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-clicks' => //////////////////////////////////////////////////////////////////////

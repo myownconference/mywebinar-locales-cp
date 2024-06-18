@@ -3729,13 +3729,12 @@ return [
 	'record-email-identification' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Zugangsschutz <span class="tooltip" data-tip="Ensure a higher level of webinar privacy and security with this feature. When activated, attendees must confirm their access by entering a code sent to their registered email. This process guarantees that only genuine attendees who‘ve registered with valid email addresses can access the webinar. It also deters the sharing of personal webinar links, maintaining the exclusivity of your online gathering."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-email-identification-enable' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Zugangsschutz verwenden
+		Zugang beschränken <span class="tooltip" data-tip="Verbessern Sie die Privatsphäre und Sicherheit Ihrer Veranstaltungsaufzeichnungen mit dieser Funktion. Wenn aktiviert, müssen Zuschauer ihren Zugang verifizieren, indem sie einen Code eingeben, der an ihre registrierte E-Mail gesendet wird. Dieser Prozess stellt sicher, dass nur Ihre Zuschauer mit gültigen E-Mail-Adressen auf die Aufzeichnungen zugreifen können. Es verhindert auch das Teilen persönlicher Links, wodurch die Exklusivität Ihrer aufgezeichneten Inhalte gewahrt bleibt."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-clicks' => //////////////////////////////////////////////////////////////////////

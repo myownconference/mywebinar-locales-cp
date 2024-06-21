@@ -471,7 +471,7 @@ return [
 	'webinars-title' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Scheduled webinars <span class="tooltip" data-tip="Use our integrated calendar to schedule your future webinars. Make webinars private with unique links sent by email or share them yourself. Add logos and banners for a professional touch. You can also save webinars as MP4 files. Plus, we automatically send out email notifications to your attendees. All features are available in the 'Advanced settings' section during the scheduling process."></span>
+		Scheduled webinars <span class="tooltip" data-tip="Use our integrated calendar to schedule your future webinars. Make webinars private with unique links sent by email or share them yourself. Add logos and banners for a professional touch. You can also save webinars as MP4 files. Plus, we automatically send out email notifications to your attendees. All features are available in the «Advanced settings» section during the scheduling process."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-edit-section' => ////////////////////////////////////////////////////////////

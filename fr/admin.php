@@ -5506,7 +5506,7 @@ return [
 	'storage-add-video' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ajouter YouTube ni Vimeo
+		Ajouter YouTube ni Vimeo <span class="tooltip" data-tip="Ajoutez des vidéos YouTube ou Vimeo à votre webinaire en insérant le lien de la vidéo dans la case ci-dessous. Copiez simplement l’URL de la vidéo depuis YouTube ou Vimeo et collez-la ici. Cette fonctionnalité vous permet d’enrichir le contenu de votre webinaire avec des vidéos externes, offrant une expérience de visionnage fluide pour vos participants. Assurez-vous que le lien est correct et accessible au public pour éviter tout problème de lecture"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-url-placeholder' => /////////////////////////////////////////////////////////

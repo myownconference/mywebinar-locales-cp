@@ -5484,7 +5484,7 @@ return [
 	'storage-add-video' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Add YouTube or Vimeo
+		Add YouTube or Vimeo <span class="tooltip" data-tip="Adjon hozzá YouTube vagy Vimeo videókat a webináriumhoz a videó linkjének az alábbi mezőbe történő beillesztésével. Egyszerűen másolja ki a videó URL-jét a YouTube-ról vagy a Vimeo-ról, és illessze be ide. Ez a funkció lehetővé teszi, hogy gazdagítsa webináriumának tartalmát külső videókkal, és zökkenőmentes nézési élményt biztosít a résztvevőknek. Győződjön meg arról, hogy a link helyes és nyilvánosan elérhető, hogy elkerülje a lejátszási problémákat"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-url-placeholder' => /////////////////////////////////////////////////////////

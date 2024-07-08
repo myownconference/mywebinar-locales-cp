@@ -5484,7 +5484,7 @@ return [
 	'storage-add-video' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Aggiungi da YouTube o Vimeo
+		Aggiungi da YouTube o Vimeo <span class="tooltip" data-tip="Aggiungi video di YouTube o Vimeo al tuo webinar inserendo il link del video nella casella sottostante. Basta copiare l’URL del video da YouTube o Vimeo e incollarlo qui. Questa funzione ti consente di arricchire il contenuto del tuo webinar con video esterni, fornendo un’esperienza di visione senza interruzioni per i tuoi partecipanti. Assicurati che il link sia corretto e pubblicamente accessibile per evitare problemi di riproduzione"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-url-placeholder' => /////////////////////////////////////////////////////////

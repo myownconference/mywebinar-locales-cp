@@ -5502,7 +5502,7 @@ return [
 	'storage-add-video' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Agregar un vídeo de YouTube o Vimeo
+		Agregar un vídeo de YouTube o Vimeo <span class="tooltip" data-tip="Agregue videos de YouTube o Vimeo a su seminario web insertando el enlace del video en el cuadro a continuación. Simplemente copie la URL del video de YouTube o Vimeo y péguela aquí. Esta función le permite enriquecer el contenido de su seminario web con videos externos, brindando una experiencia de visualización fluida para sus asistentes. Asegúrese de que el enlace sea correcto y esté accesible públicamente para evitar problemas de reproducción"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-url-placeholder' => /////////////////////////////////////////////////////////

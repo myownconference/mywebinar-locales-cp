@@ -465,7 +465,7 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinars permanentes <span class="tooltip" data-tip="Create webinar rooms that are available 24/7 and come with unchanging, static links. Add password protection for extra security or switch to the landing page mode. In the landing page mode, instead of accessing the room, attendees will encounter a form to provide their email and other details. The landing page mode is ideal for gathering attendee information before granting access to future webinars"></span>
+		Salas de seminarios web instantáneas <span class="tooltip" data-tip="Cree salas de seminarios web disponibles las 24 horas del día, los 7 días de la semana, y que vienen con enlaces estáticos. Añada protección por contraseña para mayor seguridad o cambie al modo de página de destino. En el modo de página de destino, los asistentes verán un formulario para ingresar su correo electrónico y otros detalles antes de acceder a la sala. Este modo es ideal para recopilar información de los asistentes antes de otorgar acceso a futuros seminarios web."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////

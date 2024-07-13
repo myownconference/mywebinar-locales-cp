@@ -465,7 +465,7 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Állandó webináriumok <span class="tooltip" data-tip="Hozzon létre olyan webináriumszobákat, amelyek 24/7 elérhetők, és változatlan, statikus linkekkel rendelkeznek. Adj hozzá jelszóvédelmet további biztonságért vagy válts át a landolóoldal-módra. A landolóoldal-módban a résztvevők nem a szobába lépnek be, hanem egy űrlapot találnak, ahol megadhatják az e-mail címüket és egyéb adataikat. A landolóoldal-mód ideális a résztvevők adatainak gyűjtésére, mielőtt hozzáférést biztosítanának a jövőbeli webináriumokhoz"></span>
+		Azonnali webináriumi szobák <span class="tooltip" data-tip="Hozzon létre webináriumi szobákat, amelyek a nap 24 órájában elérhetők, és statikus linkekkel rendelkeznek. Adjon hozzá jelszóvédelmet a további biztonság érdekében, vagy váltson át céloldal módra. A céloldal módban a résztvevők egy űrlapot látnak, ahol meg kell adniuk e-mail címüket és egyéb adataikat, mielőtt belépnének a szobába. Ez a mód ideális a résztvevők adatainak gyűjtésére, mielőtt hozzáférést biztosítanának a jövőbeni webináriumokhoz."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////

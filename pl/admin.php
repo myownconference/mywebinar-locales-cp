@@ -465,7 +465,7 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sale webinarowe <span class="tooltip" data-tip="Utwórz sale webinarowe dostępne 24/7 z niezmieniającymi się, stałymi linkami. Dodaj ochronę hasłem dla dodatkowego bezpieczeństwa lub przełącz się na tryb strony startowej. W trybie strony startowej, zamiast dostępu do sali, uczestnicy napotkają formularz do podania swojego e-maila i innych danych. Tryb strony startowej jest idealny do zbierania informacji o uczestnikach przed przyznaniem dostępu do przyszłych webinarów"></span>
+		Natychmiastowe pokoje webinarowe <span class="tooltip" data-tip="Twórz pokoje webinarowe dostępne 24/7 z statycznymi linkami. Dodaj ochronę hasłem dla dodatkowego bezpieczeństwa lub przejdź do trybu strony docelowej. W trybie strony docelowej uczestnicy zobaczą formularz do wpisania swojego adresu e-mail i innych szczegółów przed uzyskaniem dostępu do pokoju. Ten tryb jest idealny do zbierania informacji o uczestnikach przed przyznaniem dostępu do przyszłych webinarów."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////

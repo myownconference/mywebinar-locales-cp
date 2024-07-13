@@ -465,7 +465,7 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		ويبينارات دائمة <span class="tooltip" data-tip="Create webinar rooms that are available 24/7 and come with unchanging, static links. Add password protection for extra security or switch to the landing page mode. In the landing page mode, instead of accessing the room, attendees will encounter a form to provide their email and other details. The landing page mode is ideal for gathering attendee information before granting access to future webinars"></span>
+		غرف الويبينار الفورية <span class="tooltip" data-tip="أنشئ غرف ويبينار متاحة على مدار الساعة طوال أيام الأسبوع وتأتي بروابط ثابتة. أضف حماية بكلمة مرور لأمان إضافي أو انتقل إلى وضع صفحة الهبوط. في وضع صفحة الهبوط، سيرى الحاضرون نموذجًا لإدخال بريدهم الإلكتروني وتفاصيل أخرى قبل الوصول إلى الغرفة. هذا الوضع مثالي لجمع معلومات الحاضرين قبل منحهم الوصول إلى الندوات المستقبلية."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////

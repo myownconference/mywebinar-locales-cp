@@ -465,7 +465,7 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		स्थायी वेबिनार <span class="tooltip" data-tip="Create webinar rooms that are available 24/7 and come with unchanging, static links. Add password protection for extra security or switch to the landing page mode. In the landing page mode, instead of accessing the room, attendees will encounter a form to provide their email and other details. The landing page mode is ideal for gathering attendee information before granting access to future webinars"></span>
+		तत्काल वेबिनार कक्ष <span class="tooltip" data-tip="24/7 उपलब्ध और स्थिर लिंक वाले वेबिनार कक्ष बनाएं। अतिरिक्त सुरक्षा के लिए पासवर्ड सुरक्षा जोड़ें या लैंडिंग पेज मोड पर स्विच करें। लैंडिंग पेज मोड में, प्रतिभागियों को कक्ष में प्रवेश करने से पहले अपना ईमेल और अन्य विवरण दर्ज करने के लिए एक फ़ॉर्म दिखाई देगा। यह मोड भविष्य के वेबिनार तक पहुंच देने से पहले प्रतिभागी जानकारी एकत्र करने के लिए आदर्श है।"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////

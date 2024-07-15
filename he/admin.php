@@ -459,13 +459,13 @@ return [
 	'adhoc-webinars' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		וובינרים קבועים
+		חדרים
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		וובינרים קבועים <span class="tooltip" data-tip="Create webinar rooms that are available 24/7 and come with unchanging, static links. Add password protection for extra security or switch to the landing page mode. In the landing page mode, instead of accessing the room, attendees will encounter a form to provide their email and other details. The landing page mode is ideal for gathering attendee information before granting access to future webinars"></span>
+		חדרי וובינר מיידיים <span class="tooltip" data-tip="צור חדרי וובינר זמינים 24/7 עם קישורים סטטיים. הוסף הגנה באמצעות סיסמה לאבטחה נוספת או עבור למצב דף נחיתה. במצב דף נחיתה, המשתתפים יראו טופס להזנת האימייל שלהם ופרטים נוספים לפני הכניסה לחדר. מצב זה אידיאלי לאיסוף מידע על המשתתפים לפני מתן גישה לוובינרים עתידיים."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////

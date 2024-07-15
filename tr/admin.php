@@ -459,13 +459,13 @@ return [
 	'adhoc-webinars' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kalıcı
+		Odalar
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kalıcı webinarlar <span class="tooltip" data-tip="Create webinar rooms that are available 24/7 and come with unchanging, static links. Add password protection for extra security or switch to the landing page mode. In the landing page mode, instead of accessing the room, attendees will encounter a form to provide their email and other details. The landing page mode is ideal for gathering attendee information before granting access to future webinars"></span>
+		Anında web semineri odaları <span class="tooltip" data-tip="24/7 kullanılabilir ve statik bağlantılara sahip web semineri odaları oluşturun. Ek güvenlik için parola koruması ekleyin veya açılış sayfası moduna geçin. Açılış sayfası modunda, katılımcılar odaya erişmeden önce e-postalarını ve diğer bilgilerini girmeleri için bir form göreceklerdir. Bu mod, gelecekteki web seminerlerine erişim izni vermeden önce katılımcı bilgilerini toplamak için idealdir."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////

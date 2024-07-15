@@ -459,13 +459,13 @@ return [
 	'adhoc-webinars' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permanenti
+		Stanze
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar permanenti <span class="tooltip" data-tip="Create webinar rooms that are available 24/7 and come with unchanging, static links. Add password protection for extra security or switch to the landing page mode. In the landing page mode, instead of accessing the room, attendees will encounter a form to provide their email and other details. The landing page mode is ideal for gathering attendee information before granting access to future webinars"></span>
+		Stanze webinar istantanee <span class="tooltip" data-tip="Crea stanze webinar disponibili 24 ore su 24, 7 giorni su 7, con link statici. Aggiungi la protezione tramite password per una sicurezza extra o passa alla modalità pagina di destinazione. In modalità pagina di destinazione, i partecipanti vedranno un modulo per inserire il loro indirizzo email e altri dettagli prima di accedere alla stanza. Questa modalità è ideale per raccogliere informazioni sui partecipanti prima di concedere l‘accesso ai futuri webinar."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////

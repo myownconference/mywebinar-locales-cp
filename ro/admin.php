@@ -459,13 +459,13 @@ return [
 	'adhoc-webinars' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permanente
+		Camere
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinarii permanente <span class="tooltip" data-tip="Create webinar rooms that are available 24/7 and come with unchanging, static links. Add password protection for extra security or switch to the landing page mode. In the landing page mode, instead of accessing the room, attendees will encounter a form to provide their email and other details. The landing page mode is ideal for gathering attendee information before granting access to future webinars"></span>
+		Săli de webinar instantanee <span class="tooltip" data-tip="Creați săli de webinar disponibile 24/7, cu linkuri statice. Adăugați protecție prin parolă pentru securitate suplimentară sau treceți la modul pagină de destinație. În modul pagină de destinație, participanții vor vedea un formular pentru a introduce adresa lor de email și alte detalii înainte de a accesa sala. Acest mod este ideal pentru colectarea de informații despre participanți înainte de a le acorda acces la viitoarele webinarii."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////

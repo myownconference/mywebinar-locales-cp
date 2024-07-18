@@ -489,13 +489,13 @@ return [
 	'webinar-create-section' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Crea evento
+		Impostazioni del webinar <span class="tooltip" data-tip="Configura tutti gli aspetti del tuo webinar: imposta data e ora, durata, invita moderatori e relatori, gestisci i partecipanti, personalizza il layout e il branding e altro ancora con le impostazioni avanzate."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-create-section-many' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Crea serie di eventi
+		Impostazioni della serie di webinar <span class="tooltip" data-tip="Gestisci la tua serie di webinar: pianifica più sessioni, imposta date e orari, invita moderatori e relatori, gestisci i partecipanti e personalizza le impostazioni per un’esperienza di serie coerente."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////

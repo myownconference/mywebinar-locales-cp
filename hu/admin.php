@@ -489,13 +489,13 @@ return [
 	'webinar-create-section' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinárium létrehozása
+		Webinárium beállításai <span class="tooltip" data-tip="Konfigurálja webináriumának minden aspektusát: állítsa be a dátumot és időpontot, időtartamot, hívja meg a moderátorokat és előadókat, kezelje a résztvevőket, testre szabhatja az elrendezést és a márkanevet, és még sok más fejlett beállítással"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-create-section-many' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webináriumsorozat létrehozása
+		Webinárium-sorozat beállításai <span class="tooltip" data-tip="Kezelje webinárium-sorozatát: Ütemezzen több ülést, állítson be dátumokat és időpontokat, hívja meg a moderátorokat és előadókat, kezelje a résztvevőket, és testre szabhatja a beállításokat a sorozat összefüggő élményéhez."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////

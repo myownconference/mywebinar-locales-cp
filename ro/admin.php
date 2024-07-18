@@ -489,13 +489,13 @@ return [
 	'webinar-create-section' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Creează eveniment
+		Setări webinarului <span class="tooltip" data-tip="Configurați toate aspectele webinarului dvs.: setați data și ora, durata, invitați moderatori și prezentatori, gestionați participanții, personalizați aspectul și branding-ul și multe altele cu setările avansate."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-create-section-many' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Creează serie de evenimente
+		Setările seriei de webinarii <span class="tooltip" data-tip="Gestionați seria dvs. de webinarii: programați mai multe sesiuni, setați datele și orele, invitați moderatori și prezentatori, gestionați participanții și personalizați setările pentru o experiență coerentă a seriei."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////

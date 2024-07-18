@@ -489,13 +489,13 @@ return [
 	'webinar-create-section' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar oluştur
+		Webinar ayarları <span class="tooltip" data-tip="Web seminerinizin tüm yönlerini yapılandırın: tarih ve saat, süreyi ayarlayın, moderatörleri ve sunucuları davet edin, katılımcıları yönetin, düzeni ve markalamayı özelleştirin ve gelişmiş ayarlarla daha fazlasını yapın."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-create-section-many' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar serisi oluşturun
+		Webinar dizisi ayarları <span class="tooltip" data-tip="Web semineri serinizi yönetin: Birden fazla oturum planlayın, tarihleri ve saatleri ayarlayın, moderatörleri ve sunucuları davet edin, katılımcıları yönetin ve tutarlı bir seri deneyimi için ayarları özelleştirin."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////

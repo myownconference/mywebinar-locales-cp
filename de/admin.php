@@ -489,13 +489,13 @@ return [
 	'webinar-create-section' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar erstellen
+		Webinareinstellungen <span class="tooltip" data-tip="Konfigurieren Sie alle Aspekte Ihres Webinars: Datum und Uhrzeit festlegen, Dauer, Moderatoren und Referenten einladen, Teilnehmer verwalten, Layout und Branding anpassen und mehr mit erweiterten Einstellungen."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-create-section-many' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar-Serie erstellen
+		Einstellungen für Webinarreihe <span class="tooltip" data-tip="Verwalten Sie Ihre Webinarreihe: Planen Sie mehrere Sitzungen, legen Sie Daten und Zeiten fest, laden Sie Moderatoren und Referenten ein, verwalten Sie Teilnehmer und passen Sie die Einstellungen für ein einheitliches Serienerlebnis an."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////

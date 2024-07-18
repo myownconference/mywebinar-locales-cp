@@ -489,13 +489,13 @@ return [
 	'webinar-create-section' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Créer un webinaire
+		Paramètres du webinaire <span class="tooltip" data-tip="Configurez tous les aspects de votre webinaire : définissez la date et l’heure, la durée, invitez des modérateurs et des présentateurs, gérez les participants, personnalisez la mise en page et la marque, et plus encore avec les paramètres avancés."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-create-section-many' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Créer plusieurs webinaires
+		Paramètres de la série de webinaires <span class="tooltip" data-tip="Gérez votre série de webinaires : planifiez plusieurs sessions, définissez les dates et heures, invitez des modérateurs et des présentateurs, gérez les participants et personnalisez les paramètres pour une expérience de série cohérente."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////

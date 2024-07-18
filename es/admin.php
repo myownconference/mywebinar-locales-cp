@@ -489,13 +489,13 @@ return [
 	'webinar-create-section' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Planificar el webinario
+		Configuración el webinario <span class="tooltip" data-tip="Configura todos los aspectos de tu seminario web: establece fecha y hora, duración, invita a moderadores y presentadores, gestiona asistentes, personaliza el diseño y la marca, y más con configuraciones avanzadas."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-create-section-many' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Planificar la serie de webinarios
+		Configuración de la serie de webinario <span class="tooltip" data-tip="Gestiona tu serie de seminarios web: programa múltiples sesiones, establece fechas y horarios, invita a moderadores y presentadores, gestiona asistentes y personaliza la configuración para una experiencia de serie cohesiva."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////

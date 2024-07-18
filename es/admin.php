@@ -465,7 +465,7 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Salas de seminarios web instantáneas <span class="tooltip" data-tip="Cree salas de seminarios web disponibles las 24 horas del día, los 7 días de la semana, y que vienen con enlaces estáticos. Añada protección por contraseña para mayor seguridad o cambie al modo de página de destino. En el modo de página de destino, los asistentes verán un formulario para ingresar su correo electrónico y otros detalles antes de acceder a la sala. Este modo es ideal para recopilar información de los asistentes antes de otorgar acceso a futuros seminarios web."></span>
+		Salas de seminarios web instantáneas <span class="tooltip" data-tip="Cree salas de seminarios web disponibles las 24 horas del día, los 7 días de la semana, y que vienen con enlaces estáticos. Añada protección por contraseña para mayor seguridad o cambie al modo de página de destino. En el modo de página de destino, los asistentes verán un formulario para ingresar su correo electrónico y otros detalles antes de acceder a la sala. Este modo es ideal para recopilar información de los asistentes antes de otorgar acceso a futuros seminarios web"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
@@ -489,13 +489,13 @@ return [
 	'webinar-create-section' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Configuración el webinario <span class="tooltip" data-tip="Configura todos los aspectos de tu seminario web: establece fecha y hora, duración, invita a moderadores y presentadores, gestiona asistentes, personaliza el diseño y la marca, y más con configuraciones avanzadas."></span>
+		Configuración el webinario <span class="tooltip" data-tip="Configura todos los aspectos de tu seminario web: establece fecha y hora, duración, invita a moderadores y presentadores, gestiona asistentes, personaliza el diseño y la marca, y más con configuraciones avanzadas"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-create-section-many' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Configuración de la serie de webinario <span class="tooltip" data-tip="Gestiona tu serie de seminarios web: programa múltiples sesiones, establece fechas y horarios, invita a moderadores y presentadores, gestiona asistentes y personaliza la configuración para una experiencia de serie cohesiva."></span>
+		Configuración de la serie de webinario <span class="tooltip" data-tip="Gestiona tu serie de seminarios web: programa múltiples sesiones, establece fechas y horarios, invita a moderadores y presentadores, gestiona asistentes y personaliza la configuración para una experiencia de serie cohesiva"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
@@ -4587,13 +4587,13 @@ return [
 	'auto-webinar-create-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Horario automatizado webinar
+		Configuración del webinario automatizado <span class="tooltip" data-tip="Personaliza tus seminarios web automatizados configurando el horario, contenido, interacciones con los asistentes, marca y configuraciones avanzadas para optimizar tus eventos y asegurar una experiencia fluida para tu audiencia"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-webinar-create-section-many' => ////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Horario de la serie de webinar automatizado
+		Horario de la serie de webinar automatizado <span class="tooltip" data-tip="Personaliza y gestiona tu serie de seminarios web automatizados. Configura horarios, contenido, marca e interacciones con los asistentes para asegurar una experiencia fluida y atractiva para tu audiencia"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-default-webinar-name' => ///////////////////////////////////////////////////////

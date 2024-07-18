@@ -465,7 +465,7 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Natychmiastowe pokoje webinarowe <span class="tooltip" data-tip="Twórz pokoje webinarowe dostępne 24/7 z statycznymi linkami. Dodaj ochronę hasłem dla dodatkowego bezpieczeństwa lub przejdź do trybu strony docelowej. W trybie strony docelowej uczestnicy zobaczą formularz do wpisania swojego adresu e-mail i innych szczegółów przed uzyskaniem dostępu do pokoju. Ten tryb jest idealny do zbierania informacji o uczestnikach przed przyznaniem dostępu do przyszłych webinarów."></span>
+		Natychmiastowe pokoje webinarowe <span class="tooltip" data-tip="Twórz pokoje webinarowe dostępne 24/7 z statycznymi linkami. Dodaj ochronę hasłem dla dodatkowego bezpieczeństwa lub przejdź do trybu strony docelowej. W trybie strony docelowej uczestnicy zobaczą formularz do wpisania swojego adresu e-mail i innych szczegółów przed uzyskaniem dostępu do pokoju. Ten tryb jest idealny do zbierania informacji o uczestnikach przed przyznaniem dostępu do przyszłych webinarów"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
@@ -489,13 +489,13 @@ return [
 	'webinar-create-section' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ustawienia webinaru <span class="tooltip" data-tip="Skonfiguruj wszystkie aspekty swojego webinaru: ustaw datę i godzinę, czas trwania, zaproś moderatorów i prezenterów, zarządzaj uczestnikami, dostosuj układ i branding oraz więcej zaawansowanych ustawień."></span>
+		Ustawienia webinaru <span class="tooltip" data-tip="Skonfiguruj wszystkie aspekty swojego webinaru: ustaw datę i godzinę, czas trwania, zaproś moderatorów i prezenterów, zarządzaj uczestnikami, dostosuj układ i branding oraz więcej zaawansowanych ustawień"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-create-section-many' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ustawienia serii webinarów <span class="tooltip" data-tip="Zarządzaj swoją serią webinarów: zaplanuj wiele sesji, ustaw daty i godziny, zaproś moderatorów i prezenterów, zarządzaj uczestnikami i dostosuj ustawienia, aby uzyskać spójne doświadczenie serii."></span>
+		Ustawienia serii webinarów <span class="tooltip" data-tip="Zarządzaj swoją serią webinarów: zaplanuj wiele sesji, ustaw daty i godziny, zaproś moderatorów i prezenterów, zarządzaj uczestnikami i dostosuj ustawienia, aby uzyskać spójne doświadczenie serii"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
@@ -4599,13 +4599,13 @@ return [
 	'auto-webinar-create-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Planowanie autowebinaru
+		Ustawienia zautomatyzowanego webinaru <span class="tooltip" data-tip="Dostosuj swoje zautomatyzowane webinary, konfigurując harmonogram, treści, interakcje z uczestnikami, branding i zaawansowane ustawienia, aby usprawnić swoje wydarzenia i zapewnić płynne doświadczenie dla swojej publiczności"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-webinar-create-section-many' => ////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Planowanie serii autowebinarów
+		Planowanie serii autowebinarów <span class="tooltip" data-tip="Dostosuj i zarządzaj swoją serią zautomatyzowanych webinarów. Skonfiguruj harmonogramy, treści, branding i interakcje z uczestnikami, aby zapewnić płynne i angażujące doświadczenie dla swojej publiczności"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-default-webinar-name' => ///////////////////////////////////////////////////////

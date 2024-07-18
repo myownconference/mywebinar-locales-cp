@@ -465,7 +465,7 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Azonnali webináriumi szobák <span class="tooltip" data-tip="Hozzon létre webináriumi szobákat, amelyek a nap 24 órájában elérhetők, és statikus linkekkel rendelkeznek. Adjon hozzá jelszóvédelmet a további biztonság érdekében, vagy váltson át céloldal módra. A céloldal módban a résztvevők egy űrlapot látnak, ahol meg kell adniuk e-mail címüket és egyéb adataikat, mielőtt belépnének a szobába. Ez a mód ideális a résztvevők adatainak gyűjtésére, mielőtt hozzáférést biztosítanának a jövőbeni webináriumokhoz."></span>
+		Azonnali webináriumi szobák <span class="tooltip" data-tip="Hozzon létre webináriumi szobákat, amelyek a nap 24 órájában elérhetők, és statikus linkekkel rendelkeznek. Adjon hozzá jelszóvédelmet a további biztonság érdekében, vagy váltson át céloldal módra. A céloldal módban a résztvevők egy űrlapot látnak, ahol meg kell adniuk e-mail címüket és egyéb adataikat, mielőtt belépnének a szobába. Ez a mód ideális a résztvevők adatainak gyűjtésére, mielőtt hozzáférést biztosítanának a jövőbeni webináriumokhoz"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
@@ -495,7 +495,7 @@ return [
 	'webinar-create-section-many' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinárium-sorozat beállításai <span class="tooltip" data-tip="Kezelje webinárium-sorozatát: Ütemezzen több ülést, állítson be dátumokat és időpontokat, hívja meg a moderátorokat és előadókat, kezelje a résztvevőket, és testre szabhatja a beállításokat a sorozat összefüggő élményéhez."></span>
+		Webinárium-sorozat beállításai <span class="tooltip" data-tip="Kezelje webinárium-sorozatát: Ütemezzen több ülést, állítson be dátumokat és időpontokat, hívja meg a moderátorokat és előadókat, kezelje a résztvevőket, és testre szabhatja a beállításokat a sorozat összefüggő élményéhez"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
@@ -4572,13 +4572,13 @@ return [
 	'auto-webinar-create-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Create automated webinar
+		Automatizált webinárium beállításai <span class="tooltip" data-tip="Testreszabhatja automatizált webináriumait az ütemezés, a tartalom, a résztvevői interakciók, a márka és az összetett beállítások konfigurálásával, hogy optimalizálja eseményeit és biztosítsa a közönségének zökkenőmentes élményt"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-webinar-create-section-many' => ////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Create automated webinar series
+		Create automated webinar series <span class="tooltip" data-tip="Testreszabhatja és kezelheti az automatizált webinárium-sorozatát. Állítsa be az ütemezéseket, a tartalmakat, a márkanevet és a résztvevők közötti interakciókat, hogy a közönségének zökkenőmentes és lebilincselő élményt biztosítson"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-default-webinar-name' => ///////////////////////////////////////////////////////

@@ -465,7 +465,7 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Stanze webinar istantanee <span class="tooltip" data-tip="Crea stanze webinar disponibili 24 ore su 24, 7 giorni su 7, con link statici. Aggiungi la protezione tramite password per una sicurezza extra o passa alla modalità pagina di destinazione. In modalità pagina di destinazione, i partecipanti vedranno un modulo per inserire il loro indirizzo email e altri dettagli prima di accedere alla stanza. Questa modalità è ideale per raccogliere informazioni sui partecipanti prima di concedere l‘accesso ai futuri webinar."></span>
+		Stanze webinar istantanee <span class="tooltip" data-tip="Crea stanze webinar disponibili 24 ore su 24, 7 giorni su 7, con link statici. Aggiungi la protezione tramite password per una sicurezza extra o passa alla modalità pagina di destinazione. In modalità pagina di destinazione, i partecipanti vedranno un modulo per inserire il loro indirizzo email e altri dettagli prima di accedere alla stanza. Questa modalità è ideale per raccogliere informazioni sui partecipanti prima di concedere l‘accesso ai futuri webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
@@ -489,13 +489,13 @@ return [
 	'webinar-create-section' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Impostazioni del webinar <span class="tooltip" data-tip="Configura tutti gli aspetti del tuo webinar: imposta data e ora, durata, invita moderatori e relatori, gestisci i partecipanti, personalizza il layout e il branding e altro ancora con le impostazioni avanzate."></span>
+		Impostazioni del webinar <span class="tooltip" data-tip="Configura tutti gli aspetti del tuo webinar: imposta data e ora, durata, invita moderatori e relatori, gestisci i partecipanti, personalizza il layout e il branding e altro ancora con le impostazioni avanzate"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-create-section-many' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Impostazioni della serie di webinar <span class="tooltip" data-tip="Gestisci la tua serie di webinar: pianifica più sessioni, imposta date e orari, invita moderatori e relatori, gestisci i partecipanti e personalizza le impostazioni per un’esperienza di serie coerente."></span>
+		Impostazioni della serie di webinar <span class="tooltip" data-tip="Gestisci la tua serie di webinar: pianifica più sessioni, imposta date e orari, invita moderatori e relatori, gestisci i partecipanti e personalizza le impostazioni per un’esperienza di serie coerente"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
@@ -4572,13 +4572,13 @@ return [
 	'auto-webinar-create-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Crea evento automatizzato
+		Impostazioni del webinar automatizzato <span class="tooltip" data-tip="Personalizza i tuoi webinar automatizzati configurando il programma, i contenuti, le interazioni con i partecipanti, il branding e le impostazioni avanzate per ottimizzare i tuoi eventi e garantire un’esperienza senza interruzioni per il tuo pubblico"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-webinar-create-section-many' => ////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Crea serie di eventi automatizzati
+		Crea serie di eventi automatizzati <span class="tooltip" data-tip="Personalizza e gestisci la tua serie di webinar automatizzati. Imposta orari, contenuti, branding e interazioni con i partecipanti per garantire un’esperienza fluida e coinvolgente per il tuo pubblico"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-default-webinar-name' => ///////////////////////////////////////////////////////

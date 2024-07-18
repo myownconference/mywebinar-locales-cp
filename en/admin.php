@@ -465,13 +465,13 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Instant webinar rooms <span class="tooltip" data-tip="Create webinar rooms that are available 24/7 with static links. Add password protection for extra security or switch to landing page mode. In landing page mode, attendees will see a form to enter their email and other details before accessing the room. This mode is ideal for gathering attendee information before granting access to future webinars."></span>
+		Instant webinar rooms <span class="tooltip" data-tip="Create webinar rooms that are available 24/7 with static links. Add password protection for extra security or switch to landing page mode. In landing page mode, attendees will see a form to enter their email and other details before accessing the room. This mode is ideal for gathering attendee information before granting access to future webinars"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Scheduled webinars <span class="tooltip" data-tip="Use our integrated calendar to schedule your future webinars. Make webinars private with unique links sent by email or share them yourself. Add logos and banners for a professional touch. You can also save webinars as MP4 files. Plus, we automatically send out email notifications to your attendees. All features are available in the «Advanced settings» section during the scheduling process."></span>
+		Scheduled webinars <span class="tooltip" data-tip="Use our integrated calendar to schedule your future webinars. Make webinars private with unique links sent by email or share them yourself. Add logos and banners for a professional touch. You can also save webinars as MP4 files. Plus, we automatically send out email notifications to your attendees. All features are available in the «Advanced settings» section during the scheduling process"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-edit-section' => ////////////////////////////////////////////////////////////
@@ -489,13 +489,13 @@ return [
 	'webinar-create-section' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar settings <span class="tooltip" data-tip="Configure all aspects of your webinar: set date and time, duration, invite moderators and presenters, manage attendees, customize layout and branding, and more with advanced settings."></span>
+		Webinar settings <span class="tooltip" data-tip="Configure all aspects of your webinar: set date and time, duration, invite moderators and presenters, manage attendees, customize layout and branding, and more with advanced settings"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-create-section-many' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar series settings <span class="tooltip" data-tip="Manage your webinar series: schedule multiple sessions, set dates and times, invite moderators and presenters, manage attendees, and customize settings for a cohesive series experience."></span>
+		Webinar series settings <span class="tooltip" data-tip="Manage your webinar series: schedule multiple sessions, set dates and times, invite moderators and presenters, manage attendees, and customize settings for a cohesive series experience"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
@@ -1719,19 +1719,19 @@ return [
 	'record-options' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Preferences <span class="tooltip" data-tip="Personalize your webinar video settings to capture exactly what matters most to you. Whether you want to highlight a specific section or capture the entire webinar room, adjust your settings to fit your needs. Remember to save your preferences and review them before each session to ensure the best video quality."></span>
+		Preferences <span class="tooltip" data-tip="Personalize your webinar video settings to capture exactly what matters most to you. Whether you want to highlight a specific section or capture the entire webinar room, adjust your settings to fit your needs. Remember to save your preferences and review them before each session to ensure the best video quality"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-only-webcams' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webcam and microphone only <span class="tooltip" data-tip="When activated, the webinar video will capture only the webcam feed and audio from the microphone, excluding all other elements from the working area."></span>
+		Webcam and microphone only <span class="tooltip" data-tip="When activated, the webinar video will capture only the webcam feed and audio from the microphone, excluding all other elements from the working area"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Auto-capture upon any moderator‘s login <span class="tooltip" data-tip="Streamline your webinar capturing process with this convenient feature. When enabled, the webinar video will automatically start as soon as the first moderator logs in, ensuring every important moment is captured. The video will end when the last moderator exits, providing a complete capture of your session without any manual intervention."></span>
+		Auto-capture upon any moderator‘s login <span class="tooltip" data-tip="Streamline your webinar capturing process with this convenient feature. When enabled, the webinar video will automatically start as soon as the first moderator logs in, ensuring every important moment is captured. The video will end when the last moderator exits, providing a complete capture of your session without any manual intervention"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto-no-stop' => /////////////////////////////////////////////////////////////
@@ -4572,13 +4572,13 @@ return [
 	'auto-webinar-create-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Create automated webinar
+		Automated webinar settings <span class="tooltip" data-tip="Customize your automated webinars by configuring the schedule, content, attendee interactions, branding, and advanced settings to streamline your events and ensure a seamless experience for your audience"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-webinar-create-section-many' => ////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Create automated webinar series
+		Automated webinar series settings <span class="tooltip" data-tip="Customize and manage your automated webinar series. Set up schedules, content, branding, and attendee interactions to ensure a smooth and engaging experience for your audience"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-default-webinar-name' => ///////////////////////////////////////////////////////

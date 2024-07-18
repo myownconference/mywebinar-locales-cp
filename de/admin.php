@@ -465,7 +465,7 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sofortige Webinar-Räume <span class="tooltip" data-tip="Erstellen Sie Webinar-Räume, die rund um die Uhr verfügbar sind und über statische Links verfügen. Fügen Sie zum zusätzlichen Schutz ein Passwort hinzu oder wechseln Sie in den Landing-Page-Modus. Im Landing-Page-Modus sehen die Teilnehmer ein Formular, in dem sie ihre E-Mail-Adresse und andere Details eingeben, bevor sie auf den Raum zugreifen. Dieser Modus ist ideal, um Teilnehmerinformationen zu sammeln, bevor sie Zugang zu zukünftigen Webinaren erhalten."></span>
+		Sofortige Webinar-Räume <span class="tooltip" data-tip="Erstellen Sie Webinar-Räume, die rund um die Uhr verfügbar sind und über statische Links verfügen. Fügen Sie zum zusätzlichen Schutz ein Passwort hinzu oder wechseln Sie in den Landing-Page-Modus. Im Landing-Page-Modus sehen die Teilnehmer ein Formular, in dem sie ihre E-Mail-Adresse und andere Details eingeben, bevor sie auf den Raum zugreifen. Dieser Modus ist ideal, um Teilnehmerinformationen zu sammeln, bevor sie Zugang zu zukünftigen Webinaren erhalten"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
@@ -489,13 +489,13 @@ return [
 	'webinar-create-section' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinareinstellungen <span class="tooltip" data-tip="Konfigurieren Sie alle Aspekte Ihres Webinars: Datum und Uhrzeit festlegen, Dauer, Moderatoren und Referenten einladen, Teilnehmer verwalten, Layout und Branding anpassen und mehr mit erweiterten Einstellungen."></span>
+		Webinareinstellungen <span class="tooltip" data-tip="Konfigurieren Sie alle Aspekte Ihres Webinars: Datum und Uhrzeit festlegen, Dauer, Moderatoren und Referenten einladen, Teilnehmer verwalten, Layout und Branding anpassen und mehr mit erweiterten Einstellungen"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-create-section-many' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Einstellungen für Webinarreihe <span class="tooltip" data-tip="Verwalten Sie Ihre Webinarreihe: Planen Sie mehrere Sitzungen, legen Sie Daten und Zeiten fest, laden Sie Moderatoren und Referenten ein, verwalten Sie Teilnehmer und passen Sie die Einstellungen für ein einheitliches Serienerlebnis an."></span>
+		Einstellungen für Webinarreihe <span class="tooltip" data-tip="Verwalten Sie Ihre Webinarreihe: Planen Sie mehrere Sitzungen, legen Sie Daten und Zeiten fest, laden Sie Moderatoren und Referenten ein, verwalten Sie Teilnehmer und passen Sie die Einstellungen für ein einheitliches Serienerlebnis an"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
@@ -4572,13 +4572,13 @@ return [
 	'auto-webinar-create-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Automatisiertes Webinar erstellen
+		Einstellungen für automatisiertes Webinar <span class="tooltip" data-tip="Passen Sie Ihre automatisierten Webinare an, indem Sie den Zeitplan, Inhalte, Teilnehmerinteraktionen, Branding und erweiterte Einstellungen konfigurieren, um Ihre Veranstaltungen zu optimieren und ein nahtloses Erlebnis für Ihr Publikum zu gewährleisten"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-webinar-create-section-many' => ////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Automatisierte Webinar-Serie erstellen
+		Automatisierte Webinar-Serie erstellen <span class="tooltip" data-tip="Passen Sie Ihre automatisierte Webinarreihe an und verwalten Sie sie. Richten Sie Zeitpläne, Inhalte, Branding und Teilnehmerinteraktionen ein, um ein reibungsloses und fesselndes Erlebnis für Ihr Publikum zu gewährleisten"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-default-webinar-name' => ///////////////////////////////////////////////////////

@@ -465,7 +465,7 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Săli de webinar instantanee <span class="tooltip" data-tip="Creați săli de webinar disponibile 24/7, cu linkuri statice. Adăugați protecție prin parolă pentru securitate suplimentară sau treceți la modul pagină de destinație. În modul pagină de destinație, participanții vor vedea un formular pentru a introduce adresa lor de email și alte detalii înainte de a accesa sala. Acest mod este ideal pentru colectarea de informații despre participanți înainte de a le acorda acces la viitoarele webinarii."></span>
+		Săli de webinar instantanee <span class="tooltip" data-tip="Creați săli de webinar disponibile 24/7, cu linkuri statice. Adăugați protecție prin parolă pentru securitate suplimentară sau treceți la modul pagină de destinație. În modul pagină de destinație, participanții vor vedea un formular pentru a introduce adresa lor de email și alte detalii înainte de a accesa sala. Acest mod este ideal pentru colectarea de informații despre participanți înainte de a le acorda acces la viitoarele webinarii"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
@@ -489,13 +489,13 @@ return [
 	'webinar-create-section' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Setări webinarului <span class="tooltip" data-tip="Configurați toate aspectele webinarului dvs.: setați data și ora, durata, invitați moderatori și prezentatori, gestionați participanții, personalizați aspectul și branding-ul și multe altele cu setările avansate."></span>
+		Setări webinarului <span class="tooltip" data-tip="Configurați toate aspectele webinarului dvs.: setați data și ora, durata, invitați moderatori și prezentatori, gestionați participanții, personalizați aspectul și branding-ul și multe altele cu setările avansate"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-create-section-many' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Setările seriei de webinarii <span class="tooltip" data-tip="Gestionați seria dvs. de webinarii: programați mai multe sesiuni, setați datele și orele, invitați moderatori și prezentatori, gestionați participanții și personalizați setările pentru o experiență coerentă a seriei."></span>
+		Setările seriei de webinarii <span class="tooltip" data-tip="Gestionați seria dvs. de webinarii: programați mai multe sesiuni, setați datele și orele, invitați moderatori și prezentatori, gestionați participanții și personalizați setările pentru o experiență coerentă a seriei"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
@@ -4572,13 +4572,13 @@ return [
 	'auto-webinar-create-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Creează eveniment automatizat
+		Setări pentru webinarul automatizat <span class="tooltip" data-tip="Personalizați-vă webinariile automatizate configurând programul, conținutul, interacțiunile cu participanții, brandingul și setările avansate pentru a simplifica evenimentele dvs. și a asigura o experiență fluidă pentru audiența dvs"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-webinar-create-section-many' => ////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Creează serie de evenimente automatizate
+		Creează serie de evenimente automatizate <span class="tooltip" data-tip="Personalizați și gestionați seria dvs. de webinarii automatizate. Configurați programele, conținutul, brandingul și interacțiunile cu participanții pentru a asigura o experiență fluidă și captivantă pentru audiența dvs"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-default-webinar-name' => ///////////////////////////////////////////////////////

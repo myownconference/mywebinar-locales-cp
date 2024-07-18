@@ -465,7 +465,7 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Salles de webinaire instantanées <span class="tooltip" data-tip="Créez des salles de webinaire disponibles 24h/24 et 7j/7 avec des liens statiques. Ajoutez une protection par mot de passe pour plus de sécurité ou passez en mode page de destination. En mode page de destination, les participants verront un formulaire pour entrer leur email et d‘autres détails avant d‘accéder à la salle. Ce mode est idéal pour recueillir des informations sur les participants avant de leur accorder l‘accès aux webinaires futurs."></span>
+		Salles de webinaire instantanées <span class="tooltip" data-tip="Créez des salles de webinaire disponibles 24h/24 et 7j/7 avec des liens statiques. Ajoutez une protection par mot de passe pour plus de sécurité ou passez en mode page de destination. En mode page de destination, les participants verront un formulaire pour entrer leur email et d‘autres détails avant d‘accéder à la salle. Ce mode est idéal pour recueillir des informations sur les participants avant de leur accorder l‘accès aux webinaires futurs"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
@@ -489,13 +489,13 @@ return [
 	'webinar-create-section' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paramètres du webinaire <span class="tooltip" data-tip="Configurez tous les aspects de votre webinaire : définissez la date et l’heure, la durée, invitez des modérateurs et des présentateurs, gérez les participants, personnalisez la mise en page et la marque, et plus encore avec les paramètres avancés."></span>
+		Paramètres du webinaire <span class="tooltip" data-tip="Configurez tous les aspects de votre webinaire : définissez la date et l’heure, la durée, invitez des modérateurs et des présentateurs, gérez les participants, personnalisez la mise en page et la marque, et plus encore avec les paramètres avancés"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-create-section-many' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paramètres de la série de webinaires <span class="tooltip" data-tip="Gérez votre série de webinaires : planifiez plusieurs sessions, définissez les dates et heures, invitez des modérateurs et des présentateurs, gérez les participants et personnalisez les paramètres pour une expérience de série cohérente."></span>
+		Paramètres de la série de webinaires <span class="tooltip" data-tip="Gérez votre série de webinaires : planifiez plusieurs sessions, définissez les dates et heures, invitez des modérateurs et des présentateurs, gérez les participants et personnalisez les paramètres pour une expérience de série cohérente"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
@@ -4594,13 +4594,13 @@ return [
 	'auto-webinar-create-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Planifier le webinaire automatisé
+		Paramètres du webinaire automatisé <span class="tooltip" data-tip="Personnalisez vos webinaires automatisés en configurant le planning, le contenu, les interactions avec les participants, la marque et les paramètres avancés pour simplifier vos événements et assurer une expérience fluide à votre audience"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-webinar-create-section-many' => ////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Planifier la série webinaire automatisée
+		Planifier la série webinaire automatisée <span class="tooltip" data-tip="Personnalisez et gérez votre série de webinaires automatisés. Configurez les horaires, le contenu, l’image de marque et les interactions avec les participants pour garantir une expérience fluide et engageante à votre audience"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-default-webinar-name' => ///////////////////////////////////////////////////////

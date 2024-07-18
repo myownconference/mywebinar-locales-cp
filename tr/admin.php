@@ -465,7 +465,7 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Anında web semineri odaları <span class="tooltip" data-tip="24/7 kullanılabilir ve statik bağlantılara sahip web semineri odaları oluşturun. Ek güvenlik için parola koruması ekleyin veya açılış sayfası moduna geçin. Açılış sayfası modunda, katılımcılar odaya erişmeden önce e-postalarını ve diğer bilgilerini girmeleri için bir form göreceklerdir. Bu mod, gelecekteki web seminerlerine erişim izni vermeden önce katılımcı bilgilerini toplamak için idealdir."></span>
+		Anında web semineri odaları <span class="tooltip" data-tip="24/7 kullanılabilir ve statik bağlantılara sahip web semineri odaları oluşturun. Ek güvenlik için parola koruması ekleyin veya açılış sayfası moduna geçin. Açılış sayfası modunda, katılımcılar odaya erişmeden önce e-postalarını ve diğer bilgilerini girmeleri için bir form göreceklerdir. Bu mod, gelecekteki web seminerlerine erişim izni vermeden önce katılımcı bilgilerini toplamak için idealdir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
@@ -489,13 +489,13 @@ return [
 	'webinar-create-section' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar ayarları <span class="tooltip" data-tip="Web seminerinizin tüm yönlerini yapılandırın: tarih ve saat, süreyi ayarlayın, moderatörleri ve sunucuları davet edin, katılımcıları yönetin, düzeni ve markalamayı özelleştirin ve gelişmiş ayarlarla daha fazlasını yapın."></span>
+		Webinar ayarları <span class="tooltip" data-tip="Web seminerinizin tüm yönlerini yapılandırın: tarih ve saat, süreyi ayarlayın, moderatörleri ve sunucuları davet edin, katılımcıları yönetin, düzeni ve markalamayı özelleştirin ve gelişmiş ayarlarla daha fazlasını yapın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-create-section-many' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar dizisi ayarları <span class="tooltip" data-tip="Web semineri serinizi yönetin: Birden fazla oturum planlayın, tarihleri ve saatleri ayarlayın, moderatörleri ve sunucuları davet edin, katılımcıları yönetin ve tutarlı bir seri deneyimi için ayarları özelleştirin."></span>
+		Webinar dizisi ayarları <span class="tooltip" data-tip="Web semineri serinizi yönetin: Birden fazla oturum planlayın, tarihleri ve saatleri ayarlayın, moderatörleri ve sunucuları davet edin, katılımcıları yönetin ve tutarlı bir seri deneyimi için ayarları özelleştirin"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
@@ -4572,13 +4572,13 @@ return [
 	'auto-webinar-create-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Otomatik webinar oluştur
+		Otomatik webinar ayarları <span class="tooltip" data-tip="Otomatik web seminerlerinizi özelleştirin: etkinliklerinizi düzenlemek ve izleyicileriniz için sorunsuz bir deneyim sağlamak için takvimi, içeriği, katılımcı etkileşimlerini, markalamayı ve gelişmiş ayarları yapılandırın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-webinar-create-section-many' => ////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Otomatik webinar serisi oluştur
+		Otomatik webinar serisi oluştur <span class="tooltip" data-tip="Otomatik webinar serinizi özelleştirin ve yönetin. İzleyicileriniz için sorunsuz ve ilgi çekici bir deneyim sağlamak için takvimleri, içerikleri, markalamayı ve katılımcı etkileşimlerini ayarlayın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-default-webinar-name' => ///////////////////////////////////////////////////////

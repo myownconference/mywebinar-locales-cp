@@ -4154,7 +4154,7 @@ return [
 	'api-key' => /////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		API key
+		API key <span class="tooltip" data-tip="Használja ezt az API-kulcsot a nyilvános API-nk eléréséhez, lehetővé téve a webinárium szoftverünk zökkenőmentes integrációját a CMS-sel vagy webhelyével. Kérjük, vegye figyelembe, hogy az API le lesz tiltva, ha fiókját az ingyenes csomagra fokozzák le, vagy ha leállítja az árterv fizetését"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'refresh-key-confirm' => /////////////////////////////////////////////////////////////
@@ -5040,7 +5040,7 @@ return [
 	'main-telegram-link' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Telegram bot
+		Telegram bot <span class="tooltip" data-tip="Másolja ezt a linket, hogy összekapcsolja a résztvevőit a Telegram botunkkal. A bot értesíti őket a közelgő webináriumokról, megadja a webinárium linkeket, tájékoztatja őket a lemondásokról, és lehetővé teszi számukra az e-mail értesítési beállításaik kezelését, beleértve a feliratkozást vagy leiratkozást"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////

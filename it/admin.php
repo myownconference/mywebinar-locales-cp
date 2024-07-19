@@ -4154,7 +4154,7 @@ return [
 	'api-key' => /////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Chiave API
+		Chiave API <span class="tooltip" data-tip="Utilizza questa chiave API per accedere alla nostra API pubblica, consentendo l’integrazione senza interruzioni del nostro software per webinar con il tuo CMS o sito web. Si prega di notare che l’API verrà disabilitata se il tuo account viene declassato al piano gratuito o se smetti di pagare per il tuo piano tariffario"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'refresh-key-confirm' => /////////////////////////////////////////////////////////////
@@ -5040,7 +5040,7 @@ return [
 	'main-telegram-link' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bot di Telegram
+		Bot di Telegram <span class="tooltip" data-tip="Copia questo link per collegare i tuoi partecipanti con il nostro bot di Telegram. Il bot li informerà sui prossimi webinar, fornirà i link ai webinar, li informerà delle cancellazioni e permetterà loro di gestire le preferenze di notifica via email, inclusa l’iscrizione o la cancellazione dell’iscrizione"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////

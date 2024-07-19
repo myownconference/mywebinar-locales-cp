@@ -4154,7 +4154,7 @@ return [
 	'api-key' => /////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Cheie API
+		Cheie API <span class="tooltip" data-tip="Utilizați această cheie API pentru a accesa API-ul nostru public, permițând integrarea fără probleme a software-ului nostru de webinarii cu CMS-ul sau site-ul dvs. Vă rugăm să rețineți că API-ul va fi dezactivat dacă contul dvs. este retrogradat la planul gratuit sau dacă încetați să plătiți pentru planul dvs. tarifar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'refresh-key-confirm' => /////////////////////////////////////////////////////////////
@@ -5040,7 +5040,7 @@ return [
 	'main-telegram-link' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bot Telegram
+		Bot Telegram <span class="tooltip" data-tip="Copiează acest link pentru a conecta participanții tăi cu botul nostru Telegram. Botul îi va notifica despre webinariile viitoare, le va oferi linkuri către webinarii, îi va informa despre anulări și le va permite să gestioneze preferințele de notificare prin email, inclusiv abonarea sau dezabonarea"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////

@@ -4154,7 +4154,7 @@ return [
 	'api-key' => /////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		API anahtarı
+		API anahtarı <span class="tooltip" data-tip="API anahtarını kullanarak genel API’mize erişebilir, web semineri yazılımımızın CMS veya web sitenizle sorunsuz bir şekilde entegre edilmesini sağlayabilirsiniz. Hesabınız ücretsiz plana düşürülürse veya ödeme planınızı ödemeyi bırakırsanız API’nin devre dışı bırakılacağını lütfen unutmayın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'refresh-key-confirm' => /////////////////////////////////////////////////////////////
@@ -5040,7 +5040,7 @@ return [
 	'main-telegram-link' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Telegram botu <span class="tooltip" data-tip="Katılımcılar etkinliklere davet alacak"></span>
+		Telegram botu <span class="tooltip" data-tip="Katılımcılarınızı Telegram botumuzla bağlamak için bu bağlantıyı kopyalayın. Bot, onları yaklaşan web seminerleri hakkında bilgilendirecek, web semineri bağlantılarını sağlayacak, iptaller hakkında bilgilendirecek ve e-posta bildirim tercihlerini yönetmelerine olanak tanıyacaktır, bunlar arasında abonelik veya abonelikten çıkma da bulunmaktadır"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////

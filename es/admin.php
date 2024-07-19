@@ -4162,7 +4162,7 @@ return [
 	'api-key' => /////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Clave API
+		Clave API <span class="tooltip" data-tip="Utilice esta clave API para acceder a nuestra API pública, lo que permite una integración perfecta de nuestro software de seminarios web con su CMS o sitio web. Tenga en cuenta que la API se deshabilitará si su cuenta se reduce al plan gratuito o si deja de pagar por su plan de precios"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'refresh-key-confirm' => /////////////////////////////////////////////////////////////
@@ -5058,7 +5058,7 @@ return [
 	'main-telegram-link' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bot de Telegram
+		Bot de Telegram <span class="tooltip" data-tip="Copia este enlace para conectar a tus asistentes con nuestro bot de Telegram. El bot les notificará sobre los próximos seminarios web, proporcionará enlaces a los seminarios web, les informará sobre cancelaciones y les permitirá gestionar sus preferencias de notificación por correo electrónico, incluyendo suscribirse o darse de baja"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////

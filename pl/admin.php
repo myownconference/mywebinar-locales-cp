@@ -4177,7 +4177,7 @@ return [
 	'api-key' => /////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Klucz API
+		Klucz API <span class="tooltip" data-tip="Użyj tego klucza API, aby uzyskać dostęp do naszego publicznego interfejsu API, umożliwiając płynną integrację naszego oprogramowania do webinariów z Twoim CMS lub witryną internetową. Należy pamiętać, że interfejs API zostanie wyłączony, jeśli konto zostanie obniżone do bezpłatnego planu lub jeśli przestaniesz płacić za swój plan cenowy"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'refresh-key-confirm' => /////////////////////////////////////////////////////////////
@@ -5068,7 +5068,7 @@ return [
 	'main-telegram-link' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bot Telegram
+		Bot Telegram <span class="tooltip" data-tip="Skopiuj ten link, aby połączyć uczestników z naszym botem Telegram. Bot powiadomi ich o nadchodzących webinarach, dostarczy linki do webinarów, poinformuje ich o odwołaniach i umożliwi im zarządzanie preferencjami powiadomień e-mail, w tym subskrypcję lub rezygnację z subskrypcji"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////

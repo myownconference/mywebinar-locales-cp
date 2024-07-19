@@ -5999,31 +5999,31 @@ return [
 	'profile-subtitle-account' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Gérez les informations de votre profil
+		Gérez les informations de votre profil <span class="tooltip" data-tip="Dans cette section, vous pouvez mettre à jour votre nom de profil, fuseau horaire, langue et autres paramètres importants. Veuillez noter que vous ne pouvez pas changer l’adresse e-mail d’inscription"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-subtitle-password' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Gérez les paramètres de votre mot de passe
+		Gérez les paramètres de votre mot de passe <span class="tooltip" data-tip="Dans cette section, vous pouvez mettre à jour vos paramètres de mot de passe. Assurez-vous que votre mot de passe est fort et sécurisé pour protéger votre compte"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-subtitle-2fa' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Renforcez la sécurité avec l‘authentification à deux facteurs
+		Renforcez la sécurité avec l‘authentification à deux facteurs <span class="tooltip" data-tip="Dans cette section, vous pouvez activer l’authentification à deux facteurs (2FA) pour plus de sécurité. 2FA nécessite un code de vérification en plus de votre mot de passe pour accéder à votre compte"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-subtitle-billing' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Gérez les méthodes et informations de paiement
+		Gérez les méthodes et informations de paiement <span class="tooltip" data-tip="Dans cette section, vous pouvez gérer vos méthodes de paiement, choisir votre devise préférée et mettre à jour les informations de votre entreprise"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-title-delete-account' => ////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Supprimer le compte
+		Supprimer le compte <span class="tooltip" data-tip="Dans cette section, vous pouvez demander la suppression définitive de votre compte. Cette action est irréversible et toutes vos données seront définitivement perdues. Veuillez procéder avec prudence"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-subtitle-delete-account' => /////////////////////////////////////////////////

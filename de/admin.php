@@ -5976,31 +5976,31 @@ return [
 	'profile-subtitle-account' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Verwalten Sie Ihre Profilinformationen
+		Verwalten Sie Ihre Profilinformationen <span class="tooltip" data-tip="In diesem Abschnitt können Sie Ihren Profilnamen, Ihre Zeitzone, Sprache und andere wichtige Einstellungen aktualisieren. Bitte beachten Sie, dass Sie die Registrierungs-E-Mail-Adresse nicht ändern können"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-subtitle-password' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Verwalten Sie Ihre Passworteinstellungen
+		Verwalten Sie Ihre Passworteinstellungen <span class="tooltip" data-tip="In diesem Abschnitt können Sie Ihre Passworteinstellungen aktualisieren. Stellen Sie sicher, dass Ihr Passwort stark und sicher ist, um Ihr Konto zu schützen"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-subtitle-2fa' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sicherheit mit Zwei-Faktor-Authentifizierung erhöhen
+		Sicherheit mit Zwei-Faktor-Authentifizierung erhöhen <span class="tooltip" data-tip="In diesem Abschnitt können Sie die Zwei-Faktor-Authentifizierung (2FA) für zusätzliche Sicherheit aktivieren. 2FA erfordert einen Bestätigungscode zusätzlich zu Ihrem Passwort für den Zugriff auf Ihr Konto"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-subtitle-billing' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Zahlungsmethoden und -informationen verwalten
+		Zahlungsmethoden und -informationen verwalten <span class="tooltip" data-tip="In diesem Abschnitt können Sie Ihre Zahlungsmethoden verwalten, Ihre bevorzugte Währung auswählen und Ihre Unternehmensinformationen aktualisieren"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-title-delete-account' => ////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Konto löschen
+		Konto löschen <span class="tooltip" data-tip="In diesem Abschnitt können Sie die dauerhafte Löschung Ihres Kontos anfordern. Diese Aktion ist unwiderruflich und alle Ihre Daten gehen dauerhaft verloren. Bitte fahren Sie mit Vorsicht fort"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-subtitle-delete-account' => /////////////////////////////////////////////////

@@ -5976,31 +5976,31 @@ return [
 	'profile-subtitle-account' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Gestisci le informazioni del tuo profilo
+		Gestisci le informazioni del tuo profilo <span class="tooltip" data-tip="In questa sezione, puoi aggiornare il nome del profilo, il fuso orario, la lingua e altre impostazioni importanti. Si prega di notare che non è possibile cambiare l’indirizzo email di registrazione"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-subtitle-password' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Gestisci le impostazioni della tua password
+		Gestisci le impostazioni della tua password <span class="tooltip" data-tip="In questa sezione, puoi aggiornare le impostazioni della password. Assicurati che la tua password sia forte e sicura per proteggere il tuo account"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-subtitle-2fa' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Aumenta la sicurezza con l‘autenticazione a due fattori
+		Aumenta la sicurezza con l‘autenticazione a due fattori <span class="tooltip" data-tip="In questa sezione, puoi abilitare l’autenticazione a due fattori (2FA) per una sicurezza aggiuntiva. 2FA richiede un codice di verifica oltre alla tua password per accedere all’account"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-subtitle-billing' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Gestisci metodi e informazioni di pagamento
+		Gestisci metodi e informazioni di pagamento <span class="tooltip" data-tip="In questa sezione, puoi gestire i metodi di pagamento, scegliere la tua valuta preferita e aggiornare le informazioni sulla tua azienda"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-title-delete-account' => ////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Elimina account
+		Elimina account <span class="tooltip" data-tip="In questa sezione, puoi richiedere di eliminare definitivamente il tuo account. Questa azione è irreversibile e tutti i tuoi dati andranno persi definitivamente. Si prega di procedere con cautela"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-subtitle-delete-account' => /////////////////////////////////////////////////

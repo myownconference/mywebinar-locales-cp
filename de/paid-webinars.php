@@ -21,7 +21,7 @@ return [
 	'funds-received' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paid webinars
+		Bezahlte Webinare <span class="tooltip" data-tip="Aktivieren Sie diese Option, um Teilnehmern den Zugang zu Webinaren in Rechnung zu stellen. Lesen und bestätigen Sie die Vereinbarungen, bevor Sie bezahlte Webinare in Ihren Profileinstellungen aktivieren. Bitte beachten Sie, dass diese Funktion nicht sofort aktiviert wird, da wir Ihr Profil und die Webinar-Themen manuell überprüfen, bevor die Aktivierung erfolgt"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'hold-title' => //////////////////////////////////////////////////////////////////////

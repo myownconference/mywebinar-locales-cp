@@ -21,7 +21,7 @@ return [
 	'funds-received' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paid webinars
+		Webinarii plătite <span class="tooltip" data-tip="Activați această opțiune pentru a percepe taxe participanților pentru accesul la webinar. Citiți și confirmați acordurile înainte de a activa webinariile plătite în setările profilului dvs. Vă rugăm să rețineți că funcția nu va fi activată imediat, deoarece vom examina manual profilul și subiectele webinarului dvs. înainte de activare"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'hold-title' => //////////////////////////////////////////////////////////////////////

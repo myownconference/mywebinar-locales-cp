@@ -21,7 +21,7 @@ return [
 	'funds-received' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paid webinars
+		Webinaires payants <span class="tooltip" data-tip="Activez cette option pour facturer l’accès aux webinaires aux participants. Lisez et confirmez les accords avant d’activer les webinaires payants dans les paramètres de votre profil. Veuillez noter que cette fonctionnalité ne sera pas activée immédiatement, car nous examinerons manuellement votre profil et les sujets des webinaires avant l‘activation"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'hold-title' => //////////////////////////////////////////////////////////////////////

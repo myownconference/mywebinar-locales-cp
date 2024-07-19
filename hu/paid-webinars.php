@@ -21,7 +21,7 @@ return [
 	'funds-received' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paid webinars
+		Fizetett webináriumok <span class="tooltip" data-tip="Az opció aktiválásával díjat számíthat fel a résztvevőknek a webináriumhoz való hozzáférésért. Olvassa el és erősítse meg a megállapodásokat, mielőtt a profilbeállításokban engedélyezné a fizetett webináriumokat. Kérjük, vegye figyelembe, hogy a funkció nem azonnal aktiválódik, mivel a profilját és a webinárium témáit manuálisan ellenőrizzük az aktiválás előtt"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'hold-title' => //////////////////////////////////////////////////////////////////////

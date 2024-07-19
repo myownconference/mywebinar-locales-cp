@@ -21,7 +21,7 @@ return [
 	'funds-received' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Płatny webinary
+		Płatny webinary <span class="tooltip" data-tip="Aktywuj tę opcję, aby pobierać opłaty od uczestników za dostęp do webinaru. Przeczytaj i potwierdź umowy przed włączeniem płatnych webinarów w ustawieniach profilu. Zwróć uwagę, że funkcja nie zostanie natychmiast włączona, ponieważ ręcznie sprawdzimy Twój profil i tematy webinarów przed aktywacją"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'hold-title' => //////////////////////////////////////////////////////////////////////

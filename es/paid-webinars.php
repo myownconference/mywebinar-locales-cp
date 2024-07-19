@@ -21,7 +21,7 @@ return [
 	'funds-received' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paid webinars
+		Webinarios de pago <span class="tooltip" data-tip="Active esta opción para cobrar a los asistentes por el acceso al seminario web. Lea y confirme los acuerdos antes de habilitar seminarios web pagos en la configuración de su perfil. Tenga en cuenta que la función no se activará de inmediato, ya que revisaremos manualmente su perfil y los temas del seminario web antes de la activación"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'hold-title' => //////////////////////////////////////////////////////////////////////

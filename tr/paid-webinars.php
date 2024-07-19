@@ -21,7 +21,7 @@ return [
 	'funds-received' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paid webinars
+		Ücretli web seminerleri <span class="tooltip" data-tip="Katılımcılardan webinar erişimi için ücret almak için bu seçeneği etkinleştirin. Profil ayarlarınızda ücretli web seminerlerini etkinleştirmeden önce anlaşmaları okuyup onaylayın. Bu özelliğin hemen etkinleştirilmeyeceğini lütfen unutmayın, çünkü profilinizi ve webinar konularınızı etkinleştirmeden önce manuel olarak inceleyeceğiz"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'hold-title' => //////////////////////////////////////////////////////////////////////

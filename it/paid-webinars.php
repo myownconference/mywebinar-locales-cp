@@ -21,7 +21,7 @@ return [
 	'funds-received' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paid webinars
+		Webinar a pagamento <span class="tooltip" data-tip="Attiva questa opzione per addebitare agli utenti l’accesso al webinar. Leggi e conferma gli accordi prima di abilitare i webinar a pagamento nelle impostazioni del tuo profilo. Si prega di notare che la funzione non sarà attivata immediatamente, in quanto esamineremo manualmente il tuo profilo e gli argomenti del webinar prima dell’attivazione"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'hold-title' => //////////////////////////////////////////////////////////////////////

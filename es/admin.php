@@ -2831,13 +2831,13 @@ return [
 	'landing-page' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Página de captura
+		Página de destino <span class="tooltip" data-tip="Utilice esta página de registro para recopilar información de los asistentes para futuros seminarios web. Sus asistentes pueden registrarse ingresando su correo electrónico, nombre y cualquier otro detalle personalizado que especifique en la configuración avanzada. Esta función le permite crear una lista de contactos valiosa para futuras comunicaciones y notificaciones de eventos. Para copiar el enlace en su portapapeles, simplemente haga clic en el cuadro de entrada. Asegúrese de personalizar los campos de registro para recopilar toda la información que necesita para adaptar sus seminarios web y actividades de seguimiento de manera efectiva"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page-edit' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Editar página de captura
+		Editar página de destino <span class="tooltip" data-tip="Personalice su página de registro para futuros seminarios web aquí. Permita que los asistentes se inscriban ingresando su correo electrónico, nombre y otra información que configure en la configuración avanzada. Simplemente copie el enlace para compartirlo con su audiencia"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'link-on-lending' => /////////////////////////////////////////////////////////////////

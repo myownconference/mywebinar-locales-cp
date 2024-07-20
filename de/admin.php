@@ -2829,13 +2829,13 @@ return [
 	'landing-page' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Landing-Page
+		Landingpage <span class="tooltip" data-tip="Verwenden Sie diese Registrierungsseite, um Teilnehmerinformationen für zukünftige Webinare zu sammeln. Ihre Teilnehmer können sich anmelden, indem sie ihre E-Mail-Adresse, ihren Namen und alle anderen benutzerdefinierten Details eingeben, die Sie in den erweiterten Einstellungen angeben. Diese Funktion ermöglicht es Ihnen, eine wertvolle Kontaktliste für zukünftige Mitteilungen und Veranstaltungsbenachrichtigungen aufzubauen. Um den Link in Ihre Zwischenablage zu kopieren, klicken Sie einfach auf das Eingabefeld. Stellen Sie sicher, dass Sie die Registrierungsfelder anpassen, um alle Informationen zu sammeln, die Sie benötigen, um Ihre Webinare und Nachverfolgungsaktivitäten effektiv anzupassen"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page-edit' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Landing-Page bearbeiten
+		Landingpage bearbeiten <span class="tooltip" data-tip="Passen Sie hier Ihre Registrierungsseite für zukünftige Webinare an. Ermöglichen Sie Teilnehmern, sich anzumelden, indem sie ihre E-Mail-Adresse, ihren Namen und andere Informationen eingeben, die Sie in den erweiterten Einstellungen festlegen. Kopieren Sie einfach den Link, um ihn mit Ihrem Publikum zu teilen"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'link-on-lending' => /////////////////////////////////////////////////////////////////

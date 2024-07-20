@@ -2829,13 +2829,13 @@ return [
 	'landing-page' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Karşılama sayfası
+		Açılış sayfası <span class="tooltip" data-tip="Gelecekteki web seminerleri için katılımcı bilgilerini toplamak için bu kayıt sayfasını kullanın. Katılımcılarınız, e-postalarını, adlarını ve gelişmiş ayarlarda belirttiğiniz diğer özel ayrıntıları girerek kaydolabilir. Bu özellik, gelecekteki iletişimler ve etkinlik bildirimleri için değerli bir iletişim listesi oluşturmanıza olanak tanır. Bağlantıyı panonuza kopyalamak için giriş kutusuna tıklamanız yeterlidir. Web seminerlerinizi ve takip etkinliklerinizi etkili bir şekilde uyarlamak için ihtiyaç duyduğunuz tüm bilgileri toplamak üzere kayıt alanlarını özelleştirdiğinizden emin olun"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page-edit' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Karşılama sayfasını düzenle
+		Açılış sayfasını düzenle <span class="tooltip" data-tip="Gelecekteki web seminerleri için kayıt sayfanızı burada özelleştirin. Katılımcıların e-posta, ad ve gelişmiş ayarlarda belirttiğiniz diğer bilgileri girerek kaydolmasına izin verin. Bağlantıyı kopyalayarak kitlenizle paylaşın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'link-on-lending' => /////////////////////////////////////////////////////////////////

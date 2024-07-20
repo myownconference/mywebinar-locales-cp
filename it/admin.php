@@ -2829,13 +2829,13 @@ return [
 	'landing-page' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Landing page
+		Pagina di destinazione <span class="tooltip" data-tip="Utilizza questa pagina di registrazione per raccogliere le informazioni dei partecipanti per i futuri webinar. I tuoi partecipanti possono iscriversi inserendo la loro email, nome e qualsiasi altro dettaglio personalizzato che specifichi nelle impostazioni avanzate. Questa funzione ti consente di creare una lista di contatti preziosa per le comunicazioni future e le notifiche degli eventi. Per copiare il link negli appunti, fai semplicemente clic sulla casella di inserimento. Assicurati di personalizzare i campi di registrazione per raccogliere tutte le informazioni necessarie per adattare efficacemente i tuoi webinar e le attività di follow-up"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page-edit' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Modifica landing page
+		Modifica pagina di destinazione <span class="tooltip" data-tip="Personalizza qui la tua pagina di registrazione per i futuri webinar. Consenti ai partecipanti di iscriversi inserendo la loro email, nome e altre informazioni che configuri nelle impostazioni avanzate. Basta copiare il link per condividerlo con il tuo pubblico"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'link-on-lending' => /////////////////////////////////////////////////////////////////

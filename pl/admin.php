@@ -2832,13 +2832,13 @@ return [
 	'landing-page' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Landing page
+		Strona docelowa <span class="tooltip" data-tip="Użyj tej strony rejestracyjnej, aby zbierać informacje o uczestnikach na przyszłe webinary. Twoi uczestnicy mogą zarejestrować się, podając swój adres e-mail, imię i nazwisko oraz inne niestandardowe informacje, które określisz w ustawieniach zaawansowanych. Ta funkcja pozwala zbudować wartościową listę kontaktów do przyszłej komunikacji i powiadomień o wydarzeniach. Aby skopiować link do schowka, po prostu kliknij pole wprowadzania. Pamiętaj, aby dostosować pola rejestracyjne, aby zebrać wszystkie potrzebne informacje, aby skutecznie dostosować swoje webinary i działania następcze"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page-edit' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Edycja landing page’a
+		Edytuj stronę docelową <span class="tooltip" data-tip="Dostosuj tutaj swoją stronę rejestracyjną do przyszłych webinarów. Pozwól uczestnikom zarejestrować się, podając swój adres e-mail, imię i nazwisko oraz inne informacje, które skonfigurujesz w ustawieniach zaawansowanych. Po prostu skopiuj link, aby udostępnić go swojej publiczności"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'link-on-lending' => /////////////////////////////////////////////////////////////////

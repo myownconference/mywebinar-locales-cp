@@ -2833,13 +2833,13 @@ return [
 	'landing-page' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Page de renvoi
+		Page de destination <span class="tooltip" data-tip="Utilisez cette page d‘inscription pour collecter les informations des participants pour les futurs webinaires. Vos participants peuvent s‘inscrire en entrant leur e-mail, leur nom et d‘autres détails personnalisés que vous spécifiez dans les paramètres avancés. Cette fonctionnalité vous permet de constituer une liste de contacts précieuse pour les communications futures et les notifications d‘événements. Pour copier le lien dans votre presse-papiers, cliquez simplement sur la zone de saisie. Assurez-vous de personnaliser les champs d‘inscription pour collecter toutes les informations dont vous avez besoin pour adapter efficacement vos webinaires et activités de suivi"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page-edit' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Modifier la page de renvoi
+		Modifier la page de destination <span class="tooltip" data-tip="Personnalisez votre page d‘inscription pour les futurs webinaires ici. Permettez aux participants de s‘inscrire en entrant leur email, leur nom et d‘autres informations que vous configurez dans les paramètres avancés. Copiez simplement le lien pour le partager avec votre audience"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'link-on-lending' => /////////////////////////////////////////////////////////////////

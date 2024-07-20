@@ -2829,13 +2829,13 @@ return [
 	'landing-page' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Landing page
+		Landing oldal <span class="tooltip" data-tip="Használja ezt a regisztrációs oldalt a résztvevők adatainak összegyűjtésére a jövőbeli webináriumokhoz. A résztvevők megadhatják e-mail címüket, nevüket és bármilyen más egyéni adatot, amelyet a speciális beállításokban határoz meg. Ez a funkció lehetővé teszi egy értékes kapcsolattartói lista létrehozását a jövőbeni kommunikációk és eseményértesítések számára. A link vágólapra másolásához egyszerűen kattintson a beviteli mezőre. Győződjön meg róla, hogy a regisztrációs mezőket testreszabja az összes szükséges információ összegyűjtéséhez, hogy hatékonyan személyre szabja a webináriumokat és az utókövetési tevékenységeket"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page-edit' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Edit landing page
+		Landing oldal szerkesztése <span class="tooltip" data-tip="Testreszabhatja a jövőbeni webináriumok regisztrációs oldalát itt. Engedje meg a résztvevőknek, hogy e-mail címük, nevük és egyéb, a speciális beállításokban megadott információk megadásával regisztráljanak. Egyszerűen másolja a linket, hogy megoszthassa közönségével"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'link-on-lending' => /////////////////////////////////////////////////////////////////

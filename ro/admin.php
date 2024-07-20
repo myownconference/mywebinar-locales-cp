@@ -2829,13 +2829,13 @@ return [
 	'landing-page' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pagină de destinație
+		Pagina de destinație <span class="tooltip" data-tip="Utilizați această pagină de înregistrare pentru a colecta informații despre participanți pentru viitoarele webinarii. Participanții dvs. se pot înscrie introducând adresa de e-mail, numele și orice alte detalii personalizate pe care le specificați în setările avansate. Această funcție vă permite să construiți o listă de contacte valoroasă pentru comunicările viitoare și notificările evenimentelor. Pentru a copia linkul în clipboard, faceți clic pe caseta de introducere. Asigurați-vă că personalizați câmpurile de înregistrare pentru a colecta toate informațiile de care aveți nevoie pentru a adapta eficient webinariile și activitățile de urmărire"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page-edit' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Editează pagina de destinație
+		Editează pagina de destinație <span class="tooltip" data-tip="Personalizați pagina de înregistrare pentru viitoarele webinarii aici. Permiteți participanților să se înscrie introducând adresa de e-mail, numele și alte informații pe care le configurați în setările avansate. Pur și simplu copiați linkul pentru a-l partaja cu publicul dvs."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'link-on-lending' => /////////////////////////////////////////////////////////////////

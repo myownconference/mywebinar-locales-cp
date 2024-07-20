@@ -2248,7 +2248,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kod do osadzonego formularza
+		Kod osadzania formularza rejestracyjnego <span class="tooltip" data-tip="Skopiuj ten kod HTML IFRAME, aby osadzić formularz rejestracyjny na swojej osobistej stronie internetowej dla webinaru. Ten kod jest uniwersalny i może wymagać dalszej personalizacji, aby dopasować go do parametrów i stylu strony. Wystarczy kliknąć pole wejściowe, aby skopiować kod do schowka"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////

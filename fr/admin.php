@@ -2248,7 +2248,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Code pour le formulaire intégré
+		Code d‘intégration du formulaire d‘inscription <span class="tooltip" data-tip="Copiez ce code HTML IFRAME pour intégrer un formulaire d‘inscription sur votre page personnelle pour votre webinaire. Ce code est universel et peut nécessiter une personnalisation supplémentaire pour correspondre aux paramètres et au style de votre page. Cliquez simplement sur le champ de saisie pour copier le code dans votre presse-papiers"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////

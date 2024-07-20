@@ -2247,7 +2247,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Code für das eingebettete Formular
+		Einbettungscode für Anmeldeformular <span class="tooltip" data-tip="Kopieren Sie diesen IFRAME-HTML-Code, um ein Anmeldeformular auf Ihrer persönlichen Webseite einzubetten. Dieser Code ist universell und muss möglicherweise weiter angepasst werden, um den Parametern und dem Stil Ihrer Seite zu entsprechen. Klicken Sie einfach auf das Eingabefeld, um den Code in Ihre Zwischenablage zu kopieren"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////

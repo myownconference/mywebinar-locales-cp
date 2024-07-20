@@ -2247,7 +2247,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Gömülü form için kod
+		Kayıt formu yerleştirme kodu <span class="tooltip" data-tip="Web semineriniz için kişisel web sayfanıza bir kayıt formu yerleştirmek için bu IFRAME HTML kodunu kopyalayın. Bu kod evrenseldir ve sayfanızın parametrelerine ve tarzına uyacak şekilde ek özelleştirme gerektirebilir. Kodu panonuza kopyalamak için giriş alanına tıklamanız yeterlidir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////

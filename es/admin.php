@@ -2247,7 +2247,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Código del formulario incrustado
+		Código de inserción del formulario de registro <span class="tooltip" data-tip="Copie este código HTML de IFRAME para incrustar un formulario de registro en su página web personal para su seminario web. Este código es universal y puede necesitar una personalización adicional para que coincida con los parámetros y el estilo de su página. Simplemente haga clic en el campo de entrada para copiar el código a su portapapeles"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////

@@ -2247,7 +2247,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Codice per il modulo incorporato
+		Codice di incorporamento del modulo di registrazione <span class="tooltip" data-tip="Copia questo codice HTML IFRAME per incorporare un modulo di registrazione nella tua pagina personale per il tuo webinar. Questo codice è universale e potrebbe necessitare di ulteriori personalizzazioni per adattarsi ai parametri e allo stile della tua pagina. Basta fare clic sul campo di inserimento per copiare il codice negli appunti"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////

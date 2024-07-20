@@ -2247,7 +2247,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Code for the embedded form
+		Regisztrációs űrlap beágyazási kód <span class="tooltip" data-tip="Másolja le ezt az IFRAME HTML kódot, hogy beágyazza a regisztrációs űrlapot a személyes weboldalán a webináriumához. Ez a kód univerzális, és további testreszabásra lehet szükség a lapja paramétereinek és stílusának megfelelően. Egyszerűen kattintson a beviteli mezőre, hogy a kódot a vágólapra másolja"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////

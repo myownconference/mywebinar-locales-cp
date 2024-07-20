@@ -2247,7 +2247,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Cod pentru formularul încorporat
+		Cod de încorporare a formularului de înregistrare <span class="tooltip" data-tip="Copiați acest cod HTML IFRAME pentru a încorpora un formular de înregistrare pe pagina dvs. personală pentru webinarul dvs. Acest cod este universal și poate necesita personalizare suplimentară pentru a se potrivi cu parametrii și stilul paginii dvs. Pur și simplu faceți clic pe câmpul de introducere pentru a copia codul în clipboard"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////

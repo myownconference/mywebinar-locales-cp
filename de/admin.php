@@ -2841,7 +2841,7 @@ return [
 	'link-on-lending' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link zur Seite
+		Landingpage-URL <span class="tooltip" data-tip="Senden Sie Ihre Teilnehmer zu dieser Registrierungsseite, um sich für zukünftige Webinare anzumelden. Sie können ihre E-Mail-Adresse, ihren Namen und andere benutzerdefinierte Informationen eingeben, die Sie in den erweiterten Einstellungen konfigurieren. Klicken Sie auf das Feld, um den Link in Ihre Zwischenablage zu kopieren"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'lending-text' => ////////////////////////////////////////////////////////////////////

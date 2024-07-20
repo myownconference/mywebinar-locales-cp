@@ -2843,7 +2843,7 @@ return [
 	'link-on-lending' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Enlace a la página
+		URL de la página de destino <span class="tooltip" data-tip="Envíe a sus asistentes a esta página de registro para inscribirse en futuros seminarios web. Pueden ingresar su correo electrónico, nombre y otra información personalizada que configure en la configuración avanzada. Haga clic en el cuadro para copiar el enlace a su portapapeles"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'lending-text' => ////////////////////////////////////////////////////////////////////

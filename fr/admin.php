@@ -2845,7 +2845,7 @@ return [
 	'link-on-lending' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Lien vers la page
+		URL de la page de destination <span class="tooltip" data-tip="Envoyez vos participants sur cette page d‘inscription pour s‘inscrire aux futurs webinaires. Ils peuvent entrer leur email, nom et d‘autres informations personnalisées que vous configurez dans les paramètres avancés. Cliquez sur la case pour copier le lien dans votre presse-papiers"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'lending-text' => ////////////////////////////////////////////////////////////////////

@@ -2841,7 +2841,7 @@ return [
 	'link-on-lending' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link către pagină
+		URL-ul paginii de destinație <span class="tooltip" data-tip="Trimiteți participanții la această pagină de înregistrare pentru a se înscrie la viitoarele webinarii. Aceștia își pot introduce e-mailul, numele și alte informații personalizate pe care le configurați în setările avansate. Faceți clic pe casetă pentru a copia linkul în clipboard"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'lending-text' => ////////////////////////////////////////////////////////////////////

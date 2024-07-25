@@ -1053,7 +1053,7 @@ return [
 	'your-current-plan' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Votre plan tarifaire actuel <span class="tooltip" data-tip="Voir les détails de votre plan tarifaire actuel ci-dessous. Vous pouvez voir la durée, les fonctionnalités incluses et la prochaine date de facturation. Pour prolonger votre plan, sélectionnez une période et profitez des réductions disponibles pour des engagements plus longs"></span>
+		Plan actuel <span class="tooltip" data-tip="Voir les détails de votre plan tarifaire actuel ci-dessous. Vous pouvez voir la durée, les fonctionnalités incluses et la prochaine date de facturation. Pour prolonger votre plan, sélectionnez une période et profitez des réductions disponibles pour des engagements plus longs"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'active-to' => ///////////////////////////////////////////////////////////////////////
@@ -1083,7 +1083,7 @@ return [
 	'extend-current-plan' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Prolongez votre plan tarifaire actuel <span class="tooltip" data-tip="Sélectionnez une période ci-dessous pour prolonger votre plan tarifaire actuel. Payez pour un mois au prix régulier ou choisissez 2, 3, 6 ou 12 mois et profitez de réductions allant jusqu‘à 20%"></span>
+		Prolonger le plan <span class="tooltip" data-tip="Sélectionnez une période ci-dessous pour prolonger votre plan tarifaire actuel. Payez pour un mois au prix régulier ou choisissez 2, 3, 6 ou 12 mois et profitez de réductions allant jusqu‘à 20%"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'plan-price' => //////////////////////////////////////////////////////////////////////

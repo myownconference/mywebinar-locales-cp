@@ -1053,7 +1053,7 @@ return [
 	'your-current-plan' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Your current pricing plan <span class="tooltip" data-tip="View the details of your current pricing plan below. You can see the duration, features included, and the next billing date. To extend your plan, select a period and take advantage of available discounts for longer commitments"></span>
+		Current plan <span class="tooltip" data-tip="View the details of your current pricing plan below. You can see the duration, features included, and the next billing date. To extend your plan, select a period and take advantage of available discounts for longer commitments"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'active-to' => ///////////////////////////////////////////////////////////////////////
@@ -1083,7 +1083,7 @@ return [
 	'extend-current-plan' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Extend your current pricing plan <span class="tooltip" data-tip="Select a period below to extend your current pricing plan. Pay for one month at the regular price or choose 2, 3, 6, or 12 months and enjoy discounts of up to 20%"></span>
+		Extend plan <span class="tooltip" data-tip="Select a period below to extend your current pricing plan. Pay for one month at the regular price or choose 2, 3, 6, or 12 months and enjoy discounts of up to 20%"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'plan-price' => //////////////////////////////////////////////////////////////////////

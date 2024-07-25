@@ -1053,7 +1053,7 @@ return [
 	'your-current-plan' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Planul dvs. tarifar actual <span class="tooltip" data-tip="Vizualizați detaliile planului dvs. tarifar actual mai jos. Puteți vedea durata, funcțiile incluse și următoarea dată de facturare. Pentru a vă prelungi planul, selectați o perioadă și profitați de reducerile disponibile pentru angajamente mai lungi"></span>
+		Planul curent <span class="tooltip" data-tip="Vizualizați detaliile planului dvs. tarifar actual mai jos. Puteți vedea durata, funcțiile incluse și următoarea dată de facturare. Pentru a vă prelungi planul, selectați o perioadă și profitați de reducerile disponibile pentru angajamente mai lungi"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'active-to' => ///////////////////////////////////////////////////////////////////////
@@ -1083,7 +1083,7 @@ return [
 	'extend-current-plan' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Extindeți planul tarifar actual <span class="tooltip" data-tip="Selectați o perioadă mai jos pentru a extinde planul tarifar actual. Plătiți pentru o lună la prețul obișnuit sau alegeți 2, 3, 6 sau 12 luni și bucurați-vă de reduceri de până la 20%"></span>
+		Extinde planul <span class="tooltip" data-tip="Selectați o perioadă mai jos pentru a extinde planul tarifar actual. Plătiți pentru o lună la prețul obișnuit sau alegeți 2, 3, 6 sau 12 luni și bucurați-vă de reduceri de până la 20%"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'plan-price' => //////////////////////////////////////////////////////////////////////

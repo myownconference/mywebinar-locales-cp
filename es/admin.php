@@ -1053,7 +1053,7 @@ return [
 	'your-current-plan' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Su plan de precios actual <span class="tooltip" data-tip="Vea los detalles de su plan de precios actual a continuación. Puede ver la duración, las características incluidas y la próxima fecha de facturación. Para extender su plan, seleccione un período y aproveche los descuentos disponibles para compromisos más largos"></span>
+		Plan actual <span class="tooltip" data-tip="Vea los detalles de su plan de precios actual a continuación. Puede ver la duración, las características incluidas y la próxima fecha de facturación. Para extender su plan, seleccione un período y aproveche los descuentos disponibles para compromisos más largos"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'active-to' => ///////////////////////////////////////////////////////////////////////
@@ -1083,7 +1083,7 @@ return [
 	'extend-current-plan' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Extienda su plan de precios actual <span class="tooltip" data-tip="Seleccione un período a continuación para extender su plan de precios actual. Pague por un mes al precio regular o elija 2, 3, 6 o 12 meses y disfrute de descuentos de hasta el 20%"></span>
+		Extender plan <span class="tooltip" data-tip="Seleccione un período a continuación para extender su plan de precios actual. Pague por un mes al precio regular o elija 2, 3, 6 o 12 meses y disfrute de descuentos de hasta el 20%"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'plan-price' => //////////////////////////////////////////////////////////////////////

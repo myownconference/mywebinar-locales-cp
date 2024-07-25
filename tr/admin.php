@@ -1053,7 +1053,7 @@ return [
 	'your-current-plan' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mevcut fiyatlandırma planınız <span class="tooltip" data-tip="Mevcut fiyatlandırma planınızın ayrıntılarını aşağıda görüntüleyin. Süreyi, dahil edilen özellikleri ve bir sonraki fatura tarihini görebilirsiniz. Planınızı uzatmak için bir süre seçin ve daha uzun süreli taahhütler için mevcut indirimlerden yararlanın"></span>
+		Mevcut plan <span class="tooltip" data-tip="Mevcut fiyatlandırma planınızın ayrıntılarını aşağıda görüntüleyin. Süreyi, dahil edilen özellikleri ve bir sonraki fatura tarihini görebilirsiniz. Planınızı uzatmak için bir süre seçin ve daha uzun süreli taahhütler için mevcut indirimlerden yararlanın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'active-to' => ///////////////////////////////////////////////////////////////////////
@@ -1083,7 +1083,7 @@ return [
 	'extend-current-plan' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mevcut fiyatlandırma planınızı uzatın <span class="tooltip" data-tip="Mevcut fiyatlandırma planınızı uzatmak için aşağıdan bir süre seçin. Bir ay için normal fiyattan ödeme yapın veya 2, 3, 6 veya 12 ay seçin ve %20‘ye varan indirimlerden yararlanın"></span>
+		Planı uzat <span class="tooltip" data-tip="Mevcut fiyatlandırma planınızı uzatmak için aşağıdan bir süre seçin. Bir ay için normal fiyattan ödeme yapın veya 2, 3, 6 veya 12 ay seçin ve %20‘ye varan indirimlerden yararlanın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'plan-price' => //////////////////////////////////////////////////////////////////////

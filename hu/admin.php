@@ -1053,7 +1053,7 @@ return [
 	'your-current-plan' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Jelenlegi díjcsomagja <span class="tooltip" data-tip="Tekintse meg jelenlegi díjcsomagjának részleteit az alábbiakban. Megtekintheti az időtartamot, a tartalmazott funkciókat és a következő számlázási dátumot. A csomag meghosszabbításához válasszon egy időszakot, és vegye igénybe a hosszabb kötelezettségekhez rendelkezésre álló kedvezményeket"></span>
+		Jelenlegi terv <span class="tooltip" data-tip="Tekintse meg jelenlegi díjcsomagjának részleteit az alábbiakban. Megtekintheti az időtartamot, a tartalmazott funkciókat és a következő számlázási dátumot. A csomag meghosszabbításához válasszon egy időszakot, és vegye igénybe a hosszabb kötelezettségekhez rendelkezésre álló kedvezményeket"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'active-to' => ///////////////////////////////////////////////////////////////////////
@@ -1083,7 +1083,7 @@ return [
 	'extend-current-plan' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Hosszabbítsa meg aktuális díjcsomagját <span class="tooltip" data-tip="Válasszon egy időszakot az alábbiakban az aktuális díjcsomag meghosszabbításához. Fizessen egy hónapra a szokásos áron, vagy válasszon 2, 3, 6 vagy 12 hónapot, és élvezze a legfeljebb 20%-os kedvezményeket"></span>
+		Terv meghosszabbítása <span class="tooltip" data-tip="Válasszon egy időszakot az alábbiakban az aktuális díjcsomag meghosszabbításához. Fizessen egy hónapra a szokásos áron, vagy válasszon 2, 3, 6 vagy 12 hónapot, és élvezze a legfeljebb 20%-os kedvezményeket"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'plan-price' => //////////////////////////////////////////////////////////////////////

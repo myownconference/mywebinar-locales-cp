@@ -1119,7 +1119,7 @@ return [
 	'change-current-plan' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Zmień plan <span class="tooltip" data-tip="Ulepsz swój plan, aby cieszyć się większą liczbą miejsc dla uczestników, dodatkowym miejscem do przechowywania, wyższą jakością nagrań i elastycznymi okresami rozliczeniowymi. Dostosuj swój plan do swoich potrzeb i popraw swoje doświadczenia z webinarami"></span>
+		Zmień plan <span class="tooltip" data-tip="Ulepsz swój plan, aby cieszyć się większą liczbą miejsc dla uczestników, dodatkowym miejscem do przechowywania, wyższą jakością nagrań i elastycznymi okresami rozliczeniowymi. Dostosuj swój plan do swoich potrzeb i popraw swoje doświadczenia z webinarami. Zapłać za jeden miesiąc w regularnej cenie lub wybierz 2, 3, 6 lub 12 miesięcy i ciesz się zniżkami do 20%"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-plan' => /////////////////////////////////////////////////////////////////////

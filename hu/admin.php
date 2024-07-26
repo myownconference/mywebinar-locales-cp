@@ -1119,7 +1119,7 @@ return [
 	'change-current-plan' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Terv módosítása <span class="tooltip" data-tip="Frissítse a tervét, hogy több résztvevői helyet, további tárhelyet, jobb felvételi minőséget és rugalmas számlázási időszakokat élvezhessen. Igazítsa tervét az igényeihez, és javítsa webinárium élményét"></span>
+		Terv módosítása <span class="tooltip" data-tip="Frissítse a tervét, hogy több résztvevői helyet, további tárhelyet, jobb felvételi minőséget és rugalmas számlázási időszakokat élvezhessen. Igazítsa tervét az igényeihez, és javítsa webinárium élményét. Fizessen egy hónapra a szokásos áron, vagy válasszon 2, 3, 6 vagy 12 hónapot, és élvezze a legfeljebb 20%-os kedvezményeket"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-plan' => /////////////////////////////////////////////////////////////////////

@@ -1119,7 +1119,7 @@ return [
 	'change-current-plan' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Changer de plan <span class="tooltip" data-tip="Mettez à niveau votre plan pour bénéficier de plus de sièges pour les participants, de stockage supplémentaire, d‘une qualité d‘enregistrement supérieure et de périodes de facturation flexibles. Adaptez votre plan à vos besoins et améliorez votre expérience de webinaire"></span>
+		Changer de plan <span class="tooltip" data-tip="Mettez à niveau votre plan pour bénéficier de plus de sièges pour les participants, de stockage supplémentaire, d‘une qualité d‘enregistrement supérieure et de périodes de facturation flexibles. Adaptez votre plan à vos besoins et améliorez votre expérience de webinaire. Payez pour un mois au prix régulier ou choisissez 2, 3, 6 ou 12 mois et profitez de réductions allant jusqu‘à 20%"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-plan' => /////////////////////////////////////////////////////////////////////

@@ -1119,7 +1119,7 @@ return [
 	'change-current-plan' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Change plan <span class="tooltip" data-tip="Upgrade your plan to enjoy more attendee seats, additional storage, higher recording quality, and flexible billing periods. Tailor your plan to fit your needs and enhance your webinar experience"></span>
+		Change plan <span class="tooltip" data-tip="Upgrade your plan to enjoy more attendee seats, additional storage, higher recording quality, and flexible billing periods. Tailor your plan to fit your needs and enhance your webinar experience. Pay for one month at the regular price or choose 2, 3, 6, or 12 months and enjoy discounts of up to 20%"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-plan' => /////////////////////////////////////////////////////////////////////

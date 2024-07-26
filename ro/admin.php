@@ -1119,7 +1119,7 @@ return [
 	'change-current-plan' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Schimbați planul <span class="tooltip" data-tip="Actualizați-vă planul pentru a beneficia de mai multe locuri pentru participanți, stocare suplimentară, calitate superioară a înregistrărilor și perioade de facturare flexibile. Personalizați-vă planul pentru a se potrivi nevoilor dvs. și pentru a îmbunătăți experiența dvs. de webinar"></span>
+		Schimbați planul <span class="tooltip" data-tip="Actualizați-vă planul pentru a beneficia de mai multe locuri pentru participanți, stocare suplimentară, calitate superioară a înregistrărilor și perioade de facturare flexibile. Personalizați-vă planul pentru a se potrivi nevoilor dvs. și pentru a îmbunătăți experiența dvs. de webinar. Plătiți pentru o lună la prețul obișnuit sau alegeți 2, 3, 6 sau 12 luni și bucurați-vă de reduceri de până la 20%"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-plan' => /////////////////////////////////////////////////////////////////////

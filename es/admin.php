@@ -1119,7 +1119,7 @@ return [
 	'change-current-plan' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Cambiar plan <span class="tooltip" data-tip="Actualice su plan para disfrutar de más asientos para asistentes, almacenamiento adicional, mayor calidad de grabación y períodos de facturación flexibles. Adapte su plan a sus necesidades y mejore su experiencia en los seminarios web"></span>
+		Cambiar plan <span class="tooltip" data-tip="Actualice su plan para disfrutar de más asientos para asistentes, almacenamiento adicional, mayor calidad de grabación y períodos de facturación flexibles. Adapte su plan a sus necesidades y mejore su experiencia en los seminarios web. Pague por un mes al precio regular o elija 2, 3, 6 o 12 meses y disfrute de descuentos de hasta el 20%"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-plan' => /////////////////////////////////////////////////////////////////////

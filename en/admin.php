@@ -1503,7 +1503,7 @@ return [
 	'recordings-download-and-share' => ///////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Download & share recordings <span class="tooltip" data-tip="This plan allows you to download recordings in MP4 format and share a secure link with a time limit for browser viewing"></span>
+		Download and share recordings <span class="tooltip" data-tip="This plan allows you to download recordings in MP4 format and share a secure link with a time limit for browser viewing"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'title-grid-webinars' => /////////////////////////////////////////////////////////////

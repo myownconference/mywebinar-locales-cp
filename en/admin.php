@@ -4388,17 +4388,20 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>Free account</b><br>
+		<b>Free Account</b><br><br>
 		– <u>Non-commercial use only</u><br>
-		– Our logo will appear on every moderator‘s webcam<br>
-		– 2 presenters at once (but each participant can speak in turn)<br>
-		– 20 subscribers when importing for invitations<br>
-		– 20 attendees at the same time at the webinar<br>
-		– 20 minutes of capture (quality is 480p and 720p)<br>
-		– Link share to the previous events is prohibited<br>
-		– White branding changes is prohibited<br>
-		– No custom domain option<br>
-		– 1 GB of storage space<br>
+		– Our logo will appear on every moderator’s webcam<br>
+		– Up to 2 presenters at once (each participant can speak in turn)<br>
+		– Import up to 20 subscribers for invitations<br>
+		– 20 attendees per webinar<br>
+		– 20 minutes of recording (quality options: 480p and 720p)<br>
+		– Sharing links to webinar recordings is prohibited<br>
+		– Custom branding changes are prohibited<br>
+		– Custom domain option is not available<br>
+		– OBS broadcasting is not available<br>
+		– 1 automated webinar creation<br>
+		– 1 GB of storage space<br><br>
+		Please upgrade to a paid plan to unlock all available features and enhance your live events
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

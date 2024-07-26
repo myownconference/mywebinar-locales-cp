@@ -4388,17 +4388,20 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>Ingyenes fiók</b><br>
-		– <u>Csak nem kereskedelmi célú felhasználás</u><br>
-		– A logónk minden moderátor webcamján megjelenik<br>
-		– 2 előadó egyszerre (de minden résztvevő felváltva beszélhet)<br>
-		– 20 előfizető meghívók importálásakor<br>
-		– 20 résztvevő egyszerre a webináriumon<br>
-		– 20 perc felvétel (a minőség 480p és 720p)<br>
-		– A felvételek megosztására szolgáló linkek megosztása tilos<br>
-		– A fehér márkajelzés változtatása tilos<br>
-		– Egyéni domain lehetőség nincs<br>
-		– 1 GB tárhely<br>
+		<b>Ingyenes fiók</b><br><br>
+		– <u>Csak nem kereskedelmi használatra</u><br>
+		– A logónk minden moderátor webkameráján megjelenik<br>
+		– Egyszerre legfeljebb 2 előadó (minden résztvevő felváltva beszélhet)<br>
+		– Legfeljebb 20 feliratkozó meghívása meghívókhoz<br>
+		– Webináriumonként 20 résztvevő<br>
+		– 20 perc felvétel (minőségi opciók: 480p és 720p)<br>
+		– A webinárium felvételeinek megosztása tilos<br>
+		– A testreszabott márkázási változtatások tilosak<br>
+		– Az egyéni domain opció nem érhető el<br>
+		– OBS közvetítés nem érhető el<br>
+		– 1 automatizált webinárium létrehozása<br>
+		– 1 GB tárhely<br><br>
+		Kérjük, frissítsen egy fizetett csomagra az összes elérhető funkció feloldásához és az élő események javításához
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

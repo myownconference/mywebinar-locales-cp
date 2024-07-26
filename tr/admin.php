@@ -4388,17 +4388,20 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>Ücretsiz hesap</b><br>
-		– <u>Sadece ticari olmayan kullanım</u><br>
-		– Logomuz her moderatörün web kamerasında görünecek<br>
-		– Aynı anda 2 sunucu (ancak her katılımcı sırayla konuşabilir)<br>
-		– Davetiyeler için içe aktarma yaparken 20 abone<br>
-		– Webinerleri aynı anda 20 katılımcı<br>
-		– 20 dakika kayıt (kalite 480p ve 720p)<br>
-		– Kayıtların paylaşım bağlantısı yasaktır<br>
-		– Beyaz markalama değişiklikleri yasaktır<br>
-		– Özel alan adı seçeneği yok<br>
-		– 1 GB depolama alanı<br>
+		<b>Ücretsiz Hesap</b><br><br>
+		– <u>Sadece ticari olmayan kullanım için</u><br>
+		– Logomuz her moderatörün web kamerasında görünecektir<br>
+		– Aynı anda en fazla 2 sunucu (her katılımcı sırayla konuşabilir)<br>
+		– Davetler için en fazla 20 aboneyi içe aktarın<br>
+		– Webinar başına 20 katılımcı<br>
+		– 20 dakika kayıt (kalite seçenekleri: 480p ve 720p)<br>
+		– Webinar kayıtlarına bağlantı paylaşımı yasaktır<br>
+		– Özel markalama değişiklikleri yasaktır<br>
+		– Özel alan adı seçeneği mevcut değil<br>
+		– OBS yayını mevcut değil<br>
+		– 1 otomatik webinar oluşturma<br>
+		– 1 GB depolama alanı<br><br>
+		Lütfen mevcut tüm özellikleri açmak ve canlı etkinliklerinizi geliştirmek için ücretli bir plana geçin
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

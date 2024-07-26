@@ -4388,17 +4388,20 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>Account gratuito</b><br>
+		<b>Account gratuito</b><br><br>
 		– <u>Solo per uso non commerciale</u><br>
-		– Il nostro logo apparirà su ogni webcam del moderatore<br>
-		– 2 presentatori contemporaneamente (ma ogni partecipante può parlare a turno)<br>
-		– 20 iscritti durante l‘importazione per gli inviti<br>
-		– 20 partecipanti contemporaneamente all‘evento<br>
-		– 20 minuti di registrazione (qualità 480p e 720p)<br>
-		– È proibito condividere il link delle registrazioni<br>
-		– È proibito modificare il marchio in bianco<br>
-		– Nessuna opzione di dominio personalizzato<br>
-		– 1 GB di spazio di archiviazione<br>
+		– Il nostro logo apparirà sulla webcam di ogni moderatore<br>
+		– Fino a 2 presentatori contemporaneamente (ogni partecipante può parlare a turno)<br>
+		– Importa fino a 20 iscritti per inviti<br>
+		– 20 partecipanti per webinar<br>
+		– 20 minuti di registrazione (opzioni di qualità: 480p e 720p)<br>
+		– Condivisione di link alle registrazioni dei webinar è vietata<br>
+		– Modifiche al branding personalizzato sono vietate<br>
+		– L‘opzione dominio personalizzato non è disponibile<br>
+		– Trasmissione OBS non disponibile<br>
+		– 1 creazione di webinar automatizzato<br>
+		– 1 GB di spazio di archiviazione<br><br>
+		Si prega di passare a un piano a pagamento per sbloccare tutte le funzionalità disponibili e migliorare i vostri eventi dal vivo
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

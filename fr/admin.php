@@ -4410,17 +4410,20 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>Compte gratuit</b><br>
-		– <u>Usage non commercial seulement</u><br>
+		<b>Compte gratuit</b><br><br>
+		– <u>Utilisation non commerciale uniquement</u><br>
 		– Notre logo apparaîtra sur la webcam de chaque modérateur<br>
-		– 2 caméras simultanément (mais chaque participant peut parler à tour de rôle)<br>
-		– 20 abonnés lors de l‘importation pour les invitations<br>
-		– 20 participants en même temps aux événements<br>
-		– 20 minutes d‘enregistrement (la qualité est 480p et 720p)<br>
-		– Le partage de lien vers les enregistrements est interdit<br>
-		– Les modifications en marque blanche sont interdites<br>
-		– Pas d‘option de domaine personnalisé<br>
-		– 1 GB d‘espace pour les fichiers<br>
+		– Jusqu‘à 2 présentateurs à la fois (chaque participant peut parler à tour de rôle)<br>
+		– Importez jusqu‘à 20 abonnés pour les invitations<br>
+		– 20 participants par webinaire<br>
+		– 20 minutes d‘enregistrement (options de qualité : 480p et 720p)<br>
+		– Partage de liens vers les enregistrements de webinaires interdit<br>
+		– Les modifications de la marque personnalisée sont interdites<br>
+		– Option de domaine personnalisé non disponible<br>
+		– Diffusion OBS non disponible<br>
+		– 1 création de webinaire automatisé<br>
+		– 1 Go d‘espace de stockage<br><br>
+		Veuillez passer à un plan payant pour débloquer toutes les fonctionnalités disponibles et améliorer vos événements en direct
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

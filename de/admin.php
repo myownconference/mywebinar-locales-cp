@@ -4388,17 +4388,20 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>Kostenloses Konto</b><br>
-		– <u>Nur für nichtkommerzielle Nutzung</u><br>
-		– Unser Logo wird auf jeder Moderator-Kamera angezeigt<br>
-		– 2 Kameras gleichzeitig (aber jeder Teilnehmer kann der Reihe nach sprechen)<br>
-		– 20 Abonnenten beim Importieren von Einladungen<br>
-		– 20 Teilnehmer gleichzeitig im Webinar<br>
-		– 20 Minuten Aufnahmezeit (Qualität ist 480p und 720p)<br>
-		– Linkfreigabe für Aufzeichnungen ist untersagt<br>
-		– Weiße Branding-Änderungen sind untersagt<br>
-		– Keine Option für individuelle Domains<br>
-		– 1 GB Speicherplatz<br>
+		<b>Kostenloses Konto</b><br><br>
+		– <u>Nur für nicht-kommerzielle Nutzung</u><br>
+		– Unser Logo wird auf jeder Webcam des Moderators angezeigt<br>
+		– Bis zu 2 Moderatoren gleichzeitig (jeder Teilnehmer kann abwechselnd sprechen)<br>
+		– Importieren Sie bis zu 20 Abonnenten für Einladungen<br>
+		– 20 Teilnehmer pro Webinar<br>
+		– 20 Minuten Aufnahme (Qualitätsoptionen: 480p und 720p)<br>
+		– Teilen von Links zu Webinar-Aufzeichnungen ist verboten<br>
+		– Änderungen am benutzerdefinierten Branding sind verboten<br>
+		– Anpassbare Domain-Option ist nicht verfügbar<br>
+		– OBS-Übertragung ist nicht verfügbar<br>
+		– 1 automatisierte Webinar-Erstellung<br>
+		– 1 GB Speicherplatz<br><br>
+		Bitte upgraden Sie auf einen kostenpflichtigen Plan, um alle verfügbaren Funktionen freizuschalten und Ihre Live-Events zu verbessern
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

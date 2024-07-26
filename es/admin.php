@@ -4403,17 +4403,20 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>Cuenta gratuita</b><br>
-		– <u>Sólo uso no comercial</u><br>
-		– Nuestro logotipo aparecerá en la webcam de cada moderador<br>
-		– 2 cámaras simultáneas (pero cada participante tiene turnos distintos para hablar)<br>
-		– 20 suscriptores importados a través de invitaciones<br>
-		– 20 participantes simultáneos en los eventos<br>
-		– 20 minutos de grabación (calidad de 480p o 720p)<br>
-		– Compartir enlaces durante una grabación está prohibido<br>
-		– Los cambios con respecto a la marca están prohibidos<br>
-		– No es posible personalizar el dominio<br>
-		– 1 GB de espacio para archivos<br>
+		<b>Cuenta gratuita</b><br><br>
+		– <u>Solo para uso no comercial</u><br>
+		– Nuestro logo aparecerá en la cámara web de cada moderador<br>
+		– Hasta 2 presentadores a la vez (cada participante puede hablar por turno)<br>
+		– Importar hasta 20 suscriptores para invitaciones<br>
+		– 20 asistentes por seminario web<br>
+		– 20 minutos de grabación (opciones de calidad: 480p y 720p)<br>
+		– Compartir enlaces a grabaciones de seminarios web está prohibido<br>
+		– Los cambios en la marca personalizada están prohibidos<br>
+		– Opción de dominio personalizado no disponible<br>
+		– Transmisión OBS no disponible<br>
+		– 1 creación de seminario web automatizado<br>
+		– 1 GB de espacio de almacenamiento<br><br>
+		Por favor, actualice a un plan de pago para desbloquear todas las funciones disponibles y mejorar sus eventos en vivo
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

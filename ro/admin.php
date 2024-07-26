@@ -4388,17 +4388,20 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>Cont gratuit</b><br>
-		– <u>Utilizare non-comercială</u><br>
-		– Logo-ul nostru va apărea pe webcam-ul fiecărui moderator<br>
-		– 2 prezentatori simultan (dar fiecare participant poate vorbi pe rând)<br>
-		– 20 de abonați la importul pentru invitații<br>
-		– 20 de participanți în același timp la eveniment<br>
-		– 20 de minute de înregistrare (calitatea este 480p și 720p)<br>
-		– Este interzis să distribuiți linkul către înregistrări<br>
-		– Modificările pentru branding alb sunt interzise<br>
-		– Fără opțiunea de domeniu personalizat<br>
-		– 1 GB de spațiu de stocare<br>
+		<b>Cont gratuit</b><br><br>
+		– <u>Doar pentru uz necomercial</u><br>
+		– Logo-ul nostru va apărea pe camera web a fiecărui moderator<br>
+		– Până la 2 prezentatori simultan (fiecare participant poate vorbi pe rând)<br>
+		– Importați până la 20 de abonați pentru invitații<br>
+		– 20 de participanți per webinar<br>
+		– 20 de minute de înregistrare (opțiuni de calitate: 480p și 720p)<br>
+		– Partajarea linkurilor către înregistrările webinarului este interzisă<br>
+		– Modificările de branding personalizat sunt interzise<br>
+		– Opțiunea de domeniu personalizat nu este disponibilă<br>
+		– Transmisiunea OBS nu este disponibilă<br>
+		– 1 creare de webinar automatizat<br>
+		– 1 GB de spațiu de stocare<br><br>
+		Vă rugăm să faceți upgrade la un plan plătit pentru a debloca toate funcțiile disponibile și a vă îmbunătăți evenimentele live
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

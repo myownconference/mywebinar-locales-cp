@@ -4415,17 +4415,20 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>Bezpłatne konto</b><br>
-		– <u>Nie jest przeznaczony do użytku komercyjnego</u><br>
-		– Nasze logo pojawi się na kamerce każdego moderatora<br>
-		– 2 włączone kamery jednocześnie (każdy uczestnik może mówić po kolei)<br>
-		– Dodawanie 20 osób podczas importowania kontaktów<br>
-		– Łącznie 20 uczestników na równoległych webinarach<br>
-		– 20 minut nagrania jednego webinaru (jakość 480p i 720p)<br>
-		– Zabronione udostępnianie linku do nagrań z webinaru<br>
-		– Zakaz brandingu webinarów i zaproszeń<br>
-		– Brak personalizacji domeny w linkach<br>
-		– 1 GB miejsca na pliki i nagrania<br>
+		<b>Darmowe konto</b><br><br>
+		– <u>Tylko do użytku niekomercyjnego</u><br>
+		– Nasze logo pojawi się na kamerze internetowej każdego moderatora<br>
+		– Do 2 prezenterów jednocześnie (każdy uczestnik może mówić na zmianę)<br>
+		– Importuj do 20 subskrybentów do zaproszeń<br>
+		– 20 uczestników na webinar<br>
+		– 20 minut nagrywania (opcje jakości: 480p i 720p)<br>
+		– Udostępnianie linków do nagrań webinarów jest zabronione<br>
+		– Zmiany w niestandardowym brandingu są zabronione<br>
+		– Opcja niestandardowej domeny jest niedostępna<br>
+		– Nadawanie przez OBS jest niedostępne<br>
+		– 1 automatyczne tworzenie webinaru<br>
+		– 1 GB przestrzeni dyskowej<br><br>
+		Proszę uaktualnić do płatnego planu, aby odblokować wszystkie dostępne funkcje i poprawić swoje wydarzenia na żywo
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

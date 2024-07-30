@@ -465,13 +465,13 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Salas de seminarios web instantáneas <span class="tooltip" data-tip="Cree salas de seminarios web disponibles las 24 horas del día, los 7 días de la semana, y que vienen con enlaces estáticos. Añada protección por contraseña para mayor seguridad o cambie al modo de página de destino. En el modo de página de destino, los asistentes verán un formulario para ingresar su correo electrónico y otros detalles antes de acceder a la sala. Este modo es ideal para recopilar información de los asistentes antes de otorgar acceso a futuros seminarios web"></span>
+		Salas de webinar <span class="tooltip" data-tip="Cree salas de webinar disponibles 24/7 con enlaces estáticos. Agregue protección con contraseña para mayor seguridad o cambie al modo de página de destino. En este modo, los asistentes verán un formulario para ingresar su correo electrónico y otros detalles antes de acceder a la sala. Este modo es ideal para recopilar información de los asistentes antes de otorgarles acceso a futuros webinars"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Programados webinars <span class="tooltip" data-tip="Use our integrated calendar to schedule your future webinars. Make webinars private with unique links sent by email or share them yourself. Add logos and banners for a professional touch. You can also record webinars as MP4 files. Plus, remember we automatically send out email notifications to your attendees. All features are available in the "Advanced settings" section during the scheduling process"></span>
+		Webinars programados <span class="tooltip" data-tip="Utilice nuestro calendario integrado para programar sus futuros webinars. Haga que los webinars sean privados con enlaces únicos enviados por correo electrónico o compártalos usted mismo. Agregue logotipos y banners para un toque profesional. También puede guardar los webinars como archivos MP4. Además, enviamos automáticamente notificaciones por correo electrónico a sus asistentes. Todas las funciones están disponibles en la sección «Configuración avanzada» durante el proceso de programación"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-edit-section' => ////////////////////////////////////////////////////////////

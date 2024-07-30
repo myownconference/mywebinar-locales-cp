@@ -465,13 +465,13 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Salles de webinaire instantanées <span class="tooltip" data-tip="Créez des salles de webinaire disponibles 24h/24 et 7j/7 avec des liens statiques. Ajoutez une protection par mot de passe pour plus de sécurité ou passez en mode page de destination. En mode page de destination, les participants verront un formulaire pour entrer leur email et d‘autres détails avant d‘accéder à la salle. Ce mode est idéal pour recueillir des informations sur les participants avant de leur accorder l‘accès aux webinaires futurs"></span>
+		Salles de webinaire <span class="tooltip" data-tip="Créez des salles de webinaire disponibles 24h/24 et 7j/7 avec des liens statiques. Ajoutez une protection par mot de passe pour plus de sécurité ou passez en mode page d‘accueil. Dans ce mode, les participants verront un formulaire pour entrer leur adresse e-mail et d‘autres détails avant d‘accéder à la salle. Ce mode est idéal pour recueillir des informations sur les participants avant de leur accorder l‘accès aux webinaires futurs"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinaires programmés <span class="tooltip" data-tip="Use our integrated calendar to schedule your future webinars. Make webinars private with unique links sent by email or share them yourself. Add logos and banners for a professional touch. You can also record webinars as MP4 files. Plus, remember we automatically send out email notifications to your attendees. All features are available in the "Advanced settings" section during the scheduling process"></span>
+		Webinaires programmés <span class="tooltip" data-tip="Utilisez notre calendrier intégré pour planifier vos futurs webinaires. Rendez les webinaires privés avec des liens uniques envoyés par e-mail ou partagez-les vous-même. Ajoutez des logos et des bannières pour une touche professionnelle. Vous pouvez également enregistrer les webinaires sous forme de fichiers MP4. De plus, nous envoyons automatiquement des notifications par e-mail à vos participants. Toutes les fonctionnalités sont disponibles dans la section «Paramètres avancés» lors du processus de planification."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-edit-section' => ////////////////////////////////////////////////////////////

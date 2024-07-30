@@ -465,13 +465,13 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Natychmiastowe pokoje webinarowe <span class="tooltip" data-tip="Twórz pokoje webinarowe dostępne 24/7 z statycznymi linkami. Dodaj ochronę hasłem dla dodatkowego bezpieczeństwa lub przejdź do trybu strony docelowej. W trybie strony docelowej uczestnicy zobaczą formularz do wpisania swojego adresu e-mail i innych szczegółów przed uzyskaniem dostępu do pokoju. Ten tryb jest idealny do zbierania informacji o uczestnikach przed przyznaniem dostępu do przyszłych webinarów"></span>
+		Pokoje webinarów <span class="tooltip" data-tip="Twórz pokoje webinarów dostępne 24/7 ze statycznymi linkami. Dodaj ochronę hasłem dla dodatkowego bezpieczeństwa lub użyj trybu strony docelowej. W tym trybie uczestnicy zobaczą formularz do wprowadzenia swojego adresu e-mail i innych danych przed uzyskaniem dostępu do pokoju. Ten tryb jest idealny do zbierania informacji o uczestnikach przed udzieleniem im dostępu do przyszłych webinarów"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kalendarz zaplanowanych webinarów <span class="tooltip" data-tip="Użyj naszego zintegrowanego kalendarza, aby zaplanować swoje przyszłe webinary. Zorganizuj webinary prywatne z unikalnymi linkami wysyłanymi e-mailem lub udostępnij je samodzielnie. Dodaj logotypy i banery dla profesjonalnego wyglądu. Możesz także nagrywać webinary jako pliki MP4. Ponadto, automatycznie wysyłamy powiadomienia e-mail do Twoich uczestników. Wszystkie funkcje dostępne są w sekcji «Ustawienia zaawansowane» podczas procesu planowania"></span>
+		Zaplanuj webinary <span class="tooltip" data-tip="Użyj naszego zintegrowanego kalendarza, aby zaplanować swoje przyszłe webinary. Uczyń webinary prywatnymi za pomocą unikalnych linków wysyłanych e-mailem lub udostępnij je samodzielnie. Dodaj loga i banery, aby nadać profesjonalny wygląd. Możesz również zapisać webinary jako pliki MP4. Ponadto automatycznie wysyłamy powiadomienia e-mail do Twoich uczestników. Wszystkie funkcje są dostępne w sekcji «Zaawansowane ustawienia» podczas procesu planowania"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-edit-section' => ////////////////////////////////////////////////////////////

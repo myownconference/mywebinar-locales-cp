@@ -465,13 +465,13 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Anında web semineri odaları <span class="tooltip" data-tip="24/7 kullanılabilir ve statik bağlantılara sahip web semineri odaları oluşturun. Ek güvenlik için parola koruması ekleyin veya açılış sayfası moduna geçin. Açılış sayfası modunda, katılımcılar odaya erişmeden önce e-postalarını ve diğer bilgilerini girmeleri için bir form göreceklerdir. Bu mod, gelecekteki web seminerlerine erişim izni vermeden önce katılımcı bilgilerini toplamak için idealdir"></span>
+		Webinarlar odaları <span class="tooltip" data-tip="Statik bağlantılarla 7/24 erişilebilen web semineri odaları oluşturun. Ekstra güvenlik için parola koruması ekleyin veya açılış sayfası modunu kullanın. Bu modda, katılımcılar odaya erişmeden önce e-posta adreslerini ve diğer bilgilerini girebilecekleri bir form göreceklerdir. Bu mod, gelecekteki web seminerlerine erişim izni vermeden önce katılımcı bilgilerini toplamak için idealdir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Planlanmış webinarlar <span class="tooltip" data-tip="Use our integrated calendar to schedule your future webinars. Make webinars private with unique links sent by email or share them yourself. Add logos and banners for a professional touch. You can also record webinars as MP4 files. Plus, remember we automatically send out email notifications to your attendees. All features are available in the "Advanced settings" section during the scheduling process"></span>
+		Planlanmış webinarlar <span class="tooltip" data-tip="Gelecekteki web seminerlerinizi planlamak için entegre takvimimizi kullanın. Web seminerlerini, e-posta ile gönderilen benzersiz bağlantılarla özel yapın veya kendiniz paylaşın. Profesyonel bir dokunuş için logolar ve afişler ekleyin. Web seminerlerini MP4 dosyaları olarak da kaydedebilirsiniz. Ayrıca, katılımcılarınıza otomatik olarak e-posta bildirimleri gönderiyoruz. Tüm özellikler, planlama sürecinde «Gelişmiş ayarlar» bölümünde mevcuttur"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-edit-section' => ////////////////////////////////////////////////////////////

@@ -465,13 +465,13 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Săli de webinar instantanee <span class="tooltip" data-tip="Creați săli de webinar disponibile 24/7, cu linkuri statice. Adăugați protecție prin parolă pentru securitate suplimentară sau treceți la modul pagină de destinație. În modul pagină de destinație, participanții vor vedea un formular pentru a introduce adresa lor de email și alte detalii înainte de a accesa sala. Acest mod este ideal pentru colectarea de informații despre participanți înainte de a le acorda acces la viitoarele webinarii"></span>
+		Săli de webinar <span class="tooltip" data-tip="Creați săli de webinar disponibile 24/7 cu linkuri statice. Adăugați protecție prin parolă pentru securitate suplimentară sau utilizați modul pagină de destinație. În acest mod, participanții vor vedea un formular pentru a introduce adresa lor de e-mail și alte detalii înainte de a accesa sala. Acest mod este ideal pentru colectarea informațiilor despre participanți înainte de a le acorda acces la webinariile viitoare"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Evenimente programate <span class="tooltip" data-tip="Use our integrated calendar to schedule your future webinars. Make webinars private with unique links sent by email or share them yourself. Add logos and banners for a professional touch. You can also record webinars as MP4 files. Plus, remember we automatically send out email notifications to your attendees. All features are available in the "Advanced settings" section during the scheduling process"></span>
+		Webinare programate <span class="tooltip" data-tip="Utilizați calendarul nostru integrat pentru a vă programa viitoarele webinarii. Faceți webinariile private cu linkuri unice trimise prin e-mail sau partajați-le singur. Adăugați sigle și bannere pentru un aspect profesional. De asemenea, puteți salva webinariile ca fișiere MP4. În plus, trimitem automat notificări prin e-mail participanților dumneavoastră. Toate funcțiile sunt disponibile în secțiunea «Setări avansate» în timpul procesului de programare"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-edit-section' => ////////////////////////////////////////////////////////////

@@ -465,13 +465,13 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Azonnali webináriumi szobák <span class="tooltip" data-tip="Hozzon létre webináriumi szobákat, amelyek a nap 24 órájában elérhetők, és statikus linkekkel rendelkeznek. Adjon hozzá jelszóvédelmet a további biztonság érdekében, vagy váltson át céloldal módra. A céloldal módban a résztvevők egy űrlapot látnak, ahol meg kell adniuk e-mail címüket és egyéb adataikat, mielőtt belépnének a szobába. Ez a mód ideális a résztvevők adatainak gyűjtésére, mielőtt hozzáférést biztosítanának a jövőbeni webináriumokhoz"></span>
+		Webinárium szobák <span class="tooltip" data-tip="Hozzon létre webinárium szobákat, amelyek éjjel-nappal elérhetők statikus linkekkel. Adjon hozzá jelszavas védelmet a nagyobb biztonság érdekében, vagy használja a landing page módot. Ebben a módban a résztvevők egy űrlapot látnak, ahol meg kell adniuk az e-mail címüket és egyéb részleteiket, mielőtt belépnének a szobába. Ez a mód ideális a résztvevők adatainak összegyűjtésére, mielőtt hozzáférést biztosítana a jövőbeli webináriumokhoz"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tervezett webináriumok <span class="tooltip" data-tip="Használja a beépített naptárunkat a jövőbeli webináriumok ütemezéséhez. Tegye a webináriumokat priváttá egyedi linkekkel, amelyeket e-mailben küldünk, vagy ossza meg azokat maga. Adj hozzá logókat és bannereket a professzionális megjelenés érdekében. Felveheti a webináriumokat MP4 fájlként is. Ezenkívül ne feledje, hogy automatikusan küldünk e-mail értesítéseket a résztvevőknek. Az összes funkció elérhető az „Haladó beállítások” szekcióban az ütemezési folyamat során"></span>
+		Ütemezett webináriumok <span class="tooltip" data-tip="Használja integrált naptárunkat a jövőbeli webináriumok ütemezéséhez. Tegye a webináriumokat priváttá egyedi linkekkel, amelyeket e-mailben küldenek el, vagy ossza meg őket saját maga. Adjon hozzá logókat és bannereket a professzionális megjelenés érdekében. A webináriumokat MP4 fájlként is elmentheti. Ezenkívül automatikusan e-mail értesítéseket küldünk a résztvevőknek. Minden funkció elérhető az ütemezési folyamat során az «Speciális beállítások» részben"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-edit-section' => ////////////////////////////////////////////////////////////

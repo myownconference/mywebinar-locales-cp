@@ -465,13 +465,13 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Stanze webinar istantanee <span class="tooltip" data-tip="Crea stanze webinar disponibili 24 ore su 24, 7 giorni su 7, con link statici. Aggiungi la protezione tramite password per una sicurezza extra o passa alla modalità pagina di destinazione. In modalità pagina di destinazione, i partecipanti vedranno un modulo per inserire il loro indirizzo email e altri dettagli prima di accedere alla stanza. Questa modalità è ideale per raccogliere informazioni sui partecipanti prima di concedere l‘accesso ai futuri webinar"></span>
+		Stanze per webinar <span class="tooltip" data-tip="Crea stanze per webinar disponibili 24 ore su 24, 7 giorni su 7 con link statici. Aggiungi la protezione tramite password per una maggiore sicurezza o utilizza la modalità pagina di destinazione. In questa modalità, i partecipanti vedranno un modulo in cui inserire la propria email e altri dettagli prima di accedere alla stanza. Questa modalità è ideale per raccogliere informazioni sui partecipanti prima di concedere loro l‘accesso ai webinar futuri"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Eventi programmati <span class="tooltip" data-tip="Use our integrated calendar to schedule your future webinars. Make webinars private with unique links sent by email or share them yourself. Add logos and banners for a professional touch. You can also record webinars as MP4 files. Plus, remember we automatically send out email notifications to your attendees. All features are available in the "Advanced settings" section during the scheduling process"></span>
+		Webinar programmati <span class="tooltip" data-tip="Utilizza il nostro calendario integrato per programmare i tuoi futuri webinar. Rendi i webinar privati con link unici inviati via email o condividili tu stesso. Aggiungi loghi e banner per un tocco professionale. Puoi anche salvare i webinar come file MP4. Inoltre, inviamo automaticamente notifiche email ai tuoi partecipanti. Tutte le funzionalità sono disponibili nella sezione «Impostazioni avanzate» durante il processo di pianificazione"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-edit-section' => ////////////////////////////////////////////////////////////

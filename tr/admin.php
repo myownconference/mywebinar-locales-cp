@@ -2649,7 +2649,7 @@ return [
 	'guests-by-country' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ülkeler
+		Ülkeler <span class="tooltip" data-tip="Web seminerinize katılan katılımcıların coğrafi dağılımını keşfedin. Bu bölüm, katılımcıların web seminerinize bağlandığı ülkeleri gösterir ve kitlenizin küresel erişimi hakkında değerli bilgiler sunar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copied' => //////////////////////////////////////////////////////////////////////////
@@ -2661,13 +2661,13 @@ return [
 	'guests-by-mail' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Katılım
+		Katılım <span class="tooltip" data-tip="Davet edilen katılımcı sayısını, katılımı onaylayan ve katılanlarla karşılaştırın. Davetlerin etkinliğini gerçek katılımla detaylı grafiklerle karşılaştırın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guests-by-time' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		İlgilenme
+		Katılım <span class="tooltip" data-tip="Web semineriniz boyunca katılımcıların katılımını izleyin. Bu grafik, izleyici büyümesini zamanla gösterir, katılımcıların ne zaman katıldığını ve ayrıldığını bir zaman çizelgesinde belirtir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guest-count' => /////////////////////////////////////////////////////////////////////
@@ -4136,7 +4136,7 @@ return [
 	'letters-schedule' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		E-posta gönderme zamanlaması
+		Posta gönderim programı <span class="tooltip" data-tip="Web semineri katılımcılarına gönderilen bildirimlerin programını ve durumunu kontrol edin. Bu, etkinlikten 3 gün, 1 gün ve 1 saat önce gönderilen hatırlatıcıları, geç kalanlar için bildirimleri ve web semineri sonrası takipleri içerir. Zamanlamayı, ilerlemeyi ve davet edilen katılımcıların sayısını burada görüntüleyin"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'next-step' => ///////////////////////////////////////////////////////////////////////
@@ -5211,7 +5211,7 @@ return [
 	'import-chat-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar zamanı, örn. "+00:10:23"; Yazar tipi, örneğin "M" veya "G"; Kimden, örneğin "Ahmet Yılmaz"; Ülke, örneğin "TR"; Mesaj, örneğin "blah-blah-blah"<br><br>Örnek:<br>–––<br>"+00:12:15";"G";"Ahmet Yılmaz";"TR";"Merhaba! İlk mesajım bu!"<br>"+00:15:13";"G";"Ahmet Yılmaz";"TR";"Bu da ikinci mesajım."<br>...<br>"+01:12:45";"G";"Ahmet Yılmaz";"TR";"Son mesajım. Hoşça kal!"<br>–––
+		Webinar zamanı, örn. "+00:10:23"; Yazar tipi, örneğin "M" veya "G"; Kimden, örneğin "Ahmet Yılmaz"; Ülke, örneğin "TR"; Mesaj, örneğin "blah-blah-blah"<br><br>Örnek:<br>–––<br>"+00:12:15";"G";"Ahmet Yılmaz";"TR";"Merhaba! İlk mesajım bu!"<br>"+00:15:13";"G";"Ahmet Yılmaz";"TR";"Bu da ikinci mesajım"<br>...<br>"+01:12:45";"G";"Ahmet Yılmaz";"TR";"Son mesajım. Hoşça kal!"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-cta-placeholder' => //////////////////////////////////////////////////////////
@@ -5703,7 +5703,7 @@ return [
 	'mails-statistic' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		E-posta istatistikleri
+		Posta istatistikleri <span class="tooltip" data-tip="E-posta kampanyalarınızın etkinliğini takip edin. Gönderilen e-postaların toplam sayısını, başarılı teslimatları ve başarısız teslimatları görüntüleyin"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////
@@ -6297,7 +6297,7 @@ return [
 	'registers-statistic' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Katılım istatistikleri
+		Kayıt istatistikleri <span class="tooltip" data-tip="Web semineriniz için katılımcı kayıt istatistiklerini takip edin. Bu bölüm, genel bağlantı üzerinden yapılan kendi kendine kayıt sayısını ve davet e-postaları aracılığıyla katılım onaylarını veya reddetmelerini gösterir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

@@ -471,7 +471,7 @@ return [
 	'webinars-title' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinaires programmés <span class="tooltip" data-tip="Utilisez notre calendrier intégré pour planifier vos futurs webinaires. Rendez les webinaires privés avec des liens uniques envoyés par e-mail ou partagez-les vous-même. Ajoutez des logos et des bannières pour une touche professionnelle. Vous pouvez également enregistrer les webinaires sous forme de fichiers MP4. De plus, nous envoyons automatiquement des notifications par e-mail à vos participants. Toutes les fonctionnalités sont disponibles dans la section «Paramètres avancés» lors du processus de planification."></span>
+		Webinaires programmés <span class="tooltip" data-tip="Utilisez notre calendrier intégré pour planifier vos futurs webinaires. Rendez les webinaires privés avec des liens uniques envoyés par e-mail ou partagez-les vous-même. Ajoutez des logos et des bannières pour une touche professionnelle. Vous pouvez également enregistrer les webinaires sous forme de fichiers MP4. De plus, nous envoyons automatiquement des notifications par e-mail à vos participants. Toutes les fonctionnalités sont disponibles dans la section «Paramètres avancés» lors du processus de planification"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-edit-section' => ////////////////////////////////////////////////////////////
@@ -1774,7 +1774,7 @@ return [
 	'record-all' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tout <span class="tooltip" data-tip="Lorsqu‘il est activé, la vidéo du webinaire capturera la partie sélectionnée de la salle du webinaire. Vous pouvez personnaliser votre enregistrement en choisissant de masquer ou afficher le nom du présentateur, inclure ou exclure le chat public, etc."></span>
+		Tout <span class="tooltip" data-tip="Lorsqu‘il est activé, la vidéo du webinaire capturera la partie sélectionnée de la salle du webinaire. Vous pouvez personnaliser votre enregistrement en choisissant de masquer ou afficher le nom du présentateur, inclure ou exclure le chat public, etc"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-userlist' => /////////////////////////////////////////////////////////////////
@@ -2650,7 +2650,7 @@ return [
 	'guests-by-country' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pays
+		Pays <span class="tooltip" data-tip="Explorez la répartition géographique de vos participants. Cette section affiche les pays d‘où les participants se sont connectés à votre webinaire, offrant des informations précieuses sur la portée mondiale de votre audience"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copied' => //////////////////////////////////////////////////////////////////////////
@@ -2662,13 +2662,13 @@ return [
 	'guests-by-mail' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Implication
+		Participation <span class="tooltip" data-tip="Voyez combien de participants ont été invités par rapport à ceux qui ont confirmé et participé. Comparez l‘efficacité des invitations avec la participation réelle à l‘aide de graphiques à barres détaillés"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guests-by-time' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Engagement
+		Engagement <span class="tooltip" data-tip="Surveillez l‘engagement des participants pendant votre webinaire. Ce graphique montre l‘évolution de l‘audience au fil du temps, indiquant quand les participants se joignent et partent, affiché sur une chronologie"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guest-count' => /////////////////////////////////////////////////////////////////////
@@ -4152,7 +4152,7 @@ return [
 	'letters-schedule' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Planning d‘envoi
+		Calendrier des envois <span class="tooltip" data-tip="Vérifiez le calendrier et le statut des notifications envoyées aux participants du webinaire. Cela comprend les rappels envoyés 3 jours, 1 jour et 1 heure avant l‘événement, ainsi que les notifications pour les retardataires et les suivis après le webinaire. Consultez ici le calendrier, l‘avancement et le nombre de participants invités"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'next-step' => ///////////////////////////////////////////////////////////////////////
@@ -5233,7 +5233,7 @@ return [
 	'import-chat-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Heure de l‘événement, par ex. "+00:10:23"; Type d‘auteur, par ex. "M" ou "G"; À partir du nom, par ex. "John Smith"; Pays, par ex. "FR"; Message, par ex. "blah-blah-blah"<br><br>Par exemple:<br>–––<br>"+00:12:15";"G";"John Doe";"FR";"Hello! It is first message!"<br>"+00:15:13";"G";"John Doe";"FR";"This is my second message."<br>...<br>"+01:12:45";"G";"John Doe";"FR";"This is my last message. Bye!"<br>–––
+		Heure de l‘événement, par ex. "+00:10:23"; Type d‘auteur, par ex. "M" ou "G"; À partir du nom, par ex. "John Smith"; Pays, par ex. "FR"; Message, par ex. "blah-blah-blah"<br><br>Par exemple:<br>–––<br>"+00:12:15";"G";"John Doe";"FR";"Hello! It is first message!"<br>"+00:15:13";"G";"John Doe";"FR";"This is my second message"<br>...<br>"+01:12:45";"G";"John Doe";"FR";"This is my last message. Bye!"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-cta-placeholder' => //////////////////////////////////////////////////////////
@@ -5726,7 +5726,7 @@ return [
 	'mails-statistic' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Statistiques d‘envoi
+		Statistiques de mailing <span class="tooltip" data-tip="Suivez l‘efficacité de vos campagnes d‘emailing. Consultez le nombre total d‘emails envoyés, de livraisons réussies et d‘échecs de livraison"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////
@@ -6320,7 +6320,7 @@ return [
 	'registers-statistic' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Statistiques de présence
+		Statistiques d‘inscription <span class="tooltip" data-tip="Suivez les statistiques d‘inscription des participants à votre webinaire. Cette section montre le nombre d‘inscriptions via le lien public et suit les confirmations ou les refus de participation via les emails d‘invitation"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

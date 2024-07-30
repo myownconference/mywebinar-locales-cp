@@ -2649,7 +2649,7 @@ return [
 	'guests-by-country' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		País
+		Países <span class="tooltip" data-tip="Explora la distribución geográfica de tus asistentes. Esta sección muestra los países desde los cuales los participantes se conectaron a tu webinar, ofreciendo información valiosa sobre el alcance global de tu audiencia"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copied' => //////////////////////////////////////////////////////////////////////////
@@ -2661,13 +2661,13 @@ return [
 	'guests-by-mail' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Número de participantes provenientes de emails de invitación
+		Participación <span class="tooltip" data-tip="Vea cuántos asistentes fueron invitados en comparación con los que confirmaron y asistieron. Compare la efectividad de las invitaciones con la participación real usando gráficos de barras detallados"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guests-by-time' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Asistencia al Webinario
+		Participación <span class="tooltip" data-tip="Monitorea la participación de los asistentes durante tu webinar. Este gráfico muestra el crecimiento de la audiencia a lo largo del tiempo, indicando cuándo los asistentes se unen y se van en una línea de tiempo"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guest-count' => /////////////////////////////////////////////////////////////////////
@@ -4144,7 +4144,7 @@ return [
 	'letters-schedule' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Calendario de envíos
+		Horario de envío de correos <span class="tooltip" data-tip="Verifique el horario y el estado de las notificaciones enviadas a los asistentes al webinar. Esto incluye recordatorios enviados 3 días, 1 día y 1 hora antes del evento, así como notificaciones para los que lleguen tarde y seguimientos después del webinar. Aquí puede ver el tiempo, el progreso y el número de asistentes invitados"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'next-step' => ///////////////////////////////////////////////////////////////////////
@@ -5229,7 +5229,7 @@ return [
 	'import-chat-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Hora del evento, p. "+00:10:23"; Tipo de autor, p. "M" o "G"; Del nombre, p. "John Smith"; País, p. "ES"; Mensaje, p. "blah-blah-blah"<br><br>Por ejemplo:<br>–––<br>"+00:12:15";"G";"Juan Pérez";"ES";"¡Hola! ¡Es el primer mensaje!"<br>"+00:15:13";"G";"Juan Pérez";"ES";"Este es mi segundo mensaje."<br>...<br>"+01:12:45";"G";"Juan Pérez";"ES";"Este es mi último mensaje. ¡Adiós!"<br>–––
+		Hora del evento, p. "+00:10:23"; Tipo de autor, p. "M" o "G"; Del nombre, p. "John Smith"; País, p. "ES"; Mensaje, p. "blah-blah-blah"<br><br>Por ejemplo:<br>–––<br>"+00:12:15";"G";"Juan Pérez";"ES";"¡Hola! ¡Es el primer mensaje!"<br>"+00:15:13";"G";"Juan Pérez";"ES";"Este es mi segundo mensaje"<br>...<br>"+01:12:45";"G";"Juan Pérez";"ES";"Este es mi último mensaje. ¡Adiós!"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-cta-placeholder' => //////////////////////////////////////////////////////////
@@ -5722,7 +5722,7 @@ return [
 	'mails-statistic' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mails statistic
+		Estadísticas de envío <span class="tooltip" data-tip="Sigue la efectividad de tus campañas de correo electrónico. Consulta el número total de correos enviados, entregas exitosas y fallidas"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////
@@ -6316,7 +6316,7 @@ return [
 	'registers-statistic' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Estadísticas de asistencia
+		Estadísticas de registro <span class="tooltip" data-tip="Sigue las estadísticas de registro de asistentes para tu webinar. Esta sección muestra el número de registros a través del enlace público y rastrea las confirmaciones o rechazos de asistencia a través de los correos electrónicos de invitación"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

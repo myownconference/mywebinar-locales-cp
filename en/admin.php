@@ -2649,7 +2649,7 @@ return [
 	'guests-by-country' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Countries
+		Countries <span class="tooltip" data-tip="Explore the geographical distribution of your attendees. This section displays the countries from which participants connected to your webinar, offering valuable insights into your audience‘s global reach"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copied' => //////////////////////////////////////////////////////////////////////////
@@ -2661,13 +2661,13 @@ return [
 	'guests-by-mail' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Involvement
+		Involvement <span class="tooltip" data-tip="See how many attendees were invited versus those who confirmed and joined. Compare invitation effectiveness with actual participation using detailed bar graphs"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guests-by-time' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Engagement
+		Engagement <span class="tooltip" data-tip="Monitor attendee engagement throughout your webinar. This graph tracks audience growth over time, showing when attendees join and leave, displayed on a timeline"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guest-count' => /////////////////////////////////////////////////////////////////////
@@ -4136,7 +4136,7 @@ return [
 	'letters-schedule' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mailing schedule
+		Mailing schedule <span class="tooltip" data-tip="Check the schedule and status of notifications sent to webinar attendees. This includes reminders sent 3 days, 1 day, and 1 hour before the event, as well as notifications for latecomers and post-webinar follow-ups. View the timing, progress, and number of invited attendees here"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'next-step' => ///////////////////////////////////////////////////////////////////////
@@ -5211,7 +5211,7 @@ return [
 	'import-chat-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar time, e.g. "+00:10:23"; Author type, e.g. "M" or "G"; From name, e.g. "John Smith"; Country, e.g. "GB"; Message, e.g. "blah-blah-blah"<br><br>For example:<br>–––<br>"+00:12:15";"G";"John Doe";"GB";"Hello! It is first message!"<br>"+00:15:13";"G";"John Doe";"GB";"This is my second message."<br>...<br>"+01:12:45";"G";"John Doe";"GB";"This is my last message. Bye!"<br>–––
+		Webinar time, e.g. "+00:10:23"; Author type, e.g. "M" or "G"; From name, e.g. "John Smith"; Country, e.g. "GB"; Message, e.g. "blah-blah-blah"<br><br>For example:<br>–––<br>"+00:12:15";"G";"John Doe";"GB";"Hello! It is first message!"<br>"+00:15:13";"G";"John Doe";"GB";"This is my second message"<br>...<br>"+01:12:45";"G";"John Doe";"GB";"This is my last message. Bye!"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-cta-placeholder' => //////////////////////////////////////////////////////////
@@ -5703,7 +5703,7 @@ return [
 	'mails-statistic' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mailing statistics
+		Mailing statistics <span class="tooltip" data-tip="Track your email outreach effectiveness. View the total number of email notifications sent, successful deliveries, and delivery failures"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////
@@ -6297,7 +6297,7 @@ return [
 	'registers-statistic' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Register statistics
+		Register statistics <span class="tooltip" data-tip="Track attendee registration statistics for your webinar. This section shows the number of self-registrations via the public link, and tracks confirmations or declines of attendance through the invitation emails"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

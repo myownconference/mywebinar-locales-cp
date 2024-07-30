@@ -1407,7 +1407,7 @@ return [
 	'one-day-plan-section' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Plan de o zi <span class="tooltip" data-tip="Alegeți planul de o zi pentru a accesa funcțiile premium timp de 24 de ore, inclusiv diverse capacități de participanți, stocare suplimentară și calitate îmbunătățită a înregistrării. Selectați data de activare preferată pentru a se potrivi programului dvs."></span>
+		Plan de o zi <span class="tooltip" data-tip="Alegeți planul de o zi pentru a accesa funcțiile premium timp de 24 de ore, inclusiv diverse capacități de participanți, stocare suplimentară și calitate îmbunătățită a înregistrării. Selectați data de activare preferată pentru a se potrivi programului dvs"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'choose-one-date' => /////////////////////////////////////////////////////////////////
@@ -2649,7 +2649,7 @@ return [
 	'guests-by-country' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Țări
+		Țări <span class="tooltip" data-tip="Explorați distribuția geografică a participanților la webinarul dvs. Această secțiune afișează țările din care s-au conectat participanții, oferind informații valoroase despre acoperirea globală a publicului dvs"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copied' => //////////////////////////////////////////////////////////////////////////
@@ -2661,13 +2661,13 @@ return [
 	'guests-by-mail' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Implicare
+		Implicare <span class="tooltip" data-tip="Vedeți câți participanți au fost invitați în comparație cu cei care au confirmat și au participat. Comparați eficiența invitațiilor cu participarea reală folosind grafice detaliate"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guests-by-time' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Angajament
+		Implicare <span class="tooltip" data-tip="Monitorizați implicarea participanților pe parcursul webinarului. Acest grafic arată creșterea audienței în timp, indicând când participanții se alătură și părăsesc pe o cronologie"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guest-count' => /////////////////////////////////////////////////////////////////////
@@ -2847,7 +2847,7 @@ return [
 	'landing-page-edit' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Editează pagina de destinație <span class="tooltip" data-tip="Personalizați pagina de înregistrare pentru viitoarele webinarii aici. Permiteți participanților să se înscrie introducând adresa de e-mail, numele și alte informații pe care le configurați în setările avansate. Pur și simplu copiați linkul pentru a-l partaja cu publicul dvs."></span>
+		Editează pagina de destinație <span class="tooltip" data-tip="Personalizați pagina de înregistrare pentru viitoarele webinarii aici. Permiteți participanților să se înscrie introducând adresa de e-mail, numele și alte informații pe care le configurați în setările avansate. Pur și simplu copiați linkul pentru a-l partaja cu publicul dvs"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'link-on-lending' => /////////////////////////////////////////////////////////////////
@@ -4136,7 +4136,7 @@ return [
 	'letters-schedule' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Program de corespondență
+		Program de trimitere <span class="tooltip" data-tip="Verificați programul și starea notificărilor trimise participanților la webinar. Acestea includ mementouri trimise cu 3 zile, 1 zi și 1 oră înainte de eveniment, precum și notificări pentru întârziați și urmăriri după webinar. Aici puteți vedea timpul, progresul și numărul de participanți invitați"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'next-step' => ///////////////////////////////////////////////////////////////////////
@@ -5211,7 +5211,7 @@ return [
 	'import-chat-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Timpul evenimentului, ex. "+00:10:23"; Tipul autorului, ex. "M" sau "G"; Numele, ex. "Ion Popescu"; Țara, ex. "RO"; Mesaj, ex. "bla-bla-bla"<br><br>De exemplu:<br>–––<br>"+00:12:15";"G";"Ion Ionescu";"RO";"Salut! Acesta este primul meu mesaj!"<br>"+00:15:13";"G";"Ion Ionescu";"RO";"Acesta este al doilea meu mesaj."<br>...<br>"+01:12:45";"G";"Ion Ionescu";"RO";"Acesta este ultimul meu mesaj. La revedere!"<br>–––
+		Timpul evenimentului, ex. "+00:10:23"; Tipul autorului, ex. "M" sau "G"; Numele, ex. "Ion Popescu"; Țara, ex. "RO"; Mesaj, ex. "bla-bla-bla"<br><br>De exemplu:<br>–––<br>"+00:12:15";"G";"Ion Ionescu";"RO";"Salut! Acesta este primul meu mesaj!"<br>"+00:15:13";"G";"Ion Ionescu";"RO";"Acesta este al doilea meu mesaj"<br>...<br>"+01:12:45";"G";"Ion Ionescu";"RO";"Acesta este ultimul meu mesaj. La revedere!"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-cta-placeholder' => //////////////////////////////////////////////////////////
@@ -5703,7 +5703,7 @@ return [
 	'mails-statistic' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Statistici de trimitere
+		Statistici trimitere <span class="tooltip" data-tip="Urmărește eficiența campaniilor tale de e-mail. Vezi numărul total de e-mailuri trimise, livrările reușite și eșecurile de livrare"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////
@@ -6297,7 +6297,7 @@ return [
 	'registers-statistic' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Statistici de prezență
+		Statistici de înregistrare <span class="tooltip" data-tip="Urmărește statisticile de înregistrare ale participanților la webinarul tău. Această secțiune arată numărul de înregistrări prin linkul public și urmărește confirmările sau refuzurile de participare prin e-mailurile de invitație"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

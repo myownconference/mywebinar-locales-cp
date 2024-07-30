@@ -1731,19 +1731,19 @@ return [
 	'record-options' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Beállítások <span class="tooltip" data-tip="Személyre szabhatja webinárium felvételi beállításait, hogy pontosan azt rögzítse, ami Önnek a legfontosabb. Akár egy adott szakaszt szeretne kiemelni, akár az egész webinárium szobát rögzíteni, állítsa be választásait igényei szerint. Ne felejtse el elmenteni beállításait, és minden egyes alkalommal átnézni azokat a legjobb felvételi minőség biztosítása érdekében."></span>
+		Beállítások <span class="tooltip" data-tip="Személyre szabhatja webinárium felvételi beállításait, hogy pontosan azt rögzítse, ami Önnek a legfontosabb. Akár egy adott szakaszt szeretne kiemelni, akár az egész webinárium szobát rögzíteni, állítsa be választásait igényei szerint. Ne felejtse el elmenteni beállításait, és minden egyes alkalommal átnézni azokat a legjobb felvételi minőség biztosítása érdekében"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-only-webcams' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Csak webcam és mikrofon <span class="tooltip" data-tip="Ha aktiválva van, a webinárium felvétele csak a webcam képét és a mikrofon hangját fogja rögzíteni, kizárva a munkaterület összes többi elemét."></span>
+		Csak webcam és mikrofon <span class="tooltip" data-tip="Ha aktiválva van, a webinárium felvétele csak a webcam képét és a mikrofon hangját fogja rögzíteni, kizárva a munkaterület összes többi elemét"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Automatikus felvétel bármely moderátor bejelentkezésekor <span class="tooltip" data-tip="Egyszerűsítse webinárium felvételi folyamatát ezzel a kényelmes funkcióval. Ha engedélyezve van, a felvétel automatikusan elindul, amint az első moderátor bejelentkezik a webináriumba, biztosítva, hogy minden fontos pillanatot rögzítsen a kezdettől a végéig. A felvétel akkor fejeződik be, amikor az utolsó moderátor kilép a webináriumból, biztosítva az ülés teljes rögzítését kézi beavatkozás nélkül."></span>
+		Automatikus felvétel bármely moderátor bejelentkezésekor <span class="tooltip" data-tip="Egyszerűsítse webinárium felvételi folyamatát ezzel a kényelmes funkcióval. Ha engedélyezve van, a felvétel automatikusan elindul, amint az első moderátor bejelentkezik a webináriumba, biztosítva, hogy minden fontos pillanatot rögzítsen a kezdettől a végéig. A felvétel akkor fejeződik be, amikor az utolsó moderátor kilép a webináriumból, biztosítva az ülés teljes rögzítését kézi beavatkozás nélkül"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto-no-stop' => /////////////////////////////////////////////////////////////
@@ -1761,19 +1761,19 @@ return [
 	'record-cams-and-slides' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webcam, mikrofon és munkaterület <span class="tooltip" data-tip="Ha aktiválva van, a webinárium felvétele rögzíti a webcam képét, a mikrofon hangját, valamint a munkaterületet a prezentációval, videóval vagy képernyőmegosztással, kizárva az ezen kívüli elemeket vagy tevékenységeket."></span>
+		Webcam, mikrofon és munkaterület <span class="tooltip" data-tip="Ha aktiválva van, a webinárium felvétele rögzíti a webcam képét, a mikrofon hangját, valamint a munkaterületet a prezentációval, videóval vagy képernyőmegosztással, kizárva az ezen kívüli elemeket vagy tevékenységeket"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-cams-slides-chat' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webcam, mikrofon, csevegés és munkaterület <span class="tooltip" data-tip="Ha aktiválva van, a webinárium felvétele tartalmazza a webcam képét, a mikrofon hangját, a csevegési interakciókat és a munkaterületet, biztosítva a webinárium környezetének átfogó rögzítését."></span>
+		Webcam, mikrofon, csevegés és munkaterület <span class="tooltip" data-tip="Ha aktiválva van, a webinárium felvétele tartalmazza a webcam képét, a mikrofon hangját, a csevegési interakciókat és a munkaterületet, biztosítva a webinárium környezetének átfogó rögzítését"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-all' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Minden <span class="tooltip" data-tip="Ha engedélyezve van, a webinárium videó rögzíti a webináriumi szoba kiválasztott részét. Testreszabhatja a felvételt azzal, hogy elrejti vagy megjeleníti az előadó nevét, belefoglalja vagy kizárja a nyilvános csevegést stb."></span>
+		Minden <span class="tooltip" data-tip="Ha engedélyezve van, a webinárium videó rögzíti a webináriumi szoba kiválasztott részét. Testreszabhatja a felvételt azzal, hogy elrejti vagy megjeleníti az előadó nevét, belefoglalja vagy kizárja a nyilvános csevegést stb"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-userlist' => /////////////////////////////////////////////////////////////////
@@ -1809,7 +1809,7 @@ return [
 	'gtm-id' => //////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Google Tag Manager azonosító <span class="tooltip" data-tip="Adja meg egyedi GTM-azonosítóját, hogy részletes forgalom-elemzést és átfogó jelentéseket készíthessen webináriumaihoz. Ez az integráció részletes betekintést nyújt a résztvevők viselkedésébe és interakcióiba."></span>
+		Google Tag Manager azonosító <span class="tooltip" data-tip="Adja meg egyedi GTM-azonosítóját, hogy részletes forgalom-elemzést és átfogó jelentéseket készíthessen webináriumaihoz. Ez az integráció részletes betekintést nyújt a résztvevők viselkedésébe és interakcióiba"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'gtm-id-placeholder' => //////////////////////////////////////////////////////////////
@@ -1839,19 +1839,19 @@ return [
 	'room-options-buttonquestion' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Privát csevegés engedélyezése a moderátorokkal <span class="tooltip" data-tip="Ha aktiválva van, egy külön menüpont jelenik meg a webinárium szobában, lehetővé téve a résztvevők számára, hogy szöveges kérdéseket tegyenek fel. Bármely webinárium moderátor megtekintheti és megválaszolhatja ezeket a kérdéseket, elősegítve az interakciót és az elköteleződést a webinárium során."></span>
+		Privát csevegés engedélyezése a moderátorokkal <span class="tooltip" data-tip="Ha aktiválva van, egy külön menüpont jelenik meg a webinárium szobában, lehetővé téve a résztvevők számára, hogy szöveges kérdéseket tegyenek fel. Bármely webinárium moderátor megtekintheti és megválaszolhatja ezeket a kérdéseket, elősegítve az interakciót és az elköteleződést a webinárium során"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-buttonvoice' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Beszélési kérelem engedélyezése <span class="tooltip" data-tip="Ha aktiválva van, egy külön menüpont lesz elérhető a webinárium szobában, amely lehetővé teszi a résztvevők számára, hogy beszédre vonatkozó kérelmet küldjenek. A moderátorok dönthetnek arról, hogy jóváhagyják vagy elutasítják ezeket a kérelmeket. Ha jóváhagyják, a résztvevőnek engedélyeznie kell a webcam és a mikrofon hozzáférést, hogy szóban is részt vehessen a beszélgetésben."></span>
+		Beszélési kérelem engedélyezése <span class="tooltip" data-tip="Ha aktiválva van, egy külön menüpont lesz elérhető a webinárium szobában, amely lehetővé teszi a résztvevők számára, hogy beszédre vonatkozó kérelmet küldjenek. A moderátorok dönthetnek arról, hogy jóváhagyják vagy elutasítják ezeket a kérelmeket. Ha jóváhagyják, a résztvevőnek engedélyeznie kell a webcam és a mikrofon hozzáférést, hogy szóban is részt vehessen a beszélgetésben"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-buttonqa' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kérdés és válasz szekció engedélyezése <span class="tooltip" data-tip="Ha aktiválva van, egy külön menüpont lesz elérhető a webinárium szobában, amely lehetővé teszi a moderátorok számára, hogy kiemeljék a kérdéseket a nyilvános szöveges csevegés során, és lehetővé teszi a résztvevők számára, hogy szavazzanak kedvenceikre. Ez a funkció egy dedikált Kérdés és Válasz felületet biztosít a moderátoroknak a kérdések nyomon követésére és kezelésére, megmutatva, melyek vannak éppen megválaszolva. A résztvevői szavazatok prioritássá teszik a kérdéseket, biztosítva, hogy a legnépszerűbbek könnyen láthatók legyenek a tetején."></span>
+		Kérdés és válasz szekció engedélyezése <span class="tooltip" data-tip="Ha aktiválva van, egy külön menüpont lesz elérhető a webinárium szobában, amely lehetővé teszi a moderátorok számára, hogy kiemeljék a kérdéseket a nyilvános szöveges csevegés során, és lehetővé teszi a résztvevők számára, hogy szavazzanak kedvenceikre. Ez a funkció egy dedikált Kérdés és Válasz felületet biztosít a moderátoroknak a kérdések nyomon követésére és kezelésére, megmutatva, melyek vannak éppen megválaszolva. A résztvevői szavazatok prioritássá teszik a kérdéseket, biztosítva, hogy a legnépszerűbbek könnyen láthatók legyenek a tetején"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-message' => ///////////////////////////////////////////////////////////////////
@@ -1875,7 +1875,7 @@ return [
 	'room-options-header-theme' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Színek <span class="tooltip" data-tip="Testreszabhatja webinárium szobája megjelenését, hogy megfeleljen márkájának vagy hangulatának. Könnyedén módosíthatja a színeket, beállíthatja a szoba hátterét, és kiválaszthatja az előtér szövegének tökéletes árnyalatát. Hozzon létre olyan hangulatot, amely rezonál a közönségével, így minden webinárium egyedivé válik."></span>
+		Színek <span class="tooltip" data-tip="Testreszabhatja webinárium szobája megjelenését, hogy megfeleljen márkájának vagy hangulatának. Könnyedén módosíthatja a színeket, beállíthatja a szoba hátterét, és kiválaszthatja az előtér szövegének tökéletes árnyalatát. Hozzon létre olyan hangulatot, amely rezonál a közönségével, így minden webinárium egyedivé válik"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-color-room' => /////////////////////////////////////////////////////////
@@ -1893,7 +1893,7 @@ return [
 	'room-logo' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Logó <span class="tooltip" data-tip="A márkája fontos. Most zökkenőmentesen integrálhatja logóját a webinárium szobába, gazdagabb, márka-konzisztens felhasználói élményt biztosítva. A logó csak a webinárium résztvevői számára lesz látható. Ha meg szeretné tekinteni, lépjen be a webinárium szobába résztvevőként."></span>
+		Logó <span class="tooltip" data-tip="A márkája fontos. Most zökkenőmentesen integrálhatja logóját a webinárium szobába, gazdagabb, márka-konzisztens felhasználói élményt biztosítva. A logó csak a webinárium résztvevői számára lesz látható. Ha meg szeretné tekinteni, lépjen be a webinárium szobába résztvevőként"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-logo-size' => //////////////////////////////////////////////////////////////////
@@ -1911,7 +1911,7 @@ return [
 	'room-banner' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Banner <span class="tooltip" data-tip="A márkája fontos. Most zökkenőmentesen integrálhatja a bannerjét a webinárium szobába, gazdagabb, márka-konzisztens felhasználói élményt biztosítva. A banner csak a webinárium résztvevői számára lesz látható. Ha meg szeretné tekinteni, lépjen be a webinárium szobába résztvevőként."></span>
+		Banner <span class="tooltip" data-tip="A márkája fontos. Most zökkenőmentesen integrálhatja a bannerjét a webinárium szobába, gazdagabb, márka-konzisztens felhasználói élményt biztosítva. A banner csak a webinárium résztvevői számára lesz látható. Ha meg szeretné tekinteni, lépjen be a webinárium szobába résztvevőként"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-banner-size' => ////////////////////////////////////////////////////////////////
@@ -1929,7 +1929,7 @@ return [
 	'room-splash' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Háttér <span class="tooltip" data-tip="Állítsa be a webinárium szoba regisztrációs oldalának háttérszíneit és tervezési preferenciáit, hogy azok igazodjanak márkájához vagy a webinárium témájához."></span>
+		Háttér <span class="tooltip" data-tip="Állítsa be a webinárium szoba regisztrációs oldalának háttérszíneit és tervezési preferenciáit, hogy azok igazodjanak márkájához vagy a webinárium témájához"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-splash-size' => ////////////////////////////////////////////////////////////////
@@ -1947,31 +1947,31 @@ return [
 	'room-options-header-userlist' => ////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Résztvevők <span class="tooltip" data-tip="A webinárium szobánkban könnyedén beállíthatja, hogyan látja a résztvevők listáját. Kiválaszthatja, hogy megjelenítse a résztvevők neveit, országzászlóikat vagy gravatarjaikat. Ez lehetővé teszi, hogy személyre szabottabb és interaktívabb élményt nyújtson, ahogy Ön szeretné."></span>
+		Résztvevők <span class="tooltip" data-tip="A webinárium szobánkban könnyedén beállíthatja, hogyan látja a résztvevők listáját. Kiválaszthatja, hogy megjelenítse a résztvevők neveit, országzászlóikat vagy gravatarjaikat. Ez lehetővé teszi, hogy személyre szabottabb és interaktívabb élményt nyújtson, ahogy Ön szeretné"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Stream forrás <span class="tooltip" data-tip="Webinárium és videokonferencia platformunk három különböző stream forrást támogat:<br><br>• WebRTC – Minden webinárium előadó a böngésző alapú WebRTC protokollt használja UDP-n keresztül, amikor streameli a webcamját és mikrofonját. A technológia teljes potenciáljának kihasználásához gyors és megbízható internetkapcsolat szükséges.<br><br>• Plugin DTS – Minden webinárium előadó könnyedén letöltheti biztonságos DTS bővítményünket. Ez zökkenőmentesen működik a webcam és mikrofon streameléséhez, még lassabb internetkapcsolaton is. Csapatunk által kifejlesztett pluginunk minimális késleltetést biztosít. Tehát még egy nem túl jó internetkapcsolaton is legfeljebb 3 másodperces késést tapasztalhat a valós idejű streamhez képest.<br><br>• OBS – Csak egy webinárium előadó engedélyezett az OBS stúdió használatára nagyfelbontású streameléshez, akár 1080p minőségben. Azonban kérjük, vegye figyelembe, hogy jelentős késleltetés lehet, több mint 20 másodperc."></span>
+		Stream forrás <span class="tooltip" data-tip="Webinárium és videokonferencia platformunk három különböző stream forrást támogat:<br><br>• WebRTC – Minden webinárium előadó a böngésző alapú WebRTC protokollt használja UDP-n keresztül, amikor streameli a webcamját és mikrofonját. A technológia teljes potenciáljának kihasználásához gyors és megbízható internetkapcsolat szükséges.<br><br>• Plugin DTS – Minden webinárium előadó könnyedén letöltheti biztonságos DTS bővítményünket. Ez zökkenőmentesen működik a webcam és mikrofon streameléséhez, még lassabb internetkapcsolaton is. Csapatunk által kifejlesztett pluginunk minimális késleltetést biztosít. Tehát még egy nem túl jó internetkapcsolaton is legfeljebb 3 másodperces késést tapasztalhat a valós idejű streamhez képest.<br><br>• OBS – Csak egy webinárium előadó engedélyezett az OBS stúdió használatára nagyfelbontású streameléshez, akár 1080p minőségben. Azonban kérjük, vegye figyelembe, hogy jelentős késleltetés lehet, több mint 20 másodperc"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-browser' => //////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		WebRTC <span class="tooltip" data-tip="Minden webinárium előadó a böngésző alapú WebRTC protokollt használja UDP-n keresztül, amikor streameli a webcamját és mikrofonját. A technológia teljes potenciáljának kihasználásához gyors és megbízható internetkapcsolat szükséges."></span>
+		WebRTC <span class="tooltip" data-tip="Minden webinárium előadó a böngésző alapú WebRTC protokollt használja UDP-n keresztül, amikor streameli a webcamját és mikrofonját. A technológia teljes potenciáljának kihasználásához gyors és megbízható internetkapcsolat szükséges"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-plugin' => ///////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Plugin DTS <span class="tooltip" data-tip="Minden webinárium előadó könnyedén letöltheti biztonságos DTS bővítményünket. Ez zökkenőmentesen működik a webcam és mikrofon streameléséhez, még lassabb internetkapcsolaton is. Csapatunk által kifejlesztett pluginunk minimális késleltetést biztosít. Tehát még egy nem túl jó internetkapcsolaton is legfeljebb 3 másodperces késést tapasztalhat a valós idejű streamhez képest."></span>
+		Plugin DTS <span class="tooltip" data-tip="Minden webinárium előadó könnyedén letöltheti biztonságos DTS bővítményünket. Ez zökkenőmentesen működik a webcam és mikrofon streameléséhez, még lassabb internetkapcsolaton is. Csapatunk által kifejlesztett pluginunk minimális késleltetést biztosít. Tehát még egy nem túl jó internetkapcsolaton is legfeljebb 3 másodperces késést tapasztalhat a valós idejű streamhez képest"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-conference' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Esemény mód <span class="tooltip" data-tip="Kétféle webináriumot kínálunk:<br><br>• Meeting – Egy interaktív esemény mód, amelyet együttműködésre és megbeszélésre terveztek. Az előadó webcam képei dominálnak a képernyőn, biztosítva a személyes és szemtől szembeni kommunikációt. A rendelkezésre álló munkaterület egyenlően oszlik meg minden előadó között, biztosítva minden előadó megfelelő láthatóságát.<br><br>• Webinárium – Egy prezentáció-központú esemény mód, amely ideális előadásokhoz, workshopokhoz vagy termékbemutatókhoz. Míg egy vagy több előadó webcamjai diszkréten a sarokban vannak elhelyezve, a munkaterület nagy része a prezentációt vagy a képernyőmegosztást mutatja, lehetővé téve a résztvevők számára a bemutatott tartalomra való fókuszálást."></span>
+		Esemény mód <span class="tooltip" data-tip="Kétféle webináriumot kínálunk:<br><br>• Meeting – Egy interaktív esemény mód, amelyet együttműködésre és megbeszélésre terveztek. Az előadó webcam képei dominálnak a képernyőn, biztosítva a személyes és szemtől szembeni kommunikációt. A rendelkezésre álló munkaterület egyenlően oszlik meg minden előadó között, biztosítva minden előadó megfelelő láthatóságát.<br><br>• Webinárium – Egy prezentáció-központú esemény mód, amely ideális előadásokhoz, workshopokhoz vagy termékbemutatókhoz. Míg egy vagy több előadó webcamjai diszkréten a sarokban vannak elhelyezve, a munkaterület nagy része a prezentációt vagy a képernyőmegosztást mutatja, lehetővé téve a résztvevők számára a bemutatott tartalomra való fókuszálást"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
@@ -1989,25 +1989,25 @@ return [
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Csevegés szélessége <span class="tooltip" data-tip="Válassza ki a kívánt szélességet a nyilvános csevegés funkcióhoz a webinárium szobában. Az elrendezés egy csevegési szekciót és egy területet kombinál, amely az előadók videóstreamjeinek van szentelve. A webinárium szoba megjelenésének megtekintéséhez nézze meg az előnézetet a jobb alsó sarokban."></span>
+		Csevegés szélessége <span class="tooltip" data-tip="Válassza ki a kívánt szélességet a nyilvános csevegés funkcióhoz a webinárium szobában. Az elrendezés egy csevegési szekciót és egy területet kombinál, amely az előadók videóstreamjeinek van szentelve. A webinárium szoba megjelenésének megtekintéséhez nézze meg az előnézetet a jobb alsó sarokban"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-camchatsize' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webcam szélessége <span class="tooltip" data-tip="Állítsa be a webcam nézési területének szélességét a webinárium szobában. Ez a tér egy dedikált webcam szekciót és egy területet tartalmaz a prezentációkhoz vagy a biztonságos képernyőmegosztáshoz. A webinárium szoba megjelenésének megtekintéséhez nézze meg az előnézetet a jobb alsó sarokban."></span>
+		Webcam szélessége <span class="tooltip" data-tip="Állítsa be a webcam nézési területének szélességét a webinárium szobában. Ez a tér egy dedikált webcam szekciót és egy területet tartalmaz a prezentációkhoz vagy a biztonságos képernyőmegosztáshoz. A webinárium szoba megjelenésének megtekintéséhez nézze meg az előnézetet a jobb alsó sarokban"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-buttons' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Visszajelzés <span class="tooltip" data-tip="Engedélyezze a résztvevők számára, hogy aktívan részt vegyenek a webináriumában vagy webináriumában. Választhatja, hogy engedélyezi a szöveges beküldéseket, ha szeretné, hogy kérdéseket tegyenek fel, vagy lehetőséget ad arra, hogy szóban is feltehessék kérdéseiket vagy megjegyzéseiket a «beszélési kérelem» funkció engedélyezésével. Bármelyik opció aktiválása egy megfelelő menüpontot fog hozzáadni a webinárium szobában, növelve az interaktivitást és az elköteleződést."></span>
+		Visszajelzés <span class="tooltip" data-tip="Engedélyezze a résztvevők számára, hogy aktívan részt vegyenek a webináriumában vagy webináriumában. Választhatja, hogy engedélyezi a szöveges beküldéseket, ha szeretné, hogy kérdéseket tegyenek fel, vagy lehetőséget ad arra, hogy szóban is feltehessék kérdéseiket vagy megjegyzéseiket a «beszélési kérelem» funkció engedélyezésével. Bármelyik opció aktiválása egy megfelelő menüpontot fog hozzáadni a webinárium szobában, növelve az interaktivitást és az elköteleződést"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Leírás <span class="tooltip" data-tip="Használja ezt a funkciót egy tömör és vonzó áttekintés elkészítéséhez a webinárium regisztrációs oldalához. Egy jól megírt leírás meghatározza a hangvételt, megadja a lényeges információkat, és vonzza a potenciális résztvevőket. Legyen szó a webinárium fő témáinak kiemeléséről, az előadók bemutatásáról vagy a részvétel előnyeinek hangsúlyozásáról, ez a hely az Ön vásznához, hogy lenyűgözze és tájékoztassa közönségét."></span>
+		Leírás <span class="tooltip" data-tip="Használja ezt a funkciót egy tömör és vonzó áttekintés elkészítéséhez a webinárium regisztrációs oldalához. Egy jól megírt leírás meghatározza a hangvételt, megadja a lényeges információkat, és vonzza a potenciális résztvevőket. Legyen szó a webinárium fő témáinak kiemeléséről, az előadók bemutatásáról vagy a részvétel előnyeinek hangsúlyozásáról, ez a hely az Ön vásznához, hogy lenyűgözze és tájékoztassa közönségét"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc-placeholder' => ///////////////////////////////////////////////////////////
@@ -2031,43 +2031,43 @@ return [
 	'room-options-language' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nyelv <span class="tooltip" data-tip="Testreszabhatja webinárium szobájának nyelvét, hogy javítsa a résztvevők élményét. Akár egy adott régióra, akár egy globális közönségre szabja, válassza ki a preferált nyelvet a zökkenőmentes kommunikáció biztosítása érdekében. Tegye a webináriumokat elérhetőbbé és felhasználóbaráttá mindenki számára, bárhonnan is csatlakozik."></span>
+		Nyelv <span class="tooltip" data-tip="Testreszabhatja webinárium szobájának nyelvét, hogy javítsa a résztvevők élményét. Akár egy adott régióra, akár egy globális közönségre szabja, válassza ki a preferált nyelvet a zökkenőmentes kommunikáció biztosítása érdekében. Tegye a webináriumokat elérhetőbbé és felhasználóbaráttá mindenki számára, bárhonnan is csatlakozik"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-group' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Csoport <span class="tooltip" data-tip="Engedélyezze ezt az opciót, hogy a regisztráció során automatikusan hozzáadja a résztvevőket egy speciális előfizetői csoporthoz. Ez biztosítja, hogy értesítéseket kapjanak a közelgő webináriumokról, tájékozottak és elkötelezettek maradjanak."></span>
+		Csoport <span class="tooltip" data-tip="Engedélyezze ezt az opciót, hogy a regisztráció során automatikusan hozzáadja a résztvevőket egy speciális előfizetői csoporthoz. Ez biztosítja, hogy értesítéseket kapjanak a közelgő webináriumokról, tájékozottak és elkötelezettek maradjanak"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-countdown' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Visszaszámláló időzítő megjelenítése <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy visszaszámláló időzítőt jelenítsen meg a webinárium oldalán, amely megmutatja a résztvevőknek a webinárium kezdetéig hátralévő időt. Ez növeli a várakozást, biztosítja, hogy a résztvevők tisztában legyenek a kezdési idővel, és elősegíti a pontos részvételt."></span>
+		Visszaszámláló időzítő megjelenítése <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy visszaszámláló időzítőt jelenítsen meg a webinárium oldalán, amely megmutatja a résztvevőknek a webinárium kezdetéig hátralévő időt. Ez növeli a várakozást, biztosítja, hogy a résztvevők tisztában legyenek a kezdési idővel, és elősegíti a pontos részvételt"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bejelentkezés engedélyezése Google-fiókkal <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy a «Bejelentkezés Google-fiókkal» opciót kínálja a webinárium regisztrációs és belépési űrlapjain. Ezáltal a résztvevők gyorsan és biztonságosan hozzáférhetnek a webináriumhoz Google-fiókjuk használatával, egyszerűsítve a bejelentkezési folyamatot. Ez egy kényelmes módja az elérés egyszerűsítésének és a felhasználói élmény javításának azok számára, akik ismerik a Google szolgáltatásait."></span>
+		Bejelentkezés engedélyezése Google-fiókkal <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy a «Bejelentkezés Google-fiókkal» opciót kínálja a webinárium regisztrációs és belépési űrlapjain. Ezáltal a résztvevők gyorsan és biztonságosan hozzáférhetnek a webináriumhoz Google-fiókjuk használatával, egyszerűsítve a bejelentkezési folyamatot. Ez egy kényelmes módja az elérés egyszerűsítésének és a felhasználói élmény javításának azok számára, akik ismerik a Google szolgáltatásait"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		A rendelkezésre álló helyek számának megjelenítése <span class="tooltip" data-tip="Aktiválja ezt a funkciót, hogy megjelenítse az online webinárium fennmaradó helyeit. Ez az átláthatóság tájékoztatja a résztvevőket a webinárium kapacitásáról, és sürgetést teremt, hogy mielőbb biztosítsák helyüket, mielőtt betelne."></span>
+		A rendelkezésre álló helyek számának megjelenítése <span class="tooltip" data-tip="Aktiválja ezt a funkciót, hogy megjelenítse az online webinárium fennmaradó helyeit. Ez az átláthatóság tájékoztatja a résztvevőket a webinárium kapacitásáról, és sürgetést teremt, hogy mielőbb biztosítsák helyüket, mielőtt betelne"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-login-settings' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Beállítások <span class="tooltip" data-tip="Testreszabhatja webináriumának regisztrációs oldalát igényeinek megfelelően. Ez a funkció lehetővé teszi a regisztrációs folyamat testreszabását, biztosítva, hogy az igazodjon a webinárium márkájához és rögzítse a résztvevők szükséges adatait."></span>
+		Beállítások <span class="tooltip" data-tip="Testreszabhatja webináriumának regisztrációs oldalát igényeinek megfelelően. Ez a funkció lehetővé teszi a regisztrációs folyamat testreszabását, biztosítva, hogy az igazodjon a webinárium márkájához és rögzítse a résztvevők szükséges adatait"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-login-theme' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bal oldali egyszínű háttér <span class="tooltip" data-tip="Növelje webináriumának regisztrációs és bejelentkezési oldalának olvashatóságát és vizuális vonzerejét e funkció aktiválásával. Bekapcsoláskor az oldal két részre oszlik. A bal oldalon egy egyszínű háttér jelenik meg, amely tisztább hátteret biztosít a webinárium leírásának és részleteinek, míg a jobb oldal az Ön meglévő kialakítása szerint marad. Ez a szétválasztás nemcsak modern esztétikát ad, hanem biztosítja, hogy a résztvevők könnyen olvashassák és megérthessék a webinárium részleteit."></span>
+		Bal oldali egyszínű háttér <span class="tooltip" data-tip="Növelje webináriumának regisztrációs és bejelentkezési oldalának olvashatóságát és vizuális vonzerejét e funkció aktiválásával. Bekapcsoláskor az oldal két részre oszlik. A bal oldalon egy egyszínű háttér jelenik meg, amely tisztább hátteret biztosít a webinárium leírásának és részleteinek, míg a jobb oldal az Ön meglévő kialakítása szerint marad. Ez a szétválasztás nemcsak modern esztétikát ad, hanem biztosítja, hogy a résztvevők könnyen olvashassák és megérthessék a webinárium részleteit"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-login-bg' => ///////////////////////////////////////////////////////////
@@ -2085,31 +2085,31 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mezők <span class="tooltip" data-tip="Válassza ki és rendezze el azokat a mezőket, amelyeket meg szeretne jeleníteni a webinárium regisztráció során."></span>
+		Mezők <span class="tooltip" data-tip="Válassza ki és rendezze el azokat a mezőket, amelyeket meg szeretne jeleníteni a webinárium regisztráció során"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		A webinárium dátumának megjelenítése <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy a webinárium dátumát jól láthatóan megjelenítse a regisztrációs és bejelentkezési oldalakon. Az információk előzetes biztosítása segít a résztvevőknek a tervezésben és biztosítja, hogy tisztában legyenek a webinárium időpontjával."></span>
+		A webinárium dátumának megjelenítése <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy a webinárium dátumát jól láthatóan megjelenítse a regisztrációs és bejelentkezési oldalakon. Az információk előzetes biztosítása segít a résztvevőknek a tervezésben és biztosítja, hogy tisztában legyenek a webinárium időpontjával"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-name' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		A webinárium részleteinek megjelenítése <span class="tooltip" data-tip="Aktiválja ezt a funkciót, hogy részletes információkat jelenítsen meg a webináriumról a regisztrációs és bejelentkezési oldalakon, legyen szó egy tömör áttekintésről vagy egy átfogó napirendről. A résztvevők számára nyújtott egyértelmű kép a várhatóakról növeli az elköteleződést és segít nekik jobban felkészülni az eseményre."></span>
+		A webinárium részleteinek megjelenítése <span class="tooltip" data-tip="Aktiválja ezt a funkciót, hogy részletes információkat jelenítsen meg a webináriumról a regisztrációs és bejelentkezési oldalakon, legyen szó egy tömör áttekintésről vagy egy átfogó napirendről. A résztvevők számára nyújtott egyértelmű kép a várhatóakról növeli az elköteleződést és segít nekik jobban felkészülni az eseményre"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-moderators' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		A webinárium moderátorainak megjelenítése <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy megjelenítse a webinárium fő szereplőinek, moderátorainak, előadóinak és kiemelkedő résztvevőinek listáját. A webináriumot irányító személyek bemutatásával potenciális résztvevői betekintést nyerhetnek az elvárt szakértelembe és személyiségekbe."></span>
+		A webinárium moderátorainak megjelenítése <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy megjelenítse a webinárium fő szereplőinek, moderátorainak, előadóinak és kiemelkedő résztvevőinek listáját. A webináriumot irányító személyek bemutatásával potenciális résztvevői betekintést nyerhetnek az elvárt szakértelembe és személyiségekbe"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-main-moderator' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		A fiók tulajdonosának beleértése <span class="tooltip" data-tip="E funkció bekapcsolásával a fiók adminisztrátorát is belefoglalhatja a webinárium fő szereplőinek, moderátorainak, előadóinak és kiemelkedő résztvevőinek listájába. Ez átfogóbb képet nyújt a webinárium összes fő szervezőjéről és hozzájárulóiról."></span>
+		A fiók tulajdonosának beleértése <span class="tooltip" data-tip="E funkció bekapcsolásával a fiók adminisztrátorát is belefoglalhatja a webinárium fő szereplőinek, moderátorainak, előadóinak és kiemelkedő résztvevőinek listájába. Ez átfogóbb képet nyújt a webinárium összes fő szervezőjéről és hozzájárulóiról"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-started' => /////////////////////////////////////////////////////////////////
@@ -2253,7 +2253,7 @@ return [
 	'room-embed-form' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Űrlap beágyazás engedélyezése <span class="tooltip" data-tip="Aktiválja ezt a kapcsolót, hogy generáljon egy IFRAME kódot a webinárium regisztrációs és bejelentkezési űrlapjához. Ezzel zökkenőmentesen beágyazhatja az űrlapot közvetlenül a saját weboldalára, biztosítva látogatói számára egy egyszerűsített élményt anélkül, hogy külön oldalra kellene navigálniuk. Ez egy hasznos eszköz a webinárium regisztrációjának közvetlen integrálásához a webhelye ökoszisztémájába."></span>
+		Űrlap beágyazás engedélyezése <span class="tooltip" data-tip="Aktiválja ezt a kapcsolót, hogy generáljon egy IFRAME kódot a webinárium regisztrációs és bejelentkezési űrlapjához. Ezzel zökkenőmentesen beágyazhatja az űrlapot közvetlenül a saját weboldalára, biztosítva látogatói számára egy egyszerűsített élményt anélkül, hogy külön oldalra kellene navigálniuk. Ez egy hasznos eszköz a webinárium regisztrációjának közvetlen integrálásához a webhelye ökoszisztémájába"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
@@ -2337,7 +2337,7 @@ return [
 	'mail-1HOUR' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1 órás figyelmeztetés <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy e-mail emlékeztetőt küldjön a regisztrált résztvevőknek 60 perccel az online webinárium kezdete előtt. Ez a figyelmeztetés közvetlen linket tartalmaz a webináriumhoz, így a résztvevők könnyen csatlakozhatnak. Egy utolsó pillanatbeli emlékeztető biztosítja, hogy a résztvevők észben tartsák a webináriumot, maximalizálva a részvételt."></span>
+		1 órás figyelmeztetés <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy e-mail emlékeztetőt küldjön a regisztrált résztvevőknek 60 perccel az online webinárium kezdete előtt. Ez a figyelmeztetés közvetlen linket tartalmaz a webináriumhoz, így a résztvevők könnyen csatlakozhatnak. Egy utolsó pillanatbeli emlékeztető biztosítja, hogy a résztvevők észben tartsák a webináriumot, maximalizálva a részvételt"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1HOUR-desc' => /////////////////////////////////////////////////////////////////
@@ -2349,7 +2349,7 @@ return [
 	'mail-FINISHED' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinárium utáni <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy automatikusan kövesse az online webinárium befejezését egy utókövető e-maillel a résztvevők számára. Ez lehet egy köszönőlevél, egy rövid kérdőív a visszajelzéshez, vagy akár egy exkluzív link a webinárium felvételéhez. Testreszabhatja a webinárium utáni kommunikációt, hogy különböző csoportokkal foglalkozzon és további értéket nyújtson a webinárium vége után."></span>
+		Webinárium utáni <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy automatikusan kövesse az online webinárium befejezését egy utókövető e-maillel a résztvevők számára. Ez lehet egy köszönőlevél, egy rövid kérdőív a visszajelzéshez, vagy akár egy exkluzív link a webinárium felvételéhez. Testreszabhatja a webinárium utáni kommunikációt, hogy különböző csoportokkal foglalkozzon és további értéket nyújtson a webinárium vége után"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-FINISHED-desc' => //////////////////////////////////////////////////////////////
@@ -2361,7 +2361,7 @@ return [
 	'mail-REGISTRATIONCONFIRM' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Megerősítés <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy a résztvevők regisztrációja után megerősítő e-mailt küldjön. Ezzel biztosítja, hogy a regisztrálók ellenőrizzék e-mail címüket, további biztonsági és hitelességi réteget biztosítva. Ez a kettős megerősítési folyamat segít megőrizni az online webinárium integritását azáltal, hogy megerősíti a résztvevők valódi érdeklődését és minimalizálja a lehetséges spam regisztrációkat."></span>
+		Megerősítés <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy a résztvevők regisztrációja után megerősítő e-mailt küldjön. Ezzel biztosítja, hogy a regisztrálók ellenőrizzék e-mail címüket, további biztonsági és hitelességi réteget biztosítva. Ez a kettős megerősítési folyamat segít megőrizni az online webinárium integritását azáltal, hogy megerősíti a résztvevők valódi érdeklődését és minimalizálja a lehetséges spam regisztrációkat"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-REGISTRATIONCONFIRM-desc' => ///////////////////////////////////////////////////
@@ -2373,7 +2373,7 @@ return [
 	'mail-STARTED' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Késői érkezők <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy emlékeztetőt küldjön azoknak a résztvevőknek, akik még nem csatlakoztak a webináriumhoz, tudatva velük, hogy a webinárium már elkezdődött. Ez a figyelmeztetés ösztönzi az időben történő részvételt, és egy gyengéd emlékeztető azoknak, akik esetleg elvesztették az időérzéküket. Biztosítsa, hogy senki se maradjon le az értékes tartalomról azzal, hogy emlékezteti őket a gyors csatlakozásra."></span>
+		Késői érkezők <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy emlékeztetőt küldjön azoknak a résztvevőknek, akik még nem csatlakoztak a webináriumhoz, tudatva velük, hogy a webinárium már elkezdődött. Ez a figyelmeztetés ösztönzi az időben történő részvételt, és egy gyengéd emlékeztető azoknak, akik esetleg elvesztették az időérzéküket. Biztosítsa, hogy senki se maradjon le az értékes tartalomról azzal, hogy emlékezteti őket a gyors csatlakozásra"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-STARTED-desc' => ///////////////////////////////////////////////////////////////
@@ -2649,7 +2649,7 @@ return [
 	'guests-by-country' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Országok
+		Országok <span class="tooltip" data-tip="Fedezze fel a webináriumához csatlakozó résztvevők földrajzi eloszlását. Ez a szakasz megmutatja, mely országokból csatlakoztak a résztvevők, és értékes betekintést nyújt a közönsége globális elérésébe"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copied' => //////////////////////////////////////////////////////////////////////////
@@ -2661,13 +2661,13 @@ return [
 	'guests-by-mail' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Elköteleződés
+		Részvétel <span class="tooltip" data-tip="Nézze meg, hány résztvevőt hívtak meg, és hányan erősítették meg és csatlakoztak. Hasonlítsa össze a meghívók hatékonyságát a tényleges részvétellel részletes oszlopdiagramok segítségével"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guests-by-time' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Elköteleződés
+		Elkötelezettség <span class="tooltip" data-tip="Kövesse nyomon a résztvevők elkötelezettségét a webinárium során. Ez a grafikon az időbeli közönségnövekedést mutatja, jelezve, mikor csatlakoznak és távoznak a résztvevők, az idővonalon ábrázolva"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guest-count' => /////////////////////////////////////////////////////////////////////
@@ -3723,7 +3723,7 @@ return [
 	'room-close-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Köszönő oldal <span class="tooltip" data-tip="Ez a funkció lehetővé teszi a webinárium szervezői számára, hogy a résztvevők zökkenőmentesen átkerüljenek egy egyedi weboldalra, miután a webinárium befejeződik, vagy ha korábban távoznak. A beállítás aktiválásával a résztvevők automatikusan átirányításra kerülnek az Ön által választott egyedi weboldalra. Ez különösen hasznos lehet webinárium utáni felmérésekhez, ajánlatokhoz, visszajelzési űrlapokhoz vagy egyszerű köszönő üzenetekhez. Biztosítsa a résztvevők útjának kerek egészét azáltal, hogy releváns tartalomhoz irányítja őket webináriuma után."></span>
+		Köszönő oldal <span class="tooltip" data-tip="Ez a funkció lehetővé teszi a webinárium szervezői számára, hogy a résztvevők zökkenőmentesen átkerüljenek egy egyedi weboldalra, miután a webinárium befejeződik, vagy ha korábban távoznak. A beállítás aktiválásával a résztvevők automatikusan átirányításra kerülnek az Ön által választott egyedi weboldalra. Ez különösen hasznos lehet webinárium utáni felmérésekhez, ajánlatokhoz, visszajelzési űrlapokhoz vagy egyszerű köszönő üzenetekhez. Biztosítsa a résztvevők útjának kerek egészét azáltal, hogy releváns tartalomhoz irányítja őket webináriuma után"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-close-url-placeholder' => //////////////////////////////////////////////////////
@@ -4058,7 +4058,7 @@ return [
 	'room-options-comment-off' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Hozzászólások <span class="tooltip" data-tip="Kapcsolja be ezt a kapcsolót, hogy engedélyezze vagy tiltsa a webinárium nézőinek a felvételhez fűzött hozzászólásokat. E funkció bekapcsolása ösztönzi az interakciót és a visszajelzést, míg kikapcsolása statikus megtekintési élményt biztosít."></span>
+		Hozzászólások <span class="tooltip" data-tip="Kapcsolja be ezt a kapcsolót, hogy engedélyezze vagy tiltsa a webinárium nézőinek a felvételhez fűzött hozzászólásokat. E funkció bekapcsolása ösztönzi az interakciót és a visszajelzést, míg kikapcsolása statikus megtekintési élményt biztosít"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-comments-enable' => //////////////////////////////////////////////////////////
@@ -4136,7 +4136,7 @@ return [
 	'letters-schedule' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Levelezési ütemterv
+		Küldési ütemezés <span class="tooltip" data-tip="Ellenőrizze a webinárium résztvevőinek küldött értesítések ütemezését és állapotát. Ez magában foglalja az esemény előtt 3 nappal, 1 nappal és 1 órával küldött emlékeztetőket, valamint az elkésett és az utókövetési értesítéseket. Tekintse meg itt az időzítést, a folyamatot és a meghívott résztvevők számát"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'next-step' => ///////////////////////////////////////////////////////////////////////
@@ -5211,7 +5211,7 @@ return [
 	'import-chat-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinárium időpontja, pl. "+00:10:23"; Szerző típusa, pl. "M" vagy "G"; Név, pl. "John Smith"; Ország, pl. "GB"; Üzenet, pl. "blah-blah-blah"<br><br>Például:<br>–––<br>"+00:12:15";"G";"John Doe";"GB";"Hello! It is first message!"<br>"+00:15:13";"G";"John Doe";"GB";"This is my second message."<br>...<br>"+01:12:45";"G";"John Doe";"GB";"This is my last message. Bye!"<br>–––
+		Webinárium időpontja, pl. "+00:10:23"; Szerző típusa, pl. "M" vagy "G"; Név, pl. "John Smith"; Ország, pl. "GB"; Üzenet, pl. "blah-blah-blah"<br><br>Például:<br>–––<br>"+00:12:15";"G";"John Doe";"GB";"Hello! It is first message!"<br>"+00:15:13";"G";"John Doe";"GB";"This is my second message"<br>...<br>"+01:12:45";"G";"John Doe";"GB";"This is my last message. Bye!"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-cta-placeholder' => //////////////////////////////////////////////////////////
@@ -5703,7 +5703,7 @@ return [
 	'mails-statistic' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Levelezési statisztikák
+		Küldési statisztikák <span class="tooltip" data-tip="Kövesse nyomon e-mail kampányainak hatékonyságát. Tekintse meg az elküldött e-mailek számát, a sikeres kézbesítéseket és a sikertelen kézbesítéseket"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////
@@ -6297,7 +6297,7 @@ return [
 	'registers-statistic' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Részvételi statisztikák
+		Regisztrációs statisztikák <span class="tooltip" data-tip="Kövesse nyomon a webináriumára regisztráló résztvevők statisztikáit. Ez a szakasz megmutatja a nyilvános linken keresztüli önregisztrációk számát, valamint követi a meghívó e-maileken keresztüli visszaigazolásokat vagy visszautasításokat"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

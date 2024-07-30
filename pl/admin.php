@@ -1774,7 +1774,7 @@ return [
 	'record-all' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Wszystko <span class="tooltip" data-tip="Po włączeniu, wideo z webinaru będzie rejestrować wybraną część pokoju webinarowego. Możesz dostosować swoje nagranie, wybierając, czy ukryć lub pokazać nazwisko prezentera, uwzględnić lub wykluczyć czat publiczny itp."></span>
+		Wszystko <span class="tooltip" data-tip="Po włączeniu, wideo z webinaru będzie rejestrować wybraną część pokoju webinarowego. Możesz dostosować swoje nagranie, wybierając, czy ukryć lub pokazać nazwisko prezentera, uwzględnić lub wykluczyć czat publiczny itp"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-userlist' => /////////////////////////////////////////////////////////////////
@@ -2650,7 +2650,7 @@ return [
 	'guests-by-country' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kraje
+		Kraje <span class="tooltip" data-tip="Poznaj geograficzny rozkład uczestników twojego webinarium. Ta sekcja wyświetla kraje, z których uczestnicy się połączyli, oferując cenne informacje na temat globalnego zasięgu twojej publiczności"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copied' => //////////////////////////////////////////////////////////////////////////
@@ -2662,13 +2662,13 @@ return [
 	'guests-by-mail' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Uczestnictwo
+		Zaangażowanie <span class="tooltip" data-tip="Zobacz, ilu uczestników zostało zaproszonych w porównaniu z tymi, którzy potwierdzili i dołączyli. Porównaj skuteczność zaproszeń z faktycznym uczestnictwem, korzystając ze szczegółowych wykresów słupkowych"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guests-by-time' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Zaangażowanie
+		Zaangażowanie <span class="tooltip" data-tip="Monitoruj zaangażowanie uczestników podczas webinaru. Ten wykres pokazuje wzrost liczby uczestników w czasie, wskazując, kiedy uczestnicy dołączają i opuszczają na osi czasu"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guest-count' => /////////////////////////////////////////////////////////////////////
@@ -4159,7 +4159,7 @@ return [
 	'letters-schedule' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Harmonogram wysyłek
+		Harmonogram wysyłki <span class="tooltip" data-tip="Sprawdź harmonogram i status powiadomień wysyłanych do uczestników webinaru. Obejmuje to przypomnienia wysyłane 3 dni, 1 dzień i 1 godzinę przed wydarzeniem, a także powiadomienia dla spóźnialskich i działania następcze po webinarze. Tutaj możesz zobaczyć czas, postęp i liczbę zaproszonych uczestników"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'next-step' => ///////////////////////////////////////////////////////////////////////
@@ -5239,7 +5239,7 @@ return [
 	'import-chat-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Czas wydarzenia, np. "+00:10:23"; Typ autora, np. "M" or "G"; Od nazwy, np. "Adam Kowalski"; Kraj, np. "PL"; Wiadomość, np. "blah-blah-blah"<br><br>Na przykład:<br>–––<br>"+00:12:15";"G";"Adam Kowalski";"PL";"Hello! It is first message!"<br>"+00:15:13";"G";"Adam Kowalski";"PL";"This is my second message."<br>...<br>"+01:12:45";"G";"Adam Kowalski";"PL";"This is my last message. Bye!"<br>–––
+		Czas wydarzenia, np. "+00:10:23"; Typ autora, np. "M" or "G"; Od nazwy, np. "Adam Kowalski"; Kraj, np. "PL"; Wiadomość, np. "blah-blah-blah"<br><br>Na przykład:<br>–––<br>"+00:12:15";"G";"Adam Kowalski";"PL";"Hello! It is first message!"<br>"+00:15:13";"G";"Adam Kowalski";"PL";"This is my second message"<br>...<br>"+01:12:45";"G";"Adam Kowalski";"PL";"This is my last message. Bye!"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-cta-placeholder' => //////////////////////////////////////////////////////////
@@ -5733,7 +5733,7 @@ return [
 	'mails-statistic' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Statystyki wysyłek
+		Statystyki wysyłki <span class="tooltip" data-tip="Śledź skuteczność swoich kampanii e-mailowych. Zobacz całkowitą liczbę wysłanych e-maili, udanych dostaw i nieudanych dostaw"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////
@@ -6327,7 +6327,7 @@ return [
 	'registers-statistic' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Statystyki obecności
+		Statystyki rejestracji <span class="tooltip" data-tip="Śledź statystyki rejestracji uczestników na swoje webinarium. Ta sekcja pokazuje liczbę samodzielnych rejestracji za pośrednictwem publicznego linku i śledzi potwierdzenia lub odmowy uczestnictwa przez e-maile z zaproszeniami"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

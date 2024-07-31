@@ -3471,7 +3471,7 @@ return [
 	'send-status' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Jurnal de emailuri de invitație
+		Jurnal de emailuri de invitație <span class="tooltip" data-tip="Accesați istoricul și starea emailurilor de invitație trimise participanților, inclusiv confirmările de înregistrare, mementourile pentru webinar cu 3 zile și 1 zi înainte, alertele cu 1 oră înainte, notificările pentru cei întârziați și urmărirea post-webinar. Jurnalul detaliază orele exacte de trimitere, confirmările de primire ale serverului de email și orice erori dacă emailurile nu se trimit"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-WAIT' => ///////////////////////////////////////////////////////////////////////

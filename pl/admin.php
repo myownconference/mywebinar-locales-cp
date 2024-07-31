@@ -3490,7 +3490,7 @@ return [
 	'send-status' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Rejestr e-maili z zaproszeniami
+		Rejestr e-maili z zaproszeniami <span class="tooltip" data-tip="Uzyskaj dostęp do historii i statusu zaproszeń e-mailowych wysłanych do uczestników, w tym potwierdzeń rejestracji, przypomnień o webinarium na 3 dni i 1 dzień przed, powiadomień na 1 godzinę przed, powiadomień dla spóźnialskich i wiadomości po webinarium. Rejestr zawiera szczegóły dotyczące dokładnych czasów wysyłki, potwierdzeń odbioru serwera e-mail oraz wszelkich błędów, jeśli e-maile nie zostaną wysłane"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-WAIT' => ///////////////////////////////////////////////////////////////////////

@@ -3471,7 +3471,7 @@ return [
 	'send-status' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Einladungs-E-Mails-Protokoll
+		Einladungs-E-Mails-Protokoll <span class="tooltip" data-tip="Zugriff auf den Verlauf und Status der an Teilnehmer gesendeten E-Mail-Einladungen, einschließlich Registrierungsbestätigungen, 3-Tage- und 1-Tages-Webinar-Erinnerungen, 1-Stunden-Benachrichtigungen, Benachrichtigungen für Nachzügler und Follow-ups nach dem Webinar. Das Protokoll enthält genaue Versandzeiten, Empfangsbestätigungen des E-Mail-Servers und eventuelle Fehler, falls E-Mails nicht gesendet werden können"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-WAIT' => ///////////////////////////////////////////////////////////////////////

@@ -3481,7 +3481,7 @@ return [
 	'send-status' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Historique des emails d‘invitation
+		Journal des emails d‘invitation <span class="tooltip" data-tip="Accédez à l‘historique et au statut des emails d‘invitation envoyés aux participants, y compris les confirmations d‘inscription, les rappels de webinaire à 3 jours et 1 jour, les alertes 1 heure avant, les notifications de retardataires et les suivis post-webinaire. Le journal détaille les heures d‘envoi exactes, les confirmations de réception du serveur de messagerie et les erreurs éventuelles si les emails ne parviennent pas à être envoyés"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-WAIT' => ///////////////////////////////////////////////////////////////////////

@@ -3471,7 +3471,7 @@ return [
 	'send-status' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Davet e-postaları günlüğü
+		Davet e-postaları günlüğü <span class="tooltip" data-tip="Katılımcılara gönderilen davet e-postalarının geçmişine ve durumuna erişin, kayıt onayları, 3 gün ve 1 gün öncesindeki web semineri hatırlatmaları, 1 saatlik uyarılar, geç gelen bildirimleri ve web seminerinden sonraki takipler dahil. Günlük, tam gönderim saatlerini, e-posta sunucusu alındı ​​onaylarını ve e-postalar gönderilemediğinde meydana gelen hataları ayrıntılı olarak belirtir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-WAIT' => ///////////////////////////////////////////////////////////////////////

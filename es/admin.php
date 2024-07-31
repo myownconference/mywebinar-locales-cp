@@ -3476,7 +3476,7 @@ return [
 	'send-status' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Registro de correos de invitación
+		Registro de correos de invitación <span class="tooltip" data-tip="Accede al historial y estado de los correos electrónicos de invitación enviados a los asistentes, incluidas las confirmaciones de registro, recordatorios del seminario web con 3 días y 1 día de antelación, alertas con 1 hora de antelación, notificaciones para los que llegan tarde y seguimientos después del seminario web. El registro detalla los tiempos exactos de envío, las confirmaciones de recepción del servidor de correo electrónico y cualquier error si los correos electrónicos no se envían"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-WAIT' => ///////////////////////////////////////////////////////////////////////

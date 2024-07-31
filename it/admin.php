@@ -3471,7 +3471,7 @@ return [
 	'send-status' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Registro delle email di invito
+		Registro delle email di invito <span class="tooltip" data-tip="Accedi alla cronologia e allo stato delle email di invito inviate ai partecipanti, comprese le conferme di registrazione, i promemoria del webinar a 3 giorni e 1 giorno, gli avvisi a 1 ora, le notifiche ai ritardatari e i follow-up post-webinar. Il registro dettaglia i tempi esatti di invio, le conferme di ricezione del server di posta elettronica e gli eventuali errori se le email non vengono inviate"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-WAIT' => ///////////////////////////////////////////////////////////////////////

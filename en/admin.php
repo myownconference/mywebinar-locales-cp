@@ -3471,7 +3471,7 @@ return [
 	'send-status' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Invitation emails log
+		Invitation emails log <span class="tooltip" data-tip="Access the history and status of email invitations sent to attendees, including registration confirmations, 3-day and 1-day webinar reminders, 1-hour alerts, latecomer notifications, and post-webinar follow-ups. The log details exact sending times, email server receipt confirmations, and any errors if emails fail to send"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-WAIT' => ///////////////////////////////////////////////////////////////////////

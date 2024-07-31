@@ -3471,7 +3471,7 @@ return [
 	'send-status' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Meghívó e-mailek naplója
+		Meghívó e-mailek naplója <span class="tooltip" data-tip="Hozzáférés a résztvevőknek küldött meghívó e-mailek történetéhez és állapotához, beleértve a regisztrációs visszaigazolásokat, a 3 napos és 1 napos webinárium emlékeztetőket, az 1 órás értesítéseket, a késő érkezők értesítéseit és az utókövetéseket. A napló részletezi a pontos küldési időket, az e-mail szerver átvételi visszaigazolásait és az esetleges hibákat, ha az e-mailek nem küldhetők el"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-WAIT' => ///////////////////////////////////////////////////////////////////////

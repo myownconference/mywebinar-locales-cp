@@ -879,7 +879,7 @@ return [
 	'moderators-list' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Liste des modérateurs <span class="tooltip" data-tip="This section allows you to create and manage the moderators for your online webinars. Assign roles, set permissions, and ensure your webinar runs smoothly by designating the right individuals to oversee and facilitate it"></span>
+		Modérateurs <span class="tooltip" data-tip="Cette section vous permet de créer et de gérer les modérateurs de vos webinaires en ligne. Attribuez des rôles, définissez des permissions et assurez-vous que votre webinaire se déroule sans problème en désignant les bonnes personnes pour le superviser et l‘animer"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mod-search-placeholder' => //////////////////////////////////////////////////////////
@@ -1245,7 +1245,7 @@ return [
 	'attendees-list' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Liste de participants <span class="tooltip" data-tip="Manage your online webinar attendees here. Add, edit, or update attendee information, including email details. Easily import or export attendee lists in bulk, apply filters, and organize attendee data to streamline your webinar preparation and communication"></span>
+		Participants <span class="tooltip" data-tip="Gérez ici les participants à votre webinaire en ligne. Ajoutez, modifiez ou mettez à jour les informations des participants, y compris les détails de l‘email. Vous pouvez facilement importer ou exporter des listes de participants en masse, appliquer des filtres et organiser les données des participants pour simplifier la préparation et la communication de votre webinaire"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'att-search-placeholder' => //////////////////////////////////////////////////////////

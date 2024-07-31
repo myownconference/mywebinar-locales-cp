@@ -879,7 +879,7 @@ return [
 	'moderators-list' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		מנחים <span class="tooltip" data-tip="This section allows you to create and manage the moderators for your online webinars. Assign roles, set permissions, and ensure your webinar runs smoothly by designating the right individuals to oversee and facilitate it"></span>
+		מנחים <span class="tooltip" data-tip="חלק זה מאפשר לך ליצור ולנהל את המנחים עבור הוובינרים המקוונים שלך. הקצה תפקידים, הגדר הרשאות, וודא שהוובינר מתנהל בצורה חלקה על ידי מינוי האנשים הנכונים לפקח ולהנחות אותו"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mod-search-placeholder' => //////////////////////////////////////////////////////////
@@ -1245,7 +1245,7 @@ return [
 	'attendees-list' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		משתתפים <span class="tooltip" data-tip="Manage your online webinar attendees here. Add, edit, or update attendee information, including email details. Easily import or export attendee lists in bulk, apply filters, and organize attendee data to streamline your webinar preparation and communication"></span>
+		משתתפים <span class="tooltip" data-tip="נהל כאן את משתתפי הוובינר שלך. הוסף, ערוך או עדכן את פרטי המשתתפים, כולל פרטי האימייל. תוכל בקלות לייבא או לייצא רשימות משתתפים בכמויות גדולות, להחיל מסננים ולארגן את נתוני המשתתפים כדי לייעל את ההכנה והתקשורת של הוובינר שלך"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'att-search-placeholder' => //////////////////////////////////////////////////////////

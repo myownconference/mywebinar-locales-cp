@@ -879,7 +879,7 @@ return [
 	'moderators-list' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		المشرفون <span class="tooltip" data-tip="This section allows you to create and manage the moderators for your online webinars. Assign roles, set permissions, and ensure your webinar runs smoothly by designating the right individuals to oversee and facilitate it"></span>
+		المشرفون <span class="tooltip" data-tip="يتيح لك هذا القسم إنشاء وإدارة المشرفين على ندواتك عبر الإنترنت. حدد الأدوار، وضبط الأذونات، وتأكد من سير الندوة بسلاسة من خلال تعيين الأشخاص المناسبين للإشراف والتيسير"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mod-search-placeholder' => //////////////////////////////////////////////////////////
@@ -1245,7 +1245,7 @@ return [
 	'attendees-list' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		المشاركون <span class="tooltip" data-tip="Manage your online webinar attendees here. Add, edit, or update attendee information, including email details. Easily import or export attendee lists in bulk, apply filters, and organize attendee data to streamline your webinar preparation and communication"></span>
+		الحضور <span class="tooltip" data-tip="قم بإدارة حضور ندوتك عبر الإنترنت هنا. أضف، عدّل أو حدّث معلومات الحضور، بما في ذلك تفاصيل البريد الإلكتروني. يمكنك بسهولة استيراد أو تصدير قوائم الحضور بشكل جماعي، وتطبيق الفلاتر، وتنظيم بيانات الحضور لتسهيل تحضيرات ندوتك والتواصل معهم"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'att-search-placeholder' => //////////////////////////////////////////////////////////

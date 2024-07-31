@@ -879,7 +879,7 @@ return [
 	'moderators-list' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Διαχειριστές <span class="tooltip" data-tip="This section allows you to create and manage the moderators for your online webinars. Assign roles, set permissions, and ensure your webinar runs smoothly by designating the right individuals to oversee and facilitate it"></span>
+		Συντονιστές <span class="tooltip" data-tip="Αυτή η ενότητα σας επιτρέπει να δημιουργήσετε και να διαχειριστείτε τους συντονιστές για τα διαδικτυακά σας σεμινάρια. Αναθέστε ρόλους, ορίστε δικαιώματα και εξασφαλίστε την ομαλή διεξαγωγή του webinar σας ορίζοντας τα κατάλληλα άτομα για την επίβλεψη και τη διευκόλυνσή του."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mod-search-placeholder' => //////////////////////////////////////////////////////////
@@ -1245,7 +1245,7 @@ return [
 	'attendees-list' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Συμμετέχοντες <span class="tooltip" data-tip="Manage your online webinar attendees here. Add, edit, or update attendee information, including email details. Easily import or export attendee lists in bulk, apply filters, and organize attendee data to streamline your webinar preparation and communication"></span>
+		Συμμετέχοντες <span class="tooltip" data-tip="Διαχειριστείτε εδώ τους συμμετέχοντες στο διαδικτυακό σας σεμινάριο. Προσθέστε, επεξεργαστείτε ή ενημερώστε τις πληροφορίες των συμμετεχόντων, συμπεριλαμβανομένων των λεπτομερειών email. Μπορείτε εύκολα να εισάγετε ή να εξάγετε μαζικά λίστες συμμετεχόντων, να εφαρμόσετε φίλτρα και να οργανώσετε τα δεδομένα των συμμετεχόντων για να διευκολύνετε την προετοιμασία και την επικοινωνία του σεμιναρίου σας"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'att-search-placeholder' => //////////////////////////////////////////////////////////

@@ -879,7 +879,7 @@ return [
 	'moderators-list' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderatoren <span class="tooltip" data-tip="This section allows you to create and manage the moderators for your online webinars. Assign roles, set permissions, and ensure your webinar runs smoothly by designating the right individuals to oversee and facilitate it"></span>
+		Moderatoren <span class="tooltip" data-tip="In diesem Abschnitt können Sie Moderatoren für Ihre Online-Webinare erstellen und verwalten. Weisen Sie Rollen zu, legen Sie Berechtigungen fest und stellen Sie sicher, dass Ihr Webinar reibungslos verläuft, indem Sie die richtigen Personen zur Moderation bestimmen"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mod-search-placeholder' => //////////////////////////////////////////////////////////
@@ -1245,7 +1245,7 @@ return [
 	'attendees-list' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Teilnehmer <span class="tooltip" data-tip="Manage your online webinar attendees here. Add, edit, or update attendee information, including email details. Easily import or export attendee lists in bulk, apply filters, and organize attendee data to streamline your webinar preparation and communication"></span>
+		Teilnehmer <span class="tooltip" data-tip="Verwalten Sie hier die Teilnehmer Ihres Online-Webinars. Fügen Sie Teilnehmer hinzu, bearbeiten oder aktualisieren Sie deren Informationen, einschließlich E-Mail-Details. Sie können Teilnehmerlisten einfach in großen Mengen importieren oder exportieren, Filter anwenden und Teilnehmerdaten organisieren, um die Vorbereitung und Kommunikation Ihres Webinars zu optimieren"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'att-search-placeholder' => //////////////////////////////////////////////////////////

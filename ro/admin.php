@@ -879,7 +879,7 @@ return [
 	'moderators-list' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderatori <span class="tooltip" data-tip="This section allows you to create and manage the moderators for your online webinars. Assign roles, set permissions, and ensure your webinar runs smoothly by designating the right individuals to oversee and facilitate it"></span>
+		Moderatori <span class="tooltip" data-tip="Această secțiune vă permite să creați și să gestionați moderatorii pentru seminariile dvs. online. Atribuiți roluri, setați permisiuni și asigurați-vă că webinarul dvs. se desfășoară fără probleme, desemnând persoanele potrivite pentru a-l supraveghea și facilita"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mod-search-placeholder' => //////////////////////////////////////////////////////////
@@ -1245,7 +1245,7 @@ return [
 	'attendees-list' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Participanți <span class="tooltip" data-tip="Manage your online webinar attendees here. Add, edit, or update attendee information, including email details. Easily import or export attendee lists in bulk, apply filters, and organize attendee data to streamline your webinar preparation and communication"></span>
+		Participanți <span class="tooltip" data-tip="Gestionează aici participanții la seminarul tău online. Adaugă, editează sau actualizează informațiile participanților, inclusiv detaliile email. Poți importa sau exporta ușor liste de participanți în masă, aplica filtre și organiza datele participanților pentru a simplifica pregătirea și comunicarea webinarului tău"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'att-search-placeholder' => //////////////////////////////////////////////////////////

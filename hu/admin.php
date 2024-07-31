@@ -879,7 +879,7 @@ return [
 	'moderators-list' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderátorok <span class="tooltip" data-tip="Ez a szekció lehetővé teszi, hogy létrehozzon és kezelje az online webináriumok moderátorait. Oszd be a szerepeket, állítsd be a jogosultságokat, és biztosítsd a webinárium zavartalan lebonyolítását a megfelelő személyek kijelölésével, akik felügyelik és segítik azt"></span>
+		Moderátorok <span class="tooltip" data-tip="Ez a szakasz lehetővé teszi, hogy létrehozza és kezelje a moderátorokat az online webináriumaihoz. Rendeljen szerepeket, állítson be engedélyeket, és biztosítsa a webinárium zökkenőmentes lebonyolítását a megfelelő személyek kijelölésével"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mod-search-placeholder' => //////////////////////////////////////////////////////////
@@ -1245,7 +1245,7 @@ return [
 	'attendees-list' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Résztvevők <span class="tooltip" data-tip="Itt kezelheti az online webinárium résztvevőit. Adja hozzá, szerkessze vagy frissítse a résztvevők adatait, beleértve az e-mail részleteket is. Egyszerűen importálhat vagy exportálhat résztvevői listákat nagy mennyiségben, alkalmazhat szűrőket, és rendezheti a résztvevői adatokat annak érdekében, hogy a webinárium előkészületeit és a kommunikációt gördülékenyebbé tegye"></span>
+		Résztvevők <span class="tooltip" data-tip="Kezelje itt az online webinárium résztvevőit. Adja hozzá, szerkessze vagy frissítse a résztvevők adatait, beleértve az e-mail részleteket. Könnyedén importálhatja vagy exportálhatja a résztvevők listáit tömegesen, szűrőket alkalmazhat, és rendezheti a résztvevők adatait a webinárium előkészítésének és kommunikációjának egyszerűsítése érdekében"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'att-search-placeholder' => //////////////////////////////////////////////////////////

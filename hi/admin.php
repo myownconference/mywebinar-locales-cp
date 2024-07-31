@@ -879,7 +879,7 @@ return [
 	'moderators-list' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		मॉडरेटर्स <span class="tooltip" data-tip="This section allows you to create and manage the moderators for your online webinars. Assign roles, set permissions, and ensure your webinar runs smoothly by designating the right individuals to oversee and facilitate it"></span>
+		मॉडरेटर <span class="tooltip" data-tip="इस अनुभाग में, आप अपने ऑनलाइन वेबिनार के लिए मॉडरेटर बना और प्रबंधित कर सकते हैं। भूमिकाएँ सौंपें, अनुमतियाँ सेट करें और सही लोगों को नियुक्त करके सुनिश्चित करें कि आपका वेबिनार सुचारू रूप से चले"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mod-search-placeholder' => //////////////////////////////////////////////////////////
@@ -1245,7 +1245,7 @@ return [
 	'attendees-list' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		प्रतिभागी <span class="tooltip" data-tip="Manage your online webinar attendees here. Add, edit, or update attendee information, including email details. Easily import or export attendee lists in bulk, apply filters, and organize attendee data to streamline your webinar preparation and communication"></span>
+		प्रतिभागी <span class="tooltip" data-tip="यहां अपने ऑनलाइन वेबिनार के प्रतिभागियों का प्रबंधन करें। ईमेल विवरण सहित प्रतिभागी जानकारी जोड़ें, संपादित करें या अपडेट करें। आप आसानी से प्रतिभागी सूचियों को बल्क में आयात या निर्यात कर सकते हैं, फ़िल्टर लागू कर सकते हैं और अपने वेबिनार की तैयारी और संचार को सुव्यवस्थित करने के लिए प्रतिभागी डेटा को व्यवस्थित कर सकते हैं"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'att-search-placeholder' => //////////////////////////////////////////////////////////

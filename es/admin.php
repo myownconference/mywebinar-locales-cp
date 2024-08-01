@@ -2667,7 +2667,7 @@ return [
 	'guests-by-time' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Participación <span class="tooltip" data-tip="Monitorea la participación de los asistentes durante tu webinar. Este gráfico muestra el crecimiento de la audiencia a lo largo del tiempo, indicando cuándo los asistentes se unen y se van en una línea de tiempo"></span>
+		Compromiso <span class="tooltip" data-tip="Monitorea la participación de los asistentes durante tu webinar. Este gráfico muestra el crecimiento de la audiencia a lo largo del tiempo, indicando cuándo los asistentes se unen y se van en una línea de tiempo"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guest-count' => /////////////////////////////////////////////////////////////////////

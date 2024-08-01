@@ -2661,13 +2661,13 @@ return [
 	'guests-by-mail' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Partecipazione <span class="tooltip" data-tip="Guarda quanti partecipanti sono stati invitati rispetto a quelli che hanno confermato e partecipato. Confronta l‘efficacia degli inviti con la partecipazione effettiva utilizzando grafici a barre dettagliati"></span>
+		Coinvolgimento <span class="tooltip" data-tip="Guarda quanti partecipanti sono stati invitati rispetto a quelli che hanno confermato e partecipato. Confronta l‘efficacia degli inviti con la partecipazione effettiva utilizzando grafici a barre dettagliati"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guests-by-time' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Coinvolgimento <span class="tooltip" data-tip="Monitora il coinvolgimento dei partecipanti durante il tuo webinar. Questo grafico mostra la crescita del pubblico nel tempo, indicando quando i partecipanti si uniscono e lasciano su una linea temporale"></span>
+		Partecipazione <span class="tooltip" data-tip="Monitora il coinvolgimento dei partecipanti durante il tuo webinar. Questo grafico mostra la crescita del pubblico nel tempo, indicando quando i partecipanti si uniscono e lasciano su una linea temporale"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guest-count' => /////////////////////////////////////////////////////////////////////

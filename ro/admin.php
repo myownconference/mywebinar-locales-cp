@@ -2667,7 +2667,7 @@ return [
 	'guests-by-time' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Implicare <span class="tooltip" data-tip="Monitorizați implicarea participanților pe parcursul webinarului. Acest grafic arată creșterea audienței în timp, indicând când participanții se alătură și părăsesc pe o cronologie"></span>
+		Angajament <span class="tooltip" data-tip="Monitorizați implicarea participanților pe parcursul webinarului. Acest grafic arată creșterea audienței în timp, indicând când participanții se alătură și părăsesc pe o cronologie"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guest-count' => /////////////////////////////////////////////////////////////////////

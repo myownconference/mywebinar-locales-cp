@@ -2667,7 +2667,7 @@ return [
 	'guests-by-time' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Elkötelezettség <span class="tooltip" data-tip="Kövesse nyomon a résztvevők elkötelezettségét a webinárium során. Ez a grafikon az időbeli közönségnövekedést mutatja, jelezve, mikor csatlakoznak és távoznak a résztvevők, az idővonalon ábrázolva"></span>
+		Elköteleződés <span class="tooltip" data-tip="Kövesse nyomon a résztvevők elkötelezettségét a webinárium során. Ez a grafikon az időbeli közönségnövekedést mutatja, jelezve, mikor csatlakoznak és távoznak a résztvevők, az idővonalon ábrázolva"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guest-count' => /////////////////////////////////////////////////////////////////////

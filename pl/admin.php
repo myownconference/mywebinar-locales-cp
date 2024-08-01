@@ -2668,7 +2668,7 @@ return [
 	'guests-by-time' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Zaangażowanie <span class="tooltip" data-tip="Monitoruj zaangażowanie uczestników podczas webinaru. Ten wykres pokazuje wzrost liczby uczestników w czasie, wskazując, kiedy uczestnicy dołączają i opuszczają na osi czasu"></span>
+		Interakcja <span class="tooltip" data-tip="Monitoruj zaangażowanie uczestników podczas webinaru. Ten wykres pokazuje wzrost liczby uczestników w czasie, wskazując, kiedy uczestnicy dołączają i opuszczają na osi czasu"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guest-count' => /////////////////////////////////////////////////////////////////////

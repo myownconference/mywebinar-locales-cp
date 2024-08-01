@@ -2667,7 +2667,7 @@ return [
 	'guests-by-time' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Katılım <span class="tooltip" data-tip="Web semineriniz boyunca katılımcıların katılımını izleyin. Bu grafik, izleyici büyümesini zamanla gösterir, katılımcıların ne zaman katıldığını ve ayrıldığını bir zaman çizelgesinde belirtir"></span>
+		Etkileşim <span class="tooltip" data-tip="Web semineriniz boyunca katılımcıların katılımını izleyin. Bu grafik, izleyici büyümesini zamanla gösterir, katılımcıların ne zaman katıldığını ve ayrıldığını bir zaman çizelgesinde belirtir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guest-count' => /////////////////////////////////////////////////////////////////////

@@ -4947,7 +4947,7 @@ return [
 	'storage-title' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Almacenamiento de archivos <span class="tooltip" data-tip="Your central hub for all uploaded content, polls, surveys, tests, and CTAs. Efficiently filter, sort, and locate files and other stuff. You have the option to delete, download, or upload new files with ease. Integrate videos directly from YouTube or Vimeo to enrich your content repository. Additionally, you can create or edit your polls, surveys, tests, and CTAs. Everything is in one place"></span>
+		Almacenamiento de archivos <span class="tooltip" data-tip="Your central hub for all uploaded content, polls, surveys, tests, and CTA. Efficiently filter, sort, and locate files and other stuff. You have the option to delete, download, or upload new files with ease. Integrate videos directly from YouTube or Vimeo to enrich your content repository. Additionally, you can create or edit your polls, surveys, tests, and CTA. Everything is in one place"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-search-placeholder' => //////////////////////////////////////////////////////
@@ -5217,7 +5217,7 @@ return [
 	'autowebinar-import-cta' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Importar CTAs
+		Importar CTA
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-bot-placeholder' => //////////////////////////////////////////////////////////
@@ -5307,7 +5307,7 @@ return [
 	'autoweb-cta-list' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		CTAs agregados
+		CTA añadido
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'autoweb-search-placeholder' => //////////////////////////////////////////////////////

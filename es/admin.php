@@ -489,7 +489,7 @@ return [
 	'webinar-create-section' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Configuración del webinar <span class="tooltip" data-tip="Configura todos los aspectos de tu seminario web: establece fecha y hora, duración, invita a moderadores y presentadores, gestiona asistentes, personaliza el diseño y la marca, y más con configuraciones avanzadas"></span>
+		Configuración del webinar <span class="tooltip" data-tip="Configura todos los aspectos de tu webinario: establece fecha y hora, duración, invita a moderadores y presentadores, gestiona asistentes, personaliza el diseño y la marca, y más con configuraciones avanzadas"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-create-section-many' => /////////////////////////////////////////////////////
@@ -1455,7 +1455,7 @@ return [
 	'speakers-at-time' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		oradores a la vez <span class="tooltip" data-tip="El número máximo de presentadores que pueden usar una cámara y un micrófono simultáneamente durante el seminario web. Este límite solo se aplica a los que presentan al mismo tiempo. Los presentadores pueden turnarse sin ninguna restricción"></span>
+		oradores a la vez <span class="tooltip" data-tip="El número máximo de presentadores que pueden usar una cámara y un micrófono simultáneamente durante el webinario. Este límite solo se aplica a los que presentan al mismo tiempo. Los presentadores pueden turnarse sin ninguna restricción"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'on-disk' => /////////////////////////////////////////////////////////////////////////
@@ -1749,7 +1749,7 @@ return [
 	'record-auto-no-stop' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Evitar que se detenga la grabación <span class="tooltip" data-tip="Cuando está habilitado, los moderadores de la sala del seminario web no podrán detener la grabación durante la sesión en vivo"></span>
+		Evitar que se detenga la grabación <span class="tooltip" data-tip="Cuando está habilitado, los moderadores de la sala del webinario no podrán detener la grabación durante la sesión en vivo"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'prevent-recording' => ///////////////////////////////////////////////////////////////
@@ -1773,7 +1773,7 @@ return [
 	'record-all' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Todo <span class="tooltip" data-tip="Cuando está habilitado, el video del seminario web capturará la parte seleccionada de la sala del seminario web. Puede personalizar su grabación eligiendo ocultar o mostrar el nombre del presentador, incluir o excluir el chat público, y así sucesivamente"></span>
+		Todo <span class="tooltip" data-tip="Cuando está habilitado, el video del webinario capturará la parte seleccionada de la sala del webinario. Puede personalizar su grabación eligiendo ocultar o mostrar el nombre del presentador, incluir o excluir el chat público, y así sucesivamente"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-userlist' => /////////////////////////////////////////////////////////////////
@@ -2259,7 +2259,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Código de inserción del formulario de registro <span class="tooltip" data-tip="Copie este código HTML de IFRAME para incrustar un formulario de registro en su página web personal para su seminario web. Este código es universal y puede necesitar una personalización adicional para que coincida con los parámetros y el estilo de su página. Simplemente haga clic en el campo de entrada para copiar el código a su portapapeles"></span>
+		Código de inserción del formulario de registro <span class="tooltip" data-tip="Copie este código HTML de IFRAME para incrustar un formulario de registro en su página web personal para su webinario. Este código es universal y puede necesitar una personalización adicional para que coincida con los parámetros y el estilo de su página. Simplemente haga clic en el campo de entrada para copiar el código a su portapapeles"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////
@@ -3470,13 +3470,13 @@ return [
 	'webinar-info' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Enlaces y acceso a webinario <span class="tooltip" data-tip="Esta sección proporciona todos los enlaces esenciales para su seminario web, incluido el código del formulario de registro para próximos seminarios web si esta función está habilitada en la configuración de su evento. Puede copiar el enlace público general del seminario web, la contraseña de acceso (si está habilitada) y los enlaces para todos sus presentadores invitados para asegurar un evento en línea exitoso"></span>
+		Enlaces y acceso a webinario <span class="tooltip" data-tip="Esta sección proporciona todos los enlaces esenciales para su webinario, incluido el código del formulario de registro para próximos seminarios web si esta función está habilitada en la configuración de su evento. Puede copiar el enlace público general del webinario, la contraseña de acceso (si está habilitada) y los enlaces para todos sus presentadores invitados para asegurar un evento en línea exitoso"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-status' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Registro de correos de invitación <span class="tooltip" data-tip="Accede al historial y estado de los correos electrónicos de invitación enviados a los asistentes, incluidas las confirmaciones de registro, recordatorios del seminario web con 3 días y 1 día de antelación, alertas con 1 hora de antelación, notificaciones para los que llegan tarde y seguimientos después del seminario web. El registro detalla los tiempos exactos de envío, las confirmaciones de recepción del servidor de correo electrónico y cualquier error si los correos electrónicos no se envían"></span>
+		Registro de correos de invitación <span class="tooltip" data-tip="Accede al historial y estado de los correos electrónicos de invitación enviados a los asistentes, incluidas las confirmaciones de registro, recordatorios del webinario con 3 días y 1 día de antelación, alertas con 1 hora de antelación, notificaciones para los que llegan tarde y seguimientos después del webinario. El registro detalla los tiempos exactos de envío, las confirmaciones de recepción del servidor de correo electrónico y cualquier error si los correos electrónicos no se envían"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-WAIT' => ///////////////////////////////////////////////////////////////////////
@@ -3524,13 +3524,13 @@ return [
 	'not-approv-webinar' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Asistencia rechazada al seminario web <span class="tooltip" data-tip="Este gráfico muestra el número de asistentes que hicieron clic en el botón «No asistiré» en el correo electrónico de invitación al seminario web. Rastrea a los participantes que no desean asistir a su próximo seminario web"></span>
+		Asistencia rechazada al webinario <span class="tooltip" data-tip="Este gráfico muestra el número de asistentes que hicieron clic en el botón «No asistiré» en el correo electrónico de invitación al webinario. Rastrea a los participantes que no desean asistir a su próximo webinario"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'approv-webinar' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Asistencia confirmada al seminario web <span class="tooltip" data-tip="Este gráfico muestra el número de asistentes que hicieron clic en el botón «Asistiré» en el correo electrónico de invitación al seminario web. Rastrea a los participantes confirmados para su próximo seminario web"></span>
+		Asistencia confirmada al webinario <span class="tooltip" data-tip="Este gráfico muestra el número de asistentes que hicieron clic en el botón «Asistiré» en el correo electrónico de invitación al webinario. Rastrea a los participantes confirmados para su próximo webinario"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-by-paypal' => ///////////////////////////////////////////////////////////////////
@@ -4408,13 +4408,13 @@ return [
 		– Nuestro logo aparecerá en la cámara web de cada moderador<br>
 		– Hasta 2 presentadores a la vez (cada participante puede hablar por turno)<br>
 		– Importar hasta 20 suscriptores para invitaciones<br>
-		– 20 asistentes por seminario web<br>
+		– 20 asistentes por webinario<br>
 		– 20 minutos de grabación (opciones de calidad: 480p y 720p)<br>
 		– Compartir enlaces a grabaciones de seminarios web está prohibido<br>
 		– Los cambios en la marca personalizada están prohibidos<br>
 		– Opción de dominio personalizado no disponible<br>
 		– Transmisión OBS no disponible<br>
-		– 1 creación de seminario web automatizado<br>
+		– 1 creación de autowebinario<br>
 		– 1 GB de espacio de almacenamiento<br><br>
 		Por favor, actualice a un plan de pago para desbloquear todas las funciones disponibles y mejorar sus eventos en vivo
 	',
@@ -5517,7 +5517,7 @@ return [
 	'storage-add-video' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Agregar un vídeo de YouTube o Vimeo <span class="tooltip" data-tip="Agregue videos de YouTube o Vimeo a su seminario web insertando el enlace del video en el cuadro a continuación. Simplemente copie la URL del video de YouTube o Vimeo y péguela aquí. Esta función le permite enriquecer el contenido de su seminario web con videos externos, brindando una experiencia de visualización fluida para sus asistentes. Asegúrese de que el enlace sea correcto y esté accesible públicamente para evitar problemas de reproducción"></span>
+		Agregar un vídeo de YouTube o Vimeo <span class="tooltip" data-tip="Agregue videos de YouTube o Vimeo a su webinario insertando el enlace del video en el cuadro a continuación. Simplemente copie la URL del video de YouTube o Vimeo y péguela aquí. Esta función le permite enriquecer el contenido de su webinario con videos externos, brindando una experiencia de visualización fluida para sus asistentes. Asegúrese de que el enlace sea correcto y esté accesible públicamente para evitar problemas de reproducción"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-url-placeholder' => /////////////////////////////////////////////////////////
@@ -5728,7 +5728,7 @@ return [
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Auto-registros a través del enlace del seminario web <span class="tooltip" data-tip="Este gráfico muestra el número de asistentes que se registraron por sí mismos para el seminario web utilizando el enlace público. Puede compartir este enlace a través de mensajería u otros métodos de comunicación. El gráfico le ayuda a rastrear la efectividad de su estrategia de invitación y el nivel de interés en su seminario web"></span>
+		Auto-registros a través del enlace del webinario <span class="tooltip" data-tip="Este gráfico muestra el número de asistentes que se registraron por sí mismos para el webinario utilizando el enlace público. Puede compartir este enlace a través de mensajería u otros métodos de comunicación. El gráfico le ayuda a rastrear la efectividad de su estrategia de invitación y el nivel de interés en su webinario"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'group-already-exists' => ////////////////////////////////////////////////////////////
@@ -6322,19 +6322,19 @@ return [
 	'badge-conference' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Video conference
+		reunión
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'badge-webinar' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Live webinar
+		webinario
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'badge-ended' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ended
+		finalizado
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

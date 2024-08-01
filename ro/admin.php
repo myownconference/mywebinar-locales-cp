@@ -3519,13 +3519,13 @@ return [
 	'not-approv-webinar' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		A refuzat participarea la eveniment
+		Participare refuzată la webinar <span class="tooltip" data-tip="Acest grafic afișează numărul de participanți care au făcut clic pe butonul «Nu voi participa» în emailul de invitație la webinar. Urmărește participanții care nu doresc să participe la webinarul următor"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'approv-webinar' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		A confirmat participarea la eveniment
+		Prezență confirmată la webinar <span class="tooltip" data-tip="Acest grafic afișează numărul de participanți care au făcut clic pe butonul «Voi participa» în emailul de invitație la webinar. Urmărește participanții confirmați pentru webinarul următor"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-by-paypal' => ///////////////////////////////////////////////////////////////////
@@ -5709,7 +5709,7 @@ return [
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Auto-înregistrări prin linkul evenimentului
+		Auto-înregistrări prin linkul webinarului <span class="tooltip" data-tip="Acest grafic afișează numărul de participanți care s-au auto-înregistrat la webinar folosind linkul public. Puteți partaja acest link prin messenger sau alte metode de comunicare. Graficul vă ajută să urmăriți eficiența strategiei dvs. de invitație și nivelul de interes pentru webinarul dvs"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'group-already-exists' => ////////////////////////////////////////////////////////////

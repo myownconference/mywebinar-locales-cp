@@ -3519,13 +3519,13 @@ return [
 	'not-approv-webinar' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Declined attendance at the webinar
+		Declined attendance at the webinar <span class="tooltip" data-tip="This graph shows the number of attendees who clicked the «I will not attend» button in the webinar invitation email. It tracks participants who do not want to attend your upcoming webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'approv-webinar' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Confirmed attendance at the webinar
+		Confirmed attendance at the webinar <span class="tooltip" data-tip="This graph shows the number of attendees who clicked the «I will attend» button in the webinar invitation email. It tracks confirmed participants for your upcoming webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-by-paypal' => ///////////////////////////////////////////////////////////////////
@@ -5709,7 +5709,7 @@ return [
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Self-registrations via the webinar link
+		Self-registrations via the webinar link <span class="tooltip" data-tip="This graph shows the number of attendees who registered for the webinar using the public link. You can share this link via messenger or other communication methods. The graph helps you track how effective your invitation strategy is and how interested people are in your webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'group-already-exists' => ////////////////////////////////////////////////////////////

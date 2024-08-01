@@ -3524,13 +3524,13 @@ return [
 	'not-approv-webinar' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Invitación rechazó
+		Asistencia rechazada al seminario web <span class="tooltip" data-tip="Este gráfico muestra el número de asistentes que hicieron clic en el botón «No asistiré» en el correo electrónico de invitación al seminario web. Rastrea a los participantes que no desean asistir a su próximo seminario web"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'approv-webinar' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Invitación confirmó
+		Asistencia confirmada al seminario web <span class="tooltip" data-tip="Este gráfico muestra el número de asistentes que hicieron clic en el botón «Asistiré» en el correo electrónico de invitación al seminario web. Rastrea a los participantes confirmados para su próximo seminario web"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-by-paypal' => ///////////////////////////////////////////////////////////////////
@@ -5728,7 +5728,7 @@ return [
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Registered themselves
+		Auto-registros a través del enlace del seminario web <span class="tooltip" data-tip="Este gráfico muestra el número de asistentes que se registraron por sí mismos para el seminario web utilizando el enlace público. Puede compartir este enlace a través de mensajería u otros métodos de comunicación. El gráfico le ayuda a rastrear la efectividad de su estrategia de invitación y el nivel de interés en su seminario web"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'group-already-exists' => ////////////////////////////////////////////////////////////

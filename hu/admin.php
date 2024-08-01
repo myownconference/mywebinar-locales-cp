@@ -3519,13 +3519,13 @@ return [
 	'not-approv-webinar' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Részvétel a webináriumon elutasítva
+		Elutasított részvétel a webináron <span class="tooltip" data-tip="Ez a grafikon azt mutatja, hogy hány résztvevő kattintott az «Nem veszek részt» gombra a webinárium meghívó e-mailben. Nyomon követi azokat a résztvevőket, akik nem akarnak részt venni a közelgő webináriumán"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'approv-webinar' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Részvétel a webináriumon megerősítve
+		Megerősített részvétel a webináron <span class="tooltip" data-tip="Ez a grafikon azt mutatja, hogy hány résztvevő kattintott az «Részt veszek» gombra a webinárium meghívó e-mailben. Nyomon követi a megerősített résztvevőket a közelgő webináriumhoz"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-by-paypal' => ///////////////////////////////////////////////////////////////////
@@ -5709,7 +5709,7 @@ return [
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Önszabályozások a webinárium linkjén keresztül
+		Önregisztrációk a webinar linken keresztül <span class="tooltip" data-tip="Ez a grafikon megmutatja, hány résztvevő regisztrált önállóan a webinárra a nyilvános linken keresztül. Ezt a linket megoszthatja üzenetküldőn vagy más kommunikációs módszereken keresztül. A grafikon segít nyomon követni a meghívási stratégia hatékonyságát és a webinár iránti érdeklődés szintjét"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'group-already-exists' => ////////////////////////////////////////////////////////////

@@ -3009,7 +3009,7 @@ return [
 	'record-link' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Recording link <span class="tooltip" data-tip="Use the slider below to create a new access link for the recording. Click the envelope button to select participants and send the link to their email addresses. Please note: if your permanent webinar room is password-protected, access to the recording will also require a password"></span>
+		Recording link <span class="tooltip" data-tip="Use the slider above to create a new access link for the recording. Click the envelope button to select participants and send the link to their email addresses. Please note: if your permanent webinar room is password-protected, access to the recording will also require a password"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-link-available' => ///////////////////////////////////////////////////////////

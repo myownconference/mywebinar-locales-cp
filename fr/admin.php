@@ -3015,7 +3015,7 @@ return [
 	'record-link' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Lien d‘enregistrement <span class="tooltip" data-tip="Utilisez le curseur ci-dessous pour créer un nouveau lien d‘accès à l‘enregistrement. Cliquez sur le bouton enveloppe pour sélectionner les participants et envoyer le lien à leurs adresses e-mail. Veuillez noter: si votre salle de webinaire permanente est protégée par mot de passe, l‘accès à l‘enregistrement nécessitera également un mot de passe"></span>
+		Lien d‘enregistrement <span class="tooltip" data-tip="Utilisez le curseur ci-dessus pour créer un nouveau lien d‘accès à l‘enregistrement. Cliquez sur le bouton enveloppe pour sélectionner les participants et envoyer le lien à leurs adresses e-mail. Remarque: si votre salle de webinaire permanente est protégée par mot de passe, l‘accès à l‘enregistrement nécessitera également un mot de passe"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-link-available' => ///////////////////////////////////////////////////////////

@@ -3012,7 +3012,7 @@ return [
 	'record-link' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Enlace de grabación <span class="tooltip" data-tip="Utilice el control deslizante a continuación para crear un nuevo enlace de acceso a la grabación. Haga clic en el botón del sobre para seleccionar a los participantes y enviarles el enlace a sus direcciones de correo electrónico. Tenga en cuenta: si su sala de seminarios web permanente está protegida con contraseña, el acceso a la grabación también requerirá una contraseña"></span>
+		Enlace de grabación <span class="tooltip" data-tip="Utilice el control deslizante arriba para crear un nuevo enlace de acceso a la grabación. Haga clic en el botón del sobre para seleccionar a los participantes y enviarles el enlace a sus direcciones de correo electrónico. Nota: si su sala de seminarios web permanente está protegida con contraseña, el acceso a la grabación también requerirá una contraseña"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-link-available' => ///////////////////////////////////////////////////////////

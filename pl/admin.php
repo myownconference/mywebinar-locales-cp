@@ -3013,7 +3013,7 @@ return [
 	'record-link' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link do nagrania <span class="tooltip" data-tip="Użyj poniższego suwaka, aby utworzyć nowy link dostępu do nagrania. Kliknij przycisk koperty, aby wybrać uczestników i wysłać im link na adresy e-mail. Uwaga: jeśli twoje stałe pomieszczenie webinaru jest chronione hasłem, dostęp do nagrania również będzie wymagał hasła"></span>
+		Link do nagrania <span class="tooltip" data-tip="Użyj powyższego suwaka, aby utworzyć nowy link dostępu do nagrania. Kliknij przycisk koperty, aby wybrać uczestników i wysłać im link na adresy e-mail. Uwaga: jeśli twoje stałe pomieszczenie webinaru jest chronione hasłem, dostęp do nagrania również będzie wymagał hasła"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-link-available' => ///////////////////////////////////////////////////////////

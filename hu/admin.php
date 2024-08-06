@@ -3009,7 +3009,7 @@ return [
 	'record-link' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Felvétel link
+		Felvételi link <span class="tooltip" data-tip="Használja az alábbi csúszkát egy új hozzáférési link létrehozásához a felvételhez. Kattintson a boríték gombra a résztvevők kiválasztásához, és küldje el a linket az e-mail címükre. Kérjük, vegye figyelembe: ha az állandó webináriumterme jelszóval védett, a felvételhez való hozzáférés is jelszót igényel"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-link-available' => ///////////////////////////////////////////////////////////

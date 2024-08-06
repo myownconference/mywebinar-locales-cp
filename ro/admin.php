@@ -3009,7 +3009,7 @@ return [
 	'record-link' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link de înregistrare
+		Link de înregistrare <span class="tooltip" data-tip="Folosiți glisorul de mai jos pentru a crea un nou link de acces pentru înregistrare. Faceți clic pe butonul cu plic pentru a selecta participanții și a trimite linkul către adresele lor de email. Notă: dacă sala permanentă de webinar este protejată prin parolă, accesul la înregistrare va necesita de asemenea o parolă"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-link-available' => ///////////////////////////////////////////////////////////

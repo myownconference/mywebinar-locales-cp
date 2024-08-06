@@ -3009,7 +3009,7 @@ return [
 	'record-link' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Aufnahme-Link
+		Aufnahmelink <span class="tooltip" data-tip="Verwenden Sie den Schieberegler unten, um einen neuen Zugriffslink für die Aufnahme zu erstellen. Klicken Sie auf die Umschalttaste, um Teilnehmer auszuwählen und den Link an ihre E-Mail-Adressen zu senden. Bitte beachten Sie: Wenn Ihr permanenter Webinarraum passwortgeschützt ist, erfordert auch der Zugriff auf die Aufnahme ein Passwort"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-link-available' => ///////////////////////////////////////////////////////////

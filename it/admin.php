@@ -3009,7 +3009,7 @@ return [
 	'record-link' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link di registrazione
+		Link di registrazione <span class="tooltip" data-tip="Utilizza il cursore in basso per creare un nuovo link di accesso per la registrazione. Fai clic sul pulsante della busta per selezionare i partecipanti e inviare loro il link ai loro indirizzi email. Nota: se la tua stanza webinar permanente è protetta da password, anche l‘accesso alla registrazione richiederà una password"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-link-available' => ///////////////////////////////////////////////////////////

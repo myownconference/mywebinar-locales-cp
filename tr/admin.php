@@ -3009,7 +3009,7 @@ return [
 	'record-link' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kayıt bağlantısı
+		Kayıt bağlantısı <span class="tooltip" data-tip="Kayda erişim bağlantısı oluşturmak için aşağıdaki kaydırıcıyı kullanın. Katılımcıları seçmek ve bağlantıyı e-posta adreslerine göndermek için zarf düğmesine tıklayın. Lütfen dikkat: Kalıcı web seminer odanız şifre korumalıysa, kayda erişim de bir şifre gerektirecektir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-link-available' => ///////////////////////////////////////////////////////////

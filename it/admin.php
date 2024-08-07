@@ -1119,13 +1119,13 @@ return [
 	'change-current-plan' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Cambia piano <span class="tooltip" data-tip="Aggiorna il tuo piano per usufruire di più posti per i partecipanti, spazio di archiviazione aggiuntivo, qualità di registrazione superiore e periodi di fatturazione flessibili. Adatta il tuo piano alle tue esigenze e migliora la tua esperienza di webinar. Paga per un mese al prezzo normale o scegli 2, 3, 6 o 12 mesi e approfitta di sconti fino al 20%"></span>
+		Aggiorna piano <span class="tooltip" data-tip="Aggiorna il tuo piano per usufruire di più posti per i partecipanti, spazio di archiviazione aggiuntivo, qualità di registrazione superiore e periodi di fatturazione flessibili. Adatta il tuo piano alle tue esigenze e migliora la tua esperienza di webinar. Paga per un mese al prezzo normale o scegli 2, 3, 6 o 12 mesi e approfitta di sconti fino al 20%"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-plan' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Cambia piano
+		Aggiorna piano
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'GB' => //////////////////////////////////////////////////////////////////////////////

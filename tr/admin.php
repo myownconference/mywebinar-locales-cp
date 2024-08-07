@@ -1119,13 +1119,13 @@ return [
 	'change-current-plan' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Planı değiştir <span class="tooltip" data-tip="Daha fazla katılımcı koltuğu, ek depolama, daha yüksek kayıt kalitesi ve esnek faturalandırma dönemlerinden yararlanmak için planınızı yükseltin. Planınızı ihtiyaçlarınıza göre uyarlayın ve web semineri deneyiminizi geliştirin. Bir ay için normal fiyattan ödeme yapın veya 2, 3, 6 veya 12 ay seçin ve %20‘ye varan indirimlerden yararlanın"></span>
+		Planı yükselt <span class="tooltip" data-tip="Daha fazla katılımcı koltuğu, ek depolama, daha yüksek kayıt kalitesi ve esnek faturalandırma dönemlerinden yararlanmak için planınızı yükseltin. Planınızı ihtiyaçlarınıza göre uyarlayın ve web semineri deneyiminizi geliştirin. Bir ay için normal fiyattan ödeme yapın veya 2, 3, 6 veya 12 ay seçin ve %20‘ye varan indirimlerden yararlanın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-plan' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Planı değiştir
+		Planı yükselt
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'GB' => //////////////////////////////////////////////////////////////////////////////

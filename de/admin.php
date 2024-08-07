@@ -1119,13 +1119,13 @@ return [
 	'change-current-plan' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Plan ändern <span class="tooltip" data-tip="Upgraden Sie Ihren Plan, um mehr Teilnehmerplätze, zusätzlichen Speicher, höhere Aufnahmequalität und flexible Abrechnungszeiträume zu genießen. Passen Sie Ihren Plan an Ihre Bedürfnisse an und verbessern Sie Ihr Webinar-Erlebnis. Bezahlen Sie einen Monat zum regulären Preis oder wählen Sie 2, 3, 6 oder 12 Monate und genießen Sie Rabatte von bis zu 20%"></span>
+		Plan upgraden <span class="tooltip" data-tip="Upgraden Sie Ihren Plan, um mehr Teilnehmerplätze, zusätzlichen Speicher, höhere Aufnahmequalität und flexible Abrechnungszeiträume zu genießen. Passen Sie Ihren Plan an Ihre Bedürfnisse an und verbessern Sie Ihr Webinar-Erlebnis. Bezahlen Sie einen Monat zum regulären Preis oder wählen Sie 2, 3, 6 oder 12 Monate und genießen Sie Rabatte von bis zu 20%"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-plan' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Plan ändern
+		Plan upgraden
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'GB' => //////////////////////////////////////////////////////////////////////////////

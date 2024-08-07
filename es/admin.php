@@ -789,7 +789,7 @@ return [
 	'web-close' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ingresar usando únicamente su enlace de invitación personal <span class="tooltip" data-tip="To host private webinars or webinars, activate this option. It will conceal the registration form from all viewers"></span>
+		Solo inicio de sesión con enlace de invitación <span class="tooltip" data-tip="Active esta opción para organizar seminarios web privados. Esto ocultará el formulario de registro para todos, y el enlace de inicio de sesión solo se enviará por notificaciones por correo electrónico. Los asistentes no podrán registrarse ni iniciar sesión usando un enlace público"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-moderator' => ////////////////////////////////////////////////////////////////
@@ -807,7 +807,7 @@ return [
 	'room-options' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ajustes adicionales <span class="tooltip" data-tip="Click this button to access and configure professional-level settings for your scheduled webinar or the webinar room. It offers greater control and customization to tailor the session to your specific needs"></span>
+		Configuración avanzada <span class="tooltip" data-tip="Haga clic aquí para acceder a configuraciones profesionales para su webinar. Personalice y controle cada aspecto para satisfacer sus necesidades"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-options' => ///////////////////////////////////////////////////////////////

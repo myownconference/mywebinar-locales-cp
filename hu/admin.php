@@ -789,7 +789,7 @@ return [
 	'web-close' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Csak a meghívó link segítségével jelentkezzen be <span class="tooltip" data-tip="Privát webináriumok vagy webináriumok tartásához aktiválja ezt az opciót. Ez elrejti a regisztrációs űrlapot minden néző elől"></span>
+		Csak meghívó linkkel lehet bejelentkezni <span class="tooltip" data-tip="Aktiválja ezt az opciót privát webináriumok fogadásához. Elrejti a regisztrációs űrlapot mindenki elől, és a bejelentkezési linket csak e-mail értesítések útján küldi el. A résztvevők nem tudnak regisztrálni vagy bejelentkezni nyilvános link használatával"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-moderator' => ////////////////////////////////////////////////////////////////
@@ -807,7 +807,7 @@ return [
 	'room-options' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Haladó beállítások <span class="tooltip" data-tip="Kattintson erre a gombra a tervezett webinárium vagy a webináriumszoba professzionális szintű beállításainak eléréséhez és konfigurálásához. Nagyobb irányítást és testreszabást kínál, hogy a munkamenetet az Ön speciális igényeihez igazítsa"></span>
+		Haladó beállítások <span class="tooltip" data-tip="Kattintson ide a webinárium professzionális beállításainak eléréséhez. Testreszabhatja és irányíthatja az összes szempontot az igényei szerint"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-options' => ///////////////////////////////////////////////////////////////

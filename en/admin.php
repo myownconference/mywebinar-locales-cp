@@ -789,7 +789,7 @@ return [
 	'web-close' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Login using your invitation link only <span class="tooltip" data-tip="To host private webinars, activate this option. It will conceal the registration form from all viewers"></span>
+		Invitation link login only <span class="tooltip" data-tip="Activate this option to host private webinars. This will hide the registration form from everyone, and the login link will only be sent via email notifications. Attendees will not be able to register or log in using a public link"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-moderator' => ////////////////////////////////////////////////////////////////
@@ -807,7 +807,7 @@ return [
 	'room-options' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Advanced settings <span class="tooltip" data-tip="Click this button to access and configure professional-level settings for your webinar. It offers greater control and customization to tailor the session to your specific needs"></span>
+		Advanced settings <span class="tooltip" data-tip="Click here to access professional-level settings for your webinar. Customize and control every aspect to suit your needs"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-options' => ///////////////////////////////////////////////////////////////

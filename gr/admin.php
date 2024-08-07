@@ -807,7 +807,7 @@ return [
 	'room-options' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Προηγμένες ρυθμίσεις <span class="tooltip" data-tip="Click this button to access and configure professional-level settings for your scheduled webinar or the webinar room. It offers greater control and customization to tailor the session to your specific needs"></span>
+		Προηγμένες ρυθμίσεις <span class="tooltip" data-tip="Κάντε κλικ εδώ για να αποκτήσετε πρόσβαση σε επαγγελματικές ρυθμίσεις για το webinar σας. Προσαρμόστε και ελέγξτε κάθε πτυχή σύμφωνα με τις ανάγκες σας"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-options' => ///////////////////////////////////////////////////////////////

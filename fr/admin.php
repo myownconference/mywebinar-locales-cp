@@ -789,7 +789,7 @@ return [
 	'web-close' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Connexion seulement via le lien personnel d‘invitation <span class="tooltip" data-tip="To host private webinars or webinars, activate this option. It will conceal the registration form from all viewers"></span>
+		Connexion uniquement avec le lien d‘invitation <span class="tooltip" data-tip="Activez cette option pour organiser des webinaires privés. Cela cachera le formulaire d‘inscription à tout le monde, et le lien de connexion ne sera envoyé que via des notifications par e-mail. Les participants ne pourront pas s‘inscrire ou se connecter à l‘aide d‘un lien public"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-moderator' => ////////////////////////////////////////////////////////////////
@@ -807,7 +807,7 @@ return [
 	'room-options' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paramètres additionnels <span class="tooltip" data-tip="Click this button to access and configure professional-level settings for your scheduled webinar or the webinar room. It offers greater control and customization to tailor the session to your specific needs"></span>
+		Paramètres avancés <span class="tooltip" data-tip="Cliquez ici pour accéder aux paramètres professionnels de votre webinaire. Personnalisez et contrôlez chaque aspect selon vos besoins"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-options' => ///////////////////////////////////////////////////////////////

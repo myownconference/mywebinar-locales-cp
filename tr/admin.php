@@ -789,7 +789,7 @@ return [
 	'web-close' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sadece davet bağlantınızı kullanarak giriş yapın <span class="tooltip" data-tip="To host private webinars or webinars, activate this option. It will conceal the registration form from all viewers"></span>
+		Sadece davet bağlantısı ile giriş <span class="tooltip" data-tip="Özel web seminerleri düzenlemek için bu seçeneği etkinleştirin. Kayıt formunu herkesten gizleyecek ve giriş bağlantısı yalnızca e-posta bildirimleriyle gönderilecektir. Katılımcılar genel bir bağlantı kullanarak kayıt olamaz veya giriş yapamazlar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-moderator' => ////////////////////////////////////////////////////////////////
@@ -807,7 +807,7 @@ return [
 	'room-options' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Gelişmiş ayarlar <span class="tooltip" data-tip="Click this button to access and configure professional-level settings for your scheduled webinar or the webinar room. It offers greater control and customization to tailor the session to your specific needs"></span>
+		Gelişmiş ayarlar <span class="tooltip" data-tip="Web semineriniz için profesyonel ayarları görüntülemek için buraya tıklayın. İhtiyaçlarınıza göre her yönü özelleştirin ve kontrol edin"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-options' => ///////////////////////////////////////////////////////////////

@@ -789,7 +789,7 @@ return [
 	'web-close' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Wejście tylko z linkiem indywidualnym <span class="tooltip" data-tip="Aby organizować prywatne webinary, aktywuj tę opcję. Ukryje ona formularz rejestracyjny przed wszystkimi widzami"></span>
+		Tylko logowanie za pomocą linku zaproszenia <span class="tooltip" data-tip="Aby hostować prywatne webinaria, włącz tę opcję. Ukryje formularz rejestracyjny przed wszystkimi, a link do logowania będzie wysyłany tylko przez powiadomienia e-mail. Uczestnicy nie będą mogli zarejestrować się ani zalogować za pomocą publicznego linku"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-moderator' => ////////////////////////////////////////////////////////////////
@@ -807,7 +807,7 @@ return [
 	'room-options' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ustawienia zaawansowane <span class="tooltip" data-tip="Kliknij ten przycisk, aby uzyskać dostęp do i skonfigurować ustawienia na poziomie profesjonalnym dla zaplanowanego webinaru lub sali webinarowej. Oferuje większą kontrolę i możliwość dostosowania sesji do swoich konkretnych potrzeb"></span>
+		Zaawansowane ustawienia <span class="tooltip" data-tip="Kliknij tutaj, aby uzyskać dostęp do profesjonalnych ustawień webinaru. Dostosuj i kontroluj każdy aspekt do swoich potrzeb"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-options' => ///////////////////////////////////////////////////////////////

@@ -789,7 +789,7 @@ return [
 	'web-close' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Conectați-vă folosind doar linkul dvs. de invitație <span class="tooltip" data-tip="To host private webinars or webinars, activate this option. It will conceal the registration form from all viewers"></span>
+		Autentificare doar cu linkul de invitație <span class="tooltip" data-tip="Pentru a găzdui webinarii private, activați această opțiune. Va ascunde formularul de înregistrare de toată lumea și linkul de conectare va fi trimis doar prin notificări prin e-mail. Participanții nu se vor putea înregistra sau autentifica utilizând un link public"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-moderator' => ////////////////////////////////////////////////////////////////
@@ -807,7 +807,7 @@ return [
 	'room-options' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Setări avansate <span class="tooltip" data-tip="Click this button to access and configure professional-level settings for your scheduled webinar or the webinar room. It offers greater control and customization to tailor the session to your specific needs"></span>
+		Setări avansate <span class="tooltip" data-tip="Faceți clic aici pentru a accesa setările profesionale pentru webinarul dvs. Personalizați și controlați fiecare aspect pentru a se potrivi nevoilor dvs"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-options' => ///////////////////////////////////////////////////////////////

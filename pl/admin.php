@@ -501,13 +501,13 @@ return [
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ustawienia zaawansowane pokoju webinarowego
+		Ustawienia zaawansowane <span class="tooltip" data-tip="Dostosuj swój pokój webinarowy za pomocą zaawansowanych ustawień. Dostosuj wygląd swojego miejsca pracy i strony rejestracyjnej, skonfiguruj nagrania wydarzeń i zautomatyzuj zaproszenia e-mailowe na nadchodzące webinaria dla wszystkich grup odbiorców"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section-lp' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Zaawansowane ustawienia landingu
+		Ustawienia zaawansowane <span class="tooltip" data-tip="Skonfiguruj zaawansowane ustawienia dla strony zbierania e-maili i informacji o uczestnikach Twoich wydarzeń online. Dostosuj projekt strony i formularza, wybierz język, określ wymagane pola danych i dodaj krótki opis"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-date' => ////////////////////////////////////////////////////////////////////
@@ -1774,19 +1774,19 @@ return [
 	'record-all' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Wszystko <span class="tooltip" data-tip="Po włączeniu, wideo z webinaru będzie rejestrować wybraną część pokoju webinarowego. Możesz dostosować swoje nagranie, wybierając, czy ukryć lub pokazać nazwisko prezentera, uwzględnić lub wykluczyć czat publiczny itp"></span>
+		Selektywnie <span class="tooltip" data-tip="Po włączeniu, wideo z webinaru będzie rejestrować wybraną część pokoju webinarowego. Możesz dostosować swoje nagranie, wybierając, czy ukryć lub pokazać nazwisko prezentera, uwzględnić lub wykluczyć czat publiczny itp"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-userlist' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Listę uczestników
+		W tym lista uczestników <span class="tooltip" data-tip="Nagranie webinaru będzie zawierało listę uczestników z nazwiskami i zdjęciami profilowymi, co pozwoli Ci jasno zobaczyć wszystkich obecnych"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-moder-name' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Godności prezenterów
+		W tym nazwiska moderatorów <span class="tooltip" data-tip="Nagranie webinarium pokaże nazwiska prezenterów na ich kamerach internetowych lub zdjęciach profilowych"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-preview-moder-name' => ///////////////////////////////////////////////////////
@@ -1798,7 +1798,7 @@ return [
 	'record-chat' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pole czatowe
+		W tym czat <span class="tooltip" data-tip="Nagranie webinarium będzie zawierać publiczny czat z wiadomościami od uczestników. Moderowane wiadomości nie będą nagrywane. Jeśli była włączona premoderacja czatu, zostaną uwzględnione tylko wiadomości zatwierdzone przez moderatora podczas webinarium"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copy' => ////////////////////////////////////////////////////////////////////////////
@@ -2838,7 +2838,7 @@ return [
 	'landing-page-mode' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tryb landingu do zbierania e-mailów <span class="tooltip" data-tip="Aktywuj ten tryb, aby zamienić Twoją salę webinarową w dedykowaną stronę startową. Zamiast bezpośredniego wejścia na webinar, uczestnicy najpierw podadzą swój email oraz inne wymagane informacje. Tryb ten jest idealny do budowania listy subskrybentów i zbierania danych uczestników przed udzieleniem dostępu do webinaru. Włącz, aby priorytetowo zbierać dane; wyłącz, aby umożliwić bezpośredni dostęp do webinaru"></span>
+		Tryb strony docelowej <span class="tooltip" data-tip="Aktywuj ten tryb, aby przekształcić pokój webinarowy w stronę docelową. Zamiast bezpośrednio wchodzić na webinar, uczestnicy najpierw podadzą swój e-mail i inne wymagane informacje. Ten tryb pomaga budować listę subskrybentów i zbierać dane uczestników przed webinarem. Włącz, aby najpierw zbierać dane; wyłącz, aby uzyskać bezpośredni dostęp"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page' => ////////////////////////////////////////////////////////////////////

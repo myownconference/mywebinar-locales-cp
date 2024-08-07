@@ -501,13 +501,13 @@ return [
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Erweiterte Einstellungen
+		Erweiterte Einstellungen <span class="tooltip" data-tip="Passen Sie Ihren Webinarraum mit erweiterten Einstellungen an. Passen Sie das Erscheinungsbild Ihres Arbeitsbereichs und der Registrierungsseite an, richten Sie Veranstaltungsaufzeichnungen ein und automatisieren Sie E-Mail-Einladungen für bevorstehende Webinare für alle Zielgruppen"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section-lp' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Landing Page Einstellungen
+		Erweiterte Einstellungen <span class="tooltip" data-tip="Konfigurieren Sie erweiterte Einstellungen für die E-Mail-Sammelseite und Teilnehmerinformationen für Ihre Online-Veranstaltungen. Passen Sie das Seiten- und Formulardesign an, wählen Sie die Sprache aus, geben Sie erforderliche Datenfelder an und fügen Sie eine kurze Beschreibung hinzu"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-date' => ////////////////////////////////////////////////////////////////////
@@ -1773,19 +1773,19 @@ return [
 	'record-all' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Alles <span class="tooltip" data-tip="Wenn aktiviert, wird das Webinar-Video den ausgewählten Teil des Webinar-Raums aufzeichnen. Sie können Ihre Aufnahme anpassen, indem Sie wählen, ob der Name des Moderators angezeigt oder ausgeblendet werden soll, ob der öffentliche Chat einbezogen oder ausgeschlossen werden soll und so weiter"></span>
+		Ausgewählt <span class="tooltip" data-tip="Wenn aktiviert, wird das Webinar-Video den ausgewählten Teil des Webinar-Raums aufzeichnen. Sie können Ihre Aufnahme anpassen, indem Sie wählen, ob der Name des Moderators angezeigt oder ausgeblendet werden soll, ob der öffentliche Chat einbezogen oder ausgeschlossen werden soll und so weiter"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-userlist' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Einschließlich einer Teilnehmerliste
+		Teilnehmerliste einschließen <span class="tooltip" data-tip="Die Webinar-Aufzeichnung wird eine Liste der Teilnehmer mit Namen und Profilbildern enthalten, sodass Sie einen klaren Überblick über alle Teilnehmer haben"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-moder-name' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Einschließlich der Namen der Moderatoren
+		Einschließlich der Namen der Moderatoren <span class="tooltip" data-tip="Die Webinar-Aufzeichnung zeigt die Namen der Referenten auf ihren Webcams oder Profilbildern"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-preview-moder-name' => ///////////////////////////////////////////////////////
@@ -1797,7 +1797,7 @@ return [
 	'record-chat' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Einschließlich Chat
+		Einschließlich Chat <span class="tooltip" data-tip="Die Webinar-Aufzeichnung wird den öffentlichen Chat mit Nachrichten der Teilnehmer enthalten. Moderierte Nachrichten werden nicht aufgezeichnet. Nur Nachrichten, die während des Webinars vom Moderator genehmigt wurden, werden aufgenommen, wenn die Vorabmoderation des Chats aktiviert war"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copy' => ////////////////////////////////////////////////////////////////////////////
@@ -2835,7 +2835,7 @@ return [
 	'landing-page-mode' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Landingpage-Modus für E-Mail-Sammlung <span class="tooltip" data-tip="Activate this mode to transform your webinar room into a dedicated landing page. Instead of directly entering the webinar, attendees will first provide their email and any other required information. This mode is ideal for building your subscriber list and gathering attendee data before granting access to the webinar. Toggle on to prioritize data collection; toggle off for direct webinar entry"></span>
+		Landingpage-Modus <span class="tooltip" data-tip="Aktivieren Sie diesen Modus, um Ihren Webinarraum in eine Landingpage zu verwandeln. Anstatt direkt ins Webinar zu gelangen, geben die Teilnehmer zuerst ihre E-Mail-Adresse und andere erforderliche Informationen an. Dieser Modus hilft Ihnen, Ihre Abonnentenliste aufzubauen und Teilnehmerdaten vor dem Webinar zu sammeln. Aktivieren Sie ihn, um zuerst Daten zu sammeln; deaktivieren Sie ihn für direkten Zugang"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page' => ////////////////////////////////////////////////////////////////////

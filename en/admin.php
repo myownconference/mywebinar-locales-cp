@@ -501,13 +501,13 @@ return [
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Advanced settings for the webinar room
+		Advanced settings <span class="tooltip" data-tip="Customize your webinar room with advanced settings. Adjust the appearance of your workspace and registration page, set up event recordings, and automate email invitations for upcoming webinars for all audience groups"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section-lp' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Landing page settings
+		Advanced settings <span class="tooltip" data-tip="Configure advanced settings for the email collection page and participant information for your online events. Customize the page and form design, select the language, specify required data fields, and add a brief description"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-date' => ////////////////////////////////////////////////////////////////////
@@ -1773,19 +1773,19 @@ return [
 	'record-all' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Everything <span class="tooltip" data-tip="When enabled, the webinar video will capture the selected part of the webinar room. You can customize your recording by choosing to hide or show the presenter’s name, include or exclude the public chat, and so on"></span>
+		Selectively <span class="tooltip" data-tip="When enabled, the webinar video will capture the selected part of the webinar room. You can customize your recording by choosing to hide or show the presenter’s name, include or exclude the public chat, and so on"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-userlist' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Including a list of attendees
+		Including a list of attendees <span class="tooltip" data-tip="The webinar recording will include a list of participants with their names and profile pictures, giving you a clear view of everyone who attended"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-moder-name' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Including the moderators‘ names
+		Including the moderators‘ names <span class="tooltip" data-tip="The webinar recording will show the presenters‘ names on their webcams or profile pictures"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-preview-moder-name' => ///////////////////////////////////////////////////////
@@ -1797,7 +1797,7 @@ return [
 	'record-chat' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Including chat
+		Including chat <span class="tooltip" data-tip="The webinar recording will include the public chat with messages from participants. Moderated messages won‘t be recorded. Only messages approved by the moderator during the webinar will be included if chat pre-moderation was enabled"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copy' => ////////////////////////////////////////////////////////////////////////////
@@ -2835,7 +2835,7 @@ return [
 	'landing-page-mode' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Landing page mode for email collection <span class="tooltip" data-tip="Activate this mode to transform your webinar room into a dedicated landing page. Instead of directly entering the webinar, attendees will first provide their email and any other required information. This mode is ideal for building your subscriber list and gathering attendee data before granting access to the webinar. Toggle on to prioritize data collection; toggle off for direct webinar entry"></span>
+		Landing page mode <span class="tooltip" data-tip="Activate this mode to turn your webinar room into a landing page. Instead of entering the webinar directly, attendees will first provide their email and other required information. This mode helps build your subscriber list and gather attendee data before the webinar. Turn it on to collect data first; turn it off for direct entry"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page' => ////////////////////////////////////////////////////////////////////

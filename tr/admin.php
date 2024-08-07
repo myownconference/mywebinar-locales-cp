@@ -501,13 +501,13 @@ return [
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Gelişmiş ayarlar
+		Gelişmiş ayarlar <span class="tooltip" data-tip="Web semineri odanızı gelişmiş ayarlarla özelleştirin. Çalışma alanınızın ve kayıt sayfanızın görünümünü ayarlayın, etkinlik kayıtlarını yapılandırın ve tüm izleyici grupları için yaklaşan web semineri davetleri için e-postaları otomatikleştirin"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section-lp' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ana sayfa ayarları
+		Gelişmiş ayarlar <span class="tooltip" data-tip="E-posta toplama sayfası ve çevrimiçi etkinlikleriniz için katılımcı bilgileri için gelişmiş ayarları yapılandırın. Sayfa ve form tasarımını özelleştirin, dili seçin, gerekli veri alanlarını belirtin ve kısa bir açıklama ekleyin"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-date' => ////////////////////////////////////////////////////////////////////
@@ -1773,19 +1773,19 @@ return [
 	'record-all' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Her Şey <span class="tooltip" data-tip="Etkinleştirildiğinde, web semineri videosu, web semineri odasının seçilen bölümünü kaydedecektir. Sunucunun adını gizlemeyi veya göstermeyi, genel sohbeti dahil etmeyi veya hariç tutmayı seçerek kaydınızı özelleştirebilirsiniz"></span>
+		Seçici olarak <span class="tooltip" data-tip="Etkinleştirildiğinde, web semineri videosu, web semineri odasının seçilen bölümünü kaydedecektir. Sunucunun adını gizlemeyi veya göstermeyi, genel sohbeti dahil etmeyi veya hariç tutmayı seçerek kaydınızı özelleştirebilirsiniz"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-userlist' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Katılımcı listesi dahil
+		Katılımcı listesi dahil <span class="tooltip" data-tip="Web semineri kaydı, isimler ve profil resimleriyle birlikte katılımcı listesini içerecek ve size katılan herkesin net bir görünümünü sağlayacak"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-moder-name' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderatörlerin isimlerini dahil ederek
+		Moderatörlerin isimleri dahil <span class="tooltip" data-tip="Web semineri kaydı, sunucuların isimlerini web kameralarında veya profil resimlerinde gösterecek"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-preview-moder-name' => ///////////////////////////////////////////////////////
@@ -1797,7 +1797,7 @@ return [
 	'record-chat' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sohbet dahil
+		Sohbet dahil <span class="tooltip" data-tip="Web semineri kaydı, katılımcılardan gelen mesajlarla birlikte genel sohbeti içerecektir. Moderatörlü mesajlar kaydedilmeyecek. Sohbet ön moderasyonu etkinse, web semineri sırasında moderatör tarafından onaylanan mesajlar dahil edilecektir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copy' => ////////////////////////////////////////////////////////////////////////////
@@ -2835,7 +2835,7 @@ return [
 	'landing-page-mode' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		E-posta toplama için iniş landing modu <span class="tooltip" data-tip="Activate this mode to transform your webinar room into a dedicated landing page. Instead of directly entering the webinar, attendees will first provide their email and any other required information. This mode is ideal for building your subscriber list and gathering attendee data before granting access to the webinar. Toggle on to prioritize data collection; toggle off for direct webinar entry"></span>
+		Açılış sayfası modu <span class="tooltip" data-tip="Web seminer odanızı açılış sayfasına dönüştürmek için bu modu etkinleştirin. Web seminerine doğrudan girmek yerine, katılımcılar önce e-posta adreslerini ve gerekli diğer bilgileri sağlar. Bu mod, abone listenizi oluşturmanıza ve web seminerinden önce katılımcı verilerini toplamanıza yardımcı olur. Öncelikle veri toplamak için açın; doğrudan giriş için kapatın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page' => ////////////////////////////////////////////////////////////////////

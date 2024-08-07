@@ -501,13 +501,13 @@ return [
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Setări avansate
+		Setări avansate <span class="tooltip" data-tip="Personalizați camera dvs. de webinar cu setări avansate. Ajustați aspectul spațiului de lucru și al paginii de înregistrare, setați înregistrările evenimentelor și automatizați e-mailurile de invitație pentru viitoarele webinarii pentru toate grupurile de public"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section-lp' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Setări pentru pagina de primire
+		Setări avansate <span class="tooltip" data-tip="Configurați setările avansate pentru pagina de colectare a e-mailurilor și informațiile despre participanți pentru evenimentele dvs. online. Personalizați designul paginii și al formularului, selectați limba, specificați câmpurile de date necesare și adăugați o scurtă descriere"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-date' => ////////////////////////////////////////////////////////////////////
@@ -1773,19 +1773,19 @@ return [
 	'record-all' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Totul <span class="tooltip" data-tip="Când este activată, videoclipul webinarului va captura partea selectată a sălii de webinar. Puteți personaliza înregistrarea alegând să ascundeți sau să afișați numele prezentatorului, să includeți sau să excludeți chatul public și așa mai departe"></span>
+		Selectiv <span class="tooltip" data-tip="Când este activată, videoclipul webinarului va captura partea selectată a sălii de webinar. Puteți personaliza înregistrarea alegând să ascundeți sau să afișați numele prezentatorului, să includeți sau să excludeți chatul public și așa mai departe"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-userlist' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Inclusiv o listă a participanților
+		Inclusiv o listă a participanților <span class="tooltip" data-tip="Înregistrarea webinarului va include o listă a participanților cu numele și fotografiile lor de profil, oferindu-vă o vedere clară a tuturor celor prezenți"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-moder-name' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Inclusiv numele moderatorilor
+		Inclusiv numele moderatorilor <span class="tooltip" data-tip="Înregistrarea webinarului va afișa numele prezentatorilor pe camerele web sau pe fotografiile lor de profil"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-preview-moder-name' => ///////////////////////////////////////////////////////
@@ -1797,7 +1797,7 @@ return [
 	'record-chat' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Inclusiv chat
+		Inclusiv chatul <span class="tooltip" data-tip="Înregistrarea webinarului va include chatul public cu mesaje de la participanți. Mesajele moderate nu vor fi înregistrate. Vor fi incluse doar mesajele aprobate de moderator în timpul webinarului, dacă a fost activată pre-moderarea chatului"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copy' => ////////////////////////////////////////////////////////////////////////////
@@ -2835,7 +2835,7 @@ return [
 	'landing-page-mode' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Modul landing pagina pentru colectarea email <span class="tooltip" data-tip="Activate this mode to transform your webinar room into a dedicated landing page. Instead of directly entering the webinar, attendees will first provide their email and any other required information. This mode is ideal for building your subscriber list and gathering attendee data before granting access to the webinar. Toggle on to prioritize data collection; toggle off for direct webinar entry"></span>
+		Modul pagină de destinație <span class="tooltip" data-tip="Activați acest mod pentru a transforma camera de webinar într-o pagină de destinație. În loc să intrați direct în webinar, participanții vor furniza mai întâi e-mailul și alte informații necesare. Acest mod ajută la construirea listei de abonați și la colectarea datelor participanților înainte de webinar. Activați-l pentru a colecta date mai întâi; dezactivați-l pentru acces direct"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page' => ////////////////////////////////////////////////////////////////////

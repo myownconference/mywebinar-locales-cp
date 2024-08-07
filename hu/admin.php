@@ -501,13 +501,13 @@ return [
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		A webináriumszoba haladó beállításai
+		Speciális beállítások <span class="tooltip" data-tip="Testreszabhatja webinárium termét speciális beállításokkal. Állítsa be munkaterülete és regisztrációs oldala megjelenését, állítsa be az eseményfelvételeket, és automatizálja az e-mail meghívókat a közelgő webináriumokra az összes közönségcsoport számára"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section-lp' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Landolóoldal beállításai
+		Speciális beállítások <span class="tooltip" data-tip="Konfigurálja az e-mail-gyűjtési oldal és az online események résztvevői információinak speciális beállításait. Testreszabhatja az oldal és az űrlap tervezését, válassza ki a nyelvet, adja meg a szükséges adatmezőket, és adjon hozzá egy rövid leírást"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-date' => ////////////////////////////////////////////////////////////////////
@@ -1773,19 +1773,19 @@ return [
 	'record-all' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Minden <span class="tooltip" data-tip="Ha engedélyezve van, a webinárium videó rögzíti a webináriumi szoba kiválasztott részét. Testreszabhatja a felvételt azzal, hogy elrejti vagy megjeleníti az előadó nevét, belefoglalja vagy kizárja a nyilvános csevegést stb"></span>
+		Szelektíven <span class="tooltip" data-tip="Ha engedélyezve van, a webinárium videó rögzíti a webináriumi szoba kiválasztott részét. Testreszabhatja a felvételt azzal, hogy elrejti vagy megjeleníti az előadó nevét, belefoglalja vagy kizárja a nyilvános csevegést stb"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-userlist' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Részvételi lista beleértve
+		A résztvevők listájával együtt <span class="tooltip" data-tip="A webinárium felvétele tartalmazni fog egy listát a résztvevők neveivel és profilképeivel, így világos áttekintést kap minden jelenlévőről"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-moder-name' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderátorok nevei beleértve
+		A moderátorok neveivel <span class="tooltip" data-tip="A webinárium felvétele az előadók neveit jeleníti meg a webkameráikon vagy profilképeiken"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-preview-moder-name' => ///////////////////////////////////////////////////////
@@ -1797,7 +1797,7 @@ return [
 	'record-chat' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Csevegés beleértve
+		A chatet is beleértve <span class="tooltip" data-tip="A webinárium felvétele tartalmazni fogja a nyilvános chat üzeneteit a résztvevőktől. A moderált üzenetek nem kerülnek rögzítésre. Csak a moderátor által a webinárium során jóváhagyott üzenetek kerülnek rögzítésre, ha a csevegés előmoderálása engedélyezve volt"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copy' => ////////////////////////////////////////////////////////////////////////////
@@ -2835,7 +2835,7 @@ return [
 	'landing-page-mode' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Landing page mód email gyűjtéshez <span class="tooltip" data-tip="Aktiválja ezt a módot, hogy a webinárium szobáját egy dedikált landing page-re alakítsa. Ahelyett, hogy közvetlenül belépnének a webináriumba, a résztvevők először megadják e-mail címüket és bármilyen egyéb szükséges információt. Ez a mód ideális az előfizetői lista építéséhez és a résztvevők adatainak gyűjtéséhez, mielőtt hozzáférést biztosítana a webináriumhoz. Kapcsolja be az adatgyűjtés prioritásához; kapcsolja ki a közvetlen webinárium belépéshez"></span>
+		Landing oldal mód <span class="tooltip" data-tip="Aktiválja ezt a módot, hogy webináriumterét landing oldallá alakítsa. A webináriumba való közvetlen belépés helyett a résztvevők először megadják e-mail címüket és más szükséges információkat. Ez a mód segít a feliratkozói lista építésében és az adatok gyűjtésében a webinárium előtt. Kapcsolja be az adatgyűjtéshez; kapcsolja ki a közvetlen belépéshez"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page' => ////////////////////////////////////////////////////////////////////

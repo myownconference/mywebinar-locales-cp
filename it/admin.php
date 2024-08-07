@@ -501,13 +501,13 @@ return [
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Impostazioni avanzate
+		Impostazioni avanzate <span class="tooltip" data-tip="Personalizza la tua sala webinar con impostazioni avanzate. Regola l‘aspetto del tuo spazio di lavoro e della pagina di registrazione, configura le registrazioni degli eventi e automatizza le email di invito per i prossimi webinar per tutti i gruppi di pubblico"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section-lp' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Impostazioni della pagina principale
+		Impostazioni avanzate <span class="tooltip" data-tip="Configura le impostazioni avanzate per la pagina di raccolta delle email e le informazioni dei partecipanti per i tuoi eventi online. Personalizza il design della pagina e del modulo, seleziona la lingua, specifica i campi dati richiesti e aggiungi una breve descrizione"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-date' => ////////////////////////////////////////////////////////////////////
@@ -1773,19 +1773,19 @@ return [
 	'record-all' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tutto <span class="tooltip" data-tip="Quando abilitato, il video del webinar catturerà la parte selezionata della stanza del webinar. Puoi personalizzare la tua registrazione scegliendo di nascondere o mostrare il nome del presentatore, includere o escludere la chat pubblica e così via"></span>
+		Selettivo <span class="tooltip" data-tip="Quando abilitato, il video del webinar catturerà la parte selezionata della stanza del webinar. Puoi personalizzare la tua registrazione scegliendo di nascondere o mostrare il nome del presentatore, includere o escludere la chat pubblica e così via"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-userlist' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Inclusa una lista dei partecipanti
+		Inclusa una lista dei partecipanti <span class="tooltip" data-tip="La registrazione del webinar includerà un elenco dei partecipanti con nomi e foto profilo, offrendoti una visione chiara di tutti i presenti"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-moder-name' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Inclusi i nomi dei moderatori
+		Inclusi i nomi dei moderatori <span class="tooltip" data-tip="La registrazione del webinar mostrerà i nomi dei presentatori sulle loro webcam o immagini del profilo"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-preview-moder-name' => ///////////////////////////////////////////////////////
@@ -1797,7 +1797,7 @@ return [
 	'record-chat' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Includendo la chat
+		Incluso il chat <span class="tooltip" data-tip="La registrazione del webinar includerà la chat pubblica con i messaggi dei partecipanti. I messaggi moderati non saranno registrati. Saranno inclusi solo i messaggi approvati dal moderatore durante il webinar se la pre-moderazione della chat era abilitata"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copy' => ////////////////////////////////////////////////////////////////////////////
@@ -2835,7 +2835,7 @@ return [
 	'landing-page-mode' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Modalità landing pagina per la raccolta email <span class="tooltip" data-tip="Activate this mode to transform your webinar room into a dedicated landing page. Instead of directly entering the webinar, attendees will first provide their email and any other required information. This mode is ideal for building your subscriber list and gathering attendee data before granting access to the webinar. Toggle on to prioritize data collection; toggle off for direct webinar entry"></span>
+		Modalità pagina di destinazione <span class="tooltip" data-tip="Attiva questa modalità per trasformare la tua sala webinar in una pagina di destinazione. Invece di entrare direttamente nel webinar, i partecipanti forniranno prima la loro email e altre informazioni richieste. Questa modalità aiuta a costruire la tua lista di iscritti e a raccogliere i dati dei partecipanti prima del webinar. Attivala per raccogliere i dati prima; disattivala per l‘ingresso diretto"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page' => ////////////////////////////////////////////////////////////////////

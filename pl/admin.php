@@ -2032,7 +2032,7 @@ return [
 	'room-options-language' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Język <span class="tooltip" data-tip="Dostosuj język pokoju webinarowego, aby poprawić doświadczenia uczestników. Niezależnie od tego, czy obsługujesz określony region, czy globalną publiczność, zapewnij płynną komunikację, wybierając preferowany język. Spraw, aby twoje webinary były bardziej dostępne i przyjazne dla użytkownika dla każdego, kto dołącza"></span>
+		Język <span class="tooltip" data-tip="Dostosuj język pokoju webinarowego, aby poprawić wrażenia uczestników. Niezależnie od tego, czy kierujesz ofertę do konkretnego regionu, czy do globalnej publiczności, zapewnij płynną komunikację, wybierając preferowany język. Uczyń swoje webinary bardziej dostępnymi i przyjaznymi dla użytkowników dla wszystkich, bez względu na to, skąd dołączają"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-group' => //////////////////////////////////////////////////////////////

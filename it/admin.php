@@ -2031,7 +2031,7 @@ return [
 	'room-options-language' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Lingua <span class="tooltip" data-tip="Customise your webinar room‘s language to enhance attendees‘ experience. Whether catering to a specific region or a global audience, ensure seamless communication by selecting the preferred language. Make your webinars more accessible and user-friendly for everyone, no matter where they‘re joining from"></span>
+		Lingua <span class="tooltip" data-tip="Personalizza la lingua della sala del webinar per migliorare l‘esperienza dei partecipanti. Che tu stia mirando a una regione specifica o a un pubblico globale, assicurati una comunicazione fluida selezionando la lingua preferita. Rendi i tuoi webinar più accessibili e facili da usare per tutti, indipendentemente da dove si uniscano"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-group' => //////////////////////////////////////////////////////////////

@@ -2031,7 +2031,7 @@ return [
 	'room-options-language' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		שפה <span class="tooltip" data-tip="Customise your webinar room‘s language to enhance attendees‘ experience. Whether catering to a specific region or a global audience, ensure seamless communication by selecting the preferred language. Make your webinars more accessible and user-friendly for everyone, no matter where they‘re joining from"></span>
+		שפה <span class="tooltip" data-tip="התאם אישית את שפת חדר הוובינר כדי לשפר את חוויית המשתתפים. בין אם אתה מכוון לאזור מסוים או לקהל עולמי, וודא תקשורת חלקה על ידי בחירת השפה המועדפת. הפוך את הוובינרים שלך לנגישים וידידותיים יותר לכל אחד, לא משנה מאיפה הם מצטרפים"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-group' => //////////////////////////////////////////////////////////////

@@ -501,7 +501,7 @@ return [
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Advanced settings <span class="tooltip" data-tip="Customize your webinar room with advanced settings. Adjust the appearance of your workspace and registration page, set up event recordings, and automate email invitations for upcoming webinars for all audience groups"></span>
+		Advanced settings <span class="tooltip" data-tip="Customize your webinar room with advanced settings. Adjust the appearance of your workspace and registration page, set up event saving, and automate email invitations for upcoming webinars for all audience groups"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section-lp' => //////////////////////////////////////////////////
@@ -825,7 +825,7 @@ return [
 	'room-grid-records' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Recordings
+		Saved events
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-links' => /////////////////////////////////////////////////////////////////
@@ -1119,7 +1119,7 @@ return [
 	'change-current-plan' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Upgrade plan <span class="tooltip" data-tip="Upgrade your plan to enjoy more attendee seats, additional storage, higher recording quality, and flexible billing periods. Tailor your plan to fit your needs and enhance your webinar experience. Pay for one month at the regular price or choose 2, 3, 6, or 12 months and enjoy discounts of up to 20%"></span>
+		Upgrade plan <span class="tooltip" data-tip="Upgrade your plan to gain more attendee seats, extra storage, improved video quality, and flexible billing periods. Tailor your plan to suit your needs and enhance your webinar experience. Pay monthly at the regular rate or choose 2, 3, 6, or 12 months and enjoy discounts of up to 20%"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-plan' => /////////////////////////////////////////////////////////////////////
@@ -1407,7 +1407,7 @@ return [
 	'one-day-plan-section' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Single-day pass <span class="tooltip" data-tip="Choose the single-day pass to access premium features for 24 hours, including various attendee capacities, additional storage, and enhanced recording quality. Select your preferred activation date to suit your schedule"></span>
+		Single-day pass <span class="tooltip" data-tip="Choose the single-day pass to access premium features for 24 hours, including various attendee capacities, additional storage, and enhanced video quality. Select your preferred activation date to suit your schedule"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'choose-one-date' => /////////////////////////////////////////////////////////////////
@@ -1461,7 +1461,7 @@ return [
 	'on-disk' => /////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		of disk space <span class="tooltip" data-tip="The maximum cloud storage capacity available for your presentations, images, videos, and online event recordings"></span>
+		of disk space <span class="tooltip" data-tip="The maximum cloud storage capacity available for your presentations, images, videos, and saved online event sessions"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-time' => /////////////////////////////////////////////////////////////////////
@@ -1491,19 +1491,19 @@ return [
 	'recordings-quality' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		recording quality <span class="tooltip" data-tip="The range of recording quality available for your online events, from minimum to maximum resolution"></span>
+		saved event quality <span class="tooltip" data-tip="The range of quality available for your saved online events, from minimum to maximum resolution"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'recordings-download-only' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Download recordings <span class="tooltip" data-tip="This plan allows you to download recordings in MP4 format but restricts sharing a secure link with temporary access for browser viewing"></span>
+		Download saved events <span class="tooltip" data-tip="This plan allows you to download saved events in MP4 format but restricts sharing a secure link with temporary access for browser viewing"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'recordings-download-and-share' => ///////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Download and share recordings <span class="tooltip" data-tip="This plan allows you to download recordings in MP4 format and share a secure link with a time limit for browser viewing"></span>
+		Download and share saved events <span class="tooltip" data-tip="This plan allows you to download saved events in MP4 format and share a secure link with a time limit for browser viewing"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'title-grid-webinars' => /////////////////////////////////////////////////////////////
@@ -1659,7 +1659,7 @@ return [
 	'tab-record' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Capture
+		Saved events
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-login' => ///////////////////////////////////////////////////////////////////////
@@ -1731,19 +1731,19 @@ return [
 	'record-options' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Preferences <span class="tooltip" data-tip="Personalize your webinar video settings to capture exactly what matters most to you. Whether you want to highlight a specific section or capture the entire webinar room, adjust your settings to fit your needs. Remember to save your preferences and review them before each session to ensure the best video quality"></span>
+		Preferences <span class="tooltip" data-tip="Personalize your webinar video settings to focus on exactly what matters most to you. Whether you want to highlight a specific section or save the entire webinar room, adjust your settings to fit your needs. Remember to save your preferences and review them before each session to ensure the best video quality"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-only-webcams' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webcam and microphone only <span class="tooltip" data-tip="When activated, the webinar video will capture only the webcam feed and audio from the microphone, excluding all other elements from the working area"></span>
+		Webcam and microphone only <span class="tooltip" data-tip="When activated, the webinar video will focus solely on the webcam feed and microphone audio, excluding all other elements from the working area"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Auto-capture upon any moderator‘s login <span class="tooltip" data-tip="Streamline your webinar capturing process with this convenient feature. When enabled, the webinar video will automatically start as soon as the first moderator logs in, ensuring every important moment is captured. The video will end when the last moderator exits, providing a complete capture of your session without any manual intervention"></span>
+		Auto-start upon any moderator’s login <span class="tooltip" data-tip="Optimize your webinar experience with this feature. When enabled, the video will automatically begin as soon as the first moderator logs in, ensuring every crucial moment is preserved. The session will end when the last moderator exits, providing a complete session overview without any manual effort"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto-no-stop' => /////////////////////////////////////////////////////////////
@@ -1755,37 +1755,37 @@ return [
 	'prevent-recording' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Prevent viewer screen capture <span class="tooltip" data-tip="When enabled, viewers will be blocked from capturing the screen during the live session"></span>
+		Prevent viewer screen saving <span class="tooltip" data-tip="When enabled, viewers will be blocked from saving or downloading the screen content during the live session"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-cams-and-slides' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webcam, microphone, and working area <span class="tooltip" data-tip="When enabled, the webinar video will capture the webcam feed, microphone audio, and the working area including your presentation, video, or screen sharing, excluding other elements or activities outside this scope"></span>
+		Webcam, microphone, and working area <span class="tooltip" data-tip="When enabled, the webinar will include the webcam feed, microphone audio, and the working area, such as your presentation, video, or screen sharing, excluding other elements or activities outside this scope"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-cams-slides-chat' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webcam, microphone, chat, and working area <span class="tooltip" data-tip="When enabled, the webinar video will include the webcam feed, microphone audio, chat interactions, and the working area, ensuring a comprehensive capture of your webinar environment"></span>
+		Webcam, microphone, chat, and working area <span class="tooltip" data-tip="When enabled, the webinar will include the webcam feed, microphone audio, chat interactions, and the working area, ensuring a comprehensive view of your webinar environment"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-all' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Selectively <span class="tooltip" data-tip="When enabled, the webinar video will capture the selected part of the webinar room. You can customize your recording by choosing to hide or show the presenter’s name, include or exclude the public chat, and so on"></span>
+		Selectively <span class="tooltip" data-tip="When enabled, the webinar will include only the specific parts of the session you choose to highlight. You can personalize what’s shown, such as hiding or displaying the presenter’s name, including or excluding the public chat, and so on"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-userlist' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Including a list of attendees <span class="tooltip" data-tip="The webinar recording will include a list of participants with their names and profile pictures, giving you a clear view of everyone who attended"></span>
+		Including a list of attendees <span class="tooltip" data-tip="The saved event will feature a list of participants, displaying their names and profile pictures, so you can easily see who attended"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-moder-name' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Including the moderators‘ names <span class="tooltip" data-tip="The webinar recording will show the presenters‘ names on their webcams or profile pictures"></span>
+		Including the moderators’ names <span class="tooltip" data-tip="The saved event will display the presenters’ names on their webcams or profile pictures"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-preview-moder-name' => ///////////////////////////////////////////////////////
@@ -1797,7 +1797,7 @@ return [
 	'record-chat' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Including chat <span class="tooltip" data-tip="The webinar recording will include the public chat with messages from participants. Moderated messages won‘t be recorded. Only messages approved by the moderator during the webinar will be included if chat pre-moderation was enabled"></span>
+		Including chat <span class="tooltip" data-tip="The saved event will include the public chat with messages from participants. Moderated messages won’t be saved. Only messages approved by the moderator during the event will be included if chat pre-moderation was enabled"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copy' => ////////////////////////////////////////////////////////////////////////////
@@ -2061,7 +2061,7 @@ return [
 	'room-options-login-settings' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Preferences <span class="tooltip" data-tip="Customize your webinar‘s registration page to suit your requirements. This feature allows you to tailor the sign-up process, ensuring it aligns with your webinar‘s branding and captures attendees‘ needed information"></span>
+		Preferences <span class="tooltip" data-tip="Customize your webinar registration page to meet your needs. This feature lets you tailor the sign-up process, ensuring it aligns with your branding and gathers the necessary attendee information"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-login-theme' => ////////////////////////////////////////////////////////
@@ -2085,7 +2085,7 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Custom fields <span class="tooltip" data-tip="Choose and organize the fields you want to display during the webinar registration process to capture additional attendee information"></span>
+		Custom Fields <span class="tooltip" data-tip="Select and organize the fields you want to display during the webinar registration process to gather additional attendee information"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////
@@ -3009,7 +3009,7 @@ return [
 	'record-link' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Recording link <span class="tooltip" data-tip="Use the slider above to create a new access link for the recording. Click the envelope button to select participants and send the link to their email addresses. Please note: if your permanent webinar room is password-protected, access to the recording will also require a password"></span>
+		Access link <span class="tooltip" data-tip="Use the slider above to create a new access link for the saved event. Click the envelope button to select participants and send the link to their email addresses. Please note: if your permanent webinar room is password-protected, access to the saved event will also require a password"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-link-available' => ///////////////////////////////////////////////////////////
@@ -4394,8 +4394,8 @@ return [
 		– Up to 2 presenters at once (each participant can speak in turn)<br>
 		– Import up to 20 subscribers for invitations<br>
 		– 20 attendees per webinar<br>
-		– 20 minutes of recording (quality options: 480p and 720p)<br>
-		– Sharing links to webinar recordings is prohibited<br>
+		– 20 minutes of event saving (quality options: 480p and 720p)<br>
+		– Sharing links to saved events is prohibited<br>
 		– Custom branding changes are prohibited<br>
 		– Custom domain option is not available<br>
 		– OBS broadcasting is not available<br>
@@ -4407,7 +4407,7 @@ return [
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paid plan without access to webinar recordings via link and OBS streaming
+		Paid plan without access to saved events via link and OBS streaming
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'package-oneday-alert-text' => ///////////////////////////////////////////////////////
@@ -5403,7 +5403,7 @@ return [
 	'autoweb-novideos-alert' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Create and capture your first webinar, or log in to the webinar room as a moderator and upload a video file.
+		Create and host your first webinar, or log in to the webinar room as a moderator to upload a video file.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payment-systems-info' => ////////////////////////////////////////////////////////////

@@ -825,7 +825,7 @@ return [
 	'room-grid-records' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Saved events
+		Moments
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-links' => /////////////////////////////////////////////////////////////////
@@ -1461,7 +1461,7 @@ return [
 	'on-disk' => /////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		of disk space <span class="tooltip" data-tip="The maximum cloud storage capacity available for your presentations, images, videos, and saved online event sessions"></span>
+		of disk space <span class="tooltip" data-tip="The maximum cloud storage capacity available for your presentations, images, videos, and saved moments"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-time' => /////////////////////////////////////////////////////////////////////
@@ -1491,19 +1491,19 @@ return [
 	'recordings-quality' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		saved event quality <span class="tooltip" data-tip="The range of quality available for your saved online events, from minimum to maximum resolution"></span>
+		saved event quality <span class="tooltip" data-tip="The range of quality available for your saved moments, from minimum to maximum resolution"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'recordings-download-only' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Download saved events <span class="tooltip" data-tip="This plan allows you to download saved events in MP4 format but restricts sharing a secure link with temporary access for browser viewing"></span>
+		Download saved events <span class="tooltip" data-tip="This plan allows you to download saved moments in MP4 format but restricts sharing a secure link with temporary access for browser viewing"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'recordings-download-and-share' => ///////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Download and share saved events <span class="tooltip" data-tip="This plan allows you to download saved events in MP4 format and share a secure link with a time limit for browser viewing"></span>
+		Download and share saved moments <span class="tooltip" data-tip="This plan allows you to download saved moments in MP4 format and share a secure link with a time limit for browser viewing"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'title-grid-webinars' => /////////////////////////////////////////////////////////////
@@ -1659,7 +1659,7 @@ return [
 	'tab-record' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Saved events
+		Save
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-login' => ///////////////////////////////////////////////////////////////////////
@@ -1749,7 +1749,7 @@ return [
 	'record-auto-no-stop' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Prevent stopping the capturing process <span class="tooltip" data-tip="When enabled, webinar room moderators will be unable to stop the capturing process during the live session"></span>
+		Prevent stopping the saving process <span class="tooltip" data-tip="When enabled, webinar room moderators will be unable to stop the saving process during the live session"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'prevent-recording' => ///////////////////////////////////////////////////////////////
@@ -1779,13 +1779,13 @@ return [
 	'record-userlist' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Including a list of attendees <span class="tooltip" data-tip="The saved event will feature a list of participants, displaying their names and profile pictures, so you can easily see who attended"></span>
+		Including a list of attendees <span class="tooltip" data-tip="The saved moments will feature a list of participants, displaying their names and profile pictures, so you can easily see who attended"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-moder-name' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Including the moderators’ names <span class="tooltip" data-tip="The saved event will display the presenters’ names on their webcams or profile pictures"></span>
+		Including the moderators’ names <span class="tooltip" data-tip="The saved moments will display the presenters’ names on their webcams or profile pictures"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-preview-moder-name' => ///////////////////////////////////////////////////////
@@ -1797,7 +1797,7 @@ return [
 	'record-chat' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Including chat <span class="tooltip" data-tip="The saved event will include the public chat with messages from participants. Moderated messages won’t be saved. Only messages approved by the moderator during the event will be included if chat pre-moderation was enabled"></span>
+		Including chat <span class="tooltip" data-tip="The saved moments will include the public chat with messages from participants. Moderated messages won’t be saved. Only messages approved by the moderator during the event will be included if chat pre-moderation was enabled"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copy' => ////////////////////////////////////////////////////////////////////////////
@@ -2985,7 +2985,7 @@ return [
 	'record-status-recording' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Capturing...
+		Saving...
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-status-process' => ///////////////////////////////////////////////////////////
@@ -3009,7 +3009,7 @@ return [
 	'record-link' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Access link <span class="tooltip" data-tip="Use the slider above to create a new access link for the saved event. Click the envelope button to select participants and send the link to their email addresses. Please note: if your permanent webinar room is password-protected, access to the saved event will also require a password"></span>
+		Access link <span class="tooltip" data-tip="Use the slider above to create a new access link for the saved moments. Click the envelope button to select participants and send the link to their email addresses. Please note: if your permanent webinar room is password-protected, access to the saved moments will also require a password"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-link-available' => ///////////////////////////////////////////////////////////
@@ -3824,7 +3824,7 @@ return [
 	'saved' => ///////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Change saved
+		Changes successfully applied
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-active-type0' => /////////////////////////////////////////////////////////////////
@@ -4268,7 +4268,7 @@ return [
 	'room-mail-header' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Banner <span class="tooltip" data-tip="Enhance your email notifications with a distinctive top banner that immediately capturing recipients‘ attention. This banner serves as a visual cue for recipients, ensuring they recognize and prioritize your webinar notifications amidst the clutter of their inboxes. A well-designed banner can reinforce your brand identity, highlight key webinar details, and set the tone for the webinar. Incorporate striking visuals, concise text, and relevant branding to make your email notifications stand out and leave a memorable impression"></span>
+		Banner <span class="tooltip" data-tip="Enhance your email notifications with a distinctive top banner that immediately grabs recipients‘ attention. This banner serves as a visual cue, ensuring they recognize and prioritize your webinar notifications amidst the clutter of their inboxes. A well-designed banner can reinforce your brand identity, highlight key webinar details, and set the tone for the event. Incorporate striking visuals, concise text, and relevant branding to make your email notifications stand out and leave a memorable impression"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-header-size' => ///////////////////////////////////////////////////////////
@@ -4395,7 +4395,7 @@ return [
 		– Import up to 20 subscribers for invitations<br>
 		– 20 attendees per webinar<br>
 		– 20 minutes of event saving (quality options: 480p and 720p)<br>
-		– Sharing links to saved events is prohibited<br>
+		– Sharing links to saved moments is prohibited<br>
 		– Custom branding changes are prohibited<br>
 		– Custom domain option is not available<br>
 		– OBS broadcasting is not available<br>
@@ -4407,7 +4407,7 @@ return [
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paid plan without access to saved events via link and OBS streaming
+		Paid plan without access to saved moments via link and OBS streaming
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'package-oneday-alert-text' => ///////////////////////////////////////////////////////
@@ -4857,7 +4857,7 @@ return [
 	'saved-success' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Change saved
+		Changes successfully applied
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'count-records' => ///////////////////////////////////////////////////////////////////

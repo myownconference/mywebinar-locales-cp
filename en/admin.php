@@ -825,7 +825,7 @@ return [
 	'room-grid-records' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moments
+		Events
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-links' => /////////////////////////////////////////////////////////////////
@@ -1461,7 +1461,7 @@ return [
 	'on-disk' => /////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		of disk space <span class="tooltip" data-tip="The maximum cloud storage capacity available for your presentations, images, videos, and saved moments"></span>
+		of disk space <span class="tooltip" data-tip="The maximum cloud storage capacity available for your presentations, images, videos, and saved events"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-time' => /////////////////////////////////////////////////////////////////////
@@ -1491,19 +1491,19 @@ return [
 	'recordings-quality' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		saved event quality <span class="tooltip" data-tip="The range of quality available for your saved moments, from minimum to maximum resolution"></span>
+		saved event quality <span class="tooltip" data-tip="The range of quality available for your saved events, from minimum to maximum resolution"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'recordings-download-only' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Download saved events <span class="tooltip" data-tip="This plan allows you to download saved moments in MP4 format but restricts sharing a secure link with temporary access for browser viewing"></span>
+		Download saved events <span class="tooltip" data-tip="This plan allows you to download saved events in MP4 format but restricts sharing a secure link with temporary access for browser viewing"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'recordings-download-and-share' => ///////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Download and share saved moments <span class="tooltip" data-tip="This plan allows you to download saved moments in MP4 format and share a secure link with a time limit for browser viewing"></span>
+		Download and share saved events <span class="tooltip" data-tip="This plan allows you to download saved events in MP4 format and share a secure link with a time limit for browser viewing"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'title-grid-webinars' => /////////////////////////////////////////////////////////////
@@ -1779,13 +1779,13 @@ return [
 	'record-userlist' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Including a list of attendees <span class="tooltip" data-tip="The saved moments will feature a list of participants, displaying their names and profile pictures, so you can easily see who attended"></span>
+		Including a list of attendees <span class="tooltip" data-tip="The saved events will feature a list of participants, displaying their names and profile pictures, so you can easily see who attended"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-moder-name' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Including the moderators’ names <span class="tooltip" data-tip="The saved moments will display the presenters’ names on their webcams or profile pictures"></span>
+		Including the moderators’ names <span class="tooltip" data-tip="The saved events will display the presenters’ names on their webcams or profile pictures"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-preview-moder-name' => ///////////////////////////////////////////////////////
@@ -1797,7 +1797,7 @@ return [
 	'record-chat' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Including chat <span class="tooltip" data-tip="The saved moments will include the public chat with messages from participants. Moderated messages won’t be saved. Only messages approved by the moderator during the event will be included if chat pre-moderation was enabled"></span>
+		Including chat <span class="tooltip" data-tip="The saved events will include the public chat with messages from participants. Moderated messages won’t be saved. Only messages approved by the moderator during the event will be included if chat pre-moderation was enabled"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copy' => ////////////////////////////////////////////////////////////////////////////
@@ -3009,7 +3009,7 @@ return [
 	'record-link' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Access link <span class="tooltip" data-tip="Use the slider above to create a new access link for the saved moments. Click the envelope button to select participants and send the link to their email addresses. Please note: if your permanent webinar room is password-protected, access to the saved moments will also require a password"></span>
+		Access link <span class="tooltip" data-tip="Use the slider above to create a new access link for the saved events. Click the envelope button to select participants and send the link to their email addresses. Please note: if your permanent webinar room is password-protected, access to the saved events will also require a password"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-link-available' => ///////////////////////////////////////////////////////////
@@ -4395,7 +4395,7 @@ return [
 		– Import up to 20 subscribers for invitations<br>
 		– 20 attendees per webinar<br>
 		– 20 minutes of event saving (quality options: 480p and 720p)<br>
-		– Sharing links to saved moments is prohibited<br>
+		– Sharing links to saved events is prohibited<br>
 		– Custom branding changes are prohibited<br>
 		– Custom domain option is not available<br>
 		– OBS broadcasting is not available<br>
@@ -4407,7 +4407,7 @@ return [
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paid plan without access to saved moments via link and OBS streaming
+		Paid plan without access to saved events via link and OBS streaming
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'package-oneday-alert-text' => ///////////////////////////////////////////////////////
@@ -4611,7 +4611,7 @@ return [
 	'room-grid-records-title' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Saved moments
+		Saved events
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-video-title' => ///////////////////////////////////////////////////////////

@@ -1809,7 +1809,7 @@ return [
 	'gtm-id' => //////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Google Tag Manager azonosító <span class="tooltip" data-tip="Adja meg egyedi GTM-azonosítóját, hogy részletes forgalom-elemzést és átfogó jelentéseket készíthessen webináriumaihoz. Ez az integráció részletes betekintést nyújt a résztvevők viselkedésébe és interakcióiba"></span>
+		GTM ID <span class="tooltip" data-tip="Adja meg egyedi Google Tag Manager azonosítóját, hogy mélyreható forgalomelemzést és átfogó jelentéseket kapjon webináriumaihoz. Ez az integráció részletes betekintést nyújt a résztvevők viselkedésébe és interakcióiba"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'gtm-id-placeholder' => //////////////////////////////////////////////////////////////

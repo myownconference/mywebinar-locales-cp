@@ -1809,7 +1809,7 @@ return [
 	'gtm-id' => //////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Google Tag Manager ID <span class="tooltip" data-tip="Enter your unique GTM ID to unlock in-depth traffic analytics and comprehensive reporting for your webinars. This integration provides granular insights into attendee behavior and interactions"></span>
+		GTM Kimliği <span class="tooltip" data-tip="Web seminerleriniz için derinlemesine trafik analitiği ve kapsamlı raporlamanın kilidini açmak için benzersiz Google Tag Manager kimliğinizi girin. Bu entegrasyon, katılımcı davranışları ve etkileşimleri hakkında ayrıntılı bilgiler sağlar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'gtm-id-placeholder' => //////////////////////////////////////////////////////////////

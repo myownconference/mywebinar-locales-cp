@@ -477,25 +477,25 @@ return [
 	'webinar-edit-section' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paramètres du webinaire <span class="tooltip" data-tip="Configurez tous les aspects de votre webinaire : définissez la date et l’heure, la durée, invitez des modérateurs et des présentateurs, gérez les participants, personnalisez la mise en page et la marque, et plus encore avec les paramètres avancés"></span>
+		Paramètres du webinaire <span class="tooltip" data-tip="Configurez tous les aspects de votre webinaire: définissez la date et l’heure, la durée, invitez des modérateurs et des présentateurs, gérez les participants, personnalisez la mise en page et la marque, et plus encore avec les paramètres avancés"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-edit-section-many' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paramètres de la série de webinaires <span class="tooltip" data-tip="Gérez votre série de webinaires : planifiez plusieurs sessions, définissez les dates et heures, invitez des modérateurs et des présentateurs, gérez les participants et personnalisez les paramètres pour une expérience de série cohérente"></span>
+		Paramètres de la série de webinaires <span class="tooltip" data-tip="Gérez votre série de webinaires: planifiez plusieurs sessions, définissez les dates et heures, invitez des modérateurs et des présentateurs, gérez les participants et personnalisez les paramètres pour une expérience de série cohérente"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-create-section' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paramètres du webinaire <span class="tooltip" data-tip="Configurez tous les aspects de votre webinaire : définissez la date et l’heure, la durée, invitez des modérateurs et des présentateurs, gérez les participants, personnalisez la mise en page et la marque, et plus encore avec les paramètres avancés"></span>
+		Paramètres du webinaire <span class="tooltip" data-tip="Configurez tous les aspects de votre webinaire: définissez la date et l’heure, la durée, invitez des modérateurs et des présentateurs, gérez les participants, personnalisez la mise en page et la marque, et plus encore avec les paramètres avancés"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-create-section-many' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paramètres de la série de webinaires <span class="tooltip" data-tip="Gérez votre série de webinaires : planifiez plusieurs sessions, définissez les dates et heures, invitez des modérateurs et des présentateurs, gérez les participants et personnalisez les paramètres pour une expérience de série cohérente"></span>
+		Paramètres de la série de webinaires <span class="tooltip" data-tip="Gérez votre série de webinaires: planifiez plusieurs sessions, définissez les dates et heures, invitez des modérateurs et des présentateurs, gérez les participants et personnalisez les paramètres pour une expérience de série cohérente"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
@@ -1359,7 +1359,7 @@ return [
 	'filter-group' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Groupe
+		Groupe <span class="tooltip" data-tip="Indique le groupe auquel appartient le participant"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'not-selected' => ////////////////////////////////////////////////////////////////////
@@ -2524,7 +2524,7 @@ return [
 	'filter-type' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Statut
+		Statut <span class="tooltip" data-tip="Indique le statut du participant: «Actif» si son e-mail est vérifié, «Inactif» si l‘e-mail est invalide, injoignable ou si le participant a été supprimé"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'active' => //////////////////////////////////////////////////////////////////////////
@@ -2632,13 +2632,13 @@ return [
 	'filter-visit-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Assiduité
+		Présence <span class="tooltip" data-tip="Indique si le participant a rejoint l‘événement et participé"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'filter-on-webinar' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinaire
+		Webinaire <span class="tooltip" data-tip="Liste les webinaires où le participant a été invité, inscrit et a participé"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'on-webinar' => //////////////////////////////////////////////////////////////////////
@@ -2821,7 +2821,7 @@ return [
 	'was-invited' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Invités
+		Invité <span class="tooltip" data-tip="Indique comment le participant peut être invité à l‘avenir: par invitation par e-mail ou en envoyant un lien copié via des messageries. Ce champ indique également si le participant a une adresse e-mail active"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guests-come' => /////////////////////////////////////////////////////////////////////
@@ -3724,7 +3724,7 @@ return [
 	'filter-imported-title' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ajouté par
+		Ajouté <span class="tooltip" data-tip="Indique comment le participant a été enregistré: par auto-inscription via un lien public, ou importé par le propriétaire du compte"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'add-member' => //////////////////////////////////////////////////////////////////////
@@ -4422,7 +4422,7 @@ return [
 		– Jusqu‘à 2 présentateurs à la fois (chaque participant peut parler à tour de rôle)<br>
 		– Importez jusqu‘à 20 abonnés pour les invitations<br>
 		– 20 participants par webinaire<br>
-		– 20 minutes d‘enregistrement (options de qualité : 480p et 720p)<br>
+		– 20 minutes d‘enregistrement (options de qualité: 480p et 720p)<br>
 		– Partage de liens vers les enregistrements de webinaires interdit<br>
 		– Les modifications de la marque personnalisée sont interdites<br>
 		– Option de domaine personnalisé non disponible<br>
@@ -4897,7 +4897,7 @@ return [
 	'filter-recordviews-webinar' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vues de l‘enregistrement
+		Vues de rediffusion <span class="tooltip" data-tip="Montre le pourcentage de la rediffusion du webinaire que le participant a regardé, ou s‘il ne l‘a pas regardé du tout"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'filter-record-not-views' => /////////////////////////////////////////////////////////

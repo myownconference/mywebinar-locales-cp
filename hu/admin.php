@@ -2589,7 +2589,7 @@ return [
 	'webinar-history' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>%S</b>
+		Webinárium betekintések <span class="tooltip" data-tip="Szerezzen értékes betekintést webináriuma teljesítményébe. Ez a rész elemzéseket nyújt a résztvevők elkötelezettségéről, a részvételi trendekről és az általános interakcióról, segítve ezzel az esemény sikerének megértését és az adatalapú döntések meghozatalát a jövőbeni webináriumokhoz"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-statistics' => //////////////////////////////////////////////////////////////////

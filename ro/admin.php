@@ -2589,7 +2589,7 @@ return [
 	'webinar-history' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>%S</b>
+		Informații despre webinar <span class="tooltip" data-tip="Obțineți informații valoroase despre performanța webinarului dvs. Această secțiune oferă analize despre implicarea participanților, tendințele de participare și interacțiunea generală, ajutându-vă să înțelegeți succesul evenimentului dvs. și să luați decizii bazate pe date pentru webinariile viitoare"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-statistics' => //////////////////////////////////////////////////////////////////

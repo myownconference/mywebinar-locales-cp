@@ -2589,7 +2589,7 @@ return [
 	'webinar-history' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>%S</b>
+		Perspectivas del webinario <span class="tooltip" data-tip="Obtén información valiosa sobre cómo se desempeñó tu webinario. Esta sección proporciona análisis sobre la participación de los asistentes, las tendencias de participación y la interacción general para ayudarte a entender el éxito de tu evento y tomar decisiones basadas en datos para futuros webinarios"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-statistics' => //////////////////////////////////////////////////////////////////

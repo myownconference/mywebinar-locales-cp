@@ -2589,7 +2589,7 @@ return [
 	'webinar-history' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>%S</b>
+		Approfondimenti sul webinar <span class="tooltip" data-tip="Ottieni preziose informazioni sulle prestazioni del tuo webinar. Questa sezione fornisce analisi sull‘engagement dei partecipanti, le tendenze di partecipazione e l‘interazione complessiva, aiutandoti a comprendere il successo del tuo evento e a prendere decisioni basate sui dati per i futuri webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-statistics' => //////////////////////////////////////////////////////////////////

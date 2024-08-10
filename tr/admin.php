@@ -2589,7 +2589,7 @@ return [
 	'webinar-history' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>%S</b>
+		Web semineri içgörüleri <span class="tooltip" data-tip="Web seminerinizin nasıl geçtiğine dair değerli bilgiler edinin. Bu bölüm, etkinliğinizin başarısını anlamanıza ve gelecekteki web seminerleri için veri odaklı kararlar almanıza yardımcı olmak için katılımcı etkileşimi, katılım eğilimleri ve genel etkileşim hakkında analizler sağlar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-statistics' => //////////////////////////////////////////////////////////////////

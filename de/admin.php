@@ -2589,7 +2589,7 @@ return [
 	'webinar-history' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>%S</b>
+		Webinar-Einblicke <span class="tooltip" data-tip="Erhalten Sie wertvolle Einblicke in die Leistung Ihres Webinars. Dieser Abschnitt bietet Analysen zur Teilnehmerbindung, zu Teilnahme-Trends und zur allgemeinen Interaktion, damit Sie den Erfolg Ihres Events verstehen und datengestützte Entscheidungen für zukünftige Webinare treffen können"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-statistics' => //////////////////////////////////////////////////////////////////

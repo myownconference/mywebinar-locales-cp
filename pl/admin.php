@@ -6357,7 +6357,7 @@ return [
 	'room-options-general' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ogólne
+		Ogólne <span class="tooltip" data-tip="Zarządzaj ogólnymi ustawieniami swojej strony logowania. Tutaj możesz ustawić hasło do pokoi webinarowych, włączyć dostęp za pomocą indywidualnych prywatnych linków do zaplanowanych webinarów oraz aktywować kod IFRAME do osadzenia formularza rejestracyjnego"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

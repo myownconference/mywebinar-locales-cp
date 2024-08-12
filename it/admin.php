@@ -6327,7 +6327,7 @@ return [
 	'room-options-general' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Generale
+		Generale <span class="tooltip" data-tip="Gestisci le impostazioni generali della tua pagina di accesso. Qui puoi impostare una password per le stanze del webinar, abilitare l‘accesso tramite link privati individuali per i webinar programmati e attivare il codice IFRAME per incorporare il modulo di registrazione"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

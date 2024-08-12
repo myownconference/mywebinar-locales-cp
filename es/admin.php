@@ -6346,7 +6346,7 @@ return [
 	'room-options-general' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		General
+		General <span class="tooltip" data-tip="Administre la configuración general de su página de inicio de sesión. Aquí puede establecer una contraseña para las salas de webinar, habilitar el acceso a través de enlaces privados individuales para webinars programados y activar el código IFRAME para incrustar el formulario de registro"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

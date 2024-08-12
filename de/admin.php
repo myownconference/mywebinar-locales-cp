@@ -6327,7 +6327,7 @@ return [
 	'room-options-general' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Allgemeine
+		Allgemein <span class="tooltip" data-tip="Verwalten Sie die allgemeinen Einstellungen für Ihre Anmeldeseite. Hier können Sie ein Passwort für Webinar-Räume festlegen, den Zugriff über individuelle private Links für geplante Webinare aktivieren und den IFRAME-Code für die Einbettung des Anmeldeformulars aktivieren"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

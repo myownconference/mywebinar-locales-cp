@@ -6327,7 +6327,7 @@ return [
 	'room-options-general' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		General
+		General <span class="tooltip" data-tip="Gestionați setările generale ale paginii dvs. de autentificare. Aici, puteți seta o parolă pentru sălile de webinar, puteți activa accesul prin linkuri private individuale pentru webinariile programate și puteți activa codul IFRAME pentru a încorpora formularul de înscriere"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

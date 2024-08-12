@@ -6350,7 +6350,7 @@ return [
 	'room-options-general' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paramètres
+		Général <span class="tooltip" data-tip="Gérez les paramètres généraux de votre page de connexion. Ici, vous pouvez définir un mot de passe pour les salles de webinaire, activer l‘accès via des liens privés individuels pour les webinaires programmés et activer le code IFRAME pour intégrer le formulaire d‘inscription"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

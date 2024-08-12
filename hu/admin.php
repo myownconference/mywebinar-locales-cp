@@ -6327,7 +6327,7 @@ return [
 	'room-options-general' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Általános
+		Általános <span class="tooltip" data-tip="Kezelje bejelentkezési oldalának általános beállításait. Itt beállíthat egy jelszót a webináriumi szobákhoz, engedélyezheti a hozzáférést egyéni privát linkeken keresztül az ütemezett webináriumokhoz, és aktiválhatja az IFRAME kódot a regisztrációs űrlap beágyazásához"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

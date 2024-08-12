@@ -6327,7 +6327,7 @@ return [
 	'room-options-general' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Genel
+		Genel <span class="tooltip" data-tip="Giriş sayfanız için genel ayarları yönetin. Burada, web semineri odaları için bir parola ayarlayabilir, planlanmış web seminerleri için bireysel özel bağlantılarla erişimi etkinleştirebilir ve açılış formunu yerleştirmek için IFRAME kodunu etkinleştirebilirsiniz"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

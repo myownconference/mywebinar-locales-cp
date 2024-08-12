@@ -6327,7 +6327,7 @@ return [
 	'room-options-general' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Setup
+		General <span class="tooltip" data-tip="Manage the general settings for your login page. Here, you can set a password for webinar rooms, enable access via individual private links for scheduled webinars, and activate the IFRAME code for embedding the landing form"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

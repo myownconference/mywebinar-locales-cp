@@ -603,7 +603,7 @@ return [
 	'profile-name-short' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Név <span class="tooltip" data-tip="Adja meg itt a fióknevét vagy személyes nevét. Ez a név csak a MyOwnConference platformon lesz látható, és nem lesz másokkal megosztva"></span>
+		Név <span class="tooltip" data-tip="Adja meg fiókja nevét, például cégnevet, személyes nevet vagy becenevet. Ez a név csak platformunkon lesz látható, és megjelenik az Ön webinárium résztvevőinek küldött e-mailekben. Győződjön meg róla, hogy tükrözi márkáját vagy személyes stílusát, mivel ez megjelenik az értesítésekben és meghívókban, amelyeket a résztvevők kapnak"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-name-placeholder' => ////////////////////////////////////////////////////////

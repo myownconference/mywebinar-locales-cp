@@ -603,7 +603,7 @@ return [
 	'profile-name-short' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Name <span class="tooltip" data-tip="Enter your account name or personal name here. This name will be visible only to the MyOwnConference platform and won‘t be shared with others"></span>
+		Name <span class="tooltip" data-tip="Geben Sie den Namen für Ihr Konto ein, z. B. Ihren Firmennamen, Ihren persönlichen Namen oder Spitznamen. Dieser Name wird nur auf unserer Plattform sichtbar sein und in den E-Mails erscheinen, die an Ihre Webinar-Teilnehmer gesendet werden. Stellen Sie sicher, dass er Ihre Marke oder Ihren persönlichen Stil widerspiegelt, da er in den Benachrichtigungen und Einladungen angezeigt wird, die Ihre Teilnehmer erhalten"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-name-placeholder' => ////////////////////////////////////////////////////////

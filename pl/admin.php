@@ -603,7 +603,7 @@ return [
 	'profile-name-short' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pełne imię i nazwisko <span class="tooltip" data-tip="Wpisz tutaj nazwę swojego konta lub imię i nazwisko. Ta nazwa będzie widoczna tylko dla platformy MyOwnConference i nie będzie udostępniana innym"></span>
+		Nazwa <span class="tooltip" data-tip="Wprowadź nazwę swojego konta, na przykład nazwę firmy, imię i nazwisko lub pseudonim. Ta nazwa będzie widoczna tylko na naszej platformie i pojawi się w e-mailach wysyłanych do uczestników Twojego webinaru. Upewnij się, że odzwierciedla ona Twoją markę lub osobisty styl, ponieważ będzie widoczna w powiadomieniach i zaproszeniach otrzymywanych przez Twoich uczestników"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-name-placeholder' => ////////////////////////////////////////////////////////

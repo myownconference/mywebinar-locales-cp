@@ -603,7 +603,7 @@ return [
 	'profile-name-short' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nume <span class="tooltip" data-tip="Enter your account name or personal name here. This name will be visible only to the MyOwnConference platform and won‘t be shared with others"></span>
+		Nume <span class="tooltip" data-tip="Introduceți numele contului dvs., cum ar fi numele companiei, numele personal sau o poreclă. Acest nume va fi vizibil doar pe platforma noastră și va apărea în e-mailurile trimise participanților la webinarul dvs. Asigurați-vă că reflectă marca sau stilul dvs. personal, deoarece va fi afișat în notificările și invitațiile primite de participanții dvs"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-name-placeholder' => ////////////////////////////////////////////////////////

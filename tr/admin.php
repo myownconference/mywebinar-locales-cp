@@ -741,7 +741,7 @@ return [
 	'profile-news' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sistem Bildirimleri <span class="tooltip" data-tip="MyOwnConference sistem bildirimlerine abone olmak için değiştirin. Web semineri yazılımımızla ilgili en son sistem güncellemeleri ve değişikliklerinden haberdar olun"></span>
+		Sistem bildirimleri <span class="tooltip" data-tip="Web semineri yazılımımızdaki en son güncellemeler ve değişiklikler hakkında bilgi sahibi olmak için sistem bildirimlerine abone olun"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-active-news' => /////////////////////////////////////////////////////////////
@@ -2043,19 +2043,19 @@ return [
 	'room-options-group' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Grup <span class="tooltip" data-tip="Enable this option to automatically add attendees to a special subscribers‘ group upon registration. This ensures they receive notifications for upcoming webinars, keeping them informed and engaged"></span>
+		Grup <span class="tooltip" data-tip="Katılımcıları kayıt sırasında otomatik olarak özel bir abone grubuna ekleyin, böylece yaklaşan web seminerleri için bildirimler aldıklarından emin olun ve onları bilgilendirin"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-countdown' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Geri sayım sayacını göster <span class="tooltip" data-tip="Enable this feature to display a countdown timer on your webinar page, letting attendees see the time remaining until the webinar begins. It builds anticipation, ensures attendees know the start time, and helps in punctual participation"></span>
+		Geri sayım sayacını göster <span class="tooltip" data-tip="Katılımcıların web semineri başlayana kadar ne kadar zaman kaldığını görebilmeleri için web semineri sayfanızda bir geri sayım sayacı görüntüleyin. Bu, beklenti oluşturur, herkesin başlangıç saatini bilmesini sağlar ve zamanında katılımı teşvik eder"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Google ile kayıt olmaya izin ver <span class="tooltip" data-tip="Enable this feature to offer a «Login with Google» option on your webinar registration and entrance forms. By doing so, attendees can swiftly and securely access the webinar using their Google accounts, simplifying the login process. It‘s a convenient way to streamline access and enhance user experience for those familiar with Google services"></span>
+		Google ile kaydolmaya izin ver <span class="tooltip" data-tip="Web semineri kayıt ve giriş formlarınızda «Google ile Kaydol» seçeneğini etkinleştirin. Bu, katılımcıların Google hesaplarını kullanarak web seminerine hızlı ve güvenli bir şekilde katılmalarını sağlar, oturum açma sürecini kolaylaştırır ve daha kullanışlı hale getirir. Google hizmetlerini kullananlar için erişimi kolaylaştırmanın ve kullanıcı deneyimini iyileştirmenin harika bir yoludur"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////
@@ -2097,7 +2097,7 @@ return [
 	'room-login-show-start' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar tarihi göster <span class="tooltip" data-tip="Enable this feature to prominently display the date of your webinar on both the registration and login pages. Providing this information upfront helps attendees plan and ensure they are clear on when the webinar will occur"></span>
+		Web semineri tarihini göster <span class="tooltip" data-tip="Web semineri tarihini kayıt ve giriş sayfalarında net bir şekilde gösterin. Bu, katılımcıların önceden plan yapmalarına yardımcı olur ve web seminerinin ne zaman gerçekleşeceğini tam olarak bilmelerini sağlar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-name' => ////////////////////////////////////////////////////////////

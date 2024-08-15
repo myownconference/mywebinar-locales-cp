@@ -741,7 +741,7 @@ return [
 	'profile-news' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Powiadomienia systemowe <span class="tooltip" data-tip="Włącz, aby subskrybować powiadomienia systemowe MyOwnConference. Bądź na bieżąco z najnowszymi aktualizacjami systemu i zmianami związanymi z naszym oprogramowaniem do webinariów"></span>
+		Powiadomienia systemowe <span class="tooltip" data-tip="Zapisz się na powiadomienia systemowe, aby być na bieżąco z najnowszymi aktualizacjami i zmianami w naszym oprogramowaniu do webinarów"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-active-news' => /////////////////////////////////////////////////////////////
@@ -2044,19 +2044,19 @@ return [
 	'room-options-group' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Dodaj do grupy <span class="tooltip" data-tip="Włącz tę opcję, aby automatycznie dodawać uczestników do specjalnej grupy subskrybentów po rejestracji. Zapewnia to otrzymywanie powiadomień o nadchodzących webinarach, utrzymując ich informację i zaangażowanie"></span>
+		Grupa <span class="tooltip" data-tip="Automatycznie dodaj uczestników do specjalnej grupy subskrybentów podczas rejestracji, aby zapewnić im otrzymywanie powiadomień o nadchodzących webinarach, utrzymując ich na bieżąco i zaangażowanych"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-countdown' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Odliczanie <span class="tooltip" data-tip="Włącz tę funkcję, aby wyświetlić na stronie webinaru odliczanie czasu do rozpoczęcia webinaru. Buduje to napięcie, zapewnia, że uczestnicy znają czas rozpoczęcia i pomaga w punktualnym uczestnictwie"></span>
+		Pokaż licznik czasu <span class="tooltip" data-tip="Wyświetl licznik odliczający czas na stronie webinaru, aby uczestnicy mogli zobaczyć, ile czasu pozostało do rozpoczęcia webinaru. To buduje oczekiwanie, zapewnia, że wszyscy znają godzinę rozpoczęcia, i zachęca do punktualnego udziału"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Logowanie przez media społecznościowe <span class="tooltip" data-tip="Włącz tę funkcję, aby zaoferować opcję «Logowanie przez Google» na formularzach rejestracyjnych i wejściowych webinaru. Dzięki temu uczestnicy mogą szybko i bezpiecznie uzyskać dostęp do webinaru, korzystając z kont Google, upraszczając proces logowania. Jest to wygodny sposób na usprawnienie dostępu i poprawę doświadczeń użytkownika dla osób znających usługi Google"></span>
+		Zezwól na rejestrację przez Google <span class="tooltip" data-tip="Włącz opcję «Zarejestruj się za pomocą Google» w formularzach rejestracyjnych i wejściowych na webinar. Umożliwia to uczestnikom szybkie i bezpieczne dołączenie do webinaru za pomocą kont Google, co ułatwia i upraszcza proces logowania. Jest to świetny sposób na uproszczenie dostępu i poprawę doświadczenia użytkowników korzystających z usług Google"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////
@@ -2098,7 +2098,7 @@ return [
 	'room-login-show-start' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Data webinaru <span class="tooltip" data-tip="Włącz tę funkcję, aby wyraźnie wyświetlić datę twojego webinaru zarówno na stronach rejestracji, jak i logowania. Udostępnienie tej informacji z góry pomaga uczestnikom planować i upewniać się, kiedy odbędzie się webinar"></span>
+		Pokaż datę webinaru <span class="tooltip" data-tip="Wyraźnie wyświetl datę webinaru na stronach rejestracji i logowania. To pomaga uczestnikom zaplanować z wyprzedzeniem i zapewnia, że będą dokładnie wiedzieć, kiedy odbędzie się webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-name' => ////////////////////////////////////////////////////////////

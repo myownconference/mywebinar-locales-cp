@@ -741,7 +741,7 @@ return [
 	'profile-news' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Rendszerértesítések <span class="tooltip" data-tip="Kapcsolja be a MyOwnConference rendszerértesítések feliratkozásához. Maradjon naprakész a legújabb rendszerfrissítésekkel és a webinárium szoftverünk változásaival kapcsolatban"></span>
+		Rendszerértesítések <span class="tooltip" data-tip="Iratkozzon fel a rendszerértesítésekre, hogy értesüljön a webinar szoftverünk legújabb frissítéseiről és változásairól"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-active-news' => /////////////////////////////////////////////////////////////
@@ -2043,19 +2043,19 @@ return [
 	'room-options-group' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Csoport <span class="tooltip" data-tip="Engedélyezze ezt az opciót, hogy a regisztráció során automatikusan hozzáadja a résztvevőket egy speciális előfizetői csoporthoz. Ez biztosítja, hogy értesítéseket kapjanak a közelgő webináriumokról, tájékozottak és elkötelezettek maradjanak"></span>
+		Csoport <span class="tooltip" data-tip="Automatikusan adja hozzá a résztvevőket egy külön előfizetői csoporthoz a regisztrációkor, hogy biztosítsa számukra a közelgő webináriumokról szóló értesítések fogadását, így naprakészen és érdeklődve tartva őket"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-countdown' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Visszaszámláló időzítő megjelenítése <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy visszaszámláló időzítőt jelenítsen meg a webinárium oldalán, amely megmutatja a résztvevőknek a webinárium kezdetéig hátralévő időt. Ez növeli a várakozást, biztosítja, hogy a résztvevők tisztában legyenek a kezdési idővel, és elősegíti a pontos részvételt"></span>
+		Visszaszámláló megjelenítése <span class="tooltip" data-tip="Jelenítsen meg visszaszámlálót a webinárium oldalán, hogy a résztvevők láthassák, mennyi idő van még hátra a webinárium kezdetéig. Ez növeli a várakozást, biztosítja, hogy mindenki tisztában legyen a kezdési időponttal, és ösztönzi a pontos részvételt"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bejelentkezés engedélyezése Google-fiókkal <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy a «Bejelentkezés Google-fiókkal» opciót kínálja a webinárium regisztrációs és belépési űrlapjain. Ezáltal a résztvevők gyorsan és biztonságosan hozzáférhetnek a webináriumhoz Google-fiókjuk használatával, egyszerűsítve a bejelentkezési folyamatot. Ez egy kényelmes módja az elérés egyszerűsítésének és a felhasználói élmény javításának azok számára, akik ismerik a Google szolgáltatásait"></span>
+		Google regisztráció engedélyezése <span class="tooltip" data-tip="Engedélyezze a «Google-fiókkal történő regisztráció» lehetőséget a webinárium regisztrációs és belépési űrlapjain. Ez lehetővé teszi a résztvevők számára, hogy Google-fiókjaik használatával gyorsan és biztonságosan csatlakozzanak a webináriumhoz, megkönnyítve és kényelmesebbé téve a bejelentkezési folyamatot. Ez egy nagyszerű módja annak, hogy egyszerűsítse a hozzáférést, és javítsa a felhasználói élményt a Google szolgáltatásait használók számára"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////
@@ -2097,7 +2097,7 @@ return [
 	'room-login-show-start' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		A webinárium dátumának megjelenítése <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy a webinárium dátumát jól láthatóan megjelenítse a regisztrációs és bejelentkezési oldalakon. Az információk előzetes biztosítása segít a résztvevőknek a tervezésben és biztosítja, hogy tisztában legyenek a webinárium időpontjával"></span>
+		Webinárium dátumának megjelenítése <span class="tooltip" data-tip="Jelenítse meg egyértelműen a webinárium dátumát a regisztrációs és bejelentkezési oldalakon. Ez segít a résztvevőknek előre tervezni, és biztosítja, hogy pontosan tudják, mikor lesz a webinárium"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-name' => ////////////////////////////////////////////////////////////

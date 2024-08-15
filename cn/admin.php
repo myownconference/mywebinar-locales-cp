@@ -741,7 +741,7 @@ return [
 	'profile-news' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		系统通知 <span class="tooltip" data-tip="切换以订阅 MyOwnConference 系统通知。随时了解有关我们网络研讨会软件的最新系统更新和更改"></span>
+		系统通知 <span class="tooltip" data-tip="订阅系统通知，及时了解我们网络研讨会软件的最新更新和变更"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-active-news' => /////////////////////////////////////////////////////////////
@@ -2043,19 +2043,19 @@ return [
 	'room-options-group' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		组 <span class="tooltip" data-tip="Enable this option to automatically add attendees to a special subscribers‘ group upon registration. This ensures they receive notifications for upcoming webinars, keeping them informed and engaged"></span>
+		群组 <span class="tooltip" data-tip="注册时自动将参会者添加到特别的订阅者群组，确保他们收到即将举行的网络研讨会通知，保持信息更新和参与度"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-countdown' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		显示倒计时 <span class="tooltip" data-tip="Enable this feature to display a countdown timer on your webinar page, letting attendees see the time remaining until the webinar begins. It builds anticipation, ensures attendees know the start time, and helps in punctual participation"></span>
+		显示倒计时 <span class="tooltip" data-tip="在您的网络研讨会页面上显示倒计时，让参与者看到距离研讨会开始还有多少时间。这会增强期待感，确保每个人都知道开始时间，并鼓励准时参与"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		允许使用 Google 注册 <span class="tooltip" data-tip="Enable this feature to offer a «Login with Google» option on your webinar registration and entrance forms. By doing so, attendees can swiftly and securely access the webinar using their Google accounts, simplifying the login process. It‘s a convenient way to streamline access and enhance user experience for those familiar with Google services"></span>
+		允许通过Google注册 <span class="tooltip" data-tip="在您的网络研讨会注册和登录表单上启用«通过Google注册»选项。这允许参与者使用他们的Google账户快速、安全地加入网络研讨会，使登录过程更容易和更方便。这是简化访问并改善使用Google服务的用户体验的好方法"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////
@@ -2097,7 +2097,7 @@ return [
 	'room-login-show-start' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		显示活动日期 <span class="tooltip" data-tip="Enable this feature to prominently display the date of your webinar on both the registration and login pages. Providing this information upfront helps attendees plan and ensure they are clear on when the webinar will occur"></span>
+		显示网络研讨会日期 <span class="tooltip" data-tip="在注册页面和登录页面上清晰显示网络研讨会日期。这有助于参与者提前计划，并确保他们确切知道网络研讨会的举行时间"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-name' => ////////////////////////////////////////////////////////////

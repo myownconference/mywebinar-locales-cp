@@ -741,7 +741,7 @@ return [
 	'profile-news' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		إشعارات النظام <span class="tooltip" data-tip="بدّل للاشتراك في إشعارات نظام MyOwnConference. ابقَ على اطلاع بأحدث التحديثات والتغييرات المتعلقة ببرمجيات الويبينار لدينا"></span>
+		إشعارات النظام <span class="tooltip" data-tip="اشترك في إشعارات النظام للبقاء على اطلاع على آخر التحديثات والتغييرات في برنامج الويبينار الخاص بنا"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-active-news' => /////////////////////////////////////////////////////////////
@@ -2043,19 +2043,19 @@ return [
 	'room-options-group' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		مجموعة <span class="tooltip" data-tip="Enable this option to automatically add attendees to a special subscribers‘ group upon registration. This ensures they receive notifications for upcoming webinars, keeping them informed and engaged"></span>
+		مجموعة <span class="tooltip" data-tip="إضافة المشاركين تلقائيًا إلى مجموعة مشتركين خاصة عند التسجيل لضمان تلقيهم إشعارات الويبينارات القادمة، مما يساعدهم على البقاء مطلعين ومهتمين"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-countdown' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		عرض مؤقت العد التنازلي <span class="tooltip" data-tip="Enable this feature to display a countdown timer on your webinar page, letting attendees see the time remaining until the webinar begins. It builds anticipation, ensures attendees know the start time, and helps in punctual participation"></span>
+		عرض مؤقت العد التنازلي <span class="tooltip" data-tip="عرض مؤقت العد التنازلي على صفحة الويبينار للسماح للمشاركين بمعرفة الوقت المتبقي حتى يبدأ الويبينار. هذا يبني التوقعات، ويضمن أن الجميع يعرف وقت البدء، ويشجع على المشاركة في الوقت المحدد"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		السماح بالتسجيل باستخدام جوجل <span class="tooltip" data-tip="Enable this feature to offer a «Login with Google» option on your webinar registration and entrance forms. By doing so, attendees can swiftly and securely access the webinar using their Google accounts, simplifying the login process. It‘s a convenient way to streamline access and enhance user experience for those familiar with Google services"></span>
+		السماح بالتسجيل باستخدام Google <span class="tooltip" data-tip="قم بتمكين خيار «التسجيل باستخدام Google» في نماذج تسجيل ودخول الويبينار. يتيح هذا للمشاركين الانضمام إلى الويبينار بسرعة وأمان باستخدام حسابات Google الخاصة بهم، مما يسهل عملية الدخول ويجعلها أكثر راحة. إنها طريقة رائعة لتبسيط الوصول وتحسين تجربة المستخدم لأولئك الذين يستخدمون خدمات Google"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////
@@ -2097,7 +2097,7 @@ return [
 	'room-login-show-start' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		عرض تاريخ الحدث <span class="tooltip" data-tip="Enable this feature to prominently display the date of your webinar on both the registration and login pages. Providing this information upfront helps attendees plan and ensure they are clear on when the webinar will occur"></span>
+		عرض تاريخ الويبينار <span class="tooltip" data-tip="اعرض تاريخ الويبينار بوضوح على صفحات التسجيل وتسجيل الدخول. هذا يساعد المشاركين على التخطيط مسبقًا ويضمن أنهم يعرفون بالضبط متى سيعقد الويبينار"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-name' => ////////////////////////////////////////////////////////////

@@ -741,7 +741,7 @@ return [
 	'profile-news' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Notificări de sistem <span class="tooltip" data-tip="Comutați pentru a vă abona la notificările de sistem MyOwnConference. Rămâneți la curent cu cele mai recente actualizări și modificări ale sistemului legate de software-ul nostru de webinarii"></span>
+		Notificări de sistem <span class="tooltip" data-tip="Abonați-vă la notificările de sistem pentru a rămâne informat cu privire la cele mai recente actualizări și modificări ale software-ului nostru de webinarii"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-active-news' => /////////////////////////////////////////////////////////////
@@ -2043,19 +2043,19 @@ return [
 	'room-options-group' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Grup <span class="tooltip" data-tip="Enable this option to automatically add attendees to a special subscribers‘ group upon registration. This ensures they receive notifications for upcoming webinars, keeping them informed and engaged"></span>
+		Grup <span class="tooltip" data-tip="Adăugați automat participanții la un grup special de abonați la înregistrare pentru a vă asigura că primesc notificări pentru webinariile viitoare, menținându-i informați și implicați"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-countdown' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Afișează cronometrul <span class="tooltip" data-tip="Enable this feature to display a countdown timer on your webinar page, letting attendees see the time remaining until the webinar begins. It builds anticipation, ensures attendees know the start time, and helps in punctual participation"></span>
+		Afișează cronometrul <span class="tooltip" data-tip="Afișați un cronometru pe pagina webinarului pentru ca participanții să vadă cât timp mai rămâne până începe webinarul. Acest lucru creează anticipare, asigură că toată lumea știe ora de început și încurajează participarea la timp"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permite înregistrarea cu Google <span class="tooltip" data-tip="Enable this feature to offer a «Login with Google» option on your webinar registration and entrance forms. By doing so, attendees can swiftly and securely access the webinar using their Google accounts, simplifying the login process. It‘s a convenient way to streamline access and enhance user experience for those familiar with Google services"></span>
+		Permiteți înscrierea cu Google <span class="tooltip" data-tip="Activați opțiunea «Înscrieți-vă cu Google» pe formularele de înregistrare și acces la webinar. Aceasta permite participanților să se alăture rapid și în siguranță webinarului folosindu-și conturile Google, facilitând și simplificând procesul de autentificare. Este o modalitate excelentă de a simplifica accesul și de a îmbunătăți experiența utilizatorilor care folosesc serviciile Google"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////
@@ -2097,7 +2097,7 @@ return [
 	'room-login-show-start' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Afișează data evenimentului <span class="tooltip" data-tip="Enable this feature to prominently display the date of your webinar on both the registration and login pages. Providing this information upfront helps attendees plan and ensure they are clear on when the webinar will occur"></span>
+		Afișați data webinarului <span class="tooltip" data-tip="Afișați clar data webinarului atât pe paginile de înregistrare, cât și pe cele de conectare. Acest lucru îi ajută pe participanți să planifice din timp și le asigură că știu exact când va avea loc webinarul"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-name' => ////////////////////////////////////////////////////////////

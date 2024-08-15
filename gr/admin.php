@@ -741,7 +741,7 @@ return [
 	'profile-news' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ειδοποιήσεις συστήματος <span class="tooltip" data-tip="Εναλλαγή για εγγραφή στις ειδοποιήσεις συστήματος του MyOwnConference. Μείνετε ενημερωμένοι με τις τελευταίες ενημερώσεις συστήματος και αλλαγές που σχετίζονται με το λογισμικό των σεμιναρίων μας"></span>
+		Ειδοποιήσεις συστήματος <span class="tooltip" data-tip="Εγγραφείτε στις ειδοποιήσεις συστήματος για να ενημερώνεστε για τις τελευταίες ενημερώσεις και αλλαγές στο λογισμικό webinar μας"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-active-news' => /////////////////////////////////////////////////////////////
@@ -2043,19 +2043,19 @@ return [
 	'room-options-group' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ομάδα <span class="tooltip" data-tip="Enable this option to automatically add attendees to a special subscribers‘ group upon registration. This ensures they receive notifications for upcoming webinars, keeping them informed and engaged"></span>
+		Ομάδα <span class="tooltip" data-tip="Προσθέστε αυτόματα τους συμμετέχοντες σε μια ειδική ομάδα συνδρομητών κατά την εγγραφή τους, για να διασφαλίσετε ότι θα λαμβάνουν ειδοποιήσεις για τα επερχόμενα διαδικτυακά σεμινάρια, κρατώντας τους ενημερωμένους και αφοσιωμένους"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-countdown' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Εμφάνιση χρονομέτρησης αντίστροφης μέτρησης <span class="tooltip" data-tip="Enable this feature to display a countdown timer on your webinar page, letting attendees see the time remaining until the webinar begins. It builds anticipation, ensures attendees know the start time, and helps in punctual participation"></span>
+		Εμφάνιση χρονομέτρου αντίστροφης μέτρησης <span class="tooltip" data-tip="Εμφανίστε ένα χρονόμετρο αντίστροφης μέτρησης στη σελίδα του διαδικτυακού σας σεμιναρίου για να επιτρέψετε στους συμμετέχοντες να δουν πόσος χρόνος απομένει μέχρι να ξεκινήσει το σεμινάριο. Αυτό δημιουργεί προσμονή, διασφαλίζει ότι όλοι γνωρίζουν την ώρα έναρξης και ενθαρρύνει την έγκαιρη συμμετοχή"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Επιτρέπεται η εγγραφή μέσω Google <span class="tooltip" data-tip="Enable this feature to offer a «Login with Google» option on your webinar registration and entrance forms. By doing so, attendees can swiftly and securely access the webinar using their Google accounts, simplifying the login process. It‘s a convenient way to streamline access and enhance user experience for those familiar with Google services"></span>
+		Επιτρέψτε την εγγραφή με Google <span class="tooltip" data-tip="Ενεργοποιήστε την επιλογή «Εγγραφή με Google» στις φόρμες εγγραφής και εισόδου του διαδικτυακού σας σεμιναρίου. Αυτό επιτρέπει στους συμμετέχοντες να εγγραφούν γρήγορα και με ασφάλεια χρησιμοποιώντας τους λογαριασμούς τους στο Google, κάνοντας τη διαδικασία σύνδεσης πιο εύκολη και πιο βολική. Είναι ένας εξαιρετικός τρόπος για να απλοποιήσετε την πρόσβαση και να βελτιώσετε την εμπειρία χρήστη για όσους χρησιμοποιούν υπηρεσίες Google"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////
@@ -2097,7 +2097,7 @@ return [
 	'room-login-show-start' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Εμφάνιση ημερομηνίας εκδήλωσης <span class="tooltip" data-tip="Enable this feature to prominently display the date of your webinar on both the registration and login pages. Providing this information upfront helps attendees plan and ensure they are clear on when the webinar will occur"></span>
+		Afficher la date du webinaire <span class="tooltip" data-tip="Affichez clairement la date du webinaire sur les pages d‘inscription et de connexion. Cela aide les participants à planifier à l‘avance et à savoir exactement quand le webinaire aura lieu"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-name' => ////////////////////////////////////////////////////////////

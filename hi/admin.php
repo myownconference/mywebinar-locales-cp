@@ -741,7 +741,7 @@ return [
 	'profile-news' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		सिस्टम सूचनाएँ <span class="tooltip" data-tip="MyOwnConference सिस्टम सूचनाओं की सदस्यता के लिए टॉगल करें। हमारे वेबिनार सॉफ़्टवेयर से संबंधित नवीनतम सिस्टम अपडेट और परिवर्तनों के साथ अद्यतित रहें"></span>
+		सिस्टम सूचनाएं <span class="tooltip" data-tip="हमारे वेबिनार सॉफ़्टवेयर में नवीनतम अपडेट और परिवर्तनों के बारे में सूचित रहने के लिए सिस्टम सूचनाओं की सदस्यता लें"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-active-news' => /////////////////////////////////////////////////////////////
@@ -2043,19 +2043,19 @@ return [
 	'room-options-group' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		समूह <span class="tooltip" data-tip="Enable this option to automatically add attendees to a special subscribers‘ group upon registration. This ensures they receive notifications for upcoming webinars, keeping them informed and engaged"></span>
+		समूह <span class="tooltip" data-tip="उपस्थित लोगों को पंजीकरण पर स्वचालित रूप से एक विशेष सदस्य समूह में जोड़ें ताकि यह सुनिश्चित हो सके कि वे आगामी वेबिनार के लिए सूचनाएँ प्राप्त करें, उन्हें सूचित और संलग्न रखें"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-countdown' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		काउंटडाउन टाइमर दिखाएं <span class="tooltip" data-tip="Enable this feature to display a countdown timer on your webinar page, letting attendees see the time remaining until the webinar begins. It builds anticipation, ensures attendees know the start time, and helps in punctual participation"></span>
+		काउंटडाउन टाइमर दिखाएं <span class="tooltip" data-tip="अपने वेबिनार पेज पर एक काउंटडाउन टाइमर प्रदर्शित करें ताकि उपस्थित लोग देख सकें कि वेबिनार शुरू होने में कितना समय बाकी है। यह प्रत्याशा बनाता है, यह सुनिश्चित करता है कि सभी को प्रारंभ समय पता है, और समय पर भागीदारी को प्रोत्साहित करता है"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Google के साथ पंजीकरण की अनुमति दें <span class="tooltip" data-tip="Enable this feature to offer a «Login with Google» option on your webinar registration and entrance forms. By doing so, attendees can swiftly and securely access the webinar using their Google accounts, simplifying the login process. It‘s a convenient way to streamline access and enhance user experience for those familiar with Google services"></span>
+		Google के साथ साइन अप करने की अनुमति दें <span class="tooltip" data-tip="अपने वेबिनार पंजीकरण और प्रवेश फॉर्म पर «Google के साथ साइन अप करें» विकल्प को सक्षम करें। यह उपस्थित लोगों को उनके Google खातों का उपयोग करके जल्दी और सुरक्षित रूप से वेबिनार में शामिल होने की अनुमति देता है, जिससे लॉगिन प्रक्रिया आसान और अधिक सुविधाजनक हो जाती है। Google सेवाओं का उपयोग करने वालों के लिए एक्सेस को सुव्यवस्थित करने और उपयोगकर्ता अनुभव में सुधार करने का यह एक शानदार तरीका है"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////
@@ -2097,7 +2097,7 @@ return [
 	'room-login-show-start' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		इवेंट की तारीख दिखाएं <span class="tooltip" data-tip="Enable this feature to prominently display the date of your webinar on both the registration and login pages. Providing this information upfront helps attendees plan and ensure they are clear on when the webinar will occur"></span>
+		वेबिनार की तारीख दिखाएं <span class="tooltip" data-tip="पंजीकरण और लॉगिन पृष्ठों पर वेबिनार की तारीख को स्पष्ट रूप से प्रदर्शित करें। यह उपस्थित लोगों को पहले से योजना बनाने में मदद करता है और यह सुनिश्चित करता है कि वेबिनार कब होगा, इसका उन्हें सही समय पता हो"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-name' => ////////////////////////////////////////////////////////////

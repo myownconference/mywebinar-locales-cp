@@ -741,7 +741,7 @@ return [
 	'profile-news' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Notifications système <span class="tooltip" data-tip="Activez pour vous abonner aux notifications système de MyOwnConference. Restez informé des dernières mises à jour et modifications du système liées à notre logiciel de webinaires"></span>
+		Notifications système <span class="tooltip" data-tip="Abonnez-vous aux notifications système pour rester informé des dernières mises à jour et modifications de notre logiciel de webinaires"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-active-news' => /////////////////////////////////////////////////////////////
@@ -2044,19 +2044,19 @@ return [
 	'room-options-group' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ajouter au groupe <span class="tooltip" data-tip="Enable this option to automatically add attendees to a special subscribers‘ group upon registration. This ensures they receive notifications for upcoming webinars, keeping them informed and engaged"></span>
+		Groupe <span class="tooltip" data-tip="Ajoutez automatiquement les participants à un groupe spécial d‘abonnés lors de l‘inscription pour vous assurer qu‘ils reçoivent des notifications pour les webinaires à venir, afin de les tenir informés et engagés"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-countdown' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Compte è rebours <span class="tooltip" data-tip="Enable this feature to display a countdown timer on your webinar page, letting attendees see the time remaining until the webinar begins. It builds anticipation, ensures attendees know the start time, and helps in punctual participation"></span>
+		Afficher le compte à rebours <span class="tooltip" data-tip="Affichez un compte à rebours sur votre page de webinaire pour permettre aux participants de voir combien de temps il reste avant le début du webinaire. Cela suscite l‘anticipation, assure que tout le monde connaît l‘heure de début et encourage une participation ponctuelle"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Se connecter avec les media sociaux <span class="tooltip" data-tip="Enable this feature to offer a «Login with Google» option on your webinar registration and entrance forms. By doing so, attendees can swiftly and securely access the webinar using their Google accounts, simplifying the login process. It‘s a convenient way to streamline access and enhance user experience for those familiar with Google services"></span>
+		Autoriser l‘inscription avec Google <span class="tooltip" data-tip="Activez l‘option «S‘inscrire avec Google» sur vos formulaires d‘inscription et de connexion au webinaire. Cela permet aux participants de rejoindre rapidement et en toute sécurité le webinaire en utilisant leurs comptes Google, rendant le processus de connexion plus facile et plus pratique. C‘est un excellent moyen de simplifier l‘accès et d‘améliorer l‘expérience utilisateur pour ceux qui utilisent les services Google"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////
@@ -2098,7 +2098,7 @@ return [
 	'room-login-show-start' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Date du webinaire <span class="tooltip" data-tip="Enable this feature to prominently display the date of your webinar on both the registration and login pages. Providing this information upfront helps attendees plan and ensure they are clear on when the webinar will occur"></span>
+		Afficher la date du webinaire <span class="tooltip" data-tip="Affichez clairement la date du webinaire sur les pages d‘inscription et de connexion. Cela aide les participants à planifier à l‘avance et à savoir exactement quand le webinaire aura lieu"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-name' => ////////////////////////////////////////////////////////////

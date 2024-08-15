@@ -741,7 +741,7 @@ return [
 	'profile-news' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		התראות מערכת <span class="tooltip" data-tip="הפעל כדי להירשם להתראות מערכת של MyOwnConference. הישאר מעודכן עם העדכונים והשינויים האחרונים במערכת הקשורים לתוכנת הוובינרים שלנו"></span>
+		התראות מערכת <span class="tooltip" data-tip="הירשם להתראות מערכת כדי להישאר מעודכן לגבי העדכונים והשינויים האחרונים בתוכנת הוובינר שלנו"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-active-news' => /////////////////////////////////////////////////////////////
@@ -2043,19 +2043,19 @@ return [
 	'room-options-group' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		קבוצה <span class="tooltip" data-tip="Enable this option to automatically add attendees to a special subscribers‘ group upon registration. This ensures they receive notifications for upcoming webinars, keeping them informed and engaged"></span>
+		קבוצה <span class="tooltip" data-tip="הוסף משתתפים באופן אוטומטי לקבוצת מנויים מיוחדת בעת ההרשמה כדי לוודא שהם מקבלים התראות על וובינרים עתידיים, כך שישארו מעודכנים ומעורבים"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-countdown' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		הצג מונה חשבון יורד <span class="tooltip" data-tip="Enable this feature to display a countdown timer on your webinar page, letting attendees see the time remaining until the webinar begins. It builds anticipation, ensures attendees know the start time, and helps in punctual participation"></span>
+		הצגת טיימר ספירה לאחור <span class="tooltip" data-tip="הצג טיימר ספירה לאחור בעמוד הוובינר שלך כדי לאפשר למשתתפים לראות כמה זמן נותר עד שהוובינר יתחיל. זה יוצר ציפייה, מוודא שכולם יודעים את זמן ההתחלה ומעודד השתתפות בזמן"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		אפשר למשתתפים להירשם באמצעות Google <span class="tooltip" data-tip="Enable this feature to offer a «Login with Google» option on your webinar registration and entrance forms. By doing so, attendees can swiftly and securely access the webinar using their Google accounts, simplifying the login process. It‘s a convenient way to streamline access and enhance user experience for those familiar with Google services"></span>
+		אפשר הרשמה עם Google <span class="tooltip" data-tip="אפשרו אופציית «הרשמה באמצעות Google» בטפסי ההרשמה והכניסה לוובינר. זה מאפשר למשתתפים להצטרף לוובינר במהירות ובבטחה באמצעות חשבונות ה-Google שלהם, מה שמקל ומנגיש את תהליך הכניסה. זוהי דרך מצוינת לפשט את הגישה ולשפר את חווית המשתמש עבור אלו המשתמשים בשירותי Google"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////
@@ -2097,7 +2097,7 @@ return [
 	'room-login-show-start' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		הצג את תאריך האירוע והשעה <span class="tooltip" data-tip="Enable this feature to prominently display the date of your webinar on both the registration and login pages. Providing this information upfront helps attendees plan and ensure they are clear on when the webinar will occur"></span>
+		הצג את תאריך הוובינר <span class="tooltip" data-tip="הצג בבירור את תאריך הוובינר הן בדפי ההרשמה והן בדפי הכניסה. זה עוזר למשתתפים לתכנן מראש ומוודא שהם יודעים בדיוק מתי יתקיים הוובינר"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-name' => ////////////////////////////////////////////////////////////

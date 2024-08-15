@@ -1743,7 +1743,7 @@ return [
 	'record-only-webcams' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sadece web kamerası ve mikrofon <span class="tooltip" data-tip="When activated, the webinar recording will capture only the webcam feed and audio from the microphone, excluding all other elements of the working area"></span>
+		Yalnızca web kamerası ve mikrofon <span class="tooltip" data-tip="Etkinleştirildiğinde, web semineri videosu yalnızca web kamerası beslemesine ve mikrofon sesine odaklanır ve çalışma alanındaki diğer tüm öğeleri dışarıda bırakır. Lütfen maksimum web kamerası çözünürlüğünün 480p olduğunu ve web kameranızın son videoda bu çözünürlükte görüneceğini unutmayın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto' => /////////////////////////////////////////////////////////////////////

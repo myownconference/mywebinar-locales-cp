@@ -1743,7 +1743,7 @@ return [
 	'record-only-webcams' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webcam and microphone only <span class="tooltip" data-tip="When activated, the webinar video will focus solely on the webcam feed and microphone audio, excluding all other elements from the working area"></span>
+		Webcam and microphone only <span class="tooltip" data-tip="When activated, the webinar video will focus only on your webcam feed and microphone audio, leaving out all other elements from the workspace. Please note, the maximum webcam resolution is 480p, and your webcam will appear in the final video at this resolution"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto' => /////////////////////////////////////////////////////////////////////

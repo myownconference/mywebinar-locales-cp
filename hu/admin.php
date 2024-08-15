@@ -1743,7 +1743,7 @@ return [
 	'record-only-webcams' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Csak webcam és mikrofon <span class="tooltip" data-tip="Ha aktiválva van, a webinárium felvétele csak a webcam képét és a mikrofon hangját fogja rögzíteni, kizárva a munkaterület összes többi elemét"></span>
+		Csak webkamera és mikrofon <span class="tooltip" data-tip="Amikor aktiválva van, a webinárium videója kizárólag az Ön webkamera képére és a mikrofon hangjára összpontosít, kizárva a munkaterület összes többi elemét. Kérjük, vegye figyelembe, hogy a webkamera maximális felbontása 480p, és a webkamerája ebben a felbontásban jelenik meg a végső videóban"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto' => /////////////////////////////////////////////////////////////////////

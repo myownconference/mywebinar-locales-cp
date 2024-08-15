@@ -1744,7 +1744,7 @@ return [
 	'record-only-webcams' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nagrywaj tylko kamerę i mikrofon <span class="tooltip" data-tip="Gdy aktywowane, nagranie webinaru będzie obejmować tylko obraz z kamery internetowej i dźwięk z mikrofonu, wykluczając wszystkie inne elementy obszaru roboczego"></span>
+		Tylko kamera i mikrofon <span class="tooltip" data-tip="Gdy ta opcja jest aktywna, wideo z webinaru będzie skupiać się wyłącznie na obrazie z kamery internetowej i dźwięku z mikrofonu, wykluczając wszystkie inne elementy z obszaru roboczego. Proszę pamiętać, że maksymalna rozdzielczość kamery internetowej wynosi 480p, a kamera internetowa będzie widoczna w końcowym wideo w tej rozdzielczości"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto' => /////////////////////////////////////////////////////////////////////

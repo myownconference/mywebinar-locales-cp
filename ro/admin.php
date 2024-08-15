@@ -1743,7 +1743,7 @@ return [
 	'record-only-webcams' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Doar webcam și microfon <span class="tooltip" data-tip="When activated, the webinar recording will capture only the webcam feed and audio from the microphone, excluding all other elements of the working area"></span>
+		Doar webcam și microfon <span class="tooltip" data-tip="Când este activat, videoclipul webinarului se va concentra exclusiv pe fluxul de la webcam și pe sunetul microfonului, excluzând toate celelalte elemente din zona de lucru. Rețineți că rezoluția maximă a camerei web este 480p, iar camera dvs. web va apărea în videoclipul final la această rezoluție"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto' => /////////////////////////////////////////////////////////////////////

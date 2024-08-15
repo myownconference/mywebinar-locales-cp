@@ -1743,7 +1743,7 @@ return [
 	'record-only-webcams' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Grabar sólo webcam y micrófono <span class="tooltip" data-tip="When activated, the webinar recording will capture only the webcam feed and audio from the microphone, excluding all other elements of the working area"></span>
+		Solo cámara web y micrófono <span class="tooltip" data-tip="Cuando está activado, el video del webinar se centrará únicamente en la transmisión de la cámara web y el audio del micrófono, excluyendo todos los demás elementos del área de trabajo. Tenga en cuenta que la resolución máxima de la cámara web es de 480p, y su cámara web aparecerá en el video final a esta resolución"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto' => /////////////////////////////////////////////////////////////////////

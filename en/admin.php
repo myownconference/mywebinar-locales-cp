@@ -2109,7 +2109,7 @@ return [
 	'room-login-show-moderators' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Show moderators of the webinar <span class="tooltip" data-tip="Enable this feature to display a list of the webinar‘s key figures, moderators, presenters, and notable attendees. By showcasing the individuals who will be steering the online webinar, you offer potential attendees an insight into the expertise and personalities they can expect to encounter"></span>
+		Show webinar moderators <span class="tooltip" data-tip="Display a list of key figures for the webinar, including moderators, presenters, and notable attendees. Highlighting these individuals gives potential attendees insight into the expertise and personalities they can expect to encounter during the event"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-main-moderator' => //////////////////////////////////////////////////
@@ -2319,7 +2319,7 @@ return [
 	'mail-1DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1 day reminder <span class="tooltip" data-tip="Enable this feature to automatically send a reminder email to registered attendees 24 hours before your online webinar commences. This last-minute nudge can bolster attendance and ensure participants are primed and ready for your session. Help your attendees set their schedules by giving them a timely heads-up!"></span>
+		1-day reminder <span class="tooltip" data-tip="Automatically send a reminder email to registered attendees 24 hours before your webinar starts. This timely nudge can boost attendance and ensure participants are prepared for your session"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2331,7 +2331,7 @@ return [
 	'mail-3DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		3 day reminder <span class="tooltip" data-tip="Enable this feature to automatically send a reminder email to registered attendees three days before your online webinar. A timely reminder can increase participation rates and ensure your webinar remains top-of-mind for your audience. Keep your attendees informed and engaged!"></span>
+		3-day reminder <span class="tooltip" data-tip="Automatically send a reminder email to registered attendees three days before your webinar. This timely reminder can help increase participation and keep your webinar top-of-mind for your audience"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-3DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2343,7 +2343,7 @@ return [
 	'mail-1HOUR' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1-hour alert <span class="tooltip" data-tip="Enable this feature to send out an email reminder to your registered attendees 60 minutes before the start of your online webinar. This prompt includes a direct link to the webinar, allowing participants to join easily. A last-minute reminder ensures attendees have your webinar on their minds, maximizing participation"></span>
+		1-hour reminder <span class="tooltip" data-tip="A reminder email sent to registered attendees 60 minutes before your webinar begins. This prompt includes a direct link, making it easy for participants to join. A last-minute reminder helps maximize attendance"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1HOUR-desc' => /////////////////////////////////////////////////////////////////
@@ -2355,7 +2355,7 @@ return [
 	'mail-FINISHED' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Post-webinar <span class="tooltip" data-tip="Enable this feature to automatically send a follow-up email to attendees once the webinar concludes. It can be a thank-you note, a feedback survey, or an exclusive link to access the webinar content. Customize your post-webinar communication to engage attendees and provide ongoing value after the webinar ends"></span>
+		Post-webinar <span class="tooltip" data-tip="A follow-up email sent to attendees after the webinar ends. This can be a thank-you note, a feedback survey, or an exclusive link to the webinar content. Customize your post-webinar message to keep attendees engaged and provide ongoing value"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-FINISHED-desc' => //////////////////////////////////////////////////////////////
@@ -2367,7 +2367,7 @@ return [
 	'mail-REGISTRATIONCONFIRM' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Confirmation <span class="tooltip" data-tip="Activate this feature to send a confirmation email to attendees upon registration. By doing so, you ensure the registrants verify their email addresses, offering an additional layer of security and authenticity. This double-opt-in process helps maintain the integrity of your online webinar by confirming the genuine interest of attendees and minimizing potential spam registrations"></span>
+		Confirmation <span class="tooltip" data-tip="A confirmation email sent to attendees upon registration. This ensures registrants verify their email addresses, adding an extra layer of security and authenticity. This double-opt-in process helps confirm genuine interest and reduces potential spam registrations"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-REGISTRATIONCONFIRM-desc' => ///////////////////////////////////////////////////
@@ -2379,7 +2379,7 @@ return [
 	'mail-STARTED' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Latecomers <span class="tooltip" data-tip="Enable this feature to send out a nudge to attendees who haven‘t joined the webinar yet, letting them know that the webinar has already begun. This prompt encourages timely participation and is a gentle reminder for those who may have lost track of time. Ensure no one misses valuable content by reminding them to join in quickly"></span>
+		Latecomers <span class="tooltip" data-tip="A nudge sent to attendees who haven’t joined the webinar yet, letting them know it has already started. This gentle reminder encourages them to join promptly so they don‘t miss any valuable content"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-STARTED-desc' => ///////////////////////////////////////////////////////////////
@@ -3507,13 +3507,13 @@ return [
 	'mail-OFF' => ////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Excluded
+		Disabled
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-OFFLINE' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Unsent
+		Not sent
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invited-to-webinar' => //////////////////////////////////////////////////////////////

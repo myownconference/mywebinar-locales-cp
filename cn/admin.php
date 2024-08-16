@@ -2109,7 +2109,7 @@ return [
 	'room-login-show-moderators' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		显示活动的主持人 <span class="tooltip" data-tip="Enable this feature to display a list of the webinar‘s key figures, moderators, presenters, and notable attendees. By showcasing the individuals who will be steering the online webinar, you offer potential attendees an insight into the expertise and personalities they can expect to encounter"></span>
+		显示网络研讨会主持人 <span class="tooltip" data-tip="显示网络研讨会的重要人物列表，包括主持人、演讲者和著名的与会者。突出这些个人可以让潜在的参与者了解他们在活动中可能遇到的专业知识和个性"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-main-moderator' => //////////////////////////////////////////////////
@@ -2319,7 +2319,7 @@ return [
 	'mail-1DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1 天提醒 <span class="tooltip" data-tip="Enable this feature to automatically send a reminder email to registered attendees 24 hours before your online webinar commences. This last-minute nudge can bolster attendance and ensure participants are primed and ready for your session. Help your attendees set their schedules by giving them a timely heads-up!"></span>
+		1天提醒 <span class="tooltip" data-tip="在您的网络研讨会开始前24小时，向已注册的参与者发送提醒邮件。这个及时的提醒可以提高出勤率，并确保参与者为您的会议做好准备"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2331,7 +2331,7 @@ return [
 	'mail-3DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		3 日提醒 <span class="tooltip" data-tip="Enable this feature to automatically send a reminder email to registered attendees three days before your online webinar. A timely reminder can increase participation rates and ensure your webinar remains top-of-mind for your audience. Keep your attendees informed and engaged!"></span>
+		3天提醒 <span class="tooltip" data-tip="在您的网络研讨会开始前三天，向已注册的参与者发送提醒邮件。这个提醒有助于提高参与度，并让您的网络研讨会在观众中保持关注"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-3DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2343,7 +2343,7 @@ return [
 	'mail-1HOUR' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1小时提醒 <span class="tooltip" data-tip="Enable this feature to send out an email reminder to your registered attendees 60 minutes before the start of your online webinar. This prompt includes a direct link to the webinar, allowing participants to join easily. A last-minute reminder ensures attendees have your webinar on their minds, maximizing participation"></span>
+		1小时提醒 <span class="tooltip" data-tip="在您的网络研讨会开始前60分钟，向已注册的参与者发送提醒邮件。此提示包括一个直接链接，方便参与者加入。最后一分钟的提醒有助于最大限度地提高出勤率"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1HOUR-desc' => /////////////////////////////////////////////////////////////////
@@ -2355,7 +2355,7 @@ return [
 	'mail-FINISHED' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		结束 <span class="tooltip" data-tip="Enable this feature to automatically send out a follow-up email to attendees once the online webinar concludes. This can be a gracious thank-you note, a brief survey for feedback, or even an exclusive link to access the webinar recording. Tailor your post-webinar communication to engage different groups of attendees and provide additional value long after the webinar has ended"></span>
+		网络研讨会后 <span class="tooltip" data-tip="在网络研讨会结束后向参与者发送的后续电子邮件。可以是感谢信、反馈调查或网络研讨会内容的独家链接。自定义您的网络研讨会后信息，以保持参与者的参与并提供持续的价值"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-FINISHED-desc' => //////////////////////////////////////////////////////////////
@@ -2367,7 +2367,7 @@ return [
 	'mail-REGISTRATIONCONFIRM' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		确认 <span class="tooltip" data-tip="Activate this feature to send a confirmation email to attendees upon registration. By doing so, you ensure the registrants verify their email addresses, offering an additional layer of security and authenticity. This double-opt-in process helps maintain the integrity of your online webinar by confirming the genuine interest of attendees and minimizing potential spam registrations"></span>
+		确认 <span class="tooltip" data-tip="在注册时向参与者发送确认电子邮件。这确保注册者验证其电子邮件地址，增加了一层安全性和真实性。此双重选择加入过程有助于确认真实兴趣并减少潜在的垃圾邮件注册"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-REGISTRATIONCONFIRM-desc' => ///////////////////////////////////////////////////
@@ -2379,7 +2379,7 @@ return [
 	'mail-STARTED' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		迟到者 <span class="tooltip" data-tip="Enable this feature to send out a nudge to attendees who haven‘t joined the webinar yet, letting them know that the webinar has already begun. This prompt encourages timely participation and is a gentle reminder for those who may have lost track of time. Ensure no one misses valuable content by reminding them to join in quickly"></span>
+		迟到者 <span class="tooltip" data-tip="发送给尚未加入网络研讨会的参与者的提醒，让他们知道网络研讨会已经开始。这个温和的提醒鼓励他们及时加入，以免错过任何有价值的内容"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-STARTED-desc' => ///////////////////////////////////////////////////////////////
@@ -3507,13 +3507,13 @@ return [
 	'mail-OFF' => ////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		排除
+		已禁用
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-OFFLINE' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		排除
+		未发送
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invited-to-webinar' => //////////////////////////////////////////////////////////////

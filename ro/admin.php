@@ -2109,7 +2109,7 @@ return [
 	'room-login-show-moderators' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Afișează moderatori evenimentului <span class="tooltip" data-tip="Enable this feature to display a list of the webinar‘s key figures, moderators, presenters, and notable attendees. By showcasing the individuals who will be steering the online webinar, you offer potential attendees an insight into the expertise and personalities they can expect to encounter"></span>
+		Afișați moderatorii webinarului <span class="tooltip" data-tip="Afișați o listă cu figurile cheie ale webinarului, inclusiv moderatori, prezentatori și participanți notabili. Evidențierea acestor persoane oferă participanților potențiali o perspectivă asupra expertizei și personalităților pe care le pot întâlni în timpul evenimentului"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-main-moderator' => //////////////////////////////////////////////////
@@ -2319,7 +2319,7 @@ return [
 	'mail-1DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Remindere cu 1 zi înainte <span class="tooltip" data-tip="Enable this feature to automatically send a reminder email to registered attendees 24 hours before your online webinar commences. This last-minute nudge can bolster attendance and ensure participants are primed and ready for your session. Help your attendees set their schedules by giving them a timely heads-up!"></span>
+		Memento de 1 zi <span class="tooltip" data-tip="Un e-mail de reamintire trimis participanților înregistrați cu 24 de ore înainte de începerea webinarului. Acest memento oportun poate crește prezența și asigura că participanții sunt pregătiți pentru sesiunea dvs"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2331,7 +2331,7 @@ return [
 	'mail-3DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Remindere cu 3 zile înainte <span class="tooltip" data-tip="Enable this feature to automatically send a reminder email to registered attendees three days before your online webinar. A timely reminder can increase participation rates and ensure your webinar remains top-of-mind for your audience. Keep your attendees informed and engaged!"></span>
+		Memento de 3 zile <span class="tooltip" data-tip="Un e-mail de reamintire trimis participanților înregistrați cu trei zile înainte de webinarul tău. Acest memento ajută la creșterea participării și menține webinarul tău în atenția publicului"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-3DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2343,7 +2343,7 @@ return [
 	'mail-1HOUR' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Remindere cu 1 oră înainte <span class="tooltip" data-tip="Enable this feature to send out an email reminder to your registered attendees 60 minutes before the start of your online webinar. This prompt includes a direct link to the webinar, allowing participants to join easily. A last-minute reminder ensures attendees have your webinar on their minds, maximizing participation"></span>
+		Memento de 1 oră <span class="tooltip" data-tip="Un e-mail de reamintire trimis participanților înregistrați cu 60 de minute înainte de începerea webinarului. Acest memento include un link direct, facilitând participarea. Un memento de ultim moment ajută la maximizarea prezenței"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1HOUR-desc' => /////////////////////////////////////////////////////////////////
@@ -2355,7 +2355,7 @@ return [
 	'mail-FINISHED' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Final <span class="tooltip" data-tip="Enable this feature to automatically send out a follow-up email to attendees once the online webinar concludes. This can be a gracious thank-you note, a brief survey for feedback, or even an exclusive link to access the webinar recording. Tailor your post-webinar communication to engage different groups of attendees and provide additional value long after the webinar has ended"></span>
+		Post-webinar <span class="tooltip" data-tip="Un e-mail de follow-up trimis participanților după încheierea webinarului. Acesta poate fi o notă de mulțumire, un sondaj de feedback sau un link exclusiv către conținutul webinarului. Personalizați mesajul post-webinar pentru a menține participanții angajați și pentru a oferi valoare continuă"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-FINISHED-desc' => //////////////////////////////////////////////////////////////
@@ -2367,7 +2367,7 @@ return [
 	'mail-REGISTRATIONCONFIRM' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Confirmare <span class="tooltip" data-tip="Activate this feature to send a confirmation email to attendees upon registration. By doing so, you ensure the registrants verify their email addresses, offering an additional layer of security and authenticity. This double-opt-in process helps maintain the integrity of your online webinar by confirming the genuine interest of attendees and minimizing potential spam registrations"></span>
+		Confirmare <span class="tooltip" data-tip="Un e-mail de confirmare trimis participanților la înregistrare. Acest lucru asigură că înregistranții își verifică adresele de e-mail, adăugând un nivel suplimentar de securitate și autenticitate. Acest proces de dublă opțiune ajută la confirmarea interesului real și reduce înregistrările potențiale de spam"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-REGISTRATIONCONFIRM-desc' => ///////////////////////////////////////////////////
@@ -2379,7 +2379,7 @@ return [
 	'mail-STARTED' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Cei întârziați <span class="tooltip" data-tip="Enable this feature to send out a nudge to attendees who haven‘t joined the webinar yet, letting them know that the webinar has already begun. This prompt encourages timely participation and is a gentle reminder for those who may have lost track of time. Ensure no one misses valuable content by reminding them to join in quickly"></span>
+		Întârziat <span class="tooltip" data-tip="Un mesaj de reamintire trimis participanților care nu s-au alăturat încă webinarului, informându-i că acesta a început deja. Acest memento ușor îi încurajează să se alăture rapid pentru a nu rata conținutul valoros"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-STARTED-desc' => ///////////////////////////////////////////////////////////////
@@ -3501,19 +3501,19 @@ return [
 	'mail-END' => ////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Trimis
+		Trimise
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-OFF' => ////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Exclus
+		Dezactivate
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-OFFLINE' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Exclus
+		Netrimise
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invited-to-webinar' => //////////////////////////////////////////////////////////////

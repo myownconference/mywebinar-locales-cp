@@ -2109,7 +2109,7 @@ return [
 	'room-login-show-moderators' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar moderatörlerini göster <span class="tooltip" data-tip="Enable this feature to display a list of the webinar‘s key figures, moderators, presenters, and notable attendees. By showcasing the individuals who will be steering the online webinar, you offer potential attendees an insight into the expertise and personalities they can expect to encounter"></span>
+		Web semineri moderatörlerini göster <span class="tooltip" data-tip="Moderatörler, sunucular ve önemli katılımcılar dahil olmak üzere web semineri için kilit kişilerin bir listesini görüntüleyin. Bu kişilerin vurgulanması, potansiyel katılımcılara etkinlik sırasında karşılaşabilecekleri uzmanlık ve kişilikler hakkında bilgi verir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-main-moderator' => //////////////////////////////////////////////////
@@ -2319,7 +2319,7 @@ return [
 	'mail-1DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1 günlük hatırlatma <span class="tooltip" data-tip="Enable this feature to automatically send a reminder email to registered attendees 24 hours before your online webinar commences. This last-minute nudge can bolster attendance and ensure participants are primed and ready for your session. Help your attendees set their schedules by giving them a timely heads-up!"></span>
+		1 Günlük Hatırlatma <span class="tooltip" data-tip="Web semineriniz başlamadan 24 saat önce kayıtlı katılımcılara gönderilen hatırlatma e-postası. Bu zamanında yapılan hatırlatma, katılımı artırabilir ve katılımcıların oturumunuza hazırlanmasını sağlayabilir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2331,7 +2331,7 @@ return [
 	'mail-3DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		3 günlük hatırlatma <span class="tooltip" data-tip="Enable this feature to automatically send a reminder email to registered attendees three days before your online webinar. A timely reminder can increase participation rates and ensure your webinar remains top-of-mind for your audience. Keep your attendees informed and engaged!"></span>
+		3 Günlük Hatırlatma <span class="tooltip" data-tip="Web seminerinizden üç gün önce kayıtlı katılımcılara gönderilen hatırlatma e-postası. Bu hatırlatma, katılımı artırmaya ve web seminerinizi izleyicilerinizin zihninde tutmaya yardımcı olur"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-3DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2343,7 +2343,7 @@ return [
 	'mail-1HOUR' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1 saatlik hatırlatma <span class="tooltip" data-tip="Enable this feature to send out an email reminder to your registered attendees 60 minutes before the start of your online webinar. This prompt includes a direct link to the webinar, allowing participants to join easily. A last-minute reminder ensures attendees have your webinar on their minds, maximizing participation"></span>
+		1 Saatlik Hatırlatma <span class="tooltip" data-tip="Web semineriniz başlamadan 60 dakika önce kayıtlı katılımcılara gönderilen hatırlatma e-postası. Bu uyarı, katılımcıların katılmasını kolaylaştıran doğrudan bir bağlantı içerir. Son dakika hatırlatması katılımı en üst düzeye çıkarmaya yardımcı olur"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1HOUR-desc' => /////////////////////////////////////////////////////////////////
@@ -2355,7 +2355,7 @@ return [
 	'mail-FINISHED' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Son <span class="tooltip" data-tip="Enable this feature to automatically send out a follow-up email to attendees once the online webinar concludes. This can be a gracious thank-you note, a brief survey for feedback, or even an exclusive link to access the webinar recording. Tailor your post-webinar communication to engage different groups of attendees and provide additional value long after the webinar has ended"></span>
+		Web semineri sonrası <span class="tooltip" data-tip="Web semineri bittikten sonra katılımcılara gönderilen bir takip e-postası. Bu bir teşekkür notu, bir geri bildirim anketi veya web semineri içeriğine özel bir bağlantı olabilir. Katılımcıların ilgisini sürdürmek ve sürekli değer sağlamak için web semineri sonrası mesajınızı özelleştirin"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-FINISHED-desc' => //////////////////////////////////////////////////////////////
@@ -2367,7 +2367,7 @@ return [
 	'mail-REGISTRATIONCONFIRM' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Onay <span class="tooltip" data-tip="Activate this feature to send a confirmation email to attendees upon registration. By doing so, you ensure the registrants verify their email addresses, offering an additional layer of security and authenticity. This double-opt-in process helps maintain the integrity of your online webinar by confirming the genuine interest of attendees and minimizing potential spam registrations"></span>
+		Onay <span class="tooltip" data-tip="Kayıt sırasında katılımcılara gönderilen bir onay e-postası. Bu, kayıt olanların e-posta adreslerini doğrulamalarını sağlar ve ek bir güvenlik ve doğruluk katmanı ekler. Bu çift onay süreci, gerçek ilgiyi doğrulamaya ve potansiyel spam kayıtlarını azaltmaya yardımcı olur"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-REGISTRATIONCONFIRM-desc' => ///////////////////////////////////////////////////
@@ -2379,7 +2379,7 @@ return [
 	'mail-STARTED' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Gecikenler <span class="tooltip" data-tip="Enable this feature to send out a nudge to attendees who haven‘t joined the webinar yet, letting them know that the webinar has already begun. This prompt encourages timely participation and is a gentle reminder for those who may have lost track of time. Ensure no one misses valuable content by reminding them to join in quickly"></span>
+		Geç Kalanlar <span class="tooltip" data-tip="Web seminerine henüz katılmamış katılımcılara gönderilen bir uyarı, web seminerinin zaten başladığını bildiren. Bu nazik hatırlatma, katılımcıların değerli içeriği kaçırmamaları için hemen katılmalarını teşvik eder"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-STARTED-desc' => ///////////////////////////////////////////////////////////////
@@ -3507,13 +3507,13 @@ return [
 	'mail-OFF' => ////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Hariç
+		Devre dışı
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-OFFLINE' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Hariç
+		Gönderilmedi
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invited-to-webinar' => //////////////////////////////////////////////////////////////

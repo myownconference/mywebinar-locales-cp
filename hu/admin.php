@@ -2109,7 +2109,7 @@ return [
 	'room-login-show-moderators' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		A webinárium moderátorainak megjelenítése <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy megjelenítse a webinárium fő szereplőinek, moderátorainak, előadóinak és kiemelkedő résztvevőinek listáját. A webináriumot irányító személyek bemutatásával potenciális résztvevői betekintést nyerhetnek az elvárt szakértelembe és személyiségekbe"></span>
+		Mutassa a webinárium moderátorait <span class="tooltip" data-tip="Jelenítse meg a webinárium kulcsfontosságú szereplőinek listáját, beleértve a moderátorokat, előadókat és kiemelkedő résztvevőket. Ezen személyek kiemelése betekintést nyújt a potenciális résztvevők számára a rendezvény során várható szakértelemről és személyiségekről"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-main-moderator' => //////////////////////////////////////////////////
@@ -2319,7 +2319,7 @@ return [
 	'mail-1DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1 napos emlékeztető <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy automatikusan emlékeztető e-mailt küldjön a regisztrált résztvevőknek 24 órával az online webinárium kezdete előtt. Ez az utolsó pillanatbeli figyelmeztetés növelheti a részvételt és biztosítja, hogy a résztvevők készen álljanak az ülésre. Segítsen résztvevőinek ütemezni a programjukat, azzal, hogy időben emlékezteti őket!"></span>
+		1 napos emlékeztető <span class="tooltip" data-tip="Emlékeztető e-mail, amelyet a webinárium kezdete előtt 24 órával küldünk a regisztrált résztvevőknek. Ez az időben történő emlékeztetés növelheti a részvételi arányt és biztosíthatja, hogy a résztvevők felkészültek legyenek az előadásra"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2331,7 +2331,7 @@ return [
 	'mail-3DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		3 napos emlékeztető <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy automatikusan emlékeztető e-mailt küldjön a regisztrált résztvevőknek három nappal az online webinárium előtt. Egy időben küldött emlékeztető növelheti a részvételi arányt és biztosítja, hogy a webinárium az eszükbe jusson a közönségnek. Tartsa tájékozottan és elkötelezetten a résztvevőket!"></span>
+		3 napos emlékeztető <span class="tooltip" data-tip="Emlékeztető e-mail, amelyet három nappal a webinárium előtt küldenek el a regisztrált résztvevőknek. Ez az emlékeztető segít növelni a részvételt, és biztosítja, hogy a webinárium a közönség figyelmében maradjon"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-3DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2343,7 +2343,7 @@ return [
 	'mail-1HOUR' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1 órás figyelmeztetés <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy e-mail emlékeztetőt küldjön a regisztrált résztvevőknek 60 perccel az online webinárium kezdete előtt. Ez a figyelmeztetés közvetlen linket tartalmaz a webináriumhoz, így a résztvevők könnyen csatlakozhatnak. Egy utolsó pillanatbeli emlékeztető biztosítja, hogy a résztvevők észben tartsák a webináriumot, maximalizálva a részvételt"></span>
+		1 órás emlékeztető <span class="tooltip" data-tip="Emlékeztető e-mail, amelyet 60 perccel a webinárium kezdete előtt küldenek el a regisztrált résztvevőknek. Ez az értesítés közvetlen hivatkozást tartalmaz, ami megkönnyíti a részvételt. Az utolsó pillanatban küldött emlékeztető segít maximalizálni a részvételt"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1HOUR-desc' => /////////////////////////////////////////////////////////////////
@@ -2355,7 +2355,7 @@ return [
 	'mail-FINISHED' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinárium utáni <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy automatikusan kövesse az online webinárium befejezését egy utókövető e-maillel a résztvevők számára. Ez lehet egy köszönőlevél, egy rövid kérdőív a visszajelzéshez, vagy akár egy exkluzív link a webinárium felvételéhez. Testreszabhatja a webinárium utáni kommunikációt, hogy különböző csoportokkal foglalkozzon és további értéket nyújtson a webinárium vége után"></span>
+		Webinárium után <span class="tooltip" data-tip="Egy követő e-mail, amelyet a résztvevőknek küldenek a webinárium befejezése után. Ez lehet egy köszönőlevél, egy visszajelzési kérdőív, vagy egy exkluzív link a webinárium tartalmához. Személyre szabhatja a webinárium utáni üzenetét, hogy fenntartsa a résztvevők elkötelezettségét és folyamatos értéket nyújtson"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-FINISHED-desc' => //////////////////////////////////////////////////////////////
@@ -2367,7 +2367,7 @@ return [
 	'mail-REGISTRATIONCONFIRM' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Megerősítés <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy a résztvevők regisztrációja után megerősítő e-mailt küldjön. Ezzel biztosítja, hogy a regisztrálók ellenőrizzék e-mail címüket, további biztonsági és hitelességi réteget biztosítva. Ez a kettős megerősítési folyamat segít megőrizni az online webinárium integritását azáltal, hogy megerősíti a résztvevők valódi érdeklődését és minimalizálja a lehetséges spam regisztrációkat"></span>
+		Megerősítés <span class="tooltip" data-tip="Megerősítő e-mail, amelyet a regisztráció során küldünk a résztvevőknek. Ez biztosítja, hogy a regisztrálók ellenőrizzék e-mail címeiket, ami további biztonságot és hitelességet ad. Ez a dupla opt-in folyamat segít megerősíteni a valódi érdeklődést és csökkenti a lehetséges spam regisztrációkat"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-REGISTRATIONCONFIRM-desc' => ///////////////////////////////////////////////////
@@ -2379,7 +2379,7 @@ return [
 	'mail-STARTED' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Késői érkezők <span class="tooltip" data-tip="Engedélyezze ezt a funkciót, hogy emlékeztetőt küldjön azoknak a résztvevőknek, akik még nem csatlakoztak a webináriumhoz, tudatva velük, hogy a webinárium már elkezdődött. Ez a figyelmeztetés ösztönzi az időben történő részvételt, és egy gyengéd emlékeztető azoknak, akik esetleg elvesztették az időérzéküket. Biztosítsa, hogy senki se maradjon le az értékes tartalomról azzal, hogy emlékezteti őket a gyors csatlakozásra"></span>
+		Későn érkezők <span class="tooltip" data-tip="Emlékeztető azoknak a résztvevőknek, akik még nem csatlakoztak a webináriumhoz, tudatva velük, hogy az már elkezdődött. Ez a gyengéd emlékeztető ösztönzi őket, hogy azonnal csatlakozzanak, hogy ne maradjanak le semmilyen értékes tartalomról"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-STARTED-desc' => ///////////////////////////////////////////////////////////////
@@ -3507,13 +3507,13 @@ return [
 	'mail-OFF' => ////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kizárt
+		Letiltva
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-OFFLINE' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kizárt
+		Nem küldve
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invited-to-webinar' => //////////////////////////////////////////////////////////////

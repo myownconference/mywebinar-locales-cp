@@ -2109,7 +2109,7 @@ return [
 	'room-login-show-moderators' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		इवेंट के संचालक दिखाएं <span class="tooltip" data-tip="Enable this feature to display a list of the webinar‘s key figures, moderators, presenters, and notable attendees. By showcasing the individuals who will be steering the online webinar, you offer potential attendees an insight into the expertise and personalities they can expect to encounter"></span>
+		वेबिनार मॉडरेटर दिखाएं <span class="tooltip" data-tip="वेबिनार के लिए प्रमुख व्यक्तियों की सूची प्रदर्शित करें, जिसमें मॉडरेटर, प्रस्तुतकर्ता और उल्लेखनीय उपस्थित लोग शामिल हैं। इन व्यक्तियों को उजागर करने से संभावित उपस्थित लोगों को उस विशेषज्ञता और व्यक्तित्वों की जानकारी मिलती है जिनका वे कार्यक्रम के दौरान सामना कर सकते हैं"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-main-moderator' => //////////////////////////////////////////////////
@@ -2319,7 +2319,7 @@ return [
 	'mail-1DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1 दिन की स्मृति ईमेल <span class="tooltip" data-tip="Enable this feature to automatically send a reminder email to registered attendees 24 hours before your online webinar commences. This last-minute nudge can bolster attendance and ensure participants are primed and ready for your session. Help your attendees set their schedules by giving them a timely heads-up!"></span>
+		1-दिन का रिमाइंडर <span class="tooltip" data-tip="आपके वेबिनार शुरू होने से 24 घंटे पहले पंजीकृत प्रतिभागियों को भेजा गया रिमाइंडर ईमेल। यह समय पर दिया गया संकेत उपस्थिति बढ़ा सकता है और यह सुनिश्चित कर सकता है कि प्रतिभागी आपके सत्र के लिए तैयार हैं"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2331,7 +2331,7 @@ return [
 	'mail-3DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		3 दिन की स्मृति ईमेल <span class="tooltip" data-tip="Enable this feature to automatically send a reminder email to registered attendees three days before your online webinar. A timely reminder can increase participation rates and ensure your webinar remains top-of-mind for your audience. Keep your attendees informed and engaged!"></span>
+		3-दिन का रिमाइंडर <span class="tooltip" data-tip="आपके वेबिनार शुरू होने से तीन दिन पहले पंजीकृत प्रतिभागियों को भेजा गया रिमाइंडर ईमेल। यह रिमाइंडर भागीदारी बढ़ाने में मदद करता है और आपके दर्शकों के लिए आपके वेबिनार को शीर्ष प्राथमिकता में रखता है"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-3DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2343,7 +2343,7 @@ return [
 	'mail-1HOUR' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1 घंटे की स्मृति ईमेल <span class="tooltip" data-tip="Enable this feature to send out an email reminder to your registered attendees 60 minutes before the start of your online webinar. This prompt includes a direct link to the webinar, allowing participants to join easily. A last-minute reminder ensures attendees have your webinar on their minds, maximizing participation"></span>
+		1-घंटे का रिमाइंडर <span class="tooltip" data-tip="आपके वेबिनार शुरू होने से 60 मिनट पहले पंजीकृत प्रतिभागियों को भेजा गया रिमाइंडर ईमेल। इस प्रॉम्प्ट में एक सीधा लिंक शामिल होता है, जिससे प्रतिभागियों के लिए शामिल होना आसान हो जाता है। अंतिम समय में रिमाइंडर उपस्थिति को अधिकतम करने में मदद करता है"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1HOUR-desc' => /////////////////////////////////////////////////////////////////
@@ -2355,7 +2355,7 @@ return [
 	'mail-FINISHED' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		अंतिम <span class="tooltip" data-tip="Enable this feature to automatically send out a follow-up email to attendees once the online webinar concludes. This can be a gracious thank-you note, a brief survey for feedback, or even an exclusive link to access the webinar recording. Tailor your post-webinar communication to engage different groups of attendees and provide additional value long after the webinar has ended"></span>
+		वेबिनार के बाद <span class="tooltip" data-tip="वेबिनार समाप्त होने के बाद उपस्थित लोगों को भेजा गया एक फॉलो-अप ईमेल। यह एक धन्यवाद नोट, एक फीडबैक सर्वेक्षण, या वेबिनार सामग्री का एक अनन्य लिंक हो सकता है। उपस्थित लोगों को व्यस्त रखने और निरंतर मूल्य प्रदान करने के लिए अपने वेबिनार के बाद का संदेश अनुकूलित करें"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-FINISHED-desc' => //////////////////////////////////////////////////////////////
@@ -2367,7 +2367,7 @@ return [
 	'mail-REGISTRATIONCONFIRM' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		पुष्टिकरण <span class="tooltip" data-tip="Activate this feature to send a confirmation email to attendees upon registration. By doing so, you ensure the registrants verify their email addresses, offering an additional layer of security and authenticity. This double-opt-in process helps maintain the integrity of your online webinar by confirming the genuine interest of attendees and minimizing potential spam registrations"></span>
+		पुष्टिकरण <span class="tooltip" data-tip="पंजीकरण पर उपस्थित लोगों को भेजा गया पुष्टिकरण ईमेल। यह सुनिश्चित करता है कि पंजीकरण करने वाले अपने ईमेल पतों को सत्यापित करें, जिससे सुरक्षा और प्रामाणिकता की एक अतिरिक्त परत जुड़ जाती है। यह डबल-ऑप्ट-इन प्रक्रिया वास्तविक रुचि की पुष्टि करने में मदद करती है और संभावित स्पैम पंजीकरण को कम करती है"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-REGISTRATIONCONFIRM-desc' => ///////////////////////////////////////////////////
@@ -2379,7 +2379,7 @@ return [
 	'mail-STARTED' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		देर से आने वाले <span class="tooltip" data-tip="Enable this feature to send out a nudge to attendees who haven‘t joined the webinar yet, letting them know that the webinar has already begun. This prompt encourages timely participation and is a gentle reminder for those who may have lost track of time. Ensure no one misses valuable content by reminding them to join in quickly"></span>
+		देर से आने वाले <span class="tooltip" data-tip="उपस्थित लोगों को भेजा गया एक संकेत, जो अभी तक वेबिनार में शामिल नहीं हुए हैं, यह बताने के लिए कि यह पहले से ही शुरू हो चुका है। यह सौम्य अनुस्मारक उन्हें जल्दी शामिल होने के लिए प्रेरित करता है ताकि वे कोई भी मूल्यवान सामग्री न चूकें"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-STARTED-desc' => ///////////////////////////////////////////////////////////////
@@ -3507,13 +3507,13 @@ return [
 	'mail-OFF' => ////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		बहिष्कृत
+		अक्षम
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-OFFLINE' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		बहिष्कृत
+		नहीं भेजा गया
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invited-to-webinar' => //////////////////////////////////////////////////////////////

@@ -2109,7 +2109,7 @@ return [
 	'room-login-show-moderators' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mostra i moderatori dell‘evento <span class="tooltip" data-tip="Enable this feature to display a list of the webinar‘s key figures, moderators, presenters, and notable attendees. By showcasing the individuals who will be steering the online webinar, you offer potential attendees an insight into the expertise and personalities they can expect to encounter"></span>
+		Mostra i moderatori del webinar <span class="tooltip" data-tip="Visualizza un elenco delle figure chiave del webinar, inclusi moderatori, relatori e partecipanti di rilievo. Evidenziare queste persone offre ai potenziali partecipanti una visione delle competenze e delle personalità che possono aspettarsi di incontrare durante l‘evento"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-main-moderator' => //////////////////////////////////////////////////
@@ -2319,7 +2319,7 @@ return [
 	'mail-1DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Promemoria di 1 giorno <span class="tooltip" data-tip="Enable this feature to automatically send a reminder email to registered attendees 24 hours before your online webinar commences. This last-minute nudge can bolster attendance and ensure participants are primed and ready for your session. Help your attendees set their schedules by giving them a timely heads-up!"></span>
+		Promemoria di 1 giorno <span class="tooltip" data-tip="Una e-mail di promemoria inviata ai partecipanti registrati 24 ore prima dell‘inizio del tuo webinar. Questo promemoria tempestivo può aumentare la partecipazione e garantire che i partecipanti siano preparati per la tua sessione"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2331,7 +2331,7 @@ return [
 	'mail-3DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Promemoria di 3 giorni <span class="tooltip" data-tip="Enable this feature to automatically send a reminder email to registered attendees three days before your online webinar. A timely reminder can increase participation rates and ensure your webinar remains top-of-mind for your audience. Keep your attendees informed and engaged!"></span>
+		Promemoria di 3 giorni <span class="tooltip" data-tip="Una e-mail di promemoria inviata ai partecipanti registrati tre giorni prima del tuo webinar. Questo promemoria aiuta ad aumentare la partecipazione e mantiene il tuo webinar in primo piano nella mente del pubblico"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-3DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2343,7 +2343,7 @@ return [
 	'mail-1HOUR' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Promemoria di 1 ora <span class="tooltip" data-tip="Enable this feature to send out an email reminder to your registered attendees 60 minutes before the start of your online webinar. This prompt includes a direct link to the webinar, allowing participants to join easily. A last-minute reminder ensures attendees have your webinar on their minds, maximizing participation"></span>
+		Promemoria di 1 ora <span class="tooltip" data-tip="Una e-mail di promemoria inviata ai partecipanti registrati 60 minuti prima dell‘inizio del tuo webinar. Questo promemoria include un collegamento diretto, facilitando la partecipazione. Un promemoria dell‘ultimo minuto aiuta a massimizzare la partecipazione"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1HOUR-desc' => /////////////////////////////////////////////////////////////////
@@ -2355,7 +2355,7 @@ return [
 	'mail-FINISHED' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Finale <span class="tooltip" data-tip="Enable this feature to automatically send out a follow-up email to attendees once the online webinar concludes. This can be a gracious thank-you note, a brief survey for feedback, or even an exclusive link to access the webinar recording. Tailor your post-webinar communication to engage different groups of attendees and provide additional value long after the webinar has ended"></span>
+		Post-webinar <span class="tooltip" data-tip="Una e-mail di follow-up inviata ai partecipanti dopo la fine del webinar. Può essere una nota di ringraziamento, un sondaggio di feedback o un link esclusivo al contenuto del webinar. Personalizza il tuo messaggio post-webinar per mantenere i partecipanti coinvolti e offrire valore continuo"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-FINISHED-desc' => //////////////////////////////////////////////////////////////
@@ -2367,7 +2367,7 @@ return [
 	'mail-REGISTRATIONCONFIRM' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Conferma <span class="tooltip" data-tip="Activate this feature to send a confirmation email to attendees upon registration. By doing so, you ensure the registrants verify their email addresses, offering an additional layer of security and authenticity. This double-opt-in process helps maintain the integrity of your online webinar by confirming the genuine interest of attendees and minimizing potential spam registrations"></span>
+		Conferma <span class="tooltip" data-tip="Una e-mail di conferma inviata ai partecipanti al momento della registrazione. Questo garantisce che i registranti verifichino i loro indirizzi e-mail, aggiungendo un ulteriore livello di sicurezza e autenticità. Questo processo di doppia conferma aiuta a confermare l‘interesse genuino e riduce le potenziali iscrizioni di spam"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-REGISTRATIONCONFIRM-desc' => ///////////////////////////////////////////////////
@@ -2379,7 +2379,7 @@ return [
 	'mail-STARTED' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ritardatari <span class="tooltip" data-tip="Enable this feature to send out a nudge to attendees who haven‘t joined the webinar yet, letting them know that the webinar has already begun. This prompt encourages timely participation and is a gentle reminder for those who may have lost track of time. Ensure no one misses valuable content by reminding them to join in quickly"></span>
+		Ritardatari <span class="tooltip" data-tip="Un promemoria inviato ai partecipanti che non si sono ancora uniti al webinar, informandoli che è già iniziato. Questo gentile promemoria li incoraggia a unirsi prontamente per non perdere contenuti preziosi"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-STARTED-desc' => ///////////////////////////////////////////////////////////////
@@ -3507,13 +3507,13 @@ return [
 	'mail-OFF' => ////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Escluso
+		Disabilitato
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-OFFLINE' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Escluso
+		Non inviato
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invited-to-webinar' => //////////////////////////////////////////////////////////////

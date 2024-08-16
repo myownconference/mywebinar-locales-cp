@@ -2110,7 +2110,7 @@ return [
 	'room-login-show-moderators' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Prezenterzy webinaru <span class="tooltip" data-tip="Włącz tę funkcję, aby wyświetlić listę kluczowych postaci, moderatorów, prelegentów i znaczących uczestników webinaru. Prezentując osoby, które będą prowadzić webinar online, oferujesz potencjalnym uczestnikom wgląd w wiedzę i osobowości, z którymi będą mogli się spotkać"></span>
+		Pokaż moderatorów webinaru <span class="tooltip" data-tip="Wyświetl listę kluczowych osób podczas webinaru, w tym moderatorów, prezenterów i znanych uczestników. Podkreślenie tych osób daje potencjalnym uczestnikom wgląd w kompetencje i osobowości, z jakimi mogą się spotkać podczas wydarzenia"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-main-moderator' => //////////////////////////////////////////////////
@@ -2320,7 +2320,7 @@ return [
 	'mail-1DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1 dzień przed <span class="tooltip" data-tip="Włącz tę funkcję, aby automatycznie wysłać przypomnienie e-mailowe zarejestrowanym uczestnikom na 24 godziny przed rozpoczęciem Twojego webinaru online. To ostatnie przypomnienie może zwiększyć frekwencję i zapewnić, że uczestnicy będą przygotowani na Twoją sesję. Pomóż swoim uczestnikom zaplanować ich harmonogramy, dając im odpowiednie wyprzedzenie!"></span>
+		Przypomnienie na 1 dzień przed <span class="tooltip" data-tip="Przypomnienie wysyłane e-mailem do zarejestrowanych uczestników 24 godziny przed rozpoczęciem webinaru. To terminowe przypomnienie może zwiększyć frekwencję i zapewnić, że uczestnicy będą przygotowani na Twoją sesję"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2332,7 +2332,7 @@ return [
 	'mail-3DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		3 dni przed <span class="tooltip" data-tip="Włącz tę funkcję, aby automatycznie wysłać przypomnienie e-mailowe zarejestrowanym uczestnikom trzy dni przed Twoim webinarium online. Terminowe przypomnienie może zwiększyć wskaźniki uczestnictwa i zapewnić, że Twój webinar pozostanie w świadomości Twojej publiczności. Informuj swoich uczestników i angażuj ich!"></span>
+		Przypomnienie na 3 dni przed <span class="tooltip" data-tip="Przypomnienie wysyłane e-mailem do zarejestrowanych uczestników trzy dni przed rozpoczęciem webinaru. To przypomnienie pomaga zwiększyć frekwencję i utrzymuje Twój webinar w pamięci Twojej publiczności"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-3DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2344,7 +2344,7 @@ return [
 	'mail-1HOUR' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1 godzina przed <span class="tooltip" data-tip="Włącz tę funkcję, aby wysłać przypomnienie e-mailowe zarejestrowanym uczestnikom 60 minut przed rozpoczęciem Twojego webinaru online. To przypomnienie zawiera bezpośredni link do webinaru, co umożliwia uczestnikom łatwe dołączenie. Ostatnie przypomnienie zapewnia, że Twoj webinar będzie obecny w umysłach uczestników, maksymalizując uczestnictwo"></span>
+		Przypomnienie na 1 godzinę przed <span class="tooltip" data-tip="Przypomnienie wysyłane e-mailem do zarejestrowanych uczestników 60 minut przed rozpoczęciem webinaru. Ta wiadomość zawiera bezpośredni link, ułatwiając uczestnikom dołączenie. Przypomnienie na ostatnią chwilę pomaga zmaksymalizować frekwencję"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1HOUR-desc' => /////////////////////////////////////////////////////////////////
@@ -2356,7 +2356,7 @@ return [
 	'mail-FINISHED' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Po spotkaniu <span class="tooltip" data-tip="Włącz tę funkcję, aby automatycznie wysłać e-mail z podziękowaniami do uczestników po zakończeniu webinaru online. Może to być uprzejma wiadomość z podziękowaniami, krótka ankieta w celu uzyskania opinii lub nawet ekskluzywny link do nagrania webinaru. Dostosuj swoją komunikację po webinarze, aby zaangażować różne grupy uczestników i dostarczyć dodatkową wartość na długo po zakończeniu webinaru"></span>
+		Po webinarze <span class="tooltip" data-tip="E-mail z kontynuacją wysłany do uczestników po zakończeniu webinaru. Może to być podziękowanie, ankieta opinii lub ekskluzywny link do treści webinaru. Dostosuj swoją wiadomość po webinarze, aby utrzymać zaangażowanie uczestników i zapewnić im ciągłą wartość"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-FINISHED-desc' => //////////////////////////////////////////////////////////////
@@ -2368,7 +2368,7 @@ return [
 	'mail-REGISTRATIONCONFIRM' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Potwierdzenie <span class="tooltip" data-tip="Aktywuj tę funkcję, aby wysłać e-mail z potwierdzeniem do uczestników po rejestracji. Dzięki temu zapewnisz, że zarejestrowani zweryfikują swoje adresy e-mail, oferując dodatkową warstwę bezpieczeństwa i autentyczności. Proces dwukrotnego potwierdzenia pomaga utrzymać integralność Twojego webinaru online, potwierdzając prawdziwe zainteresowanie uczestników i minimalizując potencjalne rejestracje spamowe"></span>
+		Potwierdzenie <span class="tooltip" data-tip="E-mail potwierdzający wysyłany do uczestników podczas rejestracji. Zapewnia to, że rejestrujący zweryfikują swoje adresy e-mail, co dodaje dodatkową warstwę bezpieczeństwa i autentyczności. Ten proces podwójnej zgody pomaga potwierdzić prawdziwe zainteresowanie i zmniejsza potencjalne rejestracje spamu"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-REGISTRATIONCONFIRM-desc' => ///////////////////////////////////////////////////
@@ -2380,7 +2380,7 @@ return [
 	'mail-STARTED' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Spóźnieni <span class="tooltip" data-tip="Włącz tę funkcję, aby wysłać przypomnienie uczestnikom, którzy jeszcze nie dołączyli do webinaru, informując ich, że webinar już się rozpoczął. Zachęta ta sprzyja terminowemu uczestnictwu i jest delikatnym przypomnieniem dla tych, którzy mogli stracić poczucie czasu. Zapewnij, że nikt nie przegapi cennych treści, przypominając im o szybkim dołączeniu"></span>
+		Spóźnialscy <span class="tooltip" data-tip="Przypomnienie wysłane do uczestników, którzy jeszcze nie dołączyli do webinaru, informując ich, że już się rozpoczął. To delikatne przypomnienie zachęca ich do szybkiego dołączenia, aby nie przegapili cennych treści"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-STARTED-desc' => ///////////////////////////////////////////////////////////////
@@ -3520,19 +3520,19 @@ return [
 	'mail-END' => ////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Wysłano
+		Wysłane
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-OFF' => ////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Wykluczony
+		Wyłączone
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-OFFLINE' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Wykluczony
+		Nie wysłane
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invited-to-webinar' => //////////////////////////////////////////////////////////////

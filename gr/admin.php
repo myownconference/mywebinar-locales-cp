@@ -2109,7 +2109,7 @@ return [
 	'room-login-show-moderators' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Εμφάνιση συντονιστών της εκδήλωσης <span class="tooltip" data-tip="Enable this feature to display a list of the webinar‘s key figures, moderators, presenters, and notable attendees. By showcasing the individuals who will be steering the online webinar, you offer potential attendees an insight into the expertise and personalities they can expect to encounter"></span>
+		Εμφάνιση συντονιστών του διαδικτυακού σεμιναρίου <span class="tooltip" data-tip="Εμφανίστε μια λίστα με βασικά πρόσωπα του διαδικτυακού σεμιναρίου, συμπεριλαμβανομένων των συντονιστών, παρουσιαστών και αξιοσημείωτων συμμετεχόντων. Η ανάδειξη αυτών των ατόμων δίνει στους πιθανούς συμμετέχοντες μια εικόνα για την εξειδίκευση και τις προσωπικότητες που θα συναντήσουν κατά τη διάρκεια της εκδήλωσης"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-main-moderator' => //////////////////////////////////////////////////
@@ -2319,7 +2319,7 @@ return [
 	'mail-1DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Υπενθύμιση 1 ημέρας <span class="tooltip" data-tip="Enable this feature to automatically send a reminder email to registered attendees 24 hours before your online webinar commences. This last-minute nudge can bolster attendance and ensure participants are primed and ready for your session. Help your attendees set their schedules by giving them a timely heads-up!"></span>
+		Υπενθύμιση 1 ημέρας <span class="tooltip" data-tip="Ένα email υπενθύμισης που αποστέλλεται στους εγγεγραμμένους συμμετέχοντες 24 ώρες πριν ξεκινήσει το διαδικτυακό σας σεμινάριο. Αυτή η έγκαιρη ώθηση μπορεί να αυξήσει τη συμμετοχή και να διασφαλίσει ότι οι συμμετέχοντες είναι προετοιμασμένοι για τη συνεδρία σας"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2331,7 +2331,7 @@ return [
 	'mail-3DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Υπενθύμιση 3 ημερών <span class="tooltip" data-tip="Enable this feature to automatically send a reminder email to registered attendees three days before your online webinar. A timely reminder can increase participation rates and ensure your webinar remains top-of-mind for your audience. Keep your attendees informed and engaged!"></span>
+		Υπενθύμιση 3 ημέρες πριν <span class="tooltip" data-tip="Ένα email υπενθύμισης που αποστέλλεται στους εγγεγραμμένους συμμετέχοντες τρεις ημέρες πριν από το διαδικτυακό σας σεμινάριο. Αυτή η υπενθύμιση βοηθά στην αύξηση της συμμετοχής και διατηρεί το διαδικτυακό σας σεμινάριο στη σκέψη του κοινού σας"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-3DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2343,7 +2343,7 @@ return [
 	'mail-1HOUR' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Υπενθύμιση 1 ώρας <span class="tooltip" data-tip="Enable this feature to send out an email reminder to your registered attendees 60 minutes before the start of your online webinar. This prompt includes a direct link to the webinar, allowing participants to join easily. A last-minute reminder ensures attendees have your webinar on their minds, maximizing participation"></span>
+		Υπενθύμιση 1 ώρα πριν <span class="tooltip" data-tip="Ένα email υπενθύμισης που αποστέλλεται στους εγγεγραμμένους συμμετέχοντες 60 λεπτά πριν από την έναρξη του διαδικτυακού σας σεμιναρίου. Αυτή η προτροπή περιλαμβάνει έναν άμεσο σύνδεσμο, διευκολύνοντας τη συμμετοχή. Μια υπενθύμιση της τελευταίας στιγμής βοηθά στη μεγιστοποίηση της συμμετοχής"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1HOUR-desc' => /////////////////////////////////////////////////////////////////
@@ -2355,7 +2355,7 @@ return [
 	'mail-FINISHED' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Τελικός <span class="tooltip" data-tip="Enable this feature to automatically send out a follow-up email to attendees once the online webinar concludes. This can be a gracious thank-you note, a brief survey for feedback, or even an exclusive link to access the webinar recording. Tailor your post-webinar communication to engage different groups of attendees and provide additional value long after the webinar has ended"></span>
+		Μετά το διαδικτυακό σεμινάριο <span class="tooltip" data-tip="Ένα email παρακολούθησης που αποστέλλεται στους συμμετέχοντες μετά τη λήξη του διαδικτυακού σεμιναρίου. Μπορεί να είναι μια σημείωση ευχαριστίας, μια έρευνα ανατροφοδότησης ή ένας αποκλειστικός σύνδεσμος για το περιεχόμενο του διαδικτυακού σεμιναρίου. Προσαρμόστε το μήνυμά σας μετά το διαδικτυακό σεμινάριο για να διατηρήσετε την αφοσίωση των συμμετεχόντων και να παρέχετε συνεχή αξία"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-FINISHED-desc' => //////////////////////////////////////////////////////////////
@@ -2367,7 +2367,7 @@ return [
 	'mail-REGISTRATIONCONFIRM' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Επιβεβαίωση <span class="tooltip" data-tip="Activate this feature to send a confirmation email to attendees upon registration. By doing so, you ensure the registrants verify their email addresses, offering an additional layer of security and authenticity. This double-opt-in process helps maintain the integrity of your online webinar by confirming the genuine interest of attendees and minimizing potential spam registrations"></span>
+		Επιβεβαίωση <span class="tooltip" data-tip="Ένα email επιβεβαίωσης που αποστέλλεται στους συμμετέχοντες κατά την εγγραφή. Αυτό εξασφαλίζει ότι οι εγγεγραμμένοι επαληθεύουν τις διευθύνσεις email τους, προσθέτοντας ένα επιπλέον επίπεδο ασφάλειας και αυθεντικότητας. Αυτή η διαδικασία διπλής επιβεβαίωσης βοηθά στην επιβεβαίωση του πραγματικού ενδιαφέροντος και μειώνει τις πιθανές εγγραφές ανεπιθύμητης αλληλογραφίας"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-REGISTRATIONCONFIRM-desc' => ///////////////////////////////////////////////////
@@ -2379,7 +2379,7 @@ return [
 	'mail-STARTED' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Καθυστερημένοι <span class="tooltip" data-tip="Enable this feature to send out a nudge to attendees who haven‘t joined the webinar yet, letting them know that the webinar has already begun. This prompt encourages timely participation and is a gentle reminder for those who may have lost track of time. Ensure no one misses valuable content by reminding them to join in quickly"></span>
+		Καθυστερημένοι <span class="tooltip" data-tip="Ένα μήνυμα που αποστέλλεται σε συμμετέχοντες που δεν έχουν συνδεθεί ακόμα στο διαδικτυακό σεμινάριο, ενημερώνοντάς τους ότι έχει ήδη ξεκινήσει. Αυτή η απαλή υπενθύμιση τους ενθαρρύνει να συνδεθούν άμεσα για να μην χάσουν σημαντικό περιεχόμενο"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-STARTED-desc' => ///////////////////////////////////////////////////////////////
@@ -3507,13 +3507,13 @@ return [
 	'mail-OFF' => ////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Εξαιρείται
+		Απενεργοποιήθηκε
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-OFFLINE' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Εξαιρείται
+		Δεν απεστάλη
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invited-to-webinar' => //////////////////////////////////////////////////////////////

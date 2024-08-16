@@ -2109,7 +2109,7 @@ return [
 	'room-login-show-moderators' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		הצג מנהיגי האירוע <span class="tooltip" data-tip="Enable this feature to display a list of the webinar‘s key figures, moderators, presenters, and notable attendees. By showcasing the individuals who will be steering the online webinar, you offer potential attendees an insight into the expertise and personalities they can expect to encounter"></span>
+		הצג את המנחים של הוובינר <span class="tooltip" data-tip="הצג רשימה של הדמויות המרכזיות בוובינר, כולל מנחים, מציגים ומשתתפים בולטים. הדגשת אנשים אלו מספקת למשתתפים הפוטנציאליים תובנה על המומחיות והאישיות שהם עשויים להיתקל בהן במהלך האירוע"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-main-moderator' => //////////////////////////////////////////////////
@@ -2319,7 +2319,7 @@ return [
 	'mail-1DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		תזכורת ליום אחד <span class="tooltip" data-tip="Enable this feature to automatically send a reminder email to registered attendees 24 hours before your online webinar commences. This last-minute nudge can bolster attendance and ensure participants are primed and ready for your session. Help your attendees set their schedules by giving them a timely heads-up!"></span>
+		תזכורת של יום אחד <span class="tooltip" data-tip="תזכורת נשלחת במייל לנרשמים 24 שעות לפני שהוובינר שלך מתחיל. תזכורת בזמן זה יכולה להגביר את ההשתתפות ולוודא שהמשתתפים מוכנים למפגש שלך"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2331,7 +2331,7 @@ return [
 	'mail-3DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		תזכורת לפני 3 ימים <span class="tooltip" data-tip="Enable this feature to automatically send a reminder email to registered attendees three days before your online webinar. A timely reminder can increase participation rates and ensure your webinar remains top-of-mind for your audience. Keep your attendees informed and engaged!"></span>
+		תזכורת שלושה ימים לפני <span class="tooltip" data-tip="תזכורת נשלחת במייל לנרשמים שלושה ימים לפני שהוובינר שלך מתחיל. תזכורת זו עוזרת להגביר את ההשתתפות ולשמור על הוובינר שלך בתודעה של הקהל שלך"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-3DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2343,7 +2343,7 @@ return [
 	'mail-1HOUR' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		דוא ל תזכורת לפני שעה <span class="tooltip" data-tip="Enable this feature to send out an email reminder to your registered attendees 60 minutes before the start of your online webinar. This prompt includes a direct link to the webinar, allowing participants to join easily. A last-minute reminder ensures attendees have your webinar on their minds, maximizing participation"></span>
+		תזכורת של שעה <span class="tooltip" data-tip="תזכורת נשלחת במייל לנרשמים 60 דקות לפני שהוובינר שלך מתחיל. תזכורת זו כוללת קישור ישיר, המאפשר למשתתפים להצטרף בקלות. תזכורת של הרגע האחרון עוזרת למקסם את ההשתתפות"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1HOUR-desc' => /////////////////////////////////////////////////////////////////
@@ -2355,7 +2355,7 @@ return [
 	'mail-FINISHED' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		דוא ל סופי <span class="tooltip" data-tip="Enable this feature to automatically send out a follow-up email to attendees once the online webinar concludes. This can be a gracious thank-you note, a brief survey for feedback, or even an exclusive link to access the webinar recording. Tailor your post-webinar communication to engage different groups of attendees and provide additional value long after the webinar has ended"></span>
+		לאחר הוובינר <span class="tooltip" data-tip="דוא ל מעקב שנשלח למשתתפים לאחר סיום הוובינר. זה יכול להיות מכתב תודה, סקר משוב או קישור בלעדי לתוכן הוובינר. התאימו אישית את ההודעה לאחר הוובינר כדי לשמור על מעורבות המשתתפים ולהעניק ערך מתמשך"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-FINISHED-desc' => //////////////////////////////////////////////////////////////
@@ -2367,7 +2367,7 @@ return [
 	'mail-REGISTRATIONCONFIRM' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		אישור <span class="tooltip" data-tip="Activate this feature to send a confirmation email to attendees upon registration. By doing so, you ensure the registrants verify their email addresses, offering an additional layer of security and authenticity. This double-opt-in process helps maintain the integrity of your online webinar by confirming the genuine interest of attendees and minimizing potential spam registrations"></span>
+		אישור <span class="tooltip" data-tip="דוא ל אישור שנשלח למשתתפים בעת ההרשמה. זה מבטיח שהנרשמים יאמתו את כתובות הדוא ל שלהם, מה שמוסיף שכבת אבטחה ואותנטיות נוספת. תהליך ההרשמה הכפולה מסייע באישור עניין אמיתי ומפחית רישומי דואר זבל פוטנציאליים"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-REGISTRATIONCONFIRM-desc' => ///////////////////////////////////////////////////
@@ -2379,7 +2379,7 @@ return [
 	'mail-STARTED' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		מאחרים <span class="tooltip" data-tip="Enable this feature to send out a nudge to attendees who haven‘t joined the webinar yet, letting them know that the webinar has already begun. This prompt encourages timely participation and is a gentle reminder for those who may have lost track of time. Ensure no one misses valuable content by reminding them to join in quickly"></span>
+		מאחרים <span class="tooltip" data-tip="תזכורת שנשלחת למשתתפים שעדיין לא הצטרפו לוובינר, ומודיעה להם שהוא כבר התחיל. תזכורת זו מעודדת אותם להצטרף במהירות כדי שלא יחמיצו שום תוכן חשוב"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-STARTED-desc' => ///////////////////////////////////////////////////////////////
@@ -3507,7 +3507,7 @@ return [
 	'mail-OFF' => ////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		מוצא מן הכלל
+		הושבת
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-OFFLINE' => ////////////////////////////////////////////////////////////////////

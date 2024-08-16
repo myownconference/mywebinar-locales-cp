@@ -45,7 +45,7 @@ return [
 	'referral-history-title' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Istoricul plăților utilizatorului <b>%S</b>
+		Istoricul plăților utilizatorului %S
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-active' => /////////////////////////////////////////////////////////////////
@@ -132,7 +132,7 @@ return [
 			<br><br>
 			– We reserve the right to change the terms and conditions, as well as the rules of the referrals program, at any time with no prior notice. These changes may be introduced in regards to the percentage of the commission fee of the referrals program, as well as other conditions of the referrals program;
 			<br><br>
-			<b>In case of violation of these terms, we will freeze your accrued funds and block your account.</b>
+			In case of violation of these terms, we will freeze your accrued funds and block your account.
 		</p>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
@@ -163,7 +163,7 @@ return [
 	'referral-extend-notify' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Plătești pentru platformă cu bonusurile câștigate. Dorești să prelungești abonamentul actual pentru încă o lună pentru <b>%S</b> Euro?
+		Plătești pentru platformă cu bonusurile câștigate. Dorești să prelungești abonamentul actual pentru încă o lună pentru %S Euro?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-extend-notify-but' => //////////////////////////////////////////////////////

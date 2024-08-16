@@ -45,7 +45,7 @@ return [
 	'referral-history-title' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kullanıcı <b>%S</b>‘nin ödeme geçmişi
+		Kullanıcı %S‘nin ödeme geçmişi
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-active' => /////////////////////////////////////////////////////////////////
@@ -132,7 +132,7 @@ return [
 			<br><br>
 			– Koşullar ve şartlar ile yönlendirme programının kurallarını herhangi bir önceden bildirimde bulunmaksızın her zaman değiştirme hakkını saklı tutarız. Bu değişiklikler yönlendirme programının komisyon ücreti yüzdesi ve diğer koşullarıyla ilgili olarak yapılabilir;
 			<br><br>
-			<b>Bu şartların ihlali durumunda, biriken fonlarınız dondurulacak ve hesabınız bloke edilecektir.</b>
+			Bu şartların ihlali durumunda, biriken fonlarınız dondurulacak ve hesabınız bloke edilecektir.
 		</p>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
@@ -163,7 +163,7 @@ return [
 	'referral-extend-notify' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kazanılan bonuslarla platformu ödersiniz. Mevcut planınızı <b>%S</b> Euro karşılığında 1 ay uzatmak istiyor musunuz?
+		Kazanılan bonuslarla platformu ödersiniz. Mevcut planınızı %S Euro karşılığında 1 ay uzatmak istiyor musunuz?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-extend-notify-but' => //////////////////////////////////////////////////////

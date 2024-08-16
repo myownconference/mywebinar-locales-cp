@@ -113,17 +113,17 @@ return [
 		<br><br><br><br>
 		<h3>Terminy i definicje</h3>
 		<p>
-			– <b>Płatne wydarzenia</b> — webinaria, wykłady online, konferencje, seminaria, kursy, lekcje i transmisje na żywo, w których udział jest płatny. Uczestnicy wydarzenia w tym przypadku uzyskują dostęp do treści wydarzenia, mogą uczestniczyć i słuchać wydarzenia dopiero po udanej płatności.
+			– Płatne wydarzenia — webinaria, wykłady online, konferencje, seminaria, kursy, lekcje i transmisje na żywo, w których udział jest płatny. Uczestnicy wydarzenia w tym przypadku uzyskują dostęp do treści wydarzenia, mogą uczestniczyć i słuchać wydarzenia dopiero po udanej płatności.
 			<br><br>
-			– <b>Serwis MyOwnConference</b> — jesteśmy firmą “Akovana, UAB“, która jest dostawcą usług dla organizacji bezpłatnych i płatnych webinariów, transmisji na żywo, konferencji internetowych, z siedzibą przy ul. Djioyi 18, Wilno, Litwa, LT-01128.
+			– Serwis MyOwnConference — jesteśmy firmą “Akovana, UAB“, która jest dostawcą usług dla organizacji bezpłatnych i płatnych webinariów, transmisji na żywo, konferencji internetowych, z siedzibą przy ul. Djioyi 18, Wilno, Litwa, LT-01128.
 			<br><br>
-			– <b>Użytkownik</b> — to osoba, która zaakceptowała niniejszą Umowę, konsument usług świadczonych na podstawie zawartej Umowy z Użytkownikiem.
+			– Użytkownik — to osoba, która zaakceptowała niniejszą Umowę, konsument usług świadczonych na podstawie zawartej Umowy z Użytkownikiem.
 			<br><br>
-			– <b>Umowa użytkownika, Umowa</b> — niniejszy dokument, opublikowany w panelu sterowania; umowa pomiędzy Użytkownikiem (Tobą) a Serwisem (Nami) o świadczenie usług informacyjnych, która zostaje zawarta poprzez akceptację niniejszej Umowy.
+			– Umowa użytkownika, Umowa — niniejszy dokument, opublikowany w panelu sterowania; umowa pomiędzy Użytkownikiem (Tobą) a Serwisem (Nami) o świadczenie usług informacyjnych, która zostaje zawarta poprzez akceptację niniejszej Umowy.
 			<br><br>
-			– <b>Konto Użytkownika, Panel sterowania Użytkownika</b> — zbiór danych osobowych Użytkownika, bezpośrednio związanych z zapewnieniem Użytkownikowi dostępu do usług Serwisu, a także pliki zapisywane przez Użytkownika na serwerze Serwisu.
+			– Konto Użytkownika, Panel sterowania Użytkownika — zbiór danych osobowych Użytkownika, bezpośrednio związanych z zapewnieniem Użytkownikowi dostępu do usług Serwisu, a także pliki zapisywane przez Użytkownika na serwerze Serwisu.
 			<br><br>
-			– <b>Uczestnik, Gość</b> – osoba zaproszona przez Użytkownika, dokonująca płatności Użytkownikowi za uczestnictwo w płatnym wydarzeniu, prowadzonym przez Użytkownika za pomocą Serwisu.
+			– Uczestnik, Gość – osoba zaproszona przez Użytkownika, dokonująca płatności Użytkownikowi za uczestnictwo w płatnym wydarzeniu, prowadzonym przez Użytkownika za pomocą Serwisu.
 		</p>
 		<br><br>
 		<h3>Postanowienia ogólne</h3>
@@ -157,7 +157,7 @@ return [
 		<br><br>
 		<h3>Prowizja Platformy</h3>
 		<p>
-			Serwis pobiera prowizję w wysokości <b>10%</b> od każdej udanej płatności dokonanej przez Uczestnika za udział w płatnym wydarzeniu Użytkownika.
+			Serwis pobiera prowizję w wysokości 10% od każdej udanej płatności dokonanej przez Uczestnika za udział w płatnym wydarzeniu Użytkownika.
 		</p>
 		<p>
 			Na przykład podałeś koszt wejścia na webinarium 10 EUR. Na webinarium przyszło 10 osób, które zapłaciły Serwisowi 10 x 10 EUR = 100 EUR. W tym przypadku zarobiłeś 100 EUR-10% = 90 EUR.
@@ -183,7 +183,7 @@ return [
 		</p>
 		<br>
 		<p>
-			Biorąc pod uwagę powyższe punkty niniejszej Umowy, od wypłaty Użytkownikowi zawsze odejmuje się <b>10%</b> prowizji na rzecz Serwisu oraz prowizję Banku Serwisu za wykonanie przekazu pieniężnego do banku Użytkownika, która wynosi <b>7 EUR</b>.
+			Biorąc pod uwagę powyższe punkty niniejszej Umowy, od wypłaty Użytkownikowi zawsze odejmuje się 10% prowizji na rzecz Serwisu oraz prowizję Banku Serwisu za wykonanie przekazu pieniężnego do banku Użytkownika, która wynosi 7 EUR.
 		</p>
 		<br>
 		<p>
@@ -191,7 +191,7 @@ return [
 		</p>
 		<br>
 		<p>
-			<b>Uwaga!</b> Niektóre banki korespondenci, korzystając z metody IBAN, mogą pobierać dodatkową opłatę w wysokości od 10 do 35 EUR. W takich przypadkach Serwis nie może w żaden sposób wpłynąć ani anulować tej prowizji. Jest ona pobierana automatycznie przy dokonywaniu przelewu na konto bankowe Użytkownika.
+			Uwaga! Niektóre banki korespondenci, korzystając z metody IBAN, mogą pobierać dodatkową opłatę w wysokości od 10 do 35 EUR. W takich przypadkach Serwis nie może w żaden sposób wpłynąć ani anulować tej prowizji. Jest ona pobierana automatycznie przy dokonywaniu przelewu na konto bankowe Użytkownika.
 		</p>
 		<br><br>
 		<h3>Żądanie zwrotu od Użytkownika</h3>
@@ -238,7 +238,7 @@ return [
 		</p>
 		<br>
 		<p>
-			W przypadku otrzymania przez Serwis więcej niż 2 żądań zwrotu środków z banku/ów wystawcy karty Uczestnika/ów, Serwis zastrzega sobie prawo do natychmiastowego <b>wyłączenia</b> funkcji przyjmowania płatności na rzecz Użytkownika, a także <b>zwrotu</b> wszystkich wcześniej przetworzonych płatności i, w razie potrzeby, <b>zablokowania</b> konta Użytkownika.
+			W przypadku otrzymania przez Serwis więcej niż 2 żądań zwrotu środków z banku/ów wystawcy karty Uczestnika/ów, Serwis zastrzega sobie prawo do natychmiastowego wyłączenia funkcji przyjmowania płatności na rzecz Użytkownika, a także zwrotu wszystkich wcześniej przetworzonych płatności i, w razie potrzeby, zablokowania konta Użytkownika.
 		</p>
 		<br>
 		<p>
@@ -246,7 +246,7 @@ return [
 		</p>
 		<br>
 		<p>
-			<b>Serwis nie robi wyjątków od tej zasady.</b>
+			Serwis nie robi wyjątków od tej zasady.
 		</p>
 		<br><br>
 		<h3>Prawa i obowiązki Serwisu</h3>

@@ -113,17 +113,17 @@ return [
 		<br><br><br><br>
 		<h3>Terms and definitions</h3>
 		<p>
-			– <b>Paid webinars</b> — this encompasses webinars, online lectures, conferences, seminars, courses, lessons, and live broadcasts that require payment for participation. Attendees can access and participate in these webinars only after they‘ve made the necessary payment.
+			– Paid webinars — this encompasses webinars, online lectures, conferences, seminars, courses, lessons, and live broadcasts that require payment for participation. Attendees can access and participate in these webinars only after they‘ve made the necessary payment.
 			<br><br>
-			– <b>Webinar software MyOwnConference</b> — we are “Akovana, UAB“, a service provider specializing in the organization of both free and paid webinars, live broadcasts, web conferences, and more. Our registered address is 18 Djioyi Street, Vilnius, Lithuania, LT-01128.
+			– Webinar software MyOwnConference — we are “Akovana, UAB“, a service provider specializing in the organization of both free and paid webinars, live broadcasts, web conferences, and more. Our registered address is 18 Djioyi Street, Vilnius, Lithuania, LT-01128.
 			<br><br>
-			– <b>User</b> — any individual who has agreed to these terms and utilizes the services in accordance with this agreement.
+			– User — any individual who has agreed to these terms and utilizes the services in accordance with this agreement.
 			<br><br>
-			– <b>User Agreement</b> — this document, found in the Control Panel, acts as the binding contract between you (the User) and us (the Website), governing the provision of our information services.
+			– User Agreement — this document, found in the Control Panel, acts as the binding contract between you (the User) and us (the Website), governing the provision of our information services.
 			<br><br>
-			– <b>User Account, Control Panel, or Dashboard</b> — this is a collection of the User‘s personal data crucial for accessing the services offered by the Website. It also contains files the User has stored on the Website‘s server.
+			– User Account, Control Panel, or Dashboard — this is a collection of the User‘s personal data crucial for accessing the services offered by the Website. It also contains files the User has stored on the Website‘s server.
 			<br><br>
-			– <b>Attendee, Participant or Guest</b> – an individual invited by the User, who compensates the User for access to a paid webinar hosted by the User via the Website.
+			– Attendee, Participant or Guest – an individual invited by the User, who compensates the User for access to a paid webinar hosted by the User via the Website.
 		</p>
 		<br><br>
 		<h3>General provisions</h3>
@@ -157,7 +157,7 @@ return [
 		<br><br>
 		<h3>Platform fees</h3>
 		<p>
-			The website applies a <b>10%</b> commission to every successful payment made by participants attending a user‘s paid webinar.
+			The website applies a 10% commission to every successful payment made by participants attending a user‘s paid webinar.
 		</p>
 		<p>
 			For instance, if you set the entry fee for a webinar at €10 and 10 people attend, generating €10 x 10 = €100 in total payments, you would earn €100 – 10% = €90 after commission.
@@ -183,7 +183,7 @@ return [
 		</p>
 		<br>
 		<p>
-			In accordance with the terms of this Agreement, a <b>10%</b> commission for our platform, as well as a <b>€7</b> fee charged by our bank for processing the money transfer, will be deducted from the user‘s payout.
+			In accordance with the terms of this Agreement, a 10% commission for our platform, as well as a €7 fee charged by our bank for processing the money transfer, will be deducted from the user‘s payout.
 		</p>
 		<br>
 		<p>
@@ -191,7 +191,7 @@ return [
 		</p>
 		<br>
 		<p>
-			<b>Please note!</b> When using the IBAN method, some intermediary banks may levy an additional fee ranging from €10 to €35. We have no control over, nor can we waive these fees. They are automatically deducted when funds are transferred to the user‘s bank account.
+			Please note! When using the IBAN method, some intermediary banks may levy an additional fee ranging from €10 to €35. We have no control over, nor can we waive these fees. They are automatically deducted when funds are transferred to the user‘s bank account.
 		</p>
 		<br><br>
 		<h3>Refund request by the User</h3>
@@ -234,7 +234,7 @@ return [
 		</p>
 		<br>
 		<p>
-			<b>Note:</b> Should the Website receive more than 2 refund requests from the bank issuing an attendee‘s card, the Website may exercise its right to disable the User‘s payment acceptance functionality. Additionally, the Website might reverse all previously processed payments and, if deemed necessary, suspend the User‘s account.
+			Note: Should the Website receive more than 2 refund requests from the bank issuing an attendee‘s card, the Website may exercise its right to disable the User‘s payment acceptance functionality. Additionally, the Website might reverse all previously processed payments and, if deemed necessary, suspend the User‘s account.
 		</p>
 		<br>
 		<p>
@@ -242,7 +242,7 @@ return [
 		</p>
 		<br>
 		<p>
-			<b>The website strictly adheres to this rule.</b>
+			The website strictly adheres to this rule.
 		</p>
 		<br><br>
 		<h3>Rights and obligations of the website</h3>

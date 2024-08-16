@@ -45,7 +45,7 @@ return [
 	'referral-history-title' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Zahlungsverlauf des Benutzers <b>%S</b>
+		Zahlungsverlauf des Benutzers %S
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-active' => /////////////////////////////////////////////////////////////////
@@ -132,7 +132,7 @@ return [
 			<br><br>
 			– Wir behalten uns das Recht vor, die Bedingungen sowie die Regeln des Empfehlungsprogramms jederzeit ohne Vorankündigung zu ändern. Diese Änderungen können sich auf den Prozentsatz der Kommissionsgebühr des Empfehlungsprogramms sowie auf andere Bedingungen des Empfehlungsprogramms beziehen;
 			<br><br>
-			<b>Bei Verstoß gegen diese Bedingungen frieren wir Ihre angesammelten Gelder ein und blockieren Ihr Konto.</b>
+			Bei Verstoß gegen diese Bedingungen frieren wir Ihre angesammelten Gelder ein und blockieren Ihr Konto.
 		</p>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
@@ -163,7 +163,7 @@ return [
 	'referral-extend-notify' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sie bezahlen die Plattform mit verdienten Boni. Möchten Sie Ihren aktuellen Plan um 1 Monat für <b>%S</b> Euro verlängern?
+		Sie bezahlen die Plattform mit verdienten Boni. Möchten Sie Ihren aktuellen Plan um 1 Monat für %S Euro verlängern?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-extend-notify-but' => //////////////////////////////////////////////////////

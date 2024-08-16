@@ -45,7 +45,7 @@ return [
 	'referral-history-title' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Cronologia dei pagamenti dell‘utente <b>%S</b>
+		Cronologia dei pagamenti dell‘utente %S
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-active' => /////////////////////////////////////////////////////////////////
@@ -132,7 +132,7 @@ return [
 			<br><br>
 			– Ci riserviamo il diritto di modificare i termini e le condizioni, così come le regole del programma di referenza, in qualsiasi momento senza preavviso. Queste modifiche possono riguardare la percentuale della commissione del programma di referenza, così come altre condizioni del programma di referenza;
 			<br><br>
-			<b>In caso di violazione di questi termini, congeliamo i tuoi fondi accumulati e blocchiamo il tuo account.</b>
+			In caso di violazione di questi termini, congeliamo i tuoi fondi accumulati e blocchiamo il tuo account.
 		</p>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
@@ -163,7 +163,7 @@ return [
 	'referral-extend-notify' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paghi per la piattaforma con bonus guadagnati. Vuoi estendere il tuo piano attuale di 1 mese per <b>%S</b> Euro?
+		Paghi per la piattaforma con bonus guadagnati. Vuoi estendere il tuo piano attuale di 1 mese per %S Euro?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-extend-notify-but' => //////////////////////////////////////////////////////

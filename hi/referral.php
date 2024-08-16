@@ -45,7 +45,7 @@ return [
 	'referral-history-title' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		प्रयोक्ता <b>%S</b> का भुगतान इतिहास
+		प्रयोक्ता %S का भुगतान इतिहास
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-active' => /////////////////////////////////////////////////////////////////
@@ -132,7 +132,7 @@ return [
 			<br><br>
 			– We reserve the right to change the terms and conditions, as well as the rules of the referrals program, at any time with no prior notice. These changes may be introduced in regards to the percentage of the commission fee of the referrals program, as well as other conditions of the referrals program;
 			<br><br>
-			<b>In case of violation of these terms, we will freeze your accrued funds and block your account.</b>
+			In case of violation of these terms, we will freeze your accrued funds and block your account.
 		</p>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
@@ -163,7 +163,7 @@ return [
 	'referral-extend-notify' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		आप अर्जित बोनस से प्लेटफार्म के लिए भुगतान करते हैं। क्या आप <b>%S</b> यूरो के लिए अपनी वर्तमान मूल्य योजना को 1 महीने के लिए बढ़ाना चाहते हैं?
+		आप अर्जित बोनस से प्लेटफार्म के लिए भुगतान करते हैं। क्या आप %S यूरो के लिए अपनी वर्तमान मूल्य योजना को 1 महीने के लिए बढ़ाना चाहते हैं?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-extend-notify-but' => //////////////////////////////////////////////////////

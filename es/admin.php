@@ -483,7 +483,7 @@ return [
 	'webinar-edit-section-many' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Configuración de la serie de webinars <span class="tooltip" data-tip="Gestiona tu serie de seminarios web: programa múltiples sesiones, establece fechas y horarios, invita a moderadores y presentadores, gestiona asistentes y personaliza la configuración para una experiencia de serie cohesiva"></span>
+		Configuración de la serie de webinars <span class="tooltip" data-tip="Gestiona tu serie de webinarios: programa múltiples sesiones, establece fechas y horarios, invita a moderadores y presentadores, gestiona asistentes y personaliza la configuración para una experiencia de serie cohesiva"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-create-section' => //////////////////////////////////////////////////////////
@@ -495,13 +495,13 @@ return [
 	'webinar-create-section-many' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Configuración de la serie de webinars <span class="tooltip" data-tip="Gestiona tu serie de seminarios web: programa múltiples sesiones, establece fechas y horarios, invita a moderadores y presentadores, gestiona asistentes y personaliza la configuración para una experiencia de serie cohesiva"></span>
+		Configuración de la serie de webinars <span class="tooltip" data-tip="Gestiona tu serie de webinarios: programa múltiples sesiones, establece fechas y horarios, invita a moderadores y presentadores, gestiona asistentes y personaliza la configuración para una experiencia de serie cohesiva"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Configuraciones avanzadas <span class="tooltip" data-tip="Personaliza tu sala de seminarios web con configuraciones avanzadas. Ajusta la apariencia de tu espacio de trabajo y página de registro, configura grabaciones de eventos y automatiza las invitaciones por correo electrónico para los próximos seminarios web para todos los grupos de audiencia"></span>
+		Configuraciones avanzadas <span class="tooltip" data-tip="Personaliza tu sala de webinarios con configuraciones avanzadas. Ajusta la apariencia de tu espacio de trabajo y página de registro, configura grabaciones de eventos y automatiza las invitaciones por correo electrónico para los próximos webinarios para todos los grupos de audiencia"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section-lp' => //////////////////////////////////////////////////
@@ -789,7 +789,7 @@ return [
 	'web-close' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Solo inicio de sesión con enlace de invitación <span class="tooltip" data-tip="Active esta opción para organizar seminarios web privados. Esto ocultará el formulario de registro para todos, y el enlace de inicio de sesión solo se enviará por notificaciones por correo electrónico. Los asistentes no podrán registrarse ni iniciar sesión usando un enlace público"></span>
+		Solo inicio de sesión con enlace de invitación <span class="tooltip" data-tip="Active esta opción para organizar webinarios privados. Esto ocultará el formulario de registro para todos, y el enlace de inicio de sesión solo se enviará por notificaciones por correo electrónico. Los asistentes no podrán registrarse ni iniciar sesión usando un enlace público"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-moderator' => ////////////////////////////////////////////////////////////////
@@ -1125,7 +1125,7 @@ return [
 	'change-current-plan' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mejorar plan <span class="tooltip" data-tip="Actualice su plan para disfrutar de más asientos para asistentes, almacenamiento adicional, mayor calidad de grabación y períodos de facturación flexibles. Adapte su plan a sus necesidades y mejore su experiencia en los seminarios web. Pague por un mes al precio regular o elija 2, 3, 6 o 12 meses y disfrute de descuentos de hasta el 20%"></span>
+		Mejorar plan <span class="tooltip" data-tip="Actualice su plan para disfrutar de más asientos para asistentes, almacenamiento adicional, mayor calidad de grabación y períodos de facturación flexibles. Adapte su plan a sus necesidades y mejore su experiencia en los webinarios. Pague por un mes al precio regular o elija 2, 3, 6 o 12 meses y disfrute de descuentos de hasta el 20%"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-plan' => /////////////////////////////////////////////////////////////////////
@@ -1239,13 +1239,13 @@ return [
 	'invite-moderators' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Presentadores del webinar <span class="tooltip" data-tip="Marca la casilla junto a los moderadores que participarán en el evento en línea como presentadores. Los enlaces para los presentadores seleccionados estarán disponibles en la sección «Enlaces de acceso»"></span>
+		Presentadores del webinar <span class="tooltip" data-tip="Los moderadores que participan en el evento en línea como presentadores. Los enlaces para los presentadores seleccionados están disponibles en la sección «Enlaces de acceso»"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-attendees' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Asistentes al webinar <span class="tooltip" data-tip="Marca la casilla junto a los asistentes que participarán en el evento en línea. El enlace público para acceder al evento estará disponible en la sección «Enlaces de acceso». También les enviaremos una notificación por correo electrónico si has habilitado esta función"></span>
+		Asistentes al webinar <span class="tooltip" data-tip="Los asistentes que participan en el evento en línea como invitados. El enlace público para acceder al evento está disponible en la sección «Enlaces de acceso», o los enlaces privados se envían por notificación por correo electrónico si has habilitado esta función"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendees-list' => //////////////////////////////////////////////////////////////////
@@ -1791,7 +1791,7 @@ return [
 	'record-moder-name' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Incluyendo los nombres de los moderadores <span class="tooltip" data-tip="La grabación del seminario web mostrará los nombres de los presentadores en sus cámaras web o fotos de perfil"></span>
+		Incluyendo los nombres de los moderadores <span class="tooltip" data-tip="La grabación del webinario mostrará los nombres de los presentadores en sus cámaras web o fotos de perfil"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-preview-moder-name' => ///////////////////////////////////////////////////////
@@ -1803,7 +1803,7 @@ return [
 	'record-chat' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Incluyendo el chat <span class="tooltip" data-tip="La grabación del seminario web incluirá el chat público con mensajes de los participantes. Los mensajes moderados no se grabarán. Solo se incluirán los mensajes aprobados por el moderador durante el seminario web si la premoderación del chat estaba habilitada"></span>
+		Incluyendo el chat <span class="tooltip" data-tip="La grabación del webinario incluirá el chat público con mensajes de los participantes. Los mensajes moderados no se grabarán. Solo se incluirán los mensajes aprobados por el moderador durante el webinario si la premoderación del chat estaba habilitada"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copy' => ////////////////////////////////////////////////////////////////////////////
@@ -2037,7 +2037,7 @@ return [
 	'room-options-language' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Idioma <span class="tooltip" data-tip="Personaliza el idioma de la sala del seminario web para mejorar la experiencia de los asistentes. Ya sea que te dirijas a una región específica o a una audiencia global, asegúrate de una comunicación fluida seleccionando el idioma preferido. Haz que tus seminarios web sean más accesibles y fáciles de usar para todos, sin importar desde dónde se unan"></span>
+		Idioma <span class="tooltip" data-tip="Personaliza el idioma de la sala del webinario para mejorar la experiencia de los asistentes. Ya sea que te dirijas a una región específica o a una audiencia global, asegúrate de una comunicación fluida seleccionando el idioma preferido. Haz que tus webinarios sean más accesibles y fáciles de usar para todos, sin importar desde dónde se unan"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-group' => //////////////////////////////////////////////////////////////
@@ -2843,25 +2843,25 @@ return [
 	'landing-page-mode' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Modo página de destino <span class="tooltip" data-tip="Active este modo para transformar su sala de seminarios web en una página de destino. En lugar de ingresar directamente al seminario web, los asistentes primero proporcionarán su correo electrónico y otra información requerida. Este modo ayuda a crear su lista de suscriptores y recopilar datos de los asistentes antes del seminario web. Actívelo para recopilar datos primero; desactívelo para el acceso directo"></span>
+		Modo página de destino <span class="tooltip" data-tip="Active este modo para transformar su sala de webinarios en una página de destino. En lugar de ingresar directamente al webinario, los asistentes primero proporcionarán su correo electrónico y otra información requerida. Este modo ayuda a crear su lista de suscriptores y recopilar datos de los asistentes antes del webinario. Actívelo para recopilar datos primero; desactívelo para el acceso directo"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Página de destino <span class="tooltip" data-tip="Utilice esta página de registro para recopilar información de los asistentes para futuros seminarios web. Sus asistentes pueden registrarse ingresando su correo electrónico, nombre y cualquier otro detalle personalizado que especifique en la configuración avanzada. Esta función le permite crear una lista de contactos valiosa para futuras comunicaciones y notificaciones de eventos. Para copiar el enlace en su portapapeles, simplemente haga clic en el cuadro de entrada. Asegúrese de personalizar los campos de registro para recopilar toda la información que necesita para adaptar sus seminarios web y actividades de seguimiento de manera efectiva"></span>
+		Página de destino <span class="tooltip" data-tip="Utilice esta página de registro para recopilar información de los asistentes para futuros webinarios. Sus asistentes pueden registrarse ingresando su correo electrónico, nombre y cualquier otro detalle personalizado que especifique en la configuración avanzada. Esta función le permite crear una lista de contactos valiosa para futuras comunicaciones y notificaciones de eventos. Para copiar el enlace en su portapapeles, simplemente haga clic en el cuadro de entrada. Asegúrese de personalizar los campos de registro para recopilar toda la información que necesita para adaptar sus webinarios y actividades de seguimiento de manera efectiva"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page-edit' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Editar página de destino <span class="tooltip" data-tip="Personalice su página de registro para futuros seminarios web aquí. Permita que los asistentes se inscriban ingresando su correo electrónico, nombre y otra información que configure en la configuración avanzada. Simplemente copie el enlace para compartirlo con su audiencia"></span>
+		Editar página de destino <span class="tooltip" data-tip="Personalice su página de registro para futuros webinarios aquí. Permita que los asistentes se inscriban ingresando su correo electrónico, nombre y otra información que configure en la configuración avanzada. Simplemente copie el enlace para compartirlo con su audiencia"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'link-on-lending' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		URL de la página de destino <span class="tooltip" data-tip="Envíe a sus asistentes a esta página de registro para inscribirse en futuros seminarios web. Pueden ingresar su correo electrónico, nombre y otra información personalizada que configure en la configuración avanzada. Haga clic en el cuadro para copiar el enlace a su portapapeles"></span>
+		URL de la página de destino <span class="tooltip" data-tip="Envíe a sus asistentes a esta página de registro para inscribirse en futuros webinarios. Pueden ingresar su correo electrónico, nombre y otra información personalizada que configure en la configuración avanzada. Haga clic en el cuadro para copiar el enlace a su portapapeles"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'lending-text' => ////////////////////////////////////////////////////////////////////
@@ -3018,7 +3018,7 @@ return [
 	'record-link' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Enlace de grabación <span class="tooltip" data-tip="Utilice el control deslizante arriba para crear un nuevo enlace de acceso a la grabación. Haga clic en el botón del sobre para seleccionar a los participantes y enviarles el enlace a sus direcciones de correo electrónico. Nota: si su sala de seminarios web permanente está protegida con contraseña, el acceso a la grabación también requerirá una contraseña"></span>
+		Enlace de grabación <span class="tooltip" data-tip="Utilice el control deslizante arriba para crear un nuevo enlace de acceso a la grabación. Haga clic en el botón del sobre para seleccionar a los participantes y enviarles el enlace a sus direcciones de correo electrónico. Nota: si su sala de webinarios permanente está protegida con contraseña, el acceso a la grabación también requerirá una contraseña"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-link-available' => ///////////////////////////////////////////////////////////
@@ -3476,7 +3476,7 @@ return [
 	'webinar-info' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Enlaces y acceso a webinario <span class="tooltip" data-tip="Esta sección proporciona todos los enlaces esenciales para su webinario, incluido el código del formulario de registro para próximos seminarios web si esta función está habilitada en la configuración de su evento. Puede copiar el enlace público general del webinario, la contraseña de acceso (si está habilitada) y los enlaces para todos sus presentadores invitados para asegurar un evento en línea exitoso"></span>
+		Enlaces y acceso a webinario <span class="tooltip" data-tip="Esta sección proporciona todos los enlaces esenciales para su webinario, incluido el código del formulario de registro para próximos webinarios si esta función está habilitada en la configuración de su evento. Puede copiar el enlace público general del webinario, la contraseña de acceso (si está habilitada) y los enlaces para todos sus presentadores invitados para asegurar un evento en línea exitoso"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-status' => /////////////////////////////////////////////////////////////////////
@@ -4180,7 +4180,7 @@ return [
 	'api-key' => /////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Clave API <span class="tooltip" data-tip="Utilice esta clave API para acceder a nuestra API pública, lo que permite una integración perfecta de nuestro software de seminarios web con su CMS o sitio web. Tenga en cuenta que la API se deshabilitará si su cuenta se reduce al plan gratuito o si deja de pagar por su plan de precios"></span>
+		Clave API <span class="tooltip" data-tip="Utilice esta clave API para acceder a nuestra API pública, lo que permite una integración perfecta de nuestro software de webinarios con su CMS o sitio web. Tenga en cuenta que la API se deshabilitará si su cuenta se reduce al plan gratuito o si deja de pagar por su plan de precios"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'refresh-key-confirm' => /////////////////////////////////////////////////////////////
@@ -4416,7 +4416,7 @@ return [
 		– Importar hasta 20 suscriptores para invitaciones<br>
 		– 20 asistentes por webinario<br>
 		– 20 minutos de grabación (opciones de calidad: 480p y 720p)<br>
-		– Compartir enlaces a grabaciones de seminarios web está prohibido<br>
+		– Compartir enlaces a grabaciones de webinarios está prohibido<br>
 		– Los cambios en la marca personalizada están prohibidos<br>
 		– Opción de dominio personalizado no disponible<br>
 		– Transmisión OBS no disponible<br>
@@ -4428,7 +4428,7 @@ return [
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Plan de pago sin acceso a grabaciones de seminarios web a través de enlace ni transmisión por OBS
+		Plan de pago sin acceso a grabaciones de webinarios a través de enlace ni transmisión por OBS
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'package-oneday-alert-text' => ///////////////////////////////////////////////////////
@@ -4608,13 +4608,13 @@ return [
 	'auto-webinar-create-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Configuración del webinario automatizado <span class="tooltip" data-tip="Personaliza tus seminarios web automatizados configurando el horario, contenido, interacciones con los asistentes, marca y configuraciones avanzadas para optimizar tus eventos y asegurar una experiencia fluida para tu audiencia"></span>
+		Configuración del webinario automatizado <span class="tooltip" data-tip="Personaliza tus webinarios automatizados configurando el horario, contenido, interacciones con los asistentes, marca y configuraciones avanzadas para optimizar tus eventos y asegurar una experiencia fluida para tu audiencia"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-webinar-create-section-many' => ////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Horario de la serie de webinar automatizado <span class="tooltip" data-tip="Personaliza y gestiona tu serie de seminarios web automatizados. Configura horarios, contenido, marca e interacciones con los asistentes para asegurar una experiencia fluida y atractiva para tu audiencia"></span>
+		Horario de la serie de webinar automatizado <span class="tooltip" data-tip="Personaliza y gestiona tu serie de webinarios automatizados. Configura horarios, contenido, marca e interacciones con los asistentes para asegurar una experiencia fluida y atractiva para tu audiencia"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-default-webinar-name' => ///////////////////////////////////////////////////////
@@ -5079,7 +5079,7 @@ return [
 	'main-telegram-link' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bot de Telegram <span class="tooltip" data-tip="Copia este enlace para conectar a tus asistentes con nuestro bot de Telegram. El bot les notificará sobre los próximos seminarios web, proporcionará enlaces a los seminarios web, les informará sobre cancelaciones y les permitirá gestionar sus preferencias de notificación por correo electrónico, incluyendo suscribirse o darse de baja"></span>
+		Bot de Telegram <span class="tooltip" data-tip="Copia este enlace para conectar a tus asistentes con nuestro bot de Telegram. El bot les notificará sobre los próximos webinarios, proporcionará enlaces a los webinarios, les informará sobre cancelaciones y les permitirá gestionar sus preferencias de notificación por correo electrónico, incluyendo suscribirse o darse de baja"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////
@@ -6250,7 +6250,7 @@ return [
 	'login-cookies-text' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Utilizamos las cookies seguras para almacenar su sesión cuando inicia sesión en el panel de control y los seminarios web. Y también para el widget de soporte en línea.
+		Utilizamos las cookies seguras para almacenar su sesión cuando inicia sesión en el panel de control y los webinarios. Y también para el widget de soporte en línea.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookie-settings' => /////////////////////////////////////////////////////////////////

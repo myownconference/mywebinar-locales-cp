@@ -1239,13 +1239,13 @@ return [
 	'invite-moderators' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar presenters <span class="tooltip" data-tip="Check the box next to the moderators who will participate in the online event as presenters. Links for the selected presenters will be available in the «Access links» section"></span>
+		Webinar presenters <span class="tooltip" data-tip="The moderators who participate in the online event as presenters. Links for the selected presenters are available in the «Access Links» section"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-attendees' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar attendees <span class="tooltip" data-tip="Check the box next to the attendees who will participate in the online event. The public link to access the event will be available in the «Access Links» section. We will also send them an email notification if you have enabled this feature"></span>
+		Webinar attendees <span class="tooltip" data-tip="The attendees who participate in the online event as guests. The public link to access the event is available in the «Access Links» section, or private links are sent via email notification if you have enabled this feature"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendees-list' => //////////////////////////////////////////////////////////////////

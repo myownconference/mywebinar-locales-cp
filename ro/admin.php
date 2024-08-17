@@ -1239,13 +1239,13 @@ return [
 	'invite-moderators' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Prezentatori webinar <span class="tooltip" data-tip="Bifați caseta de lângă moderatorii care vor participa la evenimentul online ca prezentatori. Linkurile pentru prezentatorii selectați vor fi disponibile în secțiunea «Linkuri de acces»"></span>
+		Prezentatori webinar <span class="tooltip" data-tip="Moderatorii care participă la evenimentul online în calitate de prezentatori. Linkurile pentru prezentatorii selectați sunt disponibile în secțiunea «Linkuri de acces»"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-attendees' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Participanți la webinar <span class="tooltip" data-tip="Bifați caseta de lângă participanții care vor participa la evenimentul online. Linkul public pentru a accesa evenimentul va fi disponibil în secțiunea «Linkuri de acces». Le vom trimite, de asemenea, o notificare prin e-mail dacă ați activat această funcție"></span>
+		Participanți la webinar <span class="tooltip" data-tip="Participanții care iau parte la evenimentul online în calitate de invitați. Linkul public pentru a accesa evenimentul este disponibil în secțiunea «Linkuri de acces», sau linkurile private sunt trimise prin notificare prin e-mail dacă ați activat această funcție"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendees-list' => //////////////////////////////////////////////////////////////////

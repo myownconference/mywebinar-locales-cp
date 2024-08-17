@@ -1239,13 +1239,13 @@ return [
 	'invite-moderators' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Prelegenci webinaru <span class="tooltip" data-tip="Zaznacz pole obok moderatorów, którzy wezmą udział w wydarzeniu online jako prelegenci. Linki do wybranych prelegentów będą dostępne w sekcji «Linki dostępu»"></span>
+		Prelegenci webinaru <span class="tooltip" data-tip="Moderatorzy, którzy uczestniczą w wydarzeniu online jako prelegenci. Linki do wybranych prelegentów są dostępne w sekcji «Linki dostępu»"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-attendees' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Uczestnicy webinaru <span class="tooltip" data-tip="Zaznacz pole obok uczestników, którzy wezmą udział w wydarzeniu online. Publiczny link do dostępu do wydarzenia będzie dostępny w sekcji «Linki dostępu». Jeśli włączyłeś tę funkcję, wyślemy im również powiadomienie e-mail"></span>
+		Uczestnicy webinaru <span class="tooltip" data-tip="Uczestnicy, którzy biorą udział w wydarzeniu online jako goście. Publiczny link do dostępu do wydarzenia jest dostępny w sekcji «Linki dostępu», a prywatne linki są wysyłane w powiadomieniu e-mail, jeśli włączyłeś tę funkcję"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendees-list' => //////////////////////////////////////////////////////////////////

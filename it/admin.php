@@ -1239,13 +1239,13 @@ return [
 	'invite-moderators' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Relatori del webinar <span class="tooltip" data-tip="Seleziona la casella accanto ai moderatori che parteciperanno all‘evento online come relatori. I link per i relatori selezionati saranno disponibili nella sezione «Link di accesso»"></span>
+		Relatori del webinar <span class="tooltip" data-tip="I moderatori che partecipano all‘evento online come relatori. I link per i relatori selezionati sono disponibili nella sezione «Link di accesso»"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-attendees' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Partecipanti al webinar <span class="tooltip" data-tip="Seleziona la casella accanto ai partecipanti che parteciperanno all‘evento online. Il link pubblico per accedere all‘evento sarà disponibile nella sezione «Link di accesso». Invieremo loro anche una notifica via e-mail se hai abilitato questa funzione"></span>
+		Partecipanti al webinar <span class="tooltip" data-tip="I partecipanti che partecipano all‘evento online come ospiti. Il link pubblico per accedere all‘evento è disponibile nella sezione «Link di accesso», oppure i link privati vengono inviati tramite notifica e-mail se hai abilitato questa funzione"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendees-list' => //////////////////////////////////////////////////////////////////

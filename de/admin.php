@@ -1239,13 +1239,13 @@ return [
 	'invite-moderators' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar-Referenten <span class="tooltip" data-tip="Aktivieren Sie das Kästchen neben den Moderatoren, die als Referenten an der Online-Veranstaltung teilnehmen. Links für die ausgewählten Referenten sind im Abschnitt «Zugangslinks» verfügbar"></span>
+		Webinar-Referenten <span class="tooltip" data-tip="Die Moderatoren, die als Referenten an der Online-Veranstaltung teilnehmen. Links für die ausgewählten Referenten sind im Abschnitt «Zugangslinks» verfügbar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-attendees' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar-Teilnehmer <span class="tooltip" data-tip="Aktivieren Sie das Kästchen neben den Teilnehmern, die an der Online-Veranstaltung teilnehmen werden. Der öffentliche Link zum Zugriff auf die Veranstaltung wird im Abschnitt «Zugangslinks» verfügbar sein. Wir werden ihnen auch eine E-Mail-Benachrichtigung senden, wenn Sie diese Funktion aktiviert haben"></span>
+		Webinar-Teilnehmer <span class="tooltip" data-tip="Die Teilnehmer, die als Gäste an der Online-Veranstaltung teilnehmen. Der öffentliche Link zum Zugriff auf die Veranstaltung ist im Abschnitt «Zugangslinks» verfügbar, oder private Links werden per E-Mail-Benachrichtigung gesendet, wenn Sie diese Funktion aktiviert haben"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendees-list' => //////////////////////////////////////////////////////////////////

@@ -465,43 +465,43 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinarlar odaları <span class="tooltip" data-tip="Statik bağlantılarla 7/24 erişilebilen web semineri odaları oluşturun. Ekstra güvenlik için parola koruması ekleyin veya açılış sayfası modunu kullanın. Bu modda, katılımcılar odaya erişmeden önce e-posta adreslerini ve diğer bilgilerini girebilecekleri bir form göreceklerdir. Bu mod, gelecekteki web seminerlerine erişim izni vermeden önce katılımcı bilgilerini toplamak için idealdir"></span>
+		Webinarlar odaları <span class="tooltip" data-tip="Statik bağlantılarla 7/24 erişilebilen webineri odaları oluşturun. Ekstra güvenlik için parola koruması ekleyin veya açılış sayfası modunu kullanın. Bu modda, katılımcılar odaya erişmeden önce e-posta adreslerini ve diğer bilgilerini girebilecekleri bir form göreceklerdir. Bu mod, gelecekteki webinerlerine erişim izni vermeden önce katılımcı bilgilerini toplamak için idealdir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Planlanmış webinarlar <span class="tooltip" data-tip="Gelecekteki web seminerlerinizi planlamak için entegre takvimimizi kullanın. Web seminerlerini, e-posta ile gönderilen benzersiz bağlantılarla özel yapın veya kendiniz paylaşın. Profesyonel bir dokunuş için logolar ve afişler ekleyin. Web seminerlerini MP4 dosyaları olarak da kaydedebilirsiniz. Ayrıca, katılımcılarınıza otomatik olarak e-posta bildirimleri gönderiyoruz. Tüm özellikler, planlama sürecinde «Gelişmiş ayarlar» bölümünde mevcuttur"></span>
+		Planlanmış webinarlar <span class="tooltip" data-tip="Gelecekteki webinerlerinizi planlamak için entegre takvimimizi kullanın. Webinerlerini, e-posta ile gönderilen benzersiz bağlantılarla özel yapın veya kendiniz paylaşın. Profesyonel bir dokunuş için logolar ve afişler ekleyin. Webinerlerini MP4 dosyaları olarak da kaydedebilirsiniz. Ayrıca, katılımcılarınıza otomatik olarak e-posta bildirimleri gönderiyoruz. Tüm özellikler, planlama sürecinde «Gelişmiş ayarlar» bölümünde mevcuttur"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-edit-section' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar ayarları <span class="tooltip" data-tip="Web seminerinizin tüm yönlerini yapılandırın: tarih ve saat, süreyi ayarlayın, moderatörleri ve sunucuları davet edin, katılımcıları yönetin, düzeni ve markalamayı özelleştirin ve gelişmiş ayarlarla daha fazlasını yapın"></span>
+		Webinar ayarları <span class="tooltip" data-tip="Webinerinizin tüm yönlerini yapılandırın: tarih ve saat, süreyi ayarlayın, moderatörleri ve sunucuları davet edin, katılımcıları yönetin, düzeni ve markalamayı özelleştirin ve gelişmiş ayarlarla daha fazlasını yapın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-edit-section-many' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar serisi ayarları <span class="tooltip" data-tip="Web semineri serinizi yönetin: Birden fazla oturum planlayın, tarihleri ve saatleri ayarlayın, moderatörleri ve sunucuları davet edin, katılımcıları yönetin ve tutarlı bir seri deneyimi için ayarları özelleştirin"></span>
+		Webinar serisi ayarları <span class="tooltip" data-tip="Webineri serinizi yönetin: Birden fazla oturum planlayın, tarihleri ve saatleri ayarlayın, moderatörleri ve sunucuları davet edin, katılımcıları yönetin ve tutarlı bir seri deneyimi için ayarları özelleştirin"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-create-section' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar ayarları <span class="tooltip" data-tip="Web seminerinizin tüm yönlerini yapılandırın: tarih ve saat, süreyi ayarlayın, moderatörleri ve sunucuları davet edin, katılımcıları yönetin, düzeni ve markalamayı özelleştirin ve gelişmiş ayarlarla daha fazlasını yapın"></span>
+		Webinar ayarları <span class="tooltip" data-tip="Webinerinizin tüm yönlerini yapılandırın: tarih ve saat, süreyi ayarlayın, moderatörleri ve sunucuları davet edin, katılımcıları yönetin, düzeni ve markalamayı özelleştirin ve gelişmiş ayarlarla daha fazlasını yapın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-create-section-many' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar serisi ayarları <span class="tooltip" data-tip="Web semineri serinizi yönetin: Birden fazla oturum planlayın, tarihleri ve saatleri ayarlayın, moderatörleri ve sunucuları davet edin, katılımcıları yönetin ve tutarlı bir seri deneyimi için ayarları özelleştirin"></span>
+		Webinar serisi ayarları <span class="tooltip" data-tip="Webineri serinizi yönetin: Birden fazla oturum planlayın, tarihleri ve saatleri ayarlayın, moderatörleri ve sunucuları davet edin, katılımcıları yönetin ve tutarlı bir seri deneyimi için ayarları özelleştirin"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Gelişmiş ayarlar <span class="tooltip" data-tip="Web semineri odanızı gelişmiş ayarlarla özelleştirin. Çalışma alanınızın ve kayıt sayfanızın görünümünü ayarlayın, etkinlik kayıtlarını yapılandırın ve tüm izleyici grupları için yaklaşan web semineri davetleri için e-postaları otomatikleştirin"></span>
+		Gelişmiş ayarlar <span class="tooltip" data-tip="Webineri odanızı gelişmiş ayarlarla özelleştirin. Çalışma alanınızın ve kayıt sayfanızın görünümünü ayarlayın, etkinlik kayıtlarını yapılandırın ve tüm izleyici grupları için yaklaşan webineri davetleri için e-postaları otomatikleştirin"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section-lp' => //////////////////////////////////////////////////
@@ -741,7 +741,7 @@ return [
 	'profile-news' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sistem bildirimleri <span class="tooltip" data-tip="Web semineri yazılımımızdaki en son güncellemeler ve değişiklikler hakkında bilgi sahibi olmak için sistem bildirimlerine abone olun"></span>
+		Sistem bildirimleri <span class="tooltip" data-tip="Webineri yazılımımızdaki en son güncellemeler ve değişiklikler hakkında bilgi sahibi olmak için sistem bildirimlerine abone olun"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-active-news' => /////////////////////////////////////////////////////////////
@@ -789,7 +789,7 @@ return [
 	'web-close' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sadece davet bağlantısı ile giriş <span class="tooltip" data-tip="Özel web seminerleri düzenlemek için bu seçeneği etkinleştirin. Kayıt formunu herkesten gizleyecek ve giriş bağlantısı yalnızca e-posta bildirimleriyle gönderilecektir. Katılımcılar genel bir bağlantı kullanarak kayıt olamaz veya giriş yapamazlar"></span>
+		Sadece davet bağlantısı ile giriş <span class="tooltip" data-tip="Özel webinerleri düzenlemek için bu seçeneği etkinleştirin. Kayıt formunu herkesten gizleyecek ve giriş bağlantısı yalnızca e-posta bildirimleriyle gönderilecektir. Katılımcılar genel bir bağlantı kullanarak kayıt olamaz veya giriş yapamazlar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-moderator' => ////////////////////////////////////////////////////////////////
@@ -807,7 +807,7 @@ return [
 	'room-options' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Gelişmiş ayarlar <span class="tooltip" data-tip="Web semineriniz için profesyonel ayarları görüntülemek için buraya tıklayın. İhtiyaçlarınıza göre her yönü özelleştirin ve kontrol edin"></span>
+		Gelişmiş ayarlar <span class="tooltip" data-tip="Webineriniz için profesyonel ayarları görüntülemek için buraya tıklayın. İhtiyaçlarınıza göre her yönü özelleştirin ve kontrol edin"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-options' => ///////////////////////////////////////////////////////////////
@@ -885,7 +885,7 @@ return [
 	'moderators-list' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderatörler <span class="tooltip" data-tip="Bu bölüm, çevrimiçi web seminerleriniz için moderatörler oluşturmanıza ve yönetmenize olanak tanır. Rolleri atayın, izinleri ayarlayın ve web seminerinizin sorunsuz bir şekilde yürütülmesini sağlamak için doğru kişileri görevlendirin"></span>
+		Moderatörler <span class="tooltip" data-tip="Bu bölüm, çevrimiçi webinerleriniz için moderatörler oluşturmanıza ve yönetmenize olanak tanır. Rolleri atayın, izinleri ayarlayın ve webinerinizin sorunsuz bir şekilde yürütülmesini sağlamak için doğru kişileri görevlendirin"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mod-search-placeholder' => //////////////////////////////////////////////////////////
@@ -1125,7 +1125,7 @@ return [
 	'change-current-plan' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Planı yükselt <span class="tooltip" data-tip="Daha fazla katılımcı koltuğu, ek depolama, daha yüksek kayıt kalitesi ve esnek faturalandırma dönemlerinden yararlanmak için planınızı yükseltin. Planınızı ihtiyaçlarınıza göre uyarlayın ve web semineri deneyiminizi geliştirin. Bir ay için normal fiyattan ödeme yapın veya 2, 3, 6 veya 12 ay seçin ve %20‘ye varan indirimlerden yararlanın"></span>
+		Planı yükselt <span class="tooltip" data-tip="Daha fazla katılımcı koltuğu, ek depolama, daha yüksek kayıt kalitesi ve esnek faturalandırma dönemlerinden yararlanmak için planınızı yükseltin. Planınızı ihtiyaçlarınıza göre uyarlayın ve webineri deneyiminizi geliştirin. Bir ay için normal fiyattan ödeme yapın veya 2, 3, 6 veya 12 ay seçin ve %20‘ye varan indirimlerden yararlanın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-plan' => /////////////////////////////////////////////////////////////////////
@@ -1239,19 +1239,19 @@ return [
 	'invite-moderators' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Web semineri sunucuları <span class="tooltip" data-tip="Çevrimiçi etkinlikte sunucu olarak yer alacak moderatörlerin yanındaki kutuyu işaretleyin. Seçilen sunucular için bağlantılar «Erişim bağlantıları» bölümünde mevcut olacak"></span>
+		Webineri sunucuları <span class="tooltip" data-tip="Çevrimiçi etkinliğe sunucu olarak katılan moderatörler. Seçilen sunucular için bağlantılar «Erişim bağlantıları» bölümünde mevcuttur"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-attendees' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Web semineri katılımcıları <span class="tooltip" data-tip="Çevrimiçi etkinliğe katılacak katılımcıların yanındaki kutuyu işaretleyin. Etkinliğe erişim için genel bağlantı «Erişim Bağlantıları» bölümünde mevcut olacak. Bu özelliği etkinleştirdiyseniz, onlara bir e-posta bildirimi de göndereceğiz"></span>
+		Webineri katılımcıları <span class="tooltip" data-tip="Çevrimiçi etkinliğe misafir olarak katılan katılımcılar. Etkinliğe erişim için genel bağlantı «Erişim Bağlantıları» bölümünde mevcuttur veya özel bağlantılar bu özelliği etkinleştirdiyseniz e-posta bildirimi yoluyla gönderilir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendees-list' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Katılımcılar <span class="tooltip" data-tip="Çevrimiçi web seminerinizin katılımcılarını burada yönetin. E-posta bilgileri de dahil olmak üzere katılımcı bilgilerini ekleyin, düzenleyin veya güncelleyin. Katılımcı listelerini toplu olarak kolayca içe veya dışa aktarabilir, filtreler uygulayabilir ve web seminerinizin hazırlığını ve iletişimini kolaylaştırmak için katılımcı verilerini düzenleyebilirsiniz"></span>
+		Katılımcılar <span class="tooltip" data-tip="Çevrimiçi webinerinizin katılımcılarını burada yönetin. E-posta bilgileri de dahil olmak üzere katılımcı bilgilerini ekleyin, düzenleyin veya güncelleyin. Katılımcı listelerini toplu olarak kolayca içe veya dışa aktarabilir, filtreler uygulayabilir ve webinerinizin hazırlığını ve iletişimini kolaylaştırmak için katılımcı verilerini düzenleyebilirsiniz"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'att-search-placeholder' => //////////////////////////////////////////////////////////
@@ -1461,7 +1461,7 @@ return [
 	'speakers-at-time' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		aynı anda konuşmacılar <span class="tooltip" data-tip="Web semineri sırasında aynı anda kamera ve mikrofon kullanabilen sunucuların maksimum sayısı. Bu sınırlama yalnızca aynı anda sunum yapanlar için geçerlidir. Sunucular sırayla herhangi bir kısıtlama olmaksızın sunum yapabilirler"></span>
+		aynı anda konuşmacılar <span class="tooltip" data-tip="Webineri sırasında aynı anda kamera ve mikrofon kullanabilen sunucuların maksimum sayısı. Bu sınırlama yalnızca aynı anda sunum yapanlar için geçerlidir. Sunucular sırayla herhangi bir kısıtlama olmaksızın sunum yapabilirler"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'on-disk' => /////////////////////////////////////////////////////////////////////////
@@ -1521,7 +1521,7 @@ return [
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bugün planlanmış web semineri bulunmamaktadır
+		Bugün planlanmış webineri bulunmamaktadır
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-day' => /////////////////////////////////////////////////////////////////
@@ -1743,7 +1743,7 @@ return [
 	'record-only-webcams' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Yalnızca web kamerası ve mikrofon <span class="tooltip" data-tip="Etkinleştirildiğinde, web semineri videosu yalnızca web kamerası beslemesine ve mikrofon sesine odaklanır ve çalışma alanındaki diğer tüm öğeleri dışarıda bırakır. Lütfen maksimum web kamerası çözünürlüğünün 480p olduğunu ve web kameranızın son videoda bu çözünürlükte görüneceğini unutmayın"></span>
+		Yalnızca web kamerası ve mikrofon <span class="tooltip" data-tip="Etkinleştirildiğinde, webineri videosu yalnızca web kamerası beslemesine ve mikrofon sesine odaklanır ve çalışma alanındaki diğer tüm öğeleri dışarıda bırakır. Lütfen maksimum web kamerası çözünürlüğünün 480p olduğunu ve web kameranızın son videoda bu çözünürlükte görüneceğini unutmayın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto' => /////////////////////////////////////////////////////////////////////
@@ -1755,7 +1755,7 @@ return [
 	'record-auto-no-stop' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kaydın durdurulmasını önle <span class="tooltip" data-tip="Etkinleştirildiğinde, web semineri odası moderatörleri canlı oturum sırasında kaydı durduramayacak"></span>
+		Kaydın durdurulmasını önle <span class="tooltip" data-tip="Etkinleştirildiğinde, webineri odası moderatörleri canlı oturum sırasında kaydı durduramayacak"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'prevent-recording' => ///////////////////////////////////////////////////////////////
@@ -1779,19 +1779,19 @@ return [
 	'record-all' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Seçici olarak <span class="tooltip" data-tip="Etkinleştirildiğinde, web semineri videosu, web semineri odasının seçilen bölümünü kaydedecektir. Sunucunun adını gizlemeyi veya göstermeyi, genel sohbeti dahil etmeyi veya hariç tutmayı seçerek kaydınızı özelleştirebilirsiniz"></span>
+		Seçici olarak <span class="tooltip" data-tip="Etkinleştirildiğinde, webineri videosu, webineri odasının seçilen bölümünü kaydedecektir. Sunucunun adını gizlemeyi veya göstermeyi, genel sohbeti dahil etmeyi veya hariç tutmayı seçerek kaydınızı özelleştirebilirsiniz"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-userlist' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Katılımcı listesi dahil <span class="tooltip" data-tip="Web semineri kaydı, isimler ve profil resimleriyle birlikte katılımcı listesini içerecek ve size katılan herkesin net bir görünümünü sağlayacak"></span>
+		Katılımcı listesi dahil <span class="tooltip" data-tip="Webineri kaydı, isimler ve profil resimleriyle birlikte katılımcı listesini içerecek ve size katılan herkesin net bir görünümünü sağlayacak"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-moder-name' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderatörlerin isimleri dahil <span class="tooltip" data-tip="Web semineri kaydı, sunucuların isimlerini web kameralarında veya profil resimlerinde gösterecek"></span>
+		Moderatörlerin isimleri dahil <span class="tooltip" data-tip="Webineri kaydı, sunucuların isimlerini web kameralarında veya profil resimlerinde gösterecek"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-preview-moder-name' => ///////////////////////////////////////////////////////
@@ -1803,7 +1803,7 @@ return [
 	'record-chat' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sohbet dahil <span class="tooltip" data-tip="Web semineri kaydı, katılımcılardan gelen mesajlarla birlikte genel sohbeti içerecektir. Moderatörlü mesajlar kaydedilmeyecek. Sohbet ön moderasyonu etkinse, web semineri sırasında moderatör tarafından onaylanan mesajlar dahil edilecektir"></span>
+		Sohbet dahil <span class="tooltip" data-tip="Webineri kaydı, katılımcılardan gelen mesajlarla birlikte genel sohbeti içerecektir. Moderatörlü mesajlar kaydedilmeyecek. Sohbet ön moderasyonu etkinse, webineri sırasında moderatör tarafından onaylanan mesajlar dahil edilecektir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copy' => ////////////////////////////////////////////////////////////////////////////
@@ -1815,7 +1815,7 @@ return [
 	'gtm-id' => //////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		GTM Kimliği <span class="tooltip" data-tip="Web seminerleriniz için derinlemesine trafik analitiği ve kapsamlı raporlamanın kilidini açmak için benzersiz Google Tag Manager kimliğinizi girin. Bu entegrasyon, katılımcı davranışları ve etkileşimleri hakkında ayrıntılı bilgiler sağlar"></span>
+		GTM Kimliği <span class="tooltip" data-tip="Webinerleriniz için derinlemesine trafik analitiği ve kapsamlı raporlamanın kilidini açmak için benzersiz Google Tag Manager kimliğinizi girin. Bu entegrasyon, katılımcı davranışları ve etkileşimleri hakkında ayrıntılı bilgiler sağlar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'gtm-id-placeholder' => //////////////////////////////////////////////////////////////
@@ -2043,19 +2043,19 @@ return [
 	'room-options-group' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Grup <span class="tooltip" data-tip="Katılımcıları kayıt sırasında otomatik olarak özel bir abone grubuna ekleyin, böylece yaklaşan web seminerleri için bildirimler aldıklarından emin olun ve onları bilgilendirin"></span>
+		Grup <span class="tooltip" data-tip="Katılımcıları kayıt sırasında otomatik olarak özel bir abone grubuna ekleyin, böylece yaklaşan webinerleri için bildirimler aldıklarından emin olun ve onları bilgilendirin"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-countdown' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Geri sayım sayacını göster <span class="tooltip" data-tip="Katılımcıların web semineri başlayana kadar ne kadar zaman kaldığını görebilmeleri için web semineri sayfanızda bir geri sayım sayacı görüntüleyin. Bu, beklenti oluşturur, herkesin başlangıç saatini bilmesini sağlar ve zamanında katılımı teşvik eder"></span>
+		Geri sayım sayacını göster <span class="tooltip" data-tip="Katılımcıların webineri başlayana kadar ne kadar zaman kaldığını görebilmeleri için webineri sayfanızda bir geri sayım sayacı görüntüleyin. Bu, beklenti oluşturur, herkesin başlangıç saatini bilmesini sağlar ve zamanında katılımı teşvik eder"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Google ile kaydolmaya izin ver <span class="tooltip" data-tip="Web semineri kayıt ve giriş formlarınızda «Google ile Kaydol» seçeneğini etkinleştirin. Bu, katılımcıların Google hesaplarını kullanarak web seminerine hızlı ve güvenli bir şekilde katılmalarını sağlar, oturum açma sürecini kolaylaştırır ve daha kullanışlı hale getirir. Google hizmetlerini kullananlar için erişimi kolaylaştırmanın ve kullanıcı deneyimini iyileştirmenin harika bir yoludur"></span>
+		Google ile kaydolmaya izin ver <span class="tooltip" data-tip="Webineri kayıt ve giriş formlarınızda «Google ile Kaydol» seçeneğini etkinleştirin. Bu, katılımcıların Google hesaplarını kullanarak webinerine hızlı ve güvenli bir şekilde katılmalarını sağlar, oturum açma sürecini kolaylaştırır ve daha kullanışlı hale getirir. Google hizmetlerini kullananlar için erişimi kolaylaştırmanın ve kullanıcı deneyimini iyileştirmenin harika bir yoludur"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////
@@ -2097,7 +2097,7 @@ return [
 	'room-login-show-start' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Web semineri tarihini göster <span class="tooltip" data-tip="Web semineri tarihini kayıt ve giriş sayfalarında net bir şekilde gösterin. Bu, katılımcıların önceden plan yapmalarına yardımcı olur ve web seminerinin ne zaman gerçekleşeceğini tam olarak bilmelerini sağlar"></span>
+		Webineri tarihini göster <span class="tooltip" data-tip="Webineri tarihini kayıt ve giriş sayfalarında net bir şekilde gösterin. Bu, katılımcıların önceden plan yapmalarına yardımcı olur ve webinerinin ne zaman gerçekleşeceğini tam olarak bilmelerini sağlar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-name' => ////////////////////////////////////////////////////////////
@@ -2109,7 +2109,7 @@ return [
 	'room-login-show-moderators' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Web semineri moderatörlerini göster <span class="tooltip" data-tip="Moderatörler, sunucular ve önemli katılımcılar dahil olmak üzere web semineri için kilit kişilerin bir listesini görüntüleyin. Bu kişilerin vurgulanması, potansiyel katılımcılara etkinlik sırasında karşılaşabilecekleri uzmanlık ve kişilikler hakkında bilgi verir"></span>
+		Webineri moderatörlerini göster <span class="tooltip" data-tip="Moderatörler, sunucular ve önemli katılımcılar dahil olmak üzere webineri için kilit kişilerin bir listesini görüntüleyin. Bu kişilerin vurgulanması, potansiyel katılımcılara etkinlik sırasında karşılaşabilecekleri uzmanlık ve kişilikler hakkında bilgi verir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-main-moderator' => //////////////////////////////////////////////////
@@ -2265,7 +2265,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kayıt formu yerleştirme kodu <span class="tooltip" data-tip="Web semineriniz için kişisel web sayfanıza bir kayıt formu yerleştirmek için bu IFRAME HTML kodunu kopyalayın. Bu kod evrenseldir ve sayfanızın parametrelerine ve tarzına uyacak şekilde ek özelleştirme gerektirebilir. Kodu panonuza kopyalamak için giriş alanına tıklamanız yeterlidir"></span>
+		Kayıt formu yerleştirme kodu <span class="tooltip" data-tip="Webineriniz için kişisel web sayfanıza bir kayıt formu yerleştirmek için bu IFRAME HTML kodunu kopyalayın. Bu kod evrenseldir ve sayfanızın parametrelerine ve tarzına uyacak şekilde ek özelleştirme gerektirebilir. Kodu panonuza kopyalamak için giriş alanına tıklamanız yeterlidir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////
@@ -2319,7 +2319,7 @@ return [
 	'mail-1DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1 Günlük Hatırlatma <span class="tooltip" data-tip="Web semineriniz başlamadan 24 saat önce kayıtlı katılımcılara gönderilen hatırlatma e-postası. Bu zamanında yapılan hatırlatma, katılımı artırabilir ve katılımcıların oturumunuza hazırlanmasını sağlayabilir"></span>
+		1 Günlük Hatırlatma <span class="tooltip" data-tip="Webineriniz başlamadan 24 saat önce kayıtlı katılımcılara gönderilen hatırlatma e-postası. Bu zamanında yapılan hatırlatma, katılımı artırabilir ve katılımcıların oturumunuza hazırlanmasını sağlayabilir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2331,7 +2331,7 @@ return [
 	'mail-3DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		3 Günlük Hatırlatma <span class="tooltip" data-tip="Web seminerinizden üç gün önce kayıtlı katılımcılara gönderilen hatırlatma e-postası. Bu hatırlatma, katılımı artırmaya ve web seminerinizi izleyicilerinizin zihninde tutmaya yardımcı olur"></span>
+		3 Günlük Hatırlatma <span class="tooltip" data-tip="Webinerinizden üç gün önce kayıtlı katılımcılara gönderilen hatırlatma e-postası. Bu hatırlatma, katılımı artırmaya ve webinerinizi izleyicilerinizin zihninde tutmaya yardımcı olur"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-3DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2343,7 +2343,7 @@ return [
 	'mail-1HOUR' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1 Saatlik Hatırlatma <span class="tooltip" data-tip="Web semineriniz başlamadan 60 dakika önce kayıtlı katılımcılara gönderilen hatırlatma e-postası. Bu uyarı, katılımcıların katılmasını kolaylaştıran doğrudan bir bağlantı içerir. Son dakika hatırlatması katılımı en üst düzeye çıkarmaya yardımcı olur"></span>
+		1 Saatlik Hatırlatma <span class="tooltip" data-tip="Webineriniz başlamadan 60 dakika önce kayıtlı katılımcılara gönderilen hatırlatma e-postası. Bu uyarı, katılımcıların katılmasını kolaylaştıran doğrudan bir bağlantı içerir. Son dakika hatırlatması katılımı en üst düzeye çıkarmaya yardımcı olur"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1HOUR-desc' => /////////////////////////////////////////////////////////////////
@@ -2355,7 +2355,7 @@ return [
 	'mail-FINISHED' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Web semineri sonrası <span class="tooltip" data-tip="Web semineri bittikten sonra katılımcılara gönderilen bir takip e-postası. Bu bir teşekkür notu, bir geri bildirim anketi veya web semineri içeriğine özel bir bağlantı olabilir. Katılımcıların ilgisini sürdürmek ve sürekli değer sağlamak için web semineri sonrası mesajınızı özelleştirin"></span>
+		Webineri sonrası <span class="tooltip" data-tip="Webineri bittikten sonra katılımcılara gönderilen bir takip e-postası. Bu bir teşekkür notu, bir geri bildirim anketi veya webineri içeriğine özel bir bağlantı olabilir. Katılımcıların ilgisini sürdürmek ve sürekli değer sağlamak için webineri sonrası mesajınızı özelleştirin"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-FINISHED-desc' => //////////////////////////////////////////////////////////////
@@ -2379,7 +2379,7 @@ return [
 	'mail-STARTED' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Geç Kalanlar <span class="tooltip" data-tip="Web seminerine henüz katılmamış katılımcılara gönderilen bir uyarı, web seminerinin zaten başladığını bildiren. Bu nazik hatırlatma, katılımcıların değerli içeriği kaçırmamaları için hemen katılmalarını teşvik eder"></span>
+		Geç Kalanlar <span class="tooltip" data-tip="Webinerine henüz katılmamış katılımcılara gönderilen bir uyarı, webinerinin zaten başladığını bildiren. Bu nazik hatırlatma, katılımcıların değerli içeriği kaçırmamaları için hemen katılmalarını teşvik eder"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-STARTED-desc' => ///////////////////////////////////////////////////////////////
@@ -2589,7 +2589,7 @@ return [
 	'webinar-history' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Web semineri içgörüleri <span class="tooltip" data-tip="Web seminerinizin nasıl geçtiğine dair değerli bilgiler edinin. Bu bölüm, etkinliğinizin başarısını anlamanıza ve gelecekteki web seminerleri için veri odaklı kararlar almanıza yardımcı olmak için katılımcı etkileşimi, katılım eğilimleri ve genel etkileşim hakkında analizler sağlar"></span>
+		Webineri içgörüleri <span class="tooltip" data-tip="Webinerinizin nasıl geçtiğine dair değerli bilgiler edinin. Bu bölüm, etkinliğinizin başarısını anlamanıza ve gelecekteki webinerleri için veri odaklı kararlar almanıza yardımcı olmak için katılımcı etkileşimi, katılım eğilimleri ve genel etkileşim hakkında analizler sağlar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-statistics' => //////////////////////////////////////////////////////////////////
@@ -2655,7 +2655,7 @@ return [
 	'guests-by-country' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ülkeler <span class="tooltip" data-tip="Web seminerinize katılan katılımcıların coğrafi dağılımını keşfedin. Bu bölüm, katılımcıların web seminerinize bağlandığı ülkeleri gösterir ve kitlenizin küresel erişimi hakkında değerli bilgiler sunar"></span>
+		Ülkeler <span class="tooltip" data-tip="Webinerinize katılan katılımcıların coğrafi dağılımını keşfedin. Bu bölüm, katılımcıların webinerinize bağlandığı ülkeleri gösterir ve kitlenizin küresel erişimi hakkında değerli bilgiler sunar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copied' => //////////////////////////////////////////////////////////////////////////
@@ -2673,7 +2673,7 @@ return [
 	'guests-by-time' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Etkileşim <span class="tooltip" data-tip="Web semineriniz boyunca katılımcıların katılımını izleyin. Bu grafik, izleyici büyümesini zamanla gösterir, katılımcıların ne zaman katıldığını ve ayrıldığını bir zaman çizelgesinde belirtir"></span>
+		Etkileşim <span class="tooltip" data-tip="Webineriniz boyunca katılımcıların katılımını izleyin. Bu grafik, izleyici büyümesini zamanla gösterir, katılımcıların ne zaman katıldığını ve ayrıldığını bir zaman çizelgesinde belirtir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guest-count' => /////////////////////////////////////////////////////////////////////
@@ -2817,7 +2817,7 @@ return [
 	'was-invited' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Beklenen <span class="tooltip" data-tip="Bu sütun, web seminerine kayıt yaptıran toplam katılımcı sayısını gösterir"></span>
+		Beklenen <span class="tooltip" data-tip="Bu sütun, webinerine kayıt yaptıran toplam katılımcı sayısını gösterir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guests-come' => /////////////////////////////////////////////////////////////////////
@@ -2841,25 +2841,25 @@ return [
 	'landing-page-mode' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Açılış sayfası modu <span class="tooltip" data-tip="Web seminer odanızı açılış sayfasına dönüştürmek için bu modu etkinleştirin. Web seminerine doğrudan girmek yerine, katılımcılar önce e-posta adreslerini ve gerekli diğer bilgileri sağlar. Bu mod, abone listenizi oluşturmanıza ve web seminerinden önce katılımcı verilerini toplamanıza yardımcı olur. Öncelikle veri toplamak için açın; doğrudan giriş için kapatın"></span>
+		Açılış sayfası modu <span class="tooltip" data-tip="Webiner odanızı açılış sayfasına dönüştürmek için bu modu etkinleştirin. Webinerine doğrudan girmek yerine, katılımcılar önce e-posta adreslerini ve gerekli diğer bilgileri sağlar. Bu mod, abone listenizi oluşturmanıza ve webinerinden önce katılımcı verilerini toplamanıza yardımcı olur. Öncelikle veri toplamak için açın; doğrudan giriş için kapatın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Açılış sayfası <span class="tooltip" data-tip="Gelecekteki web seminerleri için katılımcı bilgilerini toplamak için bu kayıt sayfasını kullanın. Katılımcılarınız, e-postalarını, adlarını ve gelişmiş ayarlarda belirttiğiniz diğer özel ayrıntıları girerek kaydolabilir. Bu özellik, gelecekteki iletişimler ve etkinlik bildirimleri için değerli bir iletişim listesi oluşturmanıza olanak tanır. Bağlantıyı panonuza kopyalamak için giriş kutusuna tıklamanız yeterlidir. Web seminerlerinizi ve takip etkinliklerinizi etkili bir şekilde uyarlamak için ihtiyaç duyduğunuz tüm bilgileri toplamak üzere kayıt alanlarını özelleştirdiğinizden emin olun"></span>
+		Açılış sayfası <span class="tooltip" data-tip="Gelecekteki webinerleri için katılımcı bilgilerini toplamak için bu kayıt sayfasını kullanın. Katılımcılarınız, e-postalarını, adlarını ve gelişmiş ayarlarda belirttiğiniz diğer özel ayrıntıları girerek kaydolabilir. Bu özellik, gelecekteki iletişimler ve etkinlik bildirimleri için değerli bir iletişim listesi oluşturmanıza olanak tanır. Bağlantıyı panonuza kopyalamak için giriş kutusuna tıklamanız yeterlidir. Webinerlerinizi ve takip etkinliklerinizi etkili bir şekilde uyarlamak için ihtiyaç duyduğunuz tüm bilgileri toplamak üzere kayıt alanlarını özelleştirdiğinizden emin olun"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page-edit' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Açılış sayfasını düzenle <span class="tooltip" data-tip="Gelecekteki web seminerleri için kayıt sayfanızı burada özelleştirin. Katılımcıların e-posta, ad ve gelişmiş ayarlarda belirttiğiniz diğer bilgileri girerek kaydolmasına izin verin. Bağlantıyı kopyalayarak kitlenizle paylaşın"></span>
+		Açılış sayfasını düzenle <span class="tooltip" data-tip="Gelecekteki webinerleri için kayıt sayfanızı burada özelleştirin. Katılımcıların e-posta, ad ve gelişmiş ayarlarda belirttiğiniz diğer bilgileri girerek kaydolmasına izin verin. Bağlantıyı kopyalayarak kitlenizle paylaşın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'link-on-lending' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Açılış sayfası URL‘si <span class="tooltip" data-tip="Katılımcılarınızı gelecekteki web seminerlerine kaydolmaları için bu kayıt sayfasına gönderin. Gelişmiş ayarlarda yapılandırdığınız e-posta, ad ve diğer özel bilgileri girebilirler. Bağlantıyı panonuza kopyalamak için kutuya tıklayın"></span>
+		Açılış sayfası URL‘si <span class="tooltip" data-tip="Katılımcılarınızı gelecekteki webinerlerine kaydolmaları için bu kayıt sayfasına gönderin. Gelişmiş ayarlarda yapılandırdığınız e-posta, ad ve diğer özel bilgileri girebilirler. Bağlantıyı panonuza kopyalamak için kutuya tıklayın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'lending-text' => ////////////////////////////////////////////////////////////////////
@@ -3015,7 +3015,7 @@ return [
 	'record-link' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kayıt bağlantısı <span class="tooltip" data-tip="Kayda erişim bağlantısı oluşturmak için yukarıdaki kaydırıcıyı kullanın. Katılımcıları seçmek ve bağlantıyı e-posta adreslerine göndermek için zarf düğmesine tıklayın. Not: Kalıcı web seminer odanız şifre korumalıysa, kayda erişim de bir şifre gerektirecektir"></span>
+		Kayıt bağlantısı <span class="tooltip" data-tip="Kayda erişim bağlantısı oluşturmak için yukarıdaki kaydırıcıyı kullanın. Katılımcıları seçmek ve bağlantıyı e-posta adreslerine göndermek için zarf düğmesine tıklayın. Not: Kalıcı webiner odanız şifre korumalıysa, kayda erişim de bir şifre gerektirecektir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-link-available' => ///////////////////////////////////////////////////////////
@@ -3471,13 +3471,13 @@ return [
 	'webinar-info' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar bağlantıları ve erişim <span class="tooltip" data-tip="Bu bölüm, etkinlik ayarlarınızda bu özellik etkinleştirilmişse, yaklaşan web seminerleri için kayıt formu kodu da dahil olmak üzere web semineriniz için gerekli tüm bağlantıları sağlar. Genel web semineri bağlantısını, erişim şifresini (etkinleştirilmişse) ve davet edilen tüm sunucularınızın bağlantılarını kopyalayabilirsiniz, böylece başarılı bir çevrimiçi etkinlik sağlanabilir"></span>
+		Webinar bağlantıları ve erişim <span class="tooltip" data-tip="Bu bölüm, etkinlik ayarlarınızda bu özellik etkinleştirilmişse, yaklaşan webinerleri için kayıt formu kodu da dahil olmak üzere webineriniz için gerekli tüm bağlantıları sağlar. Genel webineri bağlantısını, erişim şifresini (etkinleştirilmişse) ve davet edilen tüm sunucularınızın bağlantılarını kopyalayabilirsiniz, böylece başarılı bir çevrimiçi etkinlik sağlanabilir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-status' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Davet e-postaları günlüğü <span class="tooltip" data-tip="Katılımcılara gönderilen davet e-postalarının geçmişine ve durumuna erişin, kayıt onayları, 3 gün ve 1 gün öncesindeki web semineri hatırlatmaları, 1 saatlik uyarılar, geç gelen bildirimleri ve web seminerinden sonraki takipler dahil. Günlük, tam gönderim saatlerini, e-posta sunucusu alındı ​​onaylarını ve e-postalar gönderilemediğinde meydana gelen hataları ayrıntılı olarak belirtir"></span>
+		Davet e-postaları günlüğü <span class="tooltip" data-tip="Katılımcılara gönderilen davet e-postalarının geçmişine ve durumuna erişin, kayıt onayları, 3 gün ve 1 gün öncesindeki webineri hatırlatmaları, 1 saatlik uyarılar, geç gelen bildirimleri ve webinerinden sonraki takipler dahil. Günlük, tam gönderim saatlerini, e-posta sunucusu alındı onaylarını ve e-postalar gönderilemediğinde meydana gelen hataları ayrıntılı olarak belirtir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-WAIT' => ///////////////////////////////////////////////////////////////////////
@@ -3525,13 +3525,13 @@ return [
 	'not-approv-webinar' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Web seminerine katılım reddedildi <span class="tooltip" data-tip="Bu grafik, web semineri davet e-postasında «Katılmayacağım» düğmesini tıklayan katılımcıların sayısını gösterir. Yaklaşan web seminerinize katılmak istemeyen katılımcıları izler"></span>
+		Webinerine katılım reddedildi <span class="tooltip" data-tip="Bu grafik, webineri davet e-postasında «Katılmayacağım» düğmesini tıklayan katılımcıların sayısını gösterir. Yaklaşan webinerinize katılmak istemeyen katılımcıları izler"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'approv-webinar' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Web seminerine onaylanmış katılım <span class="tooltip" data-tip="Bu grafik, web semineri davet e-postasında «Katılacağım» düğmesini tıklayan katılımcıların sayısını gösterir. Yaklaşan web semineriniz için onaylanan katılımcıları izler"></span>
+		Webinerine onaylanmış katılım <span class="tooltip" data-tip="Bu grafik, webineri davet e-postasında «Katılacağım» düğmesini tıklayan katılımcıların sayısını gösterir. Yaklaşan webineriniz için onaylanan katılımcıları izler"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-by-paypal' => ///////////////////////////////////////////////////////////////////
@@ -3705,7 +3705,7 @@ return [
 	'invite-after-import' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Web seminerine ithal edilen katılımcıları davet edin
+		Webinerine ithal edilen katılımcıları davet edin
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'filter-imported-title' => ///////////////////////////////////////////////////////////
@@ -4142,7 +4142,7 @@ return [
 	'letters-schedule' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Posta gönderim programı <span class="tooltip" data-tip="Web semineri katılımcılarına gönderilen bildirimlerin programını ve durumunu kontrol edin. Bu, etkinlikten 3 gün, 1 gün ve 1 saat önce gönderilen hatırlatıcıları, geç kalanlar için bildirimleri ve web semineri sonrası takipleri içerir. Zamanlamayı, ilerlemeyi ve davet edilen katılımcıların sayısını burada görüntüleyin"></span>
+		Posta gönderim programı <span class="tooltip" data-tip="Webineri katılımcılarına gönderilen bildirimlerin programını ve durumunu kontrol edin. Bu, etkinlikten 3 gün, 1 gün ve 1 saat önce gönderilen hatırlatıcıları, geç kalanlar için bildirimleri ve webineri sonrası takipleri içerir. Zamanlamayı, ilerlemeyi ve davet edilen katılımcıların sayısını burada görüntüleyin"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'next-step' => ///////////////////////////////////////////////////////////////////////
@@ -4160,7 +4160,7 @@ return [
 	'moderator-in-room' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderatör zaten bu web seminerine ev sahipliği yapıyor
+		Moderatör zaten bu webinerine ev sahipliği yapıyor
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-obs-warning' => ///////////////////////////////////////////////////////////
@@ -4172,7 +4172,7 @@ return [
 	'api-key' => /////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		API anahtarı <span class="tooltip" data-tip="API anahtarını kullanarak genel API’mize erişebilir, web semineri yazılımımızın CMS veya web sitenizle sorunsuz bir şekilde entegre edilmesini sağlayabilirsiniz. Hesabınız ücretsiz plana düşürülürse veya ödeme planınızı ödemeyi bırakırsanız API’nin devre dışı bırakılacağını lütfen unutmayın"></span>
+		API anahtarı <span class="tooltip" data-tip="API anahtarını kullanarak genel API’mize erişebilir, webineri yazılımımızın CMS veya web sitenizle sorunsuz bir şekilde entegre edilmesini sağlayabilirsiniz. Hesabınız ücretsiz plana düşürülürse veya ödeme planınızı ödemeyi bırakırsanız API’nin devre dışı bırakılacağını lütfen unutmayın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'refresh-key-confirm' => /////////////////////////////////////////////////////////////
@@ -4413,7 +4413,7 @@ return [
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bağlantı üzerinden web semineri kayıtlarına erişim ve OBS yayını olmadan ücretli plan
+		Bağlantı üzerinden webineri kayıtlarına erişim ve OBS yayını olmadan ücretli plan
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'package-oneday-alert-text' => ///////////////////////////////////////////////////////
@@ -4431,7 +4431,7 @@ return [
 	'moder-exit-alert' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bu moderatörü web seminerinden çıkarmak istiyor musunuz? Moderatör oturumu kesilecek ve web seminerinden bağlantı kesilecektir. Ardından moderatör, davet bağlantısını kullanarak web seminerine yeniden katılabilir.
+		Bu moderatörü webinerinden çıkarmak istiyor musunuz? Moderatör oturumu kesilecek ve webinerinden bağlantı kesilecektir. Ardından moderatör, davet bağlantısını kullanarak webinerine yeniden katılabilir.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'paypal-get-to' => ///////////////////////////////////////////////////////////////////
@@ -4593,7 +4593,7 @@ return [
 	'auto-webinar-create-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Otomatik webinar ayarları <span class="tooltip" data-tip="Otomatik web seminerlerinizi özelleştirin: etkinliklerinizi düzenlemek ve izleyicileriniz için sorunsuz bir deneyim sağlamak için takvimi, içeriği, katılımcı etkileşimlerini, markalamayı ve gelişmiş ayarları yapılandırın"></span>
+		Otomatik webinar ayarları <span class="tooltip" data-tip="Otomatik webinerlerinizi özelleştirin: etkinliklerinizi düzenlemek ve izleyicileriniz için sorunsuz bir deneyim sağlamak için takvimi, içeriği, katılımcı etkileşimlerini, markalamayı ve gelişmiş ayarları yapılandırın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-webinar-create-section-many' => ////////////////////////////////////////////////
@@ -5061,7 +5061,7 @@ return [
 	'main-telegram-link' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Telegram botu <span class="tooltip" data-tip="Katılımcılarınızı Telegram botumuzla bağlamak için bu bağlantıyı kopyalayın. Bot, onları yaklaşan web seminerleri hakkında bilgilendirecek, web semineri bağlantılarını sağlayacak, iptaller hakkında bilgilendirecek ve e-posta bildirim tercihlerini yönetmelerine olanak tanıyacaktır, bunlar arasında abonelik veya abonelikten çıkma da bulunmaktadır"></span>
+		Telegram botu <span class="tooltip" data-tip="Katılımcılarınızı Telegram botumuzla bağlamak için bu bağlantıyı kopyalayın. Bot, onları yaklaşan webinerleri hakkında bilgilendirecek, webineri bağlantılarını sağlayacak, iptaller hakkında bilgilendirecek ve e-posta bildirim tercihlerini yönetmelerine olanak tanıyacaktır, bunlar arasında abonelik veya abonelikten çıkma da bulunmaktadır"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////
@@ -5715,7 +5715,7 @@ return [
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar bağlantısı ile kendi kayıtları <span class="tooltip" data-tip="Bu grafik, genel bağlantıyı kullanarak web seminerine kayıt olan katılımcıların sayısını gösterir. Bu bağlantıyı mesajlaşma veya diğer iletişim yöntemleriyle paylaşabilirsiniz. Grafik, davet stratejinizin etkinliğini ve web seminerinize olan ilgi düzeyini takip etmenize yardımcı olur"></span>
+		Webinar bağlantısı ile kendi kayıtları <span class="tooltip" data-tip="Bu grafik, genel bağlantıyı kullanarak webinerine kayıt olan katılımcıların sayısını gösterir. Bu bağlantıyı mesajlaşma veya diğer iletişim yöntemleriyle paylaşabilirsiniz. Grafik, davet stratejinizin etkinliğini ve webinerinize olan ilgi düzeyini takip etmenize yardımcı olur"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'group-already-exists' => ////////////////////////////////////////////////////////////
@@ -5949,7 +5949,7 @@ return [
 	'webinar-not-finished-alert-text' => /////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Web semineri kaydına, mevcut oturum tamamlandıktan sonra erişilebilir olacaktır
+		Webineri kaydına, mevcut oturum tamamlandıktan sonra erişilebilir olacaktır
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-link-lifetime' => ////////////////////////////////////////////////////////////
@@ -6231,7 +6231,7 @@ return [
 	'login-cookies-text' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kontrol paneline ve web seminerlerine giriş yaptığınızda oturumunuzu saklamak için güvenli tanımlama bilgilerini kullanırız. Ayrıca çevrimiçi destek widget’ı için.
+		Kontrol paneline ve webinerlerine giriş yaptığınızda oturumunuzu saklamak için güvenli tanımlama bilgilerini kullanırız. Ayrıca çevrimiçi destek widget’ı için.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookie-settings' => /////////////////////////////////////////////////////////////////
@@ -6303,7 +6303,7 @@ return [
 	'registers-statistic' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kayıt istatistikleri <span class="tooltip" data-tip="Web semineriniz için katılımcı kayıt istatistiklerini takip edin. Bu bölüm, genel bağlantı üzerinden yapılan kendi kendine kayıt sayısını ve davet e-postaları aracılığıyla katılım onaylarını veya reddetmelerini gösterir"></span>
+		Kayıt istatistikleri <span class="tooltip" data-tip="Webineriniz için katılımcı kayıt istatistiklerini takip edin. Bu bölüm, genel bağlantı üzerinden yapılan kendi kendine kayıt sayısını ve davet e-postaları aracılığıyla katılım onaylarını veya reddetmelerini gösterir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'badge-conference' => ////////////////////////////////////////////////////////////////
@@ -6327,7 +6327,7 @@ return [
 	'room-options-general' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Genel <span class="tooltip" data-tip="Giriş sayfanız için genel ayarları yönetin. Burada, web semineri odaları için bir parola ayarlayabilir, planlanmış web seminerleri için bireysel özel bağlantılarla erişimi etkinleştirebilir ve açılış formunu yerleştirmek için IFRAME kodunu etkinleştirebilirsiniz"></span>
+		Genel <span class="tooltip" data-tip="Giriş sayfanız için genel ayarları yönetin. Burada, webineri odaları için bir parola ayarlayabilir, planlanmış webinerleri için bireysel özel bağlantılarla erişimi etkinleştirebilir ve açılış formunu yerleştirmek için IFRAME kodunu etkinleştirebilirsiniz"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

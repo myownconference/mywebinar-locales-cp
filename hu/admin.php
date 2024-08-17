@@ -1239,13 +1239,13 @@ return [
 	'invite-moderators' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinárium előadói <span class="tooltip" data-tip="Jelölje be a négyzetet azok mellett a moderátorok mellett, akik előadóként részt vesznek az online eseményen. A kiválasztott előadók linkjei az «Hozzáférési linkek» szakaszban lesznek elérhetők"></span>
+		Webinárium előadói <span class="tooltip" data-tip="Azok a moderátorok, akik előadóként vesznek részt az online eseményen. A kiválasztott előadók linkjei az «Hozzáférési linkek» szakaszban elérhetők"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-attendees' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinárium résztvevői <span class="tooltip" data-tip="Jelölje be a négyzetet azon résztvevők mellett, akik részt vesznek az online eseményen. Az eseményhez való hozzáférés nyilvános linkje az «Hozzáférési linkek» szakaszban lesz elérhető. Ezt a funkciót engedélyezve e-mail értesítést is küldünk nekik"></span>
+		Webinárium résztvevői <span class="tooltip" data-tip="A résztvevők, akik vendégként vesznek részt az online eseményen. Az eseményhez való hozzáférés nyilvános linkje az «Hozzáférési linkek» szakaszban elérhető, vagy a privát linkeket e-mail értesítésben küldjük, ha engedélyezte ezt a funkciót"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendees-list' => //////////////////////////////////////////////////////////////////

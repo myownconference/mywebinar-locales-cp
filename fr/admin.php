@@ -1239,13 +1239,13 @@ return [
 	'invite-moderators' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Animateurs et orateurs
+		Présentateurs du webinaire <span class="tooltip" data-tip="Cochez la case à côté des modérateurs qui participeront à l‘événement en ligne en tant que présentateurs. Les liens pour les présentateurs sélectionnés seront disponibles dans la section «Liens d‘accès»"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-attendees' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Inviter des participants
+		Participants au webinaire <span class="tooltip" data-tip="Cochez la case à côté des participants qui prendront part à l‘événement en ligne. Le lien public pour accéder à l‘événement sera disponible dans la section «Liens d‘accès». Nous leur enverrons également une notification par e-mail si vous avez activé cette fonctionnalité"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendees-list' => //////////////////////////////////////////////////////////////////

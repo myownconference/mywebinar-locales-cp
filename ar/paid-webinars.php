@@ -173,9 +173,6 @@ return [
 			These fees are levied by the Correspondent Bank when facilitating the transfer of funds from the website‘s bank account to the user‘s bank account. For IBAN transfers, the fees charged by correspondent banks can range from €10 to €35. There is no fee for SEPA transfers.
 		</p>
 		<br>
-		<p>
-			When transferring via the SEPA method, there are no fees.
-		</p>
 		<br><br>
 		<h3>Receiving payouts</h3>
 		<p>
@@ -189,6 +186,8 @@ return [
 		<p>
 			The net amount after deductions can either be transferred to the user‘s bank account or be applied as credit towards the cost of using our platform‘s services.
 		</p>
+		<p>
+			All payments are processed no earlier than 7 business days after the webinar and only if there are no refund requests from participants. The minimum payout amount is 300 EUR. For payouts exceeding 600 EUR, our service will send a closing document that must be signed by the recipient of the payment.
 		<br>
 		<p>
 			Please note! When using the IBAN method, some intermediary banks may levy an additional fee ranging from €10 to €35. We have no control over, nor can we waive these fees. They are automatically deducted when funds are transferred to the user‘s bank account.

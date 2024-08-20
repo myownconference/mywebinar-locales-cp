@@ -3633,7 +3633,7 @@ return [
 	'title-grid-webinars-history' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Korábbi webináriumok
+		Korábbi webináriumok <span class="tooltip" data-tip="Tekintse meg a webináriumok ütemtervét, amelyeket Ön tartott, gyors hozzáféréssel a dátumokhoz, témákhoz és felvételekhez. Könnyen újra meglátogathatja az üléseit, és nyomon követheti a megosztott értékes tartalmat"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'title-grid-webinars-today' => ///////////////////////////////////////////////////////

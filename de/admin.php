@@ -3633,7 +3633,7 @@ return [
 	'title-grid-webinars-history' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vergangene Webinare
+		Vergangene Webinare <span class="tooltip" data-tip="Sehen Sie sich den Zeitplan der von Ihnen gehosteten Webinare an, mit schnellem Zugriff auf Daten, Themen und Aufzeichnungen. Besuchen Sie Ihre Sitzungen einfach erneut und behalten Sie den Überblick über die wertvollen Inhalte, die Sie geteilt haben"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'title-grid-webinars-today' => ///////////////////////////////////////////////////////

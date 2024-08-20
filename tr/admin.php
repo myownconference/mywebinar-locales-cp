@@ -3633,7 +3633,7 @@ return [
 	'title-grid-webinars-history' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Geçmiş webinarlar
+		Geçmiş web seminerleri <span class="tooltip" data-tip="Ev sahipliği yaptığınız web seminerlerinin zaman çizelgesine göz atın, tarihlere, konulara ve kayıtlara hızlı erişim sağlayın. Oturumlarınızı kolayca yeniden ziyaret edin ve paylaştığınız değerli içeriği takip edin"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'title-grid-webinars-today' => ///////////////////////////////////////////////////////

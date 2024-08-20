@@ -3646,7 +3646,7 @@ return [
 	'title-grid-webinars-history' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinaires précédents
+		Webinaires passés <span class="tooltip" data-tip="Consultez la chronologie des webinaires que vous avez animés, avec un accès rapide aux dates, sujets et enregistrements. Revisitez facilement vos sessions et gardez un œil sur le contenu précieux que vous avez partagé"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'title-grid-webinars-today' => ///////////////////////////////////////////////////////

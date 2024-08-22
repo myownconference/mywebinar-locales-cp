@@ -1575,13 +1575,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Számlázási időszak
+		Számlázási időszak <span class="tooltip" data-tip="Válassza ki a kívánt számlázási időszakot – 1 hónap, 2 hónap, 3 hónap stb. Minél hosszabb a számlázási időszak, annál nagyobb kedvezményt kap"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Számlázási időszak
+		Számlázási időszak <span class="tooltip" data-tip="Válassza ki a kívánt számlázási időszakot – 1 hónap, 2 hónap, 3 hónap stb. Minél hosszabb a számlázási időszak, annál nagyobb kedvezményt kap"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////
@@ -3483,7 +3483,7 @@ return [
 	'webinar-info' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinárium linkek és hozzáférés <span class="tooltip" data-tip="Ez a rész minden lényeges linket biztosít a webináriumához, beleértve a közelgő webináriumok regisztrációs űrlapkódját is, ha ez a funkció engedélyezve van az eseménybeállításokban. Másolhatja az általános nyilvános webinárium linket, a hozzáférési jelszót (ha engedélyezve van), valamint az összes meghívott előadó linkjét a sikeres online esemény biztosítása érdekében"></span>
+		Linkek és hozzáférés <span class="tooltip" data-tip="Ez a szakasz minden lényeges linket biztosít a webináriumához, beleértve a regisztrációs űrlapkódot a közelgő webináriumokhoz, ha ezt a funkciót az esemény beállításaiban engedélyezte. Másolhatja az általános nyilvános webinárium linket, a hozzáférési jelszót (ha engedélyezve van), valamint az összes meghívott előadó linkjét, hogy biztosítsa az online esemény sikerét"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-status' => /////////////////////////////////////////////////////////////////////

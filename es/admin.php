@@ -1575,13 +1575,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Período de facturación
+		Período de facturación <span class="tooltip" data-tip="Selecciona el período de facturación que prefieras: 1 mes, 2 meses, 3 meses, etc. Cuanto más largo sea el período de facturación, mayor será el descuento que recibas"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Período de facturación
+		Período de facturación <span class="tooltip" data-tip="Selecciona el período de facturación que prefieras: 1 mes, 2 meses, 3 meses, etc. Cuanto más largo sea el período de facturación, mayor será el descuento que recibas"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////
@@ -3488,7 +3488,7 @@ return [
 	'webinar-info' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Enlaces y acceso a webinario <span class="tooltip" data-tip="Esta sección proporciona todos los enlaces esenciales para su webinario, incluido el código del formulario de registro para próximos webinarios si esta función está habilitada en la configuración de su evento. Puede copiar el enlace público general del webinario, la contraseña de acceso (si está habilitada) y los enlaces para todos sus presentadores invitados para asegurar un evento en línea exitoso"></span>
+		Enlaces y acceso <span class="tooltip" data-tip="Esta sección proporciona todos los enlaces esenciales para tu webinar, incluido el código del formulario de registro para los próximos webinars si esta función está habilitada en la configuración del evento. Puedes copiar el enlace general del webinar público, la contraseña de acceso (si está habilitada) y los enlaces para todos tus presentadores invitados para garantizar un evento en línea exitoso"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-status' => /////////////////////////////////////////////////////////////////////

@@ -1575,13 +1575,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Periodo di fatturazione
+		Periodo di fatturazione <span class="tooltip" data-tip="Seleziona il periodo di fatturazione che preferisci: 1 mese, 2 mesi, 3 mesi, ecc. Più lungo è il periodo di fatturazione, maggiore è lo sconto che ricevi"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Periodo di fatturazione
+		Periodo di fatturazione <span class="tooltip" data-tip="Seleziona il periodo di fatturazione che preferisci: 1 mese, 2 mesi, 3 mesi, ecc. Più lungo è il periodo di fatturazione, maggiore è lo sconto che ricevi"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////
@@ -3483,7 +3483,7 @@ return [
 	'webinar-info' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link e accesso ai webinar <span class="tooltip" data-tip="Questa sezione fornisce tutti i collegamenti essenziali per il tuo webinar, incluso il codice del modulo di registrazione per i prossimi webinar se questa funzione è abilitata nelle impostazioni dell’evento. Puoi copiare il link pubblico generale del webinar, la password di accesso (se abilitata) e i link per tutti i tuoi presentatori invitati per garantire il successo dell’evento online"></span>
+		Link e accesso <span class="tooltip" data-tip="Questa sezione fornisce tutti i link essenziali per il tuo webinar, incluso il codice del modulo di registrazione per i prossimi webinar se questa funzione è abilitata nelle impostazioni dell‘evento. Puoi copiare il link pubblico generale del webinar, la password di accesso (se abilitata) e i link per tutti i tuoi relatori invitati per garantire un evento online di successo"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-status' => /////////////////////////////////////////////////////////////////////

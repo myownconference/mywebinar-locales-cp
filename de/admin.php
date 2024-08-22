@@ -1575,13 +1575,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Abrechnungszeitraum
+		Abrechnungszeitraum <span class="tooltip" data-tip="Wählen Sie den bevorzugten Abrechnungszeitraum – 1 Monat, 2 Monate, 3 Monate usw. Je länger der Abrechnungszeitraum, desto höher ist der gewährte Rabatt"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Abrechnungszeitraum
+		Abrechnungszeitraum <span class="tooltip" data-tip="Wählen Sie den bevorzugten Abrechnungszeitraum – 1 Monat, 2 Monate, 3 Monate usw. Je länger der Abrechnungszeitraum, desto höher ist der gewährte Rabatt"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////
@@ -3483,7 +3483,7 @@ return [
 	'webinar-info' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar-Links und Zugriff <span class="tooltip" data-tip="In diesem Abschnitt finden Sie alle wesentlichen Links für Ihr Webinar, einschließlich des Registrierungscodeformulars für bevorstehende Webinare, wenn diese Funktion in Ihren Ereigniseinstellungen aktiviert ist. Sie können den allgemeinen öffentlichen Webinarlink, das Zugangspasswort (falls aktiviert) und die Links für alle eingeladenen Referenten kopieren, um ein erfolgreiches Online-Event zu gewährleisten"></span>
+		Links und Zugriff <span class="tooltip" data-tip="Dieser Abschnitt bietet alle wichtigen Links für Ihr Webinar, einschließlich des Anmeldeformularcodes für bevorstehende Webinare, falls diese Funktion in Ihren Veranstaltungseinstellungen aktiviert ist. Sie können den allgemeinen öffentlichen Webinar-Link, das Zugangspasswort (falls aktiviert) und die Links für alle Ihre eingeladenen Referenten kopieren, um eine erfolgreiche Online-Veranstaltung zu gewährleisten"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-status' => /////////////////////////////////////////////////////////////////////

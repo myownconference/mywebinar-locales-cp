@@ -1576,13 +1576,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Période de facturation
+		Période de facturation <span class="tooltip" data-tip="Sélectionnez la période de facturation que vous préférez—1 mois, 2 mois, 3 mois, etc. Plus la période de facturation est longue, plus la réduction est importante"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Période de facturation
+		Période de facturation <span class="tooltip" data-tip="Sélectionnez la période de facturation que vous préférez—1 mois, 2 mois, 3 mois, etc. Plus la période de facturation est longue, plus la réduction est importante"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////
@@ -3493,7 +3493,7 @@ return [
 	'webinar-info' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Liens et accès aux webinaires <span class="tooltip" data-tip="Cette section fournit tous les liens essentiels pour votre webinaire, y compris le code du formulaire d’inscription pour les webinaires à venir si cette fonctionnalité est activée dans les paramètres de votre événement. Vous pouvez copier le lien public général du webinaire, le mot de passe d’accès (si activé) et les liens pour tous vos présentateurs invités afin d’assurer le succès de votre événement en ligne"></span>
+		Liens et accès <span class="tooltip" data-tip="Cette section fournit tous les liens essentiels pour votre webinaire, y compris le code du formulaire d‘inscription pour les webinaires à venir si cette fonctionnalité est activée dans les paramètres de votre événement. Vous pouvez copier le lien public général du webinaire, le mot de passe d‘accès (si activé) et les liens pour tous vos intervenants invités pour assurer le succès de votre événement en ligne"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-status' => /////////////////////////////////////////////////////////////////////

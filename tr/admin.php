@@ -1575,13 +1575,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Fatura dönemi
+		Fatura dönemi <span class="tooltip" data-tip="Tercih ettiğiniz fatura dönemini seçin—1 ay, 2 ay, 3 ay, vb. Fatura dönemi ne kadar uzun olursa, o kadar fazla indirim alırsınız"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Fatura dönemi
+		Fatura dönemi <span class="tooltip" data-tip="Tercih ettiğiniz fatura dönemini seçin—1 ay, 2 ay, 3 ay, vb. Fatura dönemi ne kadar uzun olursa, o kadar fazla indirim alırsınız"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////
@@ -3483,7 +3483,7 @@ return [
 	'webinar-info' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar bağlantıları ve erişim <span class="tooltip" data-tip="Bu bölüm, etkinlik ayarlarınızda bu özellik etkinleştirilmişse, yaklaşan webinerleri için kayıt formu kodu da dahil olmak üzere webineriniz için gerekli tüm bağlantıları sağlar. Genel webineri bağlantısını, erişim şifresini (etkinleştirilmişse) ve davet edilen tüm sunucularınızın bağlantılarını kopyalayabilirsiniz, böylece başarılı bir çevrimiçi etkinlik sağlanabilir"></span>
+		Bağlantılar ve erişim <span class="tooltip" data-tip="Bu bölüm, etkinlik ayarlarınızda bu özellik etkinleştirilmişse, yaklaşan web seminerleri için kayıt formu kodu da dahil olmak üzere web semineriniz için gerekli tüm bağlantıları sağlar. Genel web semineri bağlantısını, erişim şifresini (etkinleştirilmişse) ve davet edilen tüm sunucularınız için bağlantıları kopyalayarak başarılı bir çevrimiçi etkinlik düzenleyebilirsiniz"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-status' => /////////////////////////////////////////////////////////////////////

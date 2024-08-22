@@ -1576,13 +1576,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Okres rozliczeniowy
+		Okres rozliczeniowy <span class="tooltip" data-tip="Wybierz preferowany okres rozliczeniowy – 1 miesiąc, 2 miesiące, 3 miesiące itp. Im dłuższy okres rozliczeniowy, tym większy rabat otrzymasz"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Okres rozliczeniowy
+		Okres rozliczeniowy <span class="tooltip" data-tip="Wybierz preferowany okres rozliczeniowy – 1 miesiąc, 2 miesiące, 3 miesiące itp. Im dłuższy okres rozliczeniowy, tym większy rabat otrzymasz"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////
@@ -3502,7 +3502,7 @@ return [
 	'webinar-info' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Linki do webinaru i dostęp <span class="tooltip" data-tip="Ta sekcja zawiera wszystkie niezbędne linki do Twojego webinaru, w tym kod formularza rejestracyjnego na nadchodzące webinary, jeśli ta funkcja jest włączona w ustawieniach wydarzenia. Możesz skopiować ogólny publiczny link do webinaru, hasło dostępu (jeśli włączone) oraz linki dla wszystkich zaproszonych prelegentów, aby zapewnić sukces wydarzenia online"></span>
+		Linki i dostęp <span class="tooltip" data-tip="Ta sekcja zawiera wszystkie niezbędne linki do twojego webinaru, w tym kod formularza rejestracyjnego na nadchodzące webinary, jeśli ta funkcja jest włączona w ustawieniach wydarzenia. Możesz skopiować ogólny publiczny link do webinaru, hasło dostępu (jeśli włączone), a także linki do wszystkich zaproszonych prelegentów, aby zapewnić sukces wydarzenia online"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-status' => /////////////////////////////////////////////////////////////////////

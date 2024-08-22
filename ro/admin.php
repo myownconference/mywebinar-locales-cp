@@ -1575,13 +1575,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Perioada de facturare
+		Perioada de facturare <span class="tooltip" data-tip="Selectează perioada de facturare pe care o preferi—1 lună, 2 luni, 3 luni, etc. Cu cât perioada de facturare este mai lungă, cu atât discountul este mai mare"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Perioada de facturare
+		Perioada de facturare <span class="tooltip" data-tip="Selectează perioada de facturare pe care o preferi—1 lună, 2 luni, 3 luni, etc. Cu cât perioada de facturare este mai lungă, cu atât discountul este mai mare"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////
@@ -3483,7 +3483,7 @@ return [
 	'webinar-info' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Linkuri și acces la webinarii <span class="tooltip" data-tip="Această secțiune furnizează toate linkurile esențiale pentru webinarul dvs., inclusiv codul formularului de înregistrare pentru viitoarele webinarii, dacă această funcție este activată în setările evenimentului dvs. Puteți copia linkul general public al webinarului, parola de acces (dacă este activată) și linkurile pentru toți prezentatorii dvs. invitați pentru a asigura succesul evenimentului online"></span>
+		Linkuri și acces <span class="tooltip" data-tip="Această secțiune oferă toate linkurile esențiale pentru webinarul tău, inclusiv codul formularului de înregistrare pentru webinariile viitoare, dacă această funcție este activată în setările evenimentului. Poți copia linkul general al webinarului public, parola de acces (dacă este activată) și linkurile pentru toți prezentatorii invitați pentru a asigura succesul evenimentului online"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-status' => /////////////////////////////////////////////////////////////////////

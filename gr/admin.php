@@ -5079,7 +5079,7 @@ return [
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Κατεύθυνση συνομιλίας <span class="tooltip" data-tip="Choose the text flow direction for the public chat area, catering to left-to-right (e.g., English) and right-to-left (e.g., Arabic) languages. This ensures a seamless experience for all participants, regardless of their native script orientation"></span>
+		Κατεύθυνση κειμένου <span class="tooltip" data-tip="Επιλέξτε την κατεύθυνση κειμένου για την περιοχή δημόσιας συνομιλίας, υποστηρίζοντας γλώσσες από αριστερά προς δεξιά (π.χ. Αγγλικά) και από δεξιά προς αριστερά (π.χ. Αραβικά). Αυτό εξασφαλίζει μια ομαλή εμπειρία για όλους τους συμμετέχοντες, ανεξάρτητα από τον προσανατολισμό της μητρικής τους γραφής"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////

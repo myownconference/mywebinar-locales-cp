@@ -5097,7 +5097,7 @@ return [
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Dirección de chat <span class="tooltip" data-tip="Choose the text flow direction for the public chat area, catering to left-to-right (e.g., English) and right-to-left (e.g., Arabic) languages. This ensures a seamless experience for all participants, regardless of their native script orientation"></span>
+		Dirección del texto <span class="tooltip" data-tip="Elige la dirección del texto para el área de chat público, compatible con idiomas de izquierda a derecha (por ejemplo, inglés) y de derecha a izquierda (por ejemplo, árabe). Esto asegura una experiencia fluida para todos los participantes, independientemente de la orientación de su escritura nativa"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////

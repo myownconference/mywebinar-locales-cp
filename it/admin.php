@@ -5079,7 +5079,7 @@ return [
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Direzione chat <span class="tooltip" data-tip="Choose the text flow direction for the public chat area, catering to left-to-right (e.g., English) and right-to-left (e.g., Arabic) languages. This ensures a seamless experience for all participants, regardless of their native script orientation"></span>
+		Direzione del testo <span class="tooltip" data-tip="Scegli la direzione del testo per l‘area di chat pubblica, supportando sia le lingue da sinistra a destra (ad esempio, inglese) che quelle da destra a sinistra (ad esempio, arabo). Questo garantisce un‘esperienza fluida per tutti i partecipanti, indipendentemente dall‘orientamento della loro scrittura nativa"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////

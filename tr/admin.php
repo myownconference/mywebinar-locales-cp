@@ -5079,7 +5079,7 @@ return [
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sohbet yönü <span class="tooltip" data-tip="Choose the text flow direction for the public chat area, catering to left-to-right (e.g., English) and right-to-left (e.g., Arabic) languages. This ensures a seamless experience for all participants, regardless of their native script orientation"></span>
+		Metin yönü <span class="tooltip" data-tip="Genel sohbet alanı için metin yönünü seçin; bu, hem soldan sağa (örneğin İngilizce) hem de sağdan sola (örneğin Arapça) dillerini destekler. Bu, katılımcıların ana yazı yönünden bağımsız olarak sorunsuz bir deneyim sağlar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////

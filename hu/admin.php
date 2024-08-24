@@ -5079,7 +5079,7 @@ return [
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Csevegés iránya <span class="tooltip" data-tip="Válassza ki a nyilvános csevegési terület szövegfolyam irányát, figyelembe véve a balról-jobbra (pl. angol) és jobbról-balra (pl. arab) nyelveket. Ez zökkenőmentes élményt biztosít minden résztvevő számára, függetlenül az anyanyelvük írásirányától"></span>
+		Szövegirány <span class="tooltip" data-tip="Válassza ki a szöveg irányát a nyilvános chat-területen, támogatva mind a balról jobbra (pl. angol), mind a jobbról balra (pl. arab) írt nyelveket. Ez biztosítja a zökkenőmentes élményt minden résztvevő számára, függetlenül az anyanyelvi írásrendszer irányától"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////

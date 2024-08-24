@@ -5107,7 +5107,7 @@ return [
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kierunek czatu <span class="tooltip" data-tip="Wybierz kierunek przepływu tekstu dla publicznego czatu, obsługujący języki od lewej do prawej (np. angielski) i od prawej do lewej (np. arabski). Zapewnia to płynne doświadczenie dla wszystkich uczestników, niezależnie od orientacji ich rodzimych skryptów"></span>
+		Kierunek tekstu <span class="tooltip" data-tip="Wybierz kierunek tekstu dla obszaru czatu publicznego, obsługującego zarówno języki pisane od lewej do prawej (np. angielski), jak i od prawej do lewej (np. arabski). Zapewnia to płynne działanie dla wszystkich uczestników, niezależnie od orientacji ich rodzimego pisma"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////

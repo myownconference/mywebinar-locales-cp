@@ -5081,7 +5081,7 @@ return [
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		כיוון הצ אט <span class="tooltip" data-tip="Choose the text flow direction for the public chat area, catering to left-to-right (e.g., English) and right-to-left (e.g., Arabic) languages. This ensures a seamless experience for all participants, regardless of their native script orientation"></span>
+		כיוון הטקסט <span class="tooltip" data-tip="בחר את כיוון הטקסט עבור אזור הייאט הציבורי, התומך גם בשפות הנכתבות משמאל לימין (כגון אנגלית) וגם בשפות הנכתבות מימין לשמאל (כגון ערבית). זה מבטיח חוויה חלקה עבור כל המשתתפים, ללא קשר לכיוון הכתיבה בשפתם"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////

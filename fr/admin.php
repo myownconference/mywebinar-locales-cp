@@ -5101,7 +5101,7 @@ return [
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sens du chat <span class="tooltip" data-tip="Choose the text flow direction for the public chat area, catering to left-to-right (e.g., English) and right-to-left (e.g., Arabic) languages. This ensures a seamless experience for all participants, regardless of their native script orientation"></span>
+		Direction du texte <span class="tooltip" data-tip="Choisissez la direction du texte pour la zone de chat public, prenant en charge les langues de gauche à droite (par exemple, l‘anglais) et de droite à gauche (par exemple, l‘arabe). Cela garantit une expérience fluide pour tous les participants, quelle que soit l‘orientation de leur script natif"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////

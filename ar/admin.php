@@ -5079,7 +5079,7 @@ return [
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		اتجاه الدردشة <span class="tooltip" data-tip="Choose the text flow direction for the public chat area, catering to left-to-right (e.g., English) and right-to-left (e.g., Arabic) languages. This ensures a seamless experience for all participants, regardless of their native script orientation"></span>
+		اتجاه النص <span class="tooltip" data-tip="اختر اتجاه النص لمنطقة الدردشة العامة، مع دعم اللغات من اليسار إلى اليمين (مثل الإنجليزية) ومن اليمين إلى اليسار (مثل العربية). يضمن هذا تجربة سلسة لجميع المشاركين، بغض النظر عن اتجاه النص في لغتهم الأم"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////

@@ -4334,7 +4334,7 @@ return [
 	'room-private-settings-alert' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<u>A webinár bejelentkezési oldala nem elérhető</u> mert csak a személyre szabott meghívó linkekkel való hozzáférést választotta. A résztvevők kizárólag a rendszerünkön keresztül küldött linken keresztül csatlakozhatnak a webinárhoz, vagy a linket más módon, például az e-mail hírlevelében vagy üzenetküldő alkalmazásában megosztott linkkel. Felhívjuk figyelmét, hogy a link csak arra a résztvevőre érvényes, akinek szánták
+		<u>A webinár bejelentkezési oldala nem elérhető</u> mert csak a személyre szabott meghívó linkekkel való hozzáférést választotta.<br><br>A résztvevők kizárólag a rendszerünkön keresztül küldött linken keresztül csatlakozhatnak a webinárhoz, vagy a linket más módon, például az e-mail hírlevelében vagy üzenetküldő alkalmazásában megosztott linkkel. Felhívjuk figyelmét, hogy a link csak arra a résztvevőre érvényes, akinek szánták
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-language-auto' => /////////////////////////////////////////////////////////

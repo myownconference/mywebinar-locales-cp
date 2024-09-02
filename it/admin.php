@@ -4334,7 +4334,7 @@ return [
 	'room-private-settings-alert' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<u>La pagina di accesso al webinar non è disponibile</u> perché hai selezionato l‘opzione per l‘accesso solo tramite link di invito personalizzati. I partecipanti possono accedere al webinar esclusivamente tramite il link inviato loro dal nostro sistema o tramite il link che hai copiato e condiviso tramite altri mezzi, come la tua newsletter via email o un‘app di messaggistica. Tieni presente che il link è attivo solo per il partecipante specifico per cui è stato destinato
+		<u>La pagina di accesso al webinar non è disponibile</u> perché hai selezionato l‘opzione per l‘accesso solo tramite link di invito personalizzati.<br><br>I partecipanti possono accedere al webinar esclusivamente tramite il link inviato loro dal nostro sistema o tramite il link che hai copiato e condiviso tramite altri mezzi, come la tua newsletter via email o un‘app di messaggistica. Tieni presente che il link è attivo solo per il partecipante specifico per cui è stato destinato
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-language-auto' => /////////////////////////////////////////////////////////

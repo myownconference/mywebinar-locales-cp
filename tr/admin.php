@@ -4340,7 +4340,7 @@ return [
 	'room-private-settings-alert' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<u>Webinar giriş sayfası mevcut değil</u> çünkü sadece kişiselleştirilmiş davet bağlantılarıyla erişim seçeneğini seçtiniz. Katılımcılar, yalnızca sistemimiz aracılığıyla kendilerine gönderilen bağlantı üzerinden veya e-posta bülteniniz veya mesajlaşma uygulamanız gibi diğer yollarla kopyalayıp paylaştığınız bağlantı aracılığıyla webinara katılabilirler. Lütfen bağlantının yalnızca hedeflenen belirli katılımcı için aktif olduğunu unutmayın
+		<u>Webinar giriş sayfası mevcut değil</u> çünkü sadece kişiselleştirilmiş davet bağlantılarıyla erişim seçeneğini seçtiniz.<br><br>Katılımcılar, yalnızca sistemimiz aracılığıyla kendilerine gönderilen bağlantı üzerinden veya e-posta bülteniniz veya mesajlaşma uygulamanız gibi diğer yollarla kopyalayıp paylaştığınız bağlantı aracılığıyla webinara katılabilirler. Lütfen bağlantının yalnızca hedeflenen belirli katılımcı için aktif olduğunu unutmayın
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-language-auto' => /////////////////////////////////////////////////////////

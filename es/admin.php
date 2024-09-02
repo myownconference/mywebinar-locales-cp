@@ -4346,7 +4346,7 @@ return [
 	'room-private-settings-alert' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<u>La página de inicio de sesión del webinar no está disponible</u> porque seleccionaste la opción de acceso solo a través de enlaces de invitación personalizados. Los participantes pueden unirse al webinar exclusivamente a través del enlace que les fue enviado mediante nuestro sistema, o a través del enlace que copiaste y compartiste por otros medios, como tu boletín de correo electrónico o una aplicación de mensajería. Ten en cuenta que el enlace solo está activo para el participante específico al que fue destinado
+		<u>La página de inicio de sesión del webinar no está disponible</u> porque seleccionaste la opción de acceso solo a través de enlaces de invitación personalizados.<br><br>Los participantes pueden unirse al webinar exclusivamente a través del enlace que les fue enviado mediante nuestro sistema, o a través del enlace que copiaste y compartiste por otros medios, como tu boletín de correo electrónico o una aplicación de mensajería. Ten en cuenta que el enlace solo está activo para el participante específico al que fue destinado
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-language-auto' => /////////////////////////////////////////////////////////

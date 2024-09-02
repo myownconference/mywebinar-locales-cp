@@ -4334,7 +4334,7 @@ return [
 	'room-private-settings-alert' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<u>Die Webinar-Login-Seite ist nicht verfügbar</u>, da Sie die Option für den Zugriff nur über personalisierte Einladungslinks ausgewählt haben. Teilnehmer können dem Webinar ausschließlich über den Link beitreten, der ihnen über unser System zugesandt wurde, oder über den Link, den Sie kopiert und auf andere Weise, wie über Ihren E-Mail-Newsletter oder eine Messaging-App, geteilt haben. Bitte beachten Sie, dass der Link nur für den vorgesehenen Teilnehmer aktiv ist
+		<u>Die Webinar-Login-Seite ist nicht verfügbar</u>, da Sie die Option für den Zugriff nur über personalisierte Einladungslinks ausgewählt haben.<br><br>Teilnehmer können dem Webinar ausschließlich über den Link beitreten, der ihnen über unser System zugesandt wurde, oder über den Link, den Sie kopiert und auf andere Weise, wie über Ihren E-Mail-Newsletter oder eine Messaging-App, geteilt haben. Bitte beachten Sie, dass der Link nur für den vorgesehenen Teilnehmer aktiv ist
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-language-auto' => /////////////////////////////////////////////////////////

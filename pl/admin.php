@@ -4360,8 +4360,7 @@ return [
 	'room-private-settings-alert' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Wybrałeś opcję wejścia tylko z linkiem indywidualnym. Uczestnicy będą mogli
-		wejść do pokoju webinarowego po kliknięciu linku w mailu z zaproszeniem.
+		<u>Strona logowania do webinaru jest niedostępna</u> ponieważ wybrałeś opcję dostępu wyłącznie za pomocą spersonalizowanych linków zaproszeniowych. Uczestnicy mogą dołączyć do webinaru wyłącznie za pośrednictwem linku wysłanego im przez nasz system lub za pośrednictwem linku, który skopiowałeś i udostępniłeś innymi sposobami, takimi jak biuletyn e-mailowy lub aplikacja do przesyłania wiadomości. Pamiętaj, że link jest aktywny tylko dla określonego uczestnika, dla którego został przeznaczony
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-language-auto' => /////////////////////////////////////////////////////////

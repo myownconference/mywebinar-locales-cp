@@ -4334,7 +4334,7 @@ return [
 	'room-private-settings-alert' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Non puoi modificare le impostazioni della pagina di accesso perché sono abilitati i link di invito privati. I tuoi partecipanti all‘evento accederanno automaticamente utilizzando un link ricevuto via email.
+		<u>La pagina di accesso al webinar non è disponibile</u> perché hai selezionato l‘opzione per l‘accesso solo tramite link di invito personalizzati. I partecipanti possono accedere al webinar esclusivamente tramite il link inviato loro dal nostro sistema o tramite il link che hai copiato e condiviso tramite altri mezzi, come la tua newsletter via email o un‘app di messaggistica. Tieni presente che il link è attivo solo per il partecipante specifico per cui è stato destinato
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-language-auto' => /////////////////////////////////////////////////////////

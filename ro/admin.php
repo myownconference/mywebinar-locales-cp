@@ -4334,7 +4334,7 @@ return [
 	'room-private-settings-alert' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nu poți modifica setările paginii de autentificare deoarece sunt activate link-urile de invitație private. Participanții la evenimentul tău se vor autentifica automat folosind un link din emailul primit.
+		<u>Pagina de conectare la webinar nu este disponibilă</u> deoarece ați selectat opțiunea pentru acces doar prin linkuri de invitație personalizate. Participanții se pot alătura webinarului exclusiv prin linkul trimis lor prin sistemul nostru sau prin linkul pe care l-ați copiat și distribuit prin alte mijloace, cum ar fi newsletter-ul dvs. prin e-mail sau o aplicație de mesagerie. Vă rugăm să rețineți că linkul este activ doar pentru participantul specific pentru care a fost destinat
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-language-auto' => /////////////////////////////////////////////////////////

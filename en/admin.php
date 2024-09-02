@@ -4334,7 +4334,7 @@ return [
 	'room-private-settings-alert' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		You cannot change the login page settings because private invitation links are enabled. Your webinar attendees will log in to the webinar automatically using a link from the received email.
+		<u>The webinar login page is not available</u> because you selected the option for access via personalized invitation links only. Participants can join the webinar exclusively through the link sent to them via our system, or through the link you copied and shared by other means, such as your email newsletter or a messaging app. Please note that the link is only active for the specific participant it was intended for
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-language-auto' => /////////////////////////////////////////////////////////

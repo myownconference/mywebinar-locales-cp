@@ -4340,7 +4340,7 @@ return [
 	'room-private-settings-alert' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Özel davet bağlantıları etkin olduğu için giriş sayfası ayarlarını değiştiremezsiniz. Webinar katılımcıları, aldıkları e-postadaki bir bağlantıyı kullanarak otomatik olarak webinar giriş yapacaklar.
+		<u>Webinar giriş sayfası mevcut değil</u> çünkü sadece kişiselleştirilmiş davet bağlantılarıyla erişim seçeneğini seçtiniz. Katılımcılar, yalnızca sistemimiz aracılığıyla kendilerine gönderilen bağlantı üzerinden veya e-posta bülteniniz veya mesajlaşma uygulamanız gibi diğer yollarla kopyalayıp paylaştığınız bağlantı aracılığıyla webinara katılabilirler. Lütfen bağlantının yalnızca hedeflenen belirli katılımcı için aktif olduğunu unutmayın
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-language-auto' => /////////////////////////////////////////////////////////

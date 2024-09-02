@@ -4354,9 +4354,7 @@ return [
 	'room-private-settings-alert' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vous ne pouvez pas modifier les paramètres supplémentaires de la page de connexion
-		car les liens d‘invitation personnels sont activés. Les participants à votre
-		webinaire seront connectés à la salle automatiquement par un lien à partir de l‘e-mail.
+		<u>La page de connexion au webinaire n‘est pas disponible</u> car vous avez sélectionné l‘option d‘accès via des liens d‘invitation personnalisés uniquement. Les participants peuvent rejoindre le webinaire exclusivement via le lien qui leur a été envoyé par notre système, ou via le lien que vous avez copié et partagé par d‘autres moyens, tels que votre newsletter par e-mail ou une application de messagerie. Veuillez noter que le lien n‘est actif que pour le participant spécifique auquel il était destiné
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-language-auto' => /////////////////////////////////////////////////////////

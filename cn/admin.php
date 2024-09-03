@@ -2031,7 +2031,7 @@ return [
 	'room-desc-clndr' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		日历 <span class="tooltip" data-tip="Enhance your email notifications by providing a concise summary of your webinar. This description will be embedded in the calendar file attached to outgoing email notifications, giving recipients a quick overview when they add the webinar to their personal calendars. Craft a brief yet informative summary to set expectations, highlight key points, and encourage attendance. Remember, this is a snapshot of your webinar, so make every word count!"></span>
+		日历 <span class="tooltip" data-tip="通过在日历事件文件中包含您的网络研讨会的简要摘要来改进电子邮件通知。此描述将添加到附加在外发电子邮件中的日历文件中，帮助收件人在将网络研讨会添加到个人日历时快速了解概要"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc-clndr-placeholder' => /////////////////////////////////////////////////////

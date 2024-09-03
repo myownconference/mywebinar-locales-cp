@@ -2031,7 +2031,7 @@ return [
 	'room-desc-clndr' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		وصف <span class="tooltip" data-tip="Enhance your email notifications by providing a concise summary of your webinar. This description will be embedded in the calendar file attached to outgoing email notifications, giving recipients a quick overview when they add the webinar to their personal calendars. Craft a brief yet informative summary to set expectations, highlight key points, and encourage attendance. Remember, this is a snapshot of your webinar, so make every word count!"></span>
+		التقويم <span class="tooltip" data-tip="حسّن إشعارات البريد الإلكتروني الخاصة بك من خلال تضمين ملخص موجز لندوتك عبر الويب في ملف حدث التقويم. سيتم إضافة هذا الوصف إلى ملف التقويم المرفق برسائل البريد الإلكتروني الصادرة، مما يوفر للمستلمين نظرة سريعة عند إضافة الندوة إلى تقاويمهم الشخصية"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc-clndr-placeholder' => /////////////////////////////////////////////////////

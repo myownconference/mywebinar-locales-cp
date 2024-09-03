@@ -2031,7 +2031,7 @@ return [
 	'room-desc-clndr' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ημερολόγιο <span class="tooltip" data-tip="Enhance your email notifications by providing a concise summary of your webinar. This description will be embedded in the calendar file attached to outgoing email notifications, giving recipients a quick overview when they add the webinar to their personal calendars. Craft a brief yet informative summary to set expectations, highlight key points, and encourage attendance. Remember, this is a snapshot of your webinar, so make every word count!"></span>
+		Ημερολόγιο <span class="tooltip" data-tip="Βελτιώστε τις ειδοποιήσεις ηλεκτρονικού ταχυδρομείου σας συμπεριλαμβάνοντας μια σύντομη περίληψη του webinar σας στο αρχείο συμβάντος ημερολογίου. Αυτή η περιγραφή θα προστεθεί στο αρχείο ημερολογίου που επισυνάπτεται στα εξερχόμενα μηνύματα ηλεκτρονικού ταχυδρομείου, παρέχοντας στους παραλήπτες μια γρήγορη επισκόπηση όταν προσθέτουν το webinar στα προσωπικά τους ημερολόγια"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc-clndr-placeholder' => /////////////////////////////////////////////////////

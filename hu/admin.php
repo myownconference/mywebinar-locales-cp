@@ -2031,7 +2031,7 @@ return [
 	'room-desc-clndr' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Naptár <span class="tooltip" data-tip="Növelje e-mail értesítéseit egy tömör összefoglalóval a webináriumáról. Ez a leírás be lesz ágyazva az e-mailekhez csatolt naptárfájlba, amely gyors áttekintést nyújt a címzetteknek, amikor hozzáadják a webináriumot saját naptárukhoz. Készítsen egy rövid, de informatív összefoglalót, hogy meghatározza az elvárásokat, kiemelje a fő pontokat, és ösztönözze a részvételt. Ne feledje, ez a webináriumának pillanatképe, ezért minden szó számít!"></span>
+		Naptár <span class="tooltip" data-tip="Javítsa e-mail értesítéseit, ha rövid összefoglalót tartalmaz webinárjáról a naptáresemény fájlban. Ez a leírás hozzáadásra kerül a kimenő e-mailekhez csatolt naptárfájlhoz, amely áttekintést nyújt a címzettek számára, amikor hozzáadják a webinárt személyes naptáraikhoz"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc-clndr-placeholder' => /////////////////////////////////////////////////////

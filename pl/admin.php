@@ -2032,7 +2032,7 @@ return [
 	'room-desc-clndr' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kalendarz <span class="tooltip" data-tip="Ulepsz powiadomienia e-mail, dostarczając zwięzły opis swojego webinaru. Opis ten zostanie osadzony w pliku kalendarza dołączonym do wychodzących powiadomień e-mail, dając odbiorcom szybki przegląd, gdy dodadzą webinar do swoich osobistych kalendarzy. Stwórz krótkie, lecz informacyjne podsumowanie, aby ustawić oczekiwania, wyróżnić kluczowe punkty i zachęcić do uczestnictwa. Pamiętaj, że to migawka twojego webinaru, więc każde słowo ma znaczenie!"></span>
+		Kalendarz <span class="tooltip" data-tip="Ulepsz swoje powiadomienia e-mail, dołączając krótkie streszczenie swojego webinaru do pliku wydarzenia w kalendarzu. Ten opis zostanie dodany do pliku kalendarza załączonego do wiadomości e-mail, zapewniając odbiorcom szybki przegląd, gdy dodają webinar do swoich osobistych kalendarzy"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc-clndr-placeholder' => /////////////////////////////////////////////////////

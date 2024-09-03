@@ -2031,7 +2031,7 @@ return [
 	'room-desc-clndr' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kalender <span class="tooltip" data-tip="Enhance your email notifications by providing a concise summary of your webinar. This description will be embedded in the calendar file attached to outgoing email notifications, giving recipients a quick overview when they add the webinar to their personal calendars. Craft a brief yet informative summary to set expectations, highlight key points, and encourage attendance. Remember, this is a snapshot of your webinar, so make every word count!"></span>
+		Kalender <span class="tooltip" data-tip="Verbessern Sie Ihre E-Mail-Benachrichtigungen, indem Sie eine kurze Zusammenfassung Ihres Webinars in die Kalenderevent-Datei einfügen. Diese Beschreibung wird der Kalenderdatei beigefügt, die an ausgehende E-Mails angehängt wird, und bietet den Empfängern eine schnelle Übersicht, wenn sie das Webinar zu ihren persönlichen Kalendern hinzufügen"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc-clndr-placeholder' => /////////////////////////////////////////////////////

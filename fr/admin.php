@@ -3845,7 +3845,7 @@ return [
 	'account-activation-hint' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pour activer votre compte, envoyez une confirmation de paiement réussi à notre support en ligne via votre panneau de contrôle. Les demandes du site sans identification ne seront pas prises en compte.
+		Pour activer votre compte, veuillez envoyer la preuve de paiement et le numéro de référence à notre support en ligne via votre panneau de contrôle. Les demandes sans identification appropriée ne seront pas traitées
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payerror' => ////////////////////////////////////////////////////////////////////////

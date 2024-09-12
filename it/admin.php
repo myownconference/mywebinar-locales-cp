@@ -3830,7 +3830,7 @@ return [
 	'account-activation-hint' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Per attivare il tuo account, invia una conferma di pagamento riuscito al nostro supporto online tramite il tuo pannello di controllo. Le richieste dal sito senza identificazione non saranno considerate.
+		Per attivare il tuo account, invia la prova di pagamento e il numero di riferimento al nostro supporto online tramite il tuo pannello di controllo. Le richieste senza un’identificazione appropriata non verranno elaborate
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payerror' => ////////////////////////////////////////////////////////////////////////

@@ -3830,7 +3830,7 @@ return [
 	'account-activation-hint' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Fiókjának aktiválásához küldje el a sikeres fizetés igazolását az online támogatásunknak a vezérlőpulton keresztül. Az azonosítás nélküli kéréseket az oldalról nem dolgozzuk fel.
+		A fiók aktiválásához kérjük, küldje el a fizetési igazolást és a hivatkozási számot az online ügyfélszolgálatunknak a vezérlőpultján keresztül. A megfelelő azonosítással nem rendelkező kéréseket nem dolgozzuk fel
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payerror' => ////////////////////////////////////////////////////////////////////////

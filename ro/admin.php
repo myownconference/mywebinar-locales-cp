@@ -3830,7 +3830,7 @@ return [
 	'account-activation-hint' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pentru a vă activa contul, trimiteți confirmarea plății reușite către suportul nostru online prin intermediul panoului dvs. de control. Cererile de pe site fără identificare nu vor fi luate în considerare.
+		Pentru a vă activa contul, vă rugăm să trimiteți dovada plății și numărul de referință la suportul nostru online prin panoul dvs. de control. Cererile fără o identificare corespunzătoare nu vor fi procesate
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payerror' => ////////////////////////////////////////////////////////////////////////

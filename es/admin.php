@@ -3837,7 +3837,7 @@ return [
 	'account-activation-hint' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Para activar tu cuenta, envía una confirmación de pago exitoso a nuestro soporte en línea a través de tu panel de control. Las solicitudes del sitio sin identificación no serán consideradas.
+		Para activar su cuenta, envíe el comprobante de pago y el número de referencia a nuestro soporte en línea a través de su panel de control. Las solicitudes sin la identificación adecuada no serán procesadas
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payerror' => ////////////////////////////////////////////////////////////////////////

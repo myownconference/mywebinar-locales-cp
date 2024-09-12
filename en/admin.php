@@ -3830,7 +3830,7 @@ return [
 	'account-activation-hint' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		To activate your account, forward proof of successful payment to our online support via your control panel. Requests from the site without identification will not be processed.
+		To activate your account, please forward proof of payment and the reference number to our online support through your control panel. Requests made without proper identification will not be processed
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payerror' => ////////////////////////////////////////////////////////////////////////

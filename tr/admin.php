@@ -3836,7 +3836,7 @@ return [
 	'account-activation-hint' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Hesabınızı etkinleştirmek için, başarılı ödeme onayınızı kontrol paneliniz aracılığıyla çevrimiçi destek ekibimize gönderin. Kimlik doğrulaması olmadan site üzerinden gelen talepler dikkate alınmaz.
+		Hesabınızı etkinleştirmek için ödeme kanıtını ve referans numarasını kontrol paneliniz aracılığıyla çevrimiçi desteğimize iletin. Doğru kimlik bilgisi olmadan yapılan talepler işleme alınmayacaktır
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payerror' => ////////////////////////////////////////////////////////////////////////

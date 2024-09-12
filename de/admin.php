@@ -3830,7 +3830,7 @@ return [
 	'account-activation-hint' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Um Ihr Konto zu aktivieren, senden Sie bitte einen Nachweis über die erfolgreiche Zahlung über Ihr Kontrollpanel an unseren Online-Support. Anfragen von der Website ohne Identifikation werden nicht berücksichtigt.
+		Um Ihr Konto zu aktivieren, senden Sie bitte den Zahlungsnachweis und die Referenznummer über Ihr Kontrollpanel an unseren Online-Support. Anfragen ohne ordnungsgemäße Identifizierung werden nicht bearbeitet
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payerror' => ////////////////////////////////////////////////////////////////////////

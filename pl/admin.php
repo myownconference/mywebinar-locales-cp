@@ -3851,7 +3851,7 @@ return [
 	'account-activation-hint' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Aby aktywować swoje konto, wyślij potwierdzenie udanej płatności do naszego wsparcia online za pomocą swojego panelu sterowania. Żądania z witryny bez identyfikacji nie będą rozpatrywane.
+		Aby aktywować swoje konto, prosimy o przesłanie dowodu płatności i numeru referencyjnego do naszego wsparcia online przez panel kontrolny. Wnioski bez odpowiedniej identyfikacji nie będą przetwarzane
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payerror' => ////////////////////////////////////////////////////////////////////////

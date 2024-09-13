@@ -6309,7 +6309,7 @@ return [
 	'day-plan' => ////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1 day (24 hours) <span class="tooltip" data-tip="As noted in section 10.12 of our user agreement, daily plans have a 24-hour cycle (23 hours, 59 minutes, 59 seconds). Section 7 states daily plans don’t allow recording sharing or broadcasting via OBS Studio"></span>
+		1 day (24 hours) <span class="tooltip" data-tip="As noted in Section 10.12 of our user agreement, daily plans have a 24-hour cycle (23 hours, 59 minutes, and 59 seconds). Additionally, Section 7 states that daily plans do not allow recording sharing or broadcasting via OBS Studio"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'month-plan' => //////////////////////////////////////////////////////////////////////

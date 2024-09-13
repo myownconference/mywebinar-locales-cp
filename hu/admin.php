@@ -3207,13 +3207,13 @@ return [
 	'pay-status-failed' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		A bankja elutasította a fizetést
+		Fizetés elutasítva vagy törölve
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-status-sub-failed' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ennek oka lehet az elégtelen fedezet, a lejárt kártya vagy a nemzetközi tranzakciókra vonatkozó tiltás. Kérjük, lépjen kapcsolatba bankjával a probléma megoldása érdekében, vagy használjon más fizetési módot. Ha a fizetést elutasítják, fiókja automatikusan a díjmentes tervre kerül, ami korlátozhatja egyes funkciók elérését. Ha továbbra is problémái vannak a fizetéssel vagy a fiók aktiválásával, kérjük, ne habozzon kapcsolatba lépni online támogatói csapatunkkal segítségért.
+		A probléma oka lehet lemondás, elégtelen fedezet, lejárt kártya, vagy nemzetközi tranzakciós blokkolás. Kérjük, vegye fel a kapcsolatot a bankjával, vagy próbáljon meg egy másik fizetési módot.<br><br>Ha a fizetés nem sikerül, fiókja automatikusan átvált a korlátozott funkciójú ingyenes tervre
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-package-to' => ///////////////////////////////////////////////////////////////

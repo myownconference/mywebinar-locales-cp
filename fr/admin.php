@@ -3217,13 +3217,13 @@ return [
 	'pay-status-failed' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Votre banque a refusé le paiement
+		Paiement refusé ou annulé
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-status-sub-failed' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Cela pourrait être dû à un manque de fonds, une carte expirée, ou un blocage des transactions internationales. Veuillez contacter votre banque pour résoudre le problème ou utilisez une autre méthode de paiement. Une fois le paiement refusé, votre compte sera automatiquement rétrogradé au plan gratuit, limitant ainsi l‘accès à certaines fonctionnalités. Si vous rencontrez encore des difficultés avec les paiements ou l‘activation du compte, n‘hésitez pas à contacter notre équipe de support en ligne.
+		Le problème pourrait être dû à une annulation, des fonds insuffisants, une carte expirée ou des blocages de transactions internationales. Veuillez contacter votre banque ou essayer un autre moyen de paiement.<br><br>Si le paiement échoue, votre compte passera automatiquement au plan gratuit avec des fonctionnalités limitées
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-package-to' => ///////////////////////////////////////////////////////////////

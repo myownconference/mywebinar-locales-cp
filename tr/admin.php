@@ -3213,13 +3213,13 @@ return [
 	'pay-status-failed' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bankanız ödemeyi reddetti
+		Ödeme reddedildi veya iptal edildi
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-status-sub-failed' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bu, yetersiz bakiye, süresi dolmuş bir kart veya uluslararası işlemlere konulan bir engel nedeniyle olabilir. Lütfen sorunu çözmek için bankanızla iletişime geçin veya farklı bir ödeme yöntemi kullanın. Ödeme reddedildiğinde, hesabınız otomatik olarak ücretsiz plana düşürülecektir, bu da bazı özelliklere erişiminizi sınırlayabilir. Ödemelerde veya hesap aktivasyonunda sorun yaşamaya devam ederseniz, lütfen çevrim içi destek ekibimizle iletişime geçmekten çekinmeyin.
+		Sorun, iptal, yetersiz bakiye, süresi dolmuş kart veya uluslararası işlem engellerinden kaynaklanabilir. Lütfen bankanızla iletişime geçin veya başka bir ödeme yöntemi deneyin.<br><br>Ödeme başarısız olursa, hesabınız otomatik olarak sınırlı özelliklere sahip ücretsiz plana geçecektir
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-package-to' => ///////////////////////////////////////////////////////////////

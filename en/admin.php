@@ -3207,13 +3207,13 @@ return [
 	'pay-status-failed' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Payment was declined by the bank or canceled by you
+		Payment declined or canceled
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-status-sub-failed' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		This issue could be due to insufficient funds, an expired card, or a block on international transactions. Please contact your bank to resolve the issue or use a different payment method. If your payment is declined, your account will automatically be downgraded to the free plan, which may limit access to certain features. If you continue to have trouble with payments or account activation, please contact our online support team for assistance.
+		The issue could be due to cancellation, insufficient funds, expired card, or international transaction blocks. Please contact your bank or try another payment method.<br><br>If payment fails, your account will switch to the free plan with limited features
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-package-to' => ///////////////////////////////////////////////////////////////

@@ -3214,13 +3214,13 @@ return [
 	'pay-status-failed' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Twój bank odmówił płatności
+		Płatność odrzucona lub anulowana
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-status-sub-failed' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Może to być spowodowane niewystarczającymi środkami, wygasłą kartą lub blokadą transakcji międzynarodowych. Prosimy o kontakt z bankiem w celu rozwiązania problemu lub skorzystanie z innej metody płatności. Po odrzuceniu płatności twoje konto zostanie automatycznie przekształcone na plan darmowy, co może ograniczyć dostęp do niektórych funkcji. Jeśli nadal masz problemy z płatnościami lub aktywacją konta, skontaktuj się z naszym zespołem wsparcia online.
+		Problem może wynikać z anulowania, niewystarczających środków, wygasłej karty lub blokad transakcji międzynarodowych. Skontaktuj się ze swoim bankiem lub spróbuj innej metody płatności.<br><br>Jeśli płatność się nie powiedzie, konto zostanie automatycznie przełączone na darmowy plan z ograniczonymi funkcjami
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-package-to' => ///////////////////////////////////////////////////////////////

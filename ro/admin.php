@@ -3207,13 +3207,13 @@ return [
 	'pay-status-failed' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Banca dvs. a refuzat plata
+		Plata a fost refuzată sau anulată
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-status-sub-failed' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Acest lucru ar putea fi datorat fondurilor insuficiente, unui card expirat sau unui blocaj pe tranzacții internaționale. Vă rugăm să contactați banca pentru a rezolva problema sau să utilizați o altă metodă de plată. Odată ce plata a fost refuzată, contul dvs. va fi automat retrogradat la planul gratuit, ceea ce ar putea limita accesul la anumite funcții. Dacă continuați să aveți probleme cu plățile sau activarea contului, vă rugăm să nu ezitați să contactați echipa noastră de suport online.
+		Problema poate fi cauzată de anulare, fonduri insuficiente, card expirat sau blocări de tranzacții internaționale. Contactați banca sau încercați altă metodă de plată.<br><br>Dacă plata eșuează, contul va fi comutat automat la planul gratuit cu funcții limitate
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-package-to' => ///////////////////////////////////////////////////////////////

@@ -5733,7 +5733,7 @@ return [
 	'mails-statistic' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Posta istatistikleri <span class="tooltip" data-tip="E-posta kampanyalarınızın etkinliğini takip edin. Gönderilen e-postaların toplam sayısını, başarılı teslimatları ve başarısız teslimatları görüntüleyin"></span>
+		İstatistikler <span class="tooltip" data-tip="Webinar katılımı, katılımcı etkileşimi, coğrafi veriler ve e-posta performansı ile ilgili istatistiklere erişin, eğer posta sistemimizi kullanıyorsanız"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////

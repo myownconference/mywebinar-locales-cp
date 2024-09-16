@@ -5727,7 +5727,7 @@ return [
 	'mails-statistic' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mailing statistics <span class="tooltip" data-tip="Track your email outreach effectiveness. View the total number of email notifications sent, successful deliveries, and delivery failures"></span>
+		Statistics <span class="tooltip" data-tip="Access statistics on webinar participation, attendee engagement, geographic data, and email performance if you are using our mailing system"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////

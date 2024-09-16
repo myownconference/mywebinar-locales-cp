@@ -5727,7 +5727,7 @@ return [
 	'mails-statistic' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Statistici trimitere <span class="tooltip" data-tip="Urmărește eficiența campaniilor tale de e-mail. Vezi numărul total de e-mailuri trimise, livrările reușite și eșecurile de livrare"></span>
+		Statistici <span class="tooltip" data-tip="Accesează statistici despre participarea la webinar, implicarea participanților, date geografice și performanța e-mailurilor dacă utilizezi sistemul nostru de mailing"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////

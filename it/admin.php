@@ -5727,7 +5727,7 @@ return [
 	'mails-statistic' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Statistiche di invio <span class="tooltip" data-tip="Monitora l‘efficacia delle tue campagne email. Visualizza il numero totale di email inviate, le consegne riuscite e i fallimenti di consegna"></span>
+		Statistiche <span class="tooltip" data-tip="Accedi alle statistiche sulla partecipazione al webinar, il coinvolgimento dei partecipanti, i dati geografici e le prestazioni e-mail se stai utilizzando il nostro sistema di mailing"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////

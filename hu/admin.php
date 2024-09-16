@@ -5727,7 +5727,7 @@ return [
 	'mails-statistic' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Küldési statisztikák <span class="tooltip" data-tip="Kövesse nyomon e-mail kampányainak hatékonyságát. Tekintse meg az elküldött e-mailek számát, a sikeres kézbesítéseket és a sikertelen kézbesítéseket"></span>
+		Statisztikák <span class="tooltip" data-tip="Hozzáférés a webináriumi részvételi, résztvevői elkötelezettségi, földrajzi adatokhoz és az e-mail teljesítményhez, ha a levelezőrendszerünket használja"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////

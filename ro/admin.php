@@ -1782,6 +1782,12 @@ return [
 		Webcam, microfon, chat și zona de lucru <span class="tooltip" data-tip="When activated, the webinar recording will include the webcam feed, audio from the microphone, chat interactions, and the working area, ensuring a comprehensive capture of your webinar environment"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'record-camera-on-work-area' => //////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Plasează camerele web în zona de lucru <span class="tooltip" data-tip="Activează înregistrarea webinarului cu camerele web ale vorbitorilor plasate în zona de lucru. Alege dintre patru poziții: stânga sus, dreapta sus, stânga jos sau dreapta jos. Mai multe camere web vor fi aranjate în coloane"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'record-all' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

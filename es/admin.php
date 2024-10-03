@@ -1782,6 +1782,12 @@ return [
 		Grabar webcam, micrófono, chat y área de la presentación <span class="tooltip" data-tip="When activated, the webinar recording will include the webcam feed, audio from the microphone, chat interactions, and the working area, ensuring a comprehensive capture of your webinar environment"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'record-camera-on-work-area' => //////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Coloca las cámaras web en el área de trabajo <span class="tooltip" data-tip="Activa la grabación del seminario web con las cámaras de los ponentes colocadas en el área de trabajo. Elige entre cuatro posiciones: arriba a la izquierda, arriba a la derecha, abajo a la izquierda o abajo a la derecha. Varias cámaras se organizarán en columnas"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'record-all' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

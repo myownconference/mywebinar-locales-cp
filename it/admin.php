@@ -1782,6 +1782,12 @@ return [
 		Webcam, microfono, chat e area di lavoro <span class="tooltip" data-tip="When activated, the webinar recording will include the webcam feed, audio from the microphone, chat interactions, and the working area, ensuring a comprehensive capture of your webinar environment"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'record-camera-on-work-area' => //////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Posiziona le webcam sull‘area di lavoro <span class="tooltip" data-tip="Attiva la registrazione del webinar con le webcam dei relatori posizionate sull‘area di lavoro. Scegli tra quattro posizioni: in alto a sinistra, in alto a destra, in basso a sinistra o in basso a destra. Più webcam verranno disposte in colonne"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'record-all' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

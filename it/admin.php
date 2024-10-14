@@ -831,7 +831,7 @@ return [
 	'room-grid-records-view' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Eventi salvati <span class="tooltip" data-tip="Sfoglia qui le tue sessioni live archiviate. Questa sezione ti consente di rivedere e condividere eventi passati secondo necessità"></span>
+		Registrazioni e video <span class="tooltip" data-tip="Sfoglia qui le tue sessioni live archiviate. Questa sezione ti consente di rivedere e condividere eventi passati secondo necessità"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-links' => /////////////////////////////////////////////////////////////////

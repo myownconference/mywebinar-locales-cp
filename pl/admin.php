@@ -831,7 +831,7 @@ return [
 	'room-grid-records-view' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Zapisane wydarzenia <span class="tooltip" data-tip="Przeglądaj tutaj swoje zarchiwizowane sesje na żywo. Ta sekcja pozwala na ponowne odwiedzenie i udostępnienie swoich przeszłych wydarzeń w razie potrzeby"></span>
+		Nagrania i wideo <span class="tooltip" data-tip="Przeglądaj tutaj swoje zarchiwizowane sesje na żywo. Ta sekcja pozwala na ponowne odwiedzenie i udostępnienie przeszłych wydarzeń w razie potrzeby"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-links' => /////////////////////////////////////////////////////////////////

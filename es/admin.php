@@ -831,7 +831,7 @@ return [
 	'room-grid-records-view' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Eventos guardados <span class="tooltip" data-tip="Consulta tus sesiones en vivo archivadas aquí. Esta sección te permite volver a ver y compartir eventos pasados según lo necesites"></span>
+		Grabaciones y vídeos <span class="tooltip" data-tip="Navega por tus sesiones en vivo archivadas aquí. Esta sección te permite volver a visitar y compartir eventos pasados según sea necesario"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-links' => /////////////////////////////////////////////////////////////////

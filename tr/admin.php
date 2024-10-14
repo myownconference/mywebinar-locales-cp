@@ -831,7 +831,7 @@ return [
 	'room-grid-records-view' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kaydedilen etkinlikler <span class="tooltip" data-tip="Arşivlediğiniz canlı oturumlarınızı burada inceleyin. Bu bölüm, geçmiş etkinliklerinizi gerektiğinde yeniden gözden geçirmenizi ve paylaşmanızı sağlar"></span>
+		Kayıtlar ve videolar <span class="tooltip" data-tip="Arşivlenmiş canlı oturumlarınızı burada gözden geçirin. Bu bölüm, geçmiş etkinlikleri ihtiyaç duyduğunuzda yeniden ziyaret etmenizi ve paylaşmanızı sağlar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-links' => /////////////////////////////////////////////////////////////////

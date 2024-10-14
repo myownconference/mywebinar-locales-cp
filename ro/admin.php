@@ -831,7 +831,7 @@ return [
 	'room-grid-records-view' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Evenimente salvate <span class="tooltip" data-tip="Răsfoiți sesiunile dvs. live arhivate aici. Această secțiune vă permite să revizitați și să partajați evenimentele trecute după cum este necesar"></span>
+		Înregistrări și videoclipuri <span class="tooltip" data-tip="Răsfoiește aici sesiunile tale live arhivate. Această secțiune îți permite să revizitezi și să împărtășești evenimentele trecute după cum este necesar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-links' => /////////////////////////////////////////////////////////////////

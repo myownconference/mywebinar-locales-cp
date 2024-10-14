@@ -831,7 +831,7 @@ return [
 	'room-grid-records-view' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mentett események <span class="tooltip" data-tip="Böngésszen itt az archivált élő közvetítései között. Ez a rész lehetővé teszi, hogy szükség esetén újra megtekintse és megossza a korábbi eseményeket"></span>
+		Felvételek és videók <span class="tooltip" data-tip="Itt böngészheted az archivált élő közvetítéseidet. Ez a rész lehetővé teszi, hogy szükség szerint újra megnézd és megoszd a korábbi eseményeket"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-links' => /////////////////////////////////////////////////////////////////

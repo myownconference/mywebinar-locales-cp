@@ -6447,7 +6447,7 @@ return [
 	'payment-not-allowed-email' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ваш аккаунт зарегистрирован на почту в зоне .RU или .BY<br>Пожалуйста, обратитесь в поддержку для смены емейл адреса!
+		Ihr Konto ist mit einer E-Mail-Adresse registriert, die auf .RU oder .BY endet. Bitte kontaktieren Sie den Support, um Ihre E-Mail-Adresse zu aktualisieren
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

@@ -6483,7 +6483,7 @@ return [
 	'unassign-alert-text' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sind Sie sicher, dass Sie diese Einladung widerrufen möchten?<br><br>Dies wird den Moderator/Teilnehmer vom Webinar entfernen und den Zugriff entziehen
+		Sind Sie sicher, dass Sie diese Einladung widerrufen möchten?<br><br>Diese Aktion entfernt den Moderator oder Teilnehmer vom ausgewählten Webinar und widerruft den Zugriff, um weitere Teilnahme zu verhindern
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'unassign-alert-yes' => //////////////////////////////////////////////////////////////

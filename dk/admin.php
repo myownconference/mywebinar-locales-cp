@@ -6483,7 +6483,7 @@ return [
 	'unassign-alert-text' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Er du sikker på, at du vil tilbagekalde denne invitation?<br><br>Dette vil fjerne moderator/deltageren fra webinaret og fjerne deres adgang
+		Er du sikker på, at du vil tilbagekalde denne invitation?<br><br>Denne handling vil fjerne moderatoren eller deltageren fra det valgte webinar og tilbagekalde deres adgang, hvilket forhindrer yderligere deltagelse
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'unassign-alert-yes' => //////////////////////////////////////////////////////////////

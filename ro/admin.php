@@ -6483,7 +6483,7 @@ return [
 	'unassign-alert-text' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ești sigur că vrei să revoci această invitație?<br><br>Aceasta va elimina moderatorul/participantul din webinar și le va revoca accesul
+		Ești sigur că vrei să revoci această invitație?<br><br>Această acțiune va elimina moderatorul sau participantul de la webinarul selectat și le va revoca accesul, împiedicând participarea ulterioară
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'unassign-alert-yes' => //////////////////////////////////////////////////////////////

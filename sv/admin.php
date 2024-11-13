@@ -6483,7 +6483,7 @@ return [
 	'unassign-alert-text' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Är du säker på att du vill återkalla denna inbjudan?<br><br>Detta kommer att ta bort moderatorn/deltagaren från webbseminariet och ta bort deras åtkomst
+		Är du säker på att du vill återkalla denna inbjudan?<br><br>Denna åtgärd kommer att ta bort moderatorn eller deltagaren från det valda webbseminariet och återkalla deras åtkomst, vilket förhindrar fortsatt deltagande
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'unassign-alert-yes' => //////////////////////////////////////////////////////////////

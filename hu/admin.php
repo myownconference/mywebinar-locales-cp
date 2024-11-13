@@ -6483,7 +6483,7 @@ return [
 	'unassign-alert-text' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Biztos benne, hogy vissza szeretné vonni ezt a meghívást?<br><br>Ez eltávolítja a moderátort/résztvevőt a webináriumból és megszünteti hozzáférésüket
+		Biztos benne, hogy vissza szeretné vonni ezt a meghívást?<br><br>Ez a művelet eltávolítja a moderátort vagy a résztvevőt a kiválasztott webináról, és visszavonja hozzáférésüket, megakadályozva a további részvételt
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'unassign-alert-yes' => //////////////////////////////////////////////////////////////

@@ -6504,7 +6504,7 @@ return [
 	'unassign-alert-text' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Êtes-vous sûr de vouloir révoquer cette invitation?<br><br>Cela désassignera le modérateur/participant du webinaire et supprimera leur accès
+		Êtes-vous sûr de vouloir révoquer cette invitation?<br><br>Cette action désassignera le modérateur ou le participant du webinaire sélectionné et révoquera leur accès, empêchant toute participation future
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'unassign-alert-yes' => //////////////////////////////////////////////////////////////

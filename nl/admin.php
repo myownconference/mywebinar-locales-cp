@@ -6483,7 +6483,7 @@ return [
 	'unassign-alert-text' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Weet je zeker dat je deze uitnodiging wilt intrekken?<br><br>Dit zal de moderator/deelnemer van het webinar verwijderen en hun toegang intrekken
+		Weet je zeker dat je deze uitnodiging wilt intrekken?<br><br>Deze actie zal de moderator of deelnemer verwijderen van het geselecteerde webinar en hun toegang intrekken, waardoor verdere deelname wordt voorkomen
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'unassign-alert-yes' => //////////////////////////////////////////////////////////////

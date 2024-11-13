@@ -6483,7 +6483,7 @@ return [
 	'unassign-alert-text' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ali ste prepričani, da želite preklicati to povabilo?<br><br>To bo odstranilo moderatorja/udeleženca s spletnega seminarja in preklicalo njihov dostop
+		Ali ste prepričani, da želite preklicati to povabilo?<br><br>To dejanje bo odstranilo moderatorja ali udeleženca iz izbranega spletnega seminarja in preklicalo njihov dostop, kar preprečuje nadaljnjo udeležbo
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'unassign-alert-yes' => //////////////////////////////////////////////////////////////

@@ -2067,7 +2067,7 @@ return [
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permitir registrarse con Google <span class="tooltip" data-tip="Habilite la opción «Registrarse con Google» en sus formularios de registro y entrada al webinar. Esto permite a los asistentes unirse al webinar de manera rápida y segura usando sus cuentas de Google, facilitando y haciendo más conveniente el proceso de inicio de sesión. Es una excelente manera de simplificar el acceso y mejorar la experiencia del usuario para quienes usan servicios de Google"></span>
+		Permitir registro con cuentas sociales <span class="tooltip" data-tip="Habilita opciones de registro con cuentas sociales como Google y Microsoft en tus formularios de registro y acceso al webinar. Esto permite a los asistentes unirse rápidamente y de forma segura al webinar utilizando su inicio de sesión social preferido, agilizando el acceso y mejorando la experiencia del usuario para aquellos que utilizan estos servicios"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////

@@ -2068,7 +2068,7 @@ return [
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Autoriser l‘inscription avec Google <span class="tooltip" data-tip="Activez l‘option «S‘inscrire avec Google» sur vos formulaires d‘inscription et de connexion au webinaire. Cela permet aux participants de rejoindre rapidement et en toute sécurité le webinaire en utilisant leurs comptes Google, rendant le processus de connexion plus facile et plus pratique. C‘est un excellent moyen de simplifier l‘accès et d‘améliorer l‘expérience utilisateur pour ceux qui utilisent les services Google"></span>
+		Autoriser l‘inscription avec des comptes sociaux <span class="tooltip" data-tip="Activez les options d‘inscription avec des comptes sociaux comme Google et Microsoft sur vos formulaires d‘inscription et d‘entrée au webinaire. Cela permet aux participants de rejoindre rapidement et en toute sécurité le webinaire en utilisant leur connexion sociale préférée, simplifiant l‘accès et améliorant l‘expérience utilisateur pour ceux qui utilisent ces services"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////

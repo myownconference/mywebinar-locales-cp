@@ -2067,7 +2067,7 @@ return [
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Google ile kaydolmaya izin ver <span class="tooltip" data-tip="Webineri kayıt ve giriş formlarınızda «Google ile Kaydol» seçeneğini etkinleştirin. Bu, katılımcıların Google hesaplarını kullanarak webinerine hızlı ve güvenli bir şekilde katılmalarını sağlar, oturum açma sürecini kolaylaştırır ve daha kullanışlı hale getirir. Google hizmetlerini kullananlar için erişimi kolaylaştırmanın ve kullanıcı deneyimini iyileştirmenin harika bir yoludur"></span>
+		Sosyal hesaplarla kayıt olmayı etkinleştir <span class="tooltip" data-tip="Webinar kayıt ve giriş formlarınızda Google ve Microsoft gibi sosyal hesaplarla kayıt seçeneklerini etkinleştirin. Bu, katılımcıların tercih ettikleri sosyal girişlerini kullanarak webinara hızlı ve güvenli bir şekilde katılmalarına olanak tanır, erişimi kolaylaştırır ve bu hizmetleri kullananlar için kullanıcı deneyimini geliştirir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////

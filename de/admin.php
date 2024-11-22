@@ -2067,7 +2067,7 @@ return [
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Registrierung mit Google zulassen <span class="tooltip" data-tip="Aktivieren Sie die Option «Mit Google registrieren» in Ihren Webinar-Registrierungs- und Anmeldeformularen. Dies ermöglicht es den Teilnehmern, schnell und sicher über ihre Google-Konten am Webinar teilzunehmen, was den Anmeldevorgang einfacher und bequemer macht. Es ist eine großartige Möglichkeit, den Zugang zu erleichtern und die Benutzererfahrung für diejenigen zu verbessern, die Google-Dienste nutzen"></span>
+		Anmeldung mit sozialen Konten erlauben <span class="tooltip" data-tip="Aktivieren Sie Anmeldemöglichkeiten mit sozialen Konten wie Google und Microsoft in Ihren Webinar-Registrierungs- und Eintrittsformularen. Dies ermöglicht es Teilnehmern, schnell und sicher mit ihrem bevorzugten sozialen Login am Webinar teilzunehmen, was den Zugang erleichtert und die Benutzererfahrung für Nutzer dieser Dienste verbessert"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////

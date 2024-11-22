@@ -2068,7 +2068,7 @@ return [
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Zezwól na rejestrację przez Google <span class="tooltip" data-tip="Włącz opcję «Zarejestruj się za pomocą Google» w formularzach rejestracyjnych i wejściowych na webinar. Umożliwia to uczestnikom szybkie i bezpieczne dołączenie do webinaru za pomocą kont Google, co ułatwia i upraszcza proces logowania. Jest to świetny sposób na uproszczenie dostępu i poprawę doświadczenia użytkowników korzystających z usług Google"></span>
+		Zezwól na rejestrację za pomocą kont społecznościowych <span class="tooltip" data-tip="Włącz opcje rejestracji za pomocą kont społecznościowych, takich jak Google i Microsoft, w formularzach rejestracji i dostępu do webinaru. Dzięki temu uczestnicy mogą szybko i bezpiecznie dołączyć do webinaru, korzystając z preferowanego logowania społecznościowego, co upraszcza dostęp i poprawia wrażenia użytkownika dla osób korzystających z tych usług"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////

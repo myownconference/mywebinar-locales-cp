@@ -2067,7 +2067,7 @@ return [
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Consenti registrazione con Google <span class="tooltip" data-tip="Abilita l‘opzione «Iscriviti con Google» sui tuoi moduli di registrazione e accesso al webinar. Questo consente ai partecipanti di accedere rapidamente e in sicurezza al webinar utilizzando i propri account Google, rendendo il processo di accesso più semplice e conveniente. È un ottimo modo per semplificare l‘accesso e migliorare l‘esperienza utente per chi utilizza i servizi Google"></span>
+		Consenti l‘iscrizione con account social <span class="tooltip" data-tip="Abilita opzioni di iscrizione con account social come Google e Microsoft nei moduli di registrazione e accesso al webinar. Questo consente ai partecipanti di accedere rapidamente e in sicurezza al webinar utilizzando il loro login social preferito, semplificando l‘accesso e migliorando l‘esperienza utente per coloro che utilizzano questi servizi"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////

@@ -2067,7 +2067,7 @@ return [
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Allow sign up with Google <span class="tooltip" data-tip="Enable a «Sign up with Google» option on your webinar registration and entry forms. This allows attendees to quickly and securely join the webinar using their Google accounts, making the login process easier and more convenient. It‘s a great way to streamline access and improve the user experience for those who use Google services"></span>
+		Leisti registruotis naudojant socialinius tinklus <span class="tooltip" data-tip="Įgalinkite registracijos su socialiniais tinklais, pvz., Google ir Microsoft, parinktis savo internetinio seminaro registracijos ir įėjimo formose. Tai leidžia dalyviams greitai ir saugiai prisijungti prie seminaro naudojant jų pageidaujamą socialinį prisijungimą, supaprastinant prieigą ir pagerinant naudotojų patirtį tiems, kurie naudojasi šiomis paslaugomis"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////

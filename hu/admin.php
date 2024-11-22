@@ -2067,7 +2067,7 @@ return [
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Google regisztráció engedélyezése <span class="tooltip" data-tip="Engedélyezze a «Google-fiókkal történő regisztráció» lehetőséget a webinárium regisztrációs és belépési űrlapjain. Ez lehetővé teszi a résztvevők számára, hogy Google-fiókjaik használatával gyorsan és biztonságosan csatlakozzanak a webináriumhoz, megkönnyítve és kényelmesebbé téve a bejelentkezési folyamatot. Ez egy nagyszerű módja annak, hogy egyszerűsítse a hozzáférést, és javítsa a felhasználói élményt a Google szolgáltatásait használók számára"></span>
+		Engedélyezze a regisztrációt közösségi fiókokkal <span class="tooltip" data-tip="Engedélyezze a regisztrációs lehetőségeket olyan közösségi fiókokkal, mint a Google és a Microsoft, a webináriumi regisztrációs és belépési űrlapokon. Ez lehetővé teszi a résztvevők számára, hogy gyorsan és biztonságosan csatlakozzanak a webináriumhoz kedvenc közösségi bejelentkezésüket használva, egyszerűsítve a hozzáférést és javítva a felhasználói élményt azok számára, akik ezeket a szolgáltatásokat használják"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////

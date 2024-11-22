@@ -2067,7 +2067,7 @@ return [
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permiteți înscrierea cu Google <span class="tooltip" data-tip="Activați opțiunea «Înscrieți-vă cu Google» pe formularele de înregistrare și acces la webinar. Aceasta permite participanților să se alăture rapid și în siguranță webinarului folosindu-și conturile Google, facilitând și simplificând procesul de autentificare. Este o modalitate excelentă de a simplifica accesul și de a îmbunătăți experiența utilizatorilor care folosesc serviciile Google"></span>
+		Permite înscrierea cu conturi sociale <span class="tooltip" data-tip="Activează opțiunile de înscriere cu conturi sociale, precum Google și Microsoft, în formularele de înregistrare și acces la webinar. Acest lucru le permite participanților să se alăture rapid și în siguranță la webinar folosind autentificarea socială preferată, simplificând accesul și îmbunătățind experiența utilizatorului pentru cei care folosesc aceste servicii"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////

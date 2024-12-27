@@ -1755,13 +1755,13 @@ return [
 	'record-options' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tercihler <span class="tooltip" data-tip="Personalise your webinar recording settings to capture precisely what matters most to you. Whether you aim to highlight a specific section or record the entire webinar room, adjust your selections to meet your requirements. Remember to save your preferences and review them before each session to guarantee the best recording quality"></span>
+		Mod <span class="tooltip" data-tip="Kaydetmek istediğiniz ihtiyaçlarınızı karşılayacak şekilde kayıt ayarlarını özelleştirin. Kameralar, mikrofonlar, çalışma alanı ve arayüz dahil her şeyi kaydetmeyi seçin; kameralar ve mikrofonlarla çalışma alanına odaklanın; veya kaydı sadece kameralar ve mikrofonlarla sınırlayın. Ayarlarınızı önceliklerinize göre düzenleyin"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-only-webcams' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Yalnızca web kamerası ve mikrofon <span class="tooltip" data-tip="Etkinleştirildiğinde, webineri videosu yalnızca web kamerası beslemesine ve mikrofon sesine odaklanır ve çalışma alanındaki diğer tüm öğeleri dışarıda bırakır. Lütfen maksimum web kamerası çözünürlüğünün 480p olduğunu ve web kameranızın son videoda bu çözünürlükte görüneceğini unutmayın"></span>
+		Sadece kameralar ve mikrofonlar
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto' => /////////////////////////////////////////////////////////////////////
@@ -1785,7 +1785,7 @@ return [
 	'record-cams-and-slides' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Web kamerası, mikrofon ve çalışma alanı <span class="tooltip" data-tip="When activated, the webinar recording will capture the webcam feed, audio from the microphone, and the working area with your presentation, video, or screen sharing, excluding other elements or activities outside this scope"></span>
+		Kameralar, mikrofonlar ve çalışma alanı
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-cams-slides-chat' => /////////////////////////////////////////////////////////
@@ -1803,7 +1803,7 @@ return [
 	'record-all' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Seçici olarak <span class="tooltip" data-tip="Etkinleştirildiğinde, webineri videosu, webineri odasının seçilen bölümünü kaydedecektir. Sunucunun adını gizlemeyi veya göstermeyi, genel sohbeti dahil etmeyi veya hariç tutmayı seçerek kaydınızı özelleştirebilirsiniz"></span>
+		Kameralar, mikrofonlar, çalışma alanı ve arayüz
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-userlist' => /////////////////////////////////////////////////////////////////

@@ -1755,13 +1755,13 @@ return [
 	'record-options' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Preferences <span class="tooltip" data-tip="Personalize your webinar video settings to focus on exactly what matters most to you. Whether you want to highlight a specific section or save the entire webinar room, adjust your settings to fit your needs. Remember to save your preferences and review them before each session to ensure the best video quality"></span>
+		Tila <span class="tooltip" data-tip="Mukauta tallennusasetuksia tallentaaksesi juuri sen, mitä tarvitset. Valitse tallentaa kaikki, mukaan lukien kamerat, mikrofonit, työalue ja käyttöliittymä; keskity työalueeseen kameroiden ja mikrofonien kanssa; tai rajoita tallennus vain kameroihin ja mikrofoneihin. Säädä asetukset vastaamaan prioriteettejasi"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-only-webcams' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webcam and microphone only <span class="tooltip" data-tip="When activated, the webinar video will focus only on your webcam feed and microphone audio, leaving out all other elements from the workspace. Please note, the maximum webcam resolution is 480p, and your webcam will appear in the final video at this resolution"></span>
+		Vain kamerat ja mikrofonit
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto' => /////////////////////////////////////////////////////////////////////
@@ -1785,7 +1785,7 @@ return [
 	'record-cams-and-slides' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webcam, microphone, and working area <span class="tooltip" data-tip="When enabled, the webinar will include the webcam feed, microphone audio, and the working area, such as your presentation, video, or screen sharing, excluding other elements or activities outside this scope"></span>
+		Kamerat, mikrofonit ja työalue
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-cams-slides-chat' => /////////////////////////////////////////////////////////
@@ -1803,7 +1803,7 @@ return [
 	'record-all' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Selectively <span class="tooltip" data-tip="When enabled, the webinar will include only the specific parts of the session you choose to highlight. You can personalize what’s shown, such as hiding or displaying the presenter’s name, including or excluding the public chat, and so on"></span>
+		Kamerat, mikrofonit, työalue ja käyttöliittymä
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-userlist' => /////////////////////////////////////////////////////////////////

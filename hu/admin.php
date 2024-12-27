@@ -1755,13 +1755,13 @@ return [
 	'record-options' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Beállítások <span class="tooltip" data-tip="Személyre szabhatja webinárium felvételi beállításait, hogy pontosan azt rögzítse, ami Önnek a legfontosabb. Akár egy adott szakaszt szeretne kiemelni, akár az egész webinárium szobát rögzíteni, állítsa be választásait igényei szerint. Ne felejtse el elmenteni beállításait, és minden egyes alkalommal átnézni azokat a legjobb felvételi minőség biztosítása érdekében"></span>
+		Mód <span class="tooltip" data-tip="Testreszabhatja a rögzítési beállításokat, hogy pontosan azt rögzítse, amire szüksége van. Válassza az összes rögzítését, beleértve a kamerákat, mikrofonokat, munkaterületet és felületet; összpontosítson a munkaterületre kamerákkal és mikrofonokkal; vagy korlátozza a rögzítést csak kamerákra és mikrofonokra. Igazítsa a beállításokat prioritásaihoz"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-only-webcams' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Csak webkamera és mikrofon <span class="tooltip" data-tip="Amikor aktiválva van, a webinárium videója kizárólag az Ön webkamera képére és a mikrofon hangjára összpontosít, kizárva a munkaterület összes többi elemét. Kérjük, vegye figyelembe, hogy a webkamera maximális felbontása 480p, és a webkamerája ebben a felbontásban jelenik meg a végső videóban"></span>
+		Csak kamerák és mikrofonok
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto' => /////////////////////////////////////////////////////////////////////
@@ -1785,7 +1785,7 @@ return [
 	'record-cams-and-slides' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webcam, mikrofon és munkaterület <span class="tooltip" data-tip="Ha aktiválva van, a webinárium felvétele rögzíti a webcam képét, a mikrofon hangját, valamint a munkaterületet a prezentációval, videóval vagy képernyőmegosztással, kizárva az ezen kívüli elemeket vagy tevékenységeket"></span>
+		Kamerák, mikrofonok és munkaterület
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-cams-slides-chat' => /////////////////////////////////////////////////////////
@@ -1803,7 +1803,7 @@ return [
 	'record-all' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Szelektíven <span class="tooltip" data-tip="Ha engedélyezve van, a webinárium videó rögzíti a webináriumi szoba kiválasztott részét. Testreszabhatja a felvételt azzal, hogy elrejti vagy megjeleníti az előadó nevét, belefoglalja vagy kizárja a nyilvános csevegést stb"></span>
+		Kamerák, mikrofonok, munkaterület és felület
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-userlist' => /////////////////////////////////////////////////////////////////

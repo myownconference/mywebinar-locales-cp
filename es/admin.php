@@ -1755,13 +1755,13 @@ return [
 	'record-options' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Preferencias <span class="tooltip" data-tip="Personalise your webinar recording settings to capture precisely what matters most to you. Whether you aim to highlight a specific section or record the entire webinar room, adjust your selections to meet your requirements. Remember to save your preferences and review them before each session to guarantee the best recording quality"></span>
+		Modo <span class="tooltip" data-tip="Personaliza la configuración de grabación para capturar exactamente lo que necesitas. Elige grabar todo, incluidas cámaras, micrófonos, área de trabajo e interfaz; enfócate en el área de trabajo con cámaras y micrófonos; o limita la grabación solo a cámaras y micrófonos. Ajusta la configuración para adaptarla a tus prioridades"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-only-webcams' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Solo cámara web y micrófono <span class="tooltip" data-tip="Cuando está activado, el video del webinar se centrará únicamente en la transmisión de la cámara web y el audio del micrófono, excluyendo todos los demás elementos del área de trabajo. Tenga en cuenta que la resolución máxima de la cámara web es de 480p, y su cámara web aparecerá en el video final a esta resolución"></span>
+		Solo cámaras y micrófonos
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto' => /////////////////////////////////////////////////////////////////////
@@ -1785,7 +1785,7 @@ return [
 	'record-cams-and-slides' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Grabar webcam, micrófono y área de la presentación <span class="tooltip" data-tip="When activated, the webinar recording will capture the webcam feed, audio from the microphone, and the working area with your presentation, video, or screen sharing, excluding other elements or activities outside this scope"></span>
+		Cámaras, micrófonos y área de trabajo
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-cams-slides-chat' => /////////////////////////////////////////////////////////
@@ -1803,7 +1803,7 @@ return [
 	'record-all' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Selectiva <span class="tooltip" data-tip="Cuando está habilitado, el video del webinario capturará la parte seleccionada de la sala del webinario. Puede personalizar su grabación eligiendo ocultar o mostrar el nombre del presentador, incluir o excluir el chat público, y así sucesivamente"></span>
+		Cámaras, micrófonos, área de trabajo e interfaz
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-userlist' => /////////////////////////////////////////////////////////////////

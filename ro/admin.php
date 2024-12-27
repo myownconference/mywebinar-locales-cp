@@ -1755,13 +1755,13 @@ return [
 	'record-options' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Preferințe <span class="tooltip" data-tip="Personalise your webinar recording settings to capture precisely what matters most to you. Whether you aim to highlight a specific section or record the entire webinar room, adjust your selections to meet your requirements. Remember to save your preferences and review them before each session to guarantee the best recording quality"></span>
+		Mod <span class="tooltip" data-tip="Personalizați setările de înregistrare pentru a captura exact ceea ce aveți nevoie. Alegeți să înregistrați totul, inclusiv camerele, microfoanele, zona de lucru și interfața; concentrați-vă pe zona de lucru cu camere și microfoane; sau limitați înregistrarea doar la camere și microfoane. Ajustați setările în funcție de prioritățile dvs"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-only-webcams' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Doar webcam și microfon <span class="tooltip" data-tip="Când este activat, videoclipul webinarului se va concentra exclusiv pe fluxul de la webcam și pe sunetul microfonului, excluzând toate celelalte elemente din zona de lucru. Rețineți că rezoluția maximă a camerei web este 480p, iar camera dvs. web va apărea în videoclipul final la această rezoluție"></span>
+		Doar camere și microfoane
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto' => /////////////////////////////////////////////////////////////////////
@@ -1785,7 +1785,7 @@ return [
 	'record-cams-and-slides' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webcam, microfon și zona de lucru <span class="tooltip" data-tip="When activated, the webinar recording will capture the webcam feed, audio from the microphone, and the working area with your presentation, video, or screen sharing, excluding other elements or activities outside this scope"></span>
+		Camere, microfoane și zonă de lucru
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-cams-slides-chat' => /////////////////////////////////////////////////////////
@@ -1803,7 +1803,7 @@ return [
 	'record-all' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Selectiv <span class="tooltip" data-tip="Când este activată, videoclipul webinarului va captura partea selectată a sălii de webinar. Puteți personaliza înregistrarea alegând să ascundeți sau să afișați numele prezentatorului, să includeți sau să excludeți chatul public și așa mai departe"></span>
+		Camere, microfoane, zonă de lucru și interfață
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-userlist' => /////////////////////////////////////////////////////////////////

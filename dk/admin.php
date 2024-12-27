@@ -1983,19 +1983,19 @@ return [
 	'room-options-broadcasting-type' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Streaming source <span class="tooltip" data-tip="Our webinar and video conferencing platform supports three distinct streaming sources:<br><br>• WebRTC – All webinar speakers will utilise the browser-based WebRTC protocol via UDP when streaming their webcam and microphone. To leverage the full potential of this technology, a fast and reliable internet connection is imperative.<br><br>• Plugin DTS – All our webinar speakers can easily download our secure DTS plugin. It works smoothly for webcam and microphone streaming, even on slower internet connections. Created by our team, this plugin minimizes delays. So, even on a not-so-great internet connection, you‘ll experience a lag of up to 3 seconds from real-time.<br><br>• OBS – Only one webinar speaker is permitted to use OBS studio for high-definition streaming, offering up to 1080p quality. However, please note there might be a substantial latency of over 20 seconds"></span>
+		Streaming source <span class="tooltip" data-tip="Our webinar and video conferencing platform supports three distinct streaming sources:<br><br>• WebRTC – All webinar speakers will utilise the browser-based WebRTC protocol via UDP when streaming their webcam and microphone. To leverage the full potential of this technology, a fast and reliable internet connection is imperative.<br><br>• Plugin DTS – All our webinar speakers can easily download our secure DTS plugin. It works smoothly for webcam and microphone streaming, even on slower internet connections. Created by our team, this plugin minimizes delays. So, even on a not-so-great internet connection, you‘ll experience a lag of up to 3 seconds from real-time.<br><br>• OBS Studio – Only one webinar speaker is permitted to use OBS studio for high-definition streaming, offering up to 1080p quality. However, please note there might be a substantial latency of over 20 seconds"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-browser' => //////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		WebRTC <span class="tooltip" data-tip="All webinar speakers will utilise the browser-based WebRTC protocol via UDP when streaming their webcam and microphone. To leverage the full potential of this technology, a fast and reliable internet connection is imperative"></span>
+		Indbygget WebRTC-teknologi
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-plugin' => ///////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Plugin DTS <span class="tooltip" data-tip="All our webinar speakers can easily download our secure DTS plugin. It works smoothly for webcam and microphone streaming, even on slower internet connections. Created by our team, this plugin minimizes delays. So, even on a not-so-great internet connection, you‘ll experience a lag of up to 3 seconds from real-time"></span>
+		Downloadbart DTS-plugin
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-conference' => //////////////////////////////////////////////////
@@ -5181,7 +5181,7 @@ return [
 	'room-options-obs' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		OBS <span class="tooltip" data-tip="Only one webinar speaker is permitted to use OBS studio for high-definition streaming, offering up to 1080p quality. However, please note there might be a substantial latency of over 20 seconds"></span>
+		Program OBS Studio
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-links-moder' => /////////////////////////////////////////////////////////////

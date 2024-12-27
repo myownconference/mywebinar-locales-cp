@@ -1983,19 +1983,19 @@ return [
 	'room-options-broadcasting-type' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Stream forrás <span class="tooltip" data-tip="Webinárium és videokonferencia platformunk három különböző stream forrást támogat:<br><br>• WebRTC – Minden webinárium előadó a böngésző alapú WebRTC protokollt használja UDP-n keresztül, amikor streameli a webcamját és mikrofonját. A technológia teljes potenciáljának kihasználásához gyors és megbízható internetkapcsolat szükséges.<br><br>• Plugin DTS – Minden webinárium előadó könnyedén letöltheti biztonságos DTS bővítményünket. Ez zökkenőmentesen működik a webcam és mikrofon streameléséhez, még lassabb internetkapcsolaton is. Csapatunk által kifejlesztett pluginunk minimális késleltetést biztosít. Tehát még egy nem túl jó internetkapcsolaton is legfeljebb 3 másodperces késést tapasztalhat a valós idejű streamhez képest.<br><br>• OBS – Csak egy webinárium előadó engedélyezett az OBS stúdió használatára nagyfelbontású streameléshez, akár 1080p minőségben. Azonban kérjük, vegye figyelembe, hogy jelentős késleltetés lehet, több mint 20 másodperc"></span>
+		Stream forrás <span class="tooltip" data-tip="Webinárium és videokonferencia platformunk három különböző stream forrást támogat:<br><br>• WebRTC – Minden webinárium előadó a böngésző alapú WebRTC protokollt használja UDP-n keresztül, amikor streameli a webcamját és mikrofonját. A technológia teljes potenciáljának kihasználásához gyors és megbízható internetkapcsolat szükséges.<br><br>• Plugin DTS – Minden webinárium előadó könnyedén letöltheti biztonságos DTS bővítményünket. Ez zökkenőmentesen működik a webcam és mikrofon streameléséhez, még lassabb internetkapcsolaton is. Csapatunk által kifejlesztett pluginunk minimális késleltetést biztosít. Tehát még egy nem túl jó internetkapcsolaton is legfeljebb 3 másodperces késést tapasztalhat a valós idejű streamhez képest.<br><br>• OBS Studio – Csak egy webinárium előadó engedélyezett az OBS stúdió használatára nagyfelbontású streameléshez, akár 1080p minőségben. Azonban kérjük, vegye figyelembe, hogy jelentős késleltetés lehet, több mint 20 másodperc"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-browser' => //////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		WebRTC <span class="tooltip" data-tip="Minden webinárium előadó a böngésző alapú WebRTC protokollt használja UDP-n keresztül, amikor streameli a webcamját és mikrofonját. A technológia teljes potenciáljának kihasználásához gyors és megbízható internetkapcsolat szükséges"></span>
+		Beépített WebRTC technológia
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-plugin' => ///////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Plugin DTS <span class="tooltip" data-tip="Minden webinárium előadó könnyedén letöltheti biztonságos DTS bővítményünket. Ez zökkenőmentesen működik a webcam és mikrofon streameléséhez, még lassabb internetkapcsolaton is. Csapatunk által kifejlesztett pluginunk minimális késleltetést biztosít. Tehát még egy nem túl jó internetkapcsolaton is legfeljebb 3 másodperces késést tapasztalhat a valós idejű streamhez képest"></span>
+		Letölthető DTS bővítmény
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-conference' => //////////////////////////////////////////////////
@@ -5181,7 +5181,7 @@ return [
 	'room-options-obs' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		OBS
+		Program OBS Studio
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-links-moder' => /////////////////////////////////////////////////////////////

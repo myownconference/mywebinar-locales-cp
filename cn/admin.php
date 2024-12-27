@@ -1983,19 +1983,19 @@ return [
 	'room-options-broadcasting-type' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		流媒体源 <span class="tooltip" data-tip="我们的网络研讨会和视频会议平台支持三种不同的流媒体来源：<br><br>• WebRTC – 所有网络研讨会讲师将通过UDP使用基于浏览器的WebRTC协议来流式传输他们的网络摄像头和麦克风。为了充分利用这项技术的潜力，快速且可靠的互联网连接是必不可少的。<br><br>• 插件 DTS – 我们的所有网络研讨会讲师都可以轻松下载我们的安全DTS插件。即使在较慢的互联网连接上，它也能顺畅地用于网络摄像头和麦克风流式传输。该插件由我们的团队创建，可最大限度地减少延迟。因此，即使在不太理想的互联网连接上，您也只会经历最多3秒的实时延迟。<br><br>• OBS – 只允许一位网络研讨会讲师使用OBS工作室进行高清流媒体传输，提供高达1080p的质量。但请注意，可能会有超过20秒的显著延迟"></span>
+		流媒体源 <span class="tooltip" data-tip="我们的网络研讨会和视频会议平台支持三种不同的流媒体来源：<br><br>• WebRTC – 所有网络研讨会讲师将通过UDP使用基于浏览器的WebRTC协议来流式传输他们的网络摄像头和麦克风。为了充分利用这项技术的潜力，快速且可靠的互联网连接是必不可少的。<br><br>• 插件 DTS – 我们的所有网络研讨会讲师都可以轻松下载我们的安全DTS插件。即使在较慢的互联网连接上，它也能顺畅地用于网络摄像头和麦克风流式传输。该插件由我们的团队创建，可最大限度地减少延迟。因此，即使在不太理想的互联网连接上，您也只会经历最多3秒的实时延迟。<br><br>• OBS Studio – 只允许一位网络研讨会讲师使用OBS工作室进行高清流媒体传输，提供高达1080p的质量。但请注意，可能会有超过20秒的显著延迟"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-browser' => //////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		WebRTC <span class="tooltip" data-tip="所有网络研讨会讲师将通过UDP使用基于浏览器的WebRTC协议来流式传输他们的网络摄像头和麦克风。为了充分利用这项技术的潜力，快速且可靠的互联网连接是必不可少的"></span>
+		内置 WebRTC 技术
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-plugin' => ///////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		插件 DTS <span class="tooltip" data-tip="All our webinar speakers can easily download our secure DTS plugin. It works smoothly for webcam and microphone streaming, even on slower internet connections. Created by our team, this plugin minimizes delays. So, even on a not-so-great internet connection, you‘ll experience a lag of up to 3 seconds from real-time"></span>
+		可下载的 DTS 插件
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-conference' => //////////////////////////////////////////////////
@@ -5181,7 +5181,7 @@ return [
 	'room-options-obs' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		OBS <span class="tooltip" data-tip="Only one webinar speaker is permitted to use OBS studio for high-definition streaming, offering up to 1080p quality. However, please note there might be a substantial latency of over 20 seconds"></span>
+		OBS Studio 软件
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-links-moder' => /////////////////////////////////////////////////////////////

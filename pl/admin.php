@@ -1984,19 +1984,19 @@ return [
 	'room-options-broadcasting-type' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Technologia transmisji <span class="tooltip" data-tip="Nasza platforma do webinarów i wideokonferencji obsługuje trzy różne źródła strumieniowania:<br><br>• WebRTC – Wszyscy prelegenci webinarów będą korzystać z protokołu WebRTC opartego na przeglądarce za pośrednictwem UDP podczas strumieniowania swojej kamery internetowej i mikrofonu. Aby wykorzystać pełny potencjał tej technologii, niezbędne jest szybkie i niezawodne połączenie internetowe.<br><br>• Wtyczka DTS – Wszyscy nasi prelegenci webinarów mogą łatwo pobrać naszą bezpieczną wtyczkę DTS. Działa płynnie przy strumieniowaniu kamery internetowej i mikrofonu, nawet przy wolniejszych połączeniach internetowych. Stworzona przez nasz zespół, ta wtyczka minimalizuje opóźnienia. Więc nawet przy niezbyt dobrym połączeniu internetowym doświadczysz opóźnienia do 3 sekund od rzeczywistości.<br><br>• OBS – Tylko jeden prelegent webinaru może korzystać z OBS Studio do strumieniowania w wysokiej rozdzielczości, oferując jakość do 1080p. Jednakże proszę zauważyć, że może wystąpić znaczne opóźnienie, przekraczające 20 sekund"></span>
+		Technologia transmisji <span class="tooltip" data-tip="Nasza platforma do webinarów i wideokonferencji obsługuje trzy różne źródła strumieniowania:<br><br>• WebRTC – Wszyscy prelegenci webinarów będą korzystać z protokołu WebRTC opartego na przeglądarce za pośrednictwem UDP podczas strumieniowania swojej kamery internetowej i mikrofonu. Aby wykorzystać pełny potencjał tej technologii, niezbędne jest szybkie i niezawodne połączenie internetowe.<br><br>• Wtyczka DTS – Wszyscy nasi prelegenci webinarów mogą łatwo pobrać naszą bezpieczną wtyczkę DTS. Działa płynnie przy strumieniowaniu kamery internetowej i mikrofonu, nawet przy wolniejszych połączeniach internetowych. Stworzona przez nasz zespół, ta wtyczka minimalizuje opóźnienia. Więc nawet przy niezbyt dobrym połączeniu internetowym doświadczysz opóźnienia do 3 sekund od rzeczywistości.<br><br>• OBS Studio – Tylko jeden prelegent webinaru może korzystać z OBS Studio do strumieniowania w wysokiej rozdzielczości, oferując jakość do 1080p. Jednakże proszę zauważyć, że może wystąpić znaczne opóźnienie, przekraczające 20 sekund"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-browser' => //////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		WebRTC <span class="tooltip" data-tip="Wszyscy prelegenci webinarów będą korzystać z protokołu WebRTC opartego na przeglądarce za pośrednictwem UDP podczas strumieniowania swojej kamery internetowej i mikrofonu. Aby wykorzystać pełny potencjał tej technologii, niezbędne jest szybkie i niezawodne połączenie internetowe"></span>
+		Wbudowana technologia WebRTC
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-plugin' => ///////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Plugin DTS <span class="tooltip" data-tip="Wszyscy nasi prelegenci webinarów mogą łatwo pobrać naszą bezpieczną wtyczkę DTS. Działa płynnie przy strumieniowaniu kamery internetowej i mikrofonu, nawet przy wolniejszych połączeniach internetowych. Stworzona przez nasz zespół, ta wtyczka minimalizuje opóźnienia. Więc nawet przy niezbyt dobrym połączeniu internetowym doświadczysz opóźnienia do 3 sekund od rzeczywistości"></span>
+		Pobieralna wtyczka DTS
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-conference' => //////////////////////////////////////////////////
@@ -5208,7 +5208,7 @@ return [
 	'room-options-obs' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		OBS <span class="tooltip" data-tip="Tylko jeden prelegent webinarium może korzystać z OBS Studio do strumieniowania w wysokiej definicji, oferując jakość do 1080p. Należy jednak zauważyć, że może wystąpić znaczne opóźnienie, przekraczające 20 sekund"></span>
+		Program OBS Studio
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-links-moder' => /////////////////////////////////////////////////////////////

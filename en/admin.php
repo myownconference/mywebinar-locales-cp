@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permissions <span class="tooltip" data-tip="Use this feature to assign varied access levels to your webinar moderators. By customising permissions, you give each moderator the appropriate level of control and access for their role, promoting a smooth and orderly webinar experience"></span>
+		Permissions <span class="tooltip" data-tip="Use this feature to assign varied access levels to your webinar moderators.<br><br>• Administrator - The main webinar room administrator with full control and access to all features;<br><br>• Moderator, Speaker - Standard access for moderators or speakers, suitable for those who assist in managing the webinar or deliver presentations.<br><br>• Invited Presenter - A guest presenter role with limited rights, ideal for one-time contributors or external speakers.<br><br>By customizing permissions, you ensure a smooth and orderly webinar experience tailored to each participant‘s role."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4400,7 +4400,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderator
+		Moderator, speaker
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////

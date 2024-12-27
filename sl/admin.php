@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permissions <span class="tooltip" data-tip="Use this feature to assign varied access levels to your webinar moderators. By customising permissions, you give each moderator the appropriate level of control and access for their role, promoting a smooth and orderly webinar experience"></span>
+		Dovoljenja <span class="tooltip" data-tip="Uporabite to funkcijo za dodeljevanje različnih ravni dostopa moderatorjem spletnega seminarja.<br><br>• Administrator - Glavni administrator sobe spletnega seminarja s popolnim nadzorom in dostopom do vseh funkcij;<br><br>• Moderator, Govornik - Standardni dostop za moderatorje ali govornike, primeren za tiste, ki pomagajo pri upravljanju spletnega seminarja ali vodijo predstavitve;<br><br>• Povabljeni Predstavitelj - Vloga gostujočega predstavitelja z omejenimi pravicami, idealna za enkratne sodelavce ali zunanje govornike.<br><br>Prilagajanjem dovoljenj zagotovite nemoteno in organizirano izkušnjo spletnega seminarja, prilagojeno vlogi vsakega udeleženca"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4400,7 +4400,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderator
+		Moderator, govornik
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////
@@ -4412,7 +4412,7 @@ return [
 	'moderator-perm-speaker' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Invited presenter
+		Povabljeni predstavitelj
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-speaker-desc' => /////////////////////////////////////////////////////

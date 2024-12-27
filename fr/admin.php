@@ -4396,7 +4396,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Autorisations <span class="tooltip" data-tip="Use this feature to assign varied access levels to your webinar moderators. By customising permissions, you give each moderator the appropriate level of control and access for their role, promoting a smooth and orderly webinar experience"></span>
+		Autorisations <span class="tooltip" data-tip="Utilisez cette fonctionnalité pour attribuer différents niveaux d‘accès aux modérateurs de votre webinaire.<br><br>• Administrateur - L’administrateur principal de la salle du webinaire avec un contrôle total et un accès à toutes les fonctionnalités;<br><br>• Modérateur, Intervenant - Accès standard pour les modérateurs ou les intervenants, adapté à ceux qui assistent à la gestion du webinaire ou présentent;<br><br>• Présentateur Invité - Un rôle de présentateur invité avec des droits limités, idéal pour les contributeurs ponctuels ou les intervenants externes.<br><br>En personnalisant les autorisations, vous assurez une expérience de webinaire fluide et organisée, adaptée au rôle de chaque participant"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4420,7 +4420,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Modérateur
+		Modérateur, intervenant
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////

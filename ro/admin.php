@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permisiuni <span class="tooltip" data-tip="Use this feature to assign varied access levels to your webinar moderators. By customising permissions, you give each moderator the appropriate level of control and access for their role, promoting a smooth and orderly webinar experience"></span>
+		Permisiuni <span class="tooltip" data-tip="Folosiți această funcție pentru a atribui niveluri diferite de acces moderatorilor webinarului.<br><br>• Administrator - Administratorul principal al sălii de webinar, cu control complet și acces la toate funcțiile;<br><br>• Moderator, Vorbitor - Acces standard pentru moderatori sau vorbitori, potrivit pentru cei care ajută la gestionarea webinarului sau prezintă;<br><br>• Prezentator Invitat - Un rol de prezentator invitat cu drepturi limitate, ideal pentru colaboratori ocazionali sau vorbitori externi.<br><br>Personalizând permisiunile, asigurați o experiență de webinar fluidă și organizată, adaptată rolului fiecărui participant"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4400,7 +4400,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderator
+		Moderator, vorbitor
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////

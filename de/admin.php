@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Berechtigungen <span class="tooltip" data-tip="Use this feature to assign varied access levels to your webinar moderators. By customising permissions, you give each moderator the appropriate level of control and access for their role, promoting a smooth and orderly webinar experience"></span>
+		Berechtigungen <span class="tooltip" data-tip="Verwenden Sie diese Funktion, um den Moderatoren Ihres Webinars unterschiedliche Zugriffsrechte zuzuweisen.<br><br>• Administrator - Der Hauptadministrator des Webinarraums mit vollständiger Kontrolle und Zugriff auf alle Funktionen;<br><br>• Moderator, Sprecher - Standardzugriff für Moderatoren oder Sprecher, geeignet für diejenigen, die bei der Verwaltung des Webinars helfen oder Präsentationen halten;<br><br>• Eingeladener Präsentator - Eine Rolle als Gastpräsentator mit eingeschränkten Rechten, ideal für einmalige Mitwirkende oder externe Sprecher.<br><br>Durch Anpassen der Berechtigungen gewährleisten Sie ein reibungsloses und geordnetes Webinar-Erlebnis, das auf die Rolle jedes Teilnehmers zugeschnitten ist"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4400,7 +4400,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderator
+		Moderator, Sprecher
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////

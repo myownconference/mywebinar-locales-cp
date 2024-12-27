@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permissions <span class="tooltip" data-tip="Use this feature to assign varied access levels to your webinar moderators. By customising permissions, you give each moderator the appropriate level of control and access for their role, promoting a smooth and orderly webinar experience"></span>
+		Tilladelser <span class="tooltip" data-tip="Brug denne funktion til at tildele forskellige adgangsniveauer til dine webinar-moderatorer.<br><br>• Administrator - Den primære webinaradministrator med fuld kontrol og adgang til alle funktioner;<br><br>• Moderator, Talere - Standardadgang til moderatorer eller talere, velegnet til dem, der hjælper med at administrere webinaret eller holder oplæg;<br><br>• Inviteret Præsentator - En gæsterolle med begrænsede rettigheder, ideel til enkeltstående bidragsydere eller eksterne talere.<br><br>Ved at tilpasse tilladelser sikrer du en smidig og organiseret webinaroplevelse tilpasset hver deltagers rolle"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4400,7 +4400,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderator
+		Moderator, taler
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////
@@ -4412,7 +4412,7 @@ return [
 	'moderator-perm-speaker' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Invited presenter
+		Inviteret oplægsholder
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-speaker-desc' => /////////////////////////////////////////////////////

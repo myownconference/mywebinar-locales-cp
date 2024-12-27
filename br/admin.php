@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permissões <span class="tooltip" data-tip="Use este recurso para atribuir níveis variados de acesso aos moderadores do webinar.<br><br>• Administrador - O administrador principal da sala do webinar com controle total e acesso a todos os recursos;<br><br>• Moderador, Palestrante - Acesso padrão para moderadores ou palestrantes, ideal para quem ajuda a gerenciar o webinar ou apresenta;<br><br>• Apresentador Convidado - Um papel de apresentador convidado com direitos limitados, ideal para contribuintes pontuais ou palestrantes externos.<br><br>Personalizando permissões, você garante uma experiência de webinar organizada e adaptada ao papel de cada participante"></span>
+		Permissões <span class="tooltip" data-tip="Use este recurso para atribuir níveis variados de acesso aos moderadores do webinar.<br><br>• Administrador - O administrador principal da sala do webinar com controle total e acesso a todos os recursos;<br><br>• Moderador, palestrante - Acesso padrão para moderadores ou palestrantes, ideal para quem ajuda a gerenciar o webinar ou apresenta;<br><br>• Apresentador convidado - Um papel de apresentador convidado com direitos limitados, ideal para contribuintes pontuais ou palestrantes externos.<br><br>Personalizando permissões, você garante uma experiência de webinar organizada e adaptada ao papel de cada participante"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

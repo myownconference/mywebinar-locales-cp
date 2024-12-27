@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Atļaujas <span class="tooltip" data-tip="Izmantojiet šo funkciju, lai piešķirtu dažādus piekļuves līmeņus saviem semināra moderatoriem.<br><br>• Administrators - Galvenais semināra istabas administrators ar pilnu kontroli un piekļuvi visām funkcijām;<br><br>• Moderators, Runātājs - Standarta piekļuve moderatoriem vai runātājiem, piemērota tiem, kas palīdz vadīt semināru vai veic prezentācijas;<br><br>• Ielūgtais Prezentētājs - Viesu prezentētāja loma ar ierobežotām tiesībām, lieliski piemērota vienreizējiem veicinātājiem vai ārējiem runātājiem.<br><br>Pielāgojot atļaujas, jūs nodrošināt vienmērīgu un organizētu semināra pieredzi, pielāgotu katra dalībnieka lomai"></span>
+		Atļaujas <span class="tooltip" data-tip="Izmantojiet šo funkciju, lai piešķirtu dažādus piekļuves līmeņus saviem semināra moderatoriem.<br><br>• Administrators - Galvenais semināra istabas administrators ar pilnu kontroli un piekļuvi visām funkcijām;<br><br>• Moderators, runātājs - Standarta piekļuve moderatoriem vai runātājiem, piemērota tiem, kas palīdz vadīt semināru vai veic prezentācijas;<br><br>• Ielūgtais prezentētājs - Viesu prezentētāja loma ar ierobežotām tiesībām, lieliski piemērota vienreizējiem veicinātājiem vai ārējiem runātājiem.<br><br>Pielāgojot atļaujas, jūs nodrošināt vienmērīgu un organizētu semināra pieredzi, pielāgotu katra dalībnieka lomai"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

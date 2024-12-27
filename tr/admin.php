@@ -4382,7 +4382,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		İzinler <span class="tooltip" data-tip="Webinar moderatörlerinize farklı erişim seviyeleri atamak için bu özelliği kullanın.<br><br>• Yönetici - Tüm kontrol ve özelliklere erişim sağlayan ana webinar odası yöneticisi;<br><br>• Moderatör, Konuşmacı - Webinarı yönetmeye yardımcı olan veya sunum yapan moderatörler veya konuşmacılar için standart erişim;<br><br>• Davetli Sunucu - Sınırlı haklara sahip misafir sunucu rolü, tek seferlik katılımcılar veya dış konuşmacılar için idealdir.<br><br>İzinleri özelleştirerek, her katılımcının rolüne uygun düzenli ve sorunsuz bir webinar deneyimi sağlarsınız"></span>
+		İzinler <span class="tooltip" data-tip="Webinar moderatörlerinize farklı erişim seviyeleri atamak için bu özelliği kullanın.<br><br>• Yönetici - Tüm kontrol ve özelliklere erişim sağlayan ana webinar odası yöneticisi;<br><br>• Moderatör, konuşmacı - Webinarı yönetmeye yardımcı olan veya sunum yapan moderatörler veya konuşmacılar için standart erişim;<br><br>• Davetli sunucu - Sınırlı haklara sahip misafir sunucu rolü, tek seferlik katılımcılar veya dış konuşmacılar için idealdir.<br><br>İzinleri özelleştirerek, her katılımcının rolüne uygun düzenli ve sorunsuz bir webinar deneyimi sağlarsınız"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Behörigheter <span class="tooltip" data-tip="Använd denna funktion för att tilldela olika åtkomstnivåer till dina webinar-moderatorer.<br><br>• Administratör - Huvudadministratören för webinarsalen med full kontroll och åtkomst till alla funktioner;<br><br>• Moderator, Talare - Standardåtkomst för moderatorer eller talare, lämplig för dem som hjälper till att hantera webbinariet eller håller presentationer;<br><br>• Inbjuden Presentatör - En roll som gästpresentatör med begränsade rättigheter, idealisk för engångsbidragare eller externa talare.<br><br>Genom att anpassa behörigheterna säkerställer du en smidig och organiserad webinarupplevelse anpassad till varje deltagares roll"></span>
+		Behörigheter <span class="tooltip" data-tip="Använd denna funktion för att tilldela olika åtkomstnivåer till dina webinar-moderatorer.<br><br>• Administratör - Huvudadministratören för webinarsalen med full kontroll och åtkomst till alla funktioner;<br><br>• Moderator, talare - Standardåtkomst för moderatorer eller talare, lämplig för dem som hjälper till att hantera webbinariet eller håller presentationer;<br><br>• Inbjuden presentatör - En roll som gästpresentatör med begränsade rättigheter, idealisk för engångsbidragare eller externa talare.<br><br>Genom att anpassa behörigheterna säkerställer du en smidig och organiserad webinarupplevelse anpassad till varje deltagares roll"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Povolenia <span class="tooltip" data-tip="Použite túto funkciu na priradenie rôznych úrovní prístupu moderátorom webinára.<br><br>• Administrátor - Hlavný administrátor miestnosti webinára s úplnou kontrolou a prístupom ku všetkým funkciám;<br><br>• Moderátor, Rečník - Štandardný prístup pre moderátorov alebo rečníkov, vhodný pre tých, ktorí pomáhajú pri správe webinára alebo prezentujú;<br><br>• Pozvaný Prezentujúci - Rola hosťujúceho prezentujúceho s obmedzenými právami, ideálna pre jednorazových prispievateľov alebo externých rečníkov.<br><br>Prispôsobením povolení zabezpečíte plynulý a organizovaný priebeh webinára prispôsobený úlohe každého účastníka"></span>
+		Povolenia <span class="tooltip" data-tip="Použite túto funkciu na priradenie rôznych úrovní prístupu moderátorom webinára.<br><br>• Administrátor - Hlavný administrátor miestnosti webinára s úplnou kontrolou a prístupom ku všetkým funkciám;<br><br>• Moderátor, rečník - Štandardný prístup pre moderátorov alebo rečníkov, vhodný pre tých, ktorí pomáhajú pri správe webinára alebo prezentujú;<br><br>• Pozvaný prezentujúci - Rola hosťujúceho prezentujúceho s obmedzenými právami, ideálna pre jednorazových prispievateľov alebo externých rečníkov.<br><br>Prispôsobením povolení zabezpečíte plynulý a organizovaný priebeh webinára prispôsobený úlohe každého účastníka"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

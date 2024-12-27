@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Õigused <span class="tooltip" data-tip="Kasutage seda funktsiooni, et määrata veebiseminari moderaatoritele erinevad juurdepääsutasemed.<br><br>• Administraator - Peamine veebiseminari administraator, kellel on täielik kontroll ja juurdepääs kõigile funktsioonidele;<br><br>• Moderaator, Kõneleja - Standardne juurdepääs moderaatoritele või esinejatele, sobib neile, kes aitavad veebiseminari hallata või esitlusi teha;<br><br>• Kutsutud Esineja - Külalisesineja roll piiratud õigustega, ideaalne ühekordsetele esinejatele või välishindajatele.<br><br>Kohandades õigusi tagate sujuva ja korrastatud veebiseminari kogemuse, mis on kohandatud iga osaleja rollile"></span>
+		Õigused <span class="tooltip" data-tip="Kasutage seda funktsiooni, et määrata veebiseminari moderaatoritele erinevad juurdepääsutasemed.<br><br>• Administraator - Peamine veebiseminari administraator, kellel on täielik kontroll ja juurdepääs kõigile funktsioonidele;<br><br>• Moderaator, kõneleja - Standardne juurdepääs moderaatoritele või esinejatele, sobib neile, kes aitavad veebiseminari hallata või esitlusi teha;<br><br>• Kutsutud esineja - Külalisesineja roll piiratud õigustega, ideaalne ühekordsetele esinejatele või välishindajatele.<br><br>Kohandades õigusi tagate sujuva ja korrastatud veebiseminari kogemuse, mis on kohandatud iga osaleja rollile"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

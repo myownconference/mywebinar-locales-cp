@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Leidimai <span class="tooltip" data-tip="Naudokite šią funkciją, kad priskirtumėte skirtingus prieigos lygius savo seminaro moderatorių.<br><br>• Administratorius - Pagrindinis seminaro kambario administratorius, turintis pilną valdymą ir prieigą prie visų funkcijų;<br><br>• Moderatorius, Pranešėjas - Standartinė prieiga moderatoriui ar pranešėjui, kuris padeda valdyti seminarą arba veda pristatymus;<br><br>• Pakviestasis Pranešėjas - Svečio vaidmuo su ribotomis teisėmis, puikiai tinkantis vienkartiniams pranešėjams ar išoriniams lektoriams.<br><br>Personalizuodami leidimus užtikrinate sklandžią ir organizuotą seminaro patirtį, pritaikytą kiekvieno dalyvio vaidmeniui"></span>
+		Leidimai <span class="tooltip" data-tip="Naudokite šią funkciją, kad priskirtumėte skirtingus prieigos lygius savo seminaro moderatorių.<br><br>• Administratorius - Pagrindinis seminaro kambario administratorius, turintis pilną valdymą ir prieigą prie visų funkcijų;<br><br>• Moderatorius, pranešėjas - Standartinė prieiga moderatoriui ar pranešėjui, kuris padeda valdyti seminarą arba veda pristatymus;<br><br>• Pakviestasis pranešėjas - Svečio vaidmuo su ribotomis teisėmis, puikiai tinkantis vienkartiniams pranešėjams ar išoriniams lektoriams.<br><br>Personalizuodami leidimus užtikrinate sklandžią ir organizuotą seminaro patirtį, pritaikytą kiekvieno dalyvio vaidmeniui"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

@@ -4402,7 +4402,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Uprawnienia <span class="tooltip" data-tip="Użyj tej funkcji, aby przypisać różne poziomy dostępu moderatorom webinaru.<br><br>• Administrator - Główny administrator pokoju webinarowego z pełną kontrolą i dostępem do wszystkich funkcji;<br><br>• Moderator, Mówca - Standardowy dostęp dla moderatorów lub mówców, odpowiedni dla osób pomagających w zarządzaniu webinarem lub prowadzących prezentacje;<br><br>• Zaproszony Prezentujący - Rola gościnnego prezentera z ograniczonymi prawami, idealna dla jednorazowych współpracowników lub zewnętrznych mówców.<br><br>Dostosowując uprawnienia, zapewniasz płynne i zorganizowane doświadczenie webinarowe dostosowane do roli każdego uczestnika"></span>
+		Uprawnienia <span class="tooltip" data-tip="Użyj tej funkcji, aby przypisać różne poziomy dostępu moderatorom webinaru.<br><br>• Administrator - Główny administrator pokoju webinarowego z pełną kontrolą i dostępem do wszystkich funkcji;<br><br>• Moderator, mówca - Standardowy dostęp dla moderatorów lub mówców, odpowiedni dla osób pomagających w zarządzaniu webinarem lub prowadzących prezentacje;<br><br>• Zaproszony prelegent - Rola gościnnego prezentera z ograniczonymi prawami, idealna dla jednorazowych współpracowników lub zewnętrznych mówców.<br><br>Dostosowując uprawnienia, zapewniasz płynne i zorganizowane doświadczenie webinarowe dostosowane do roli każdego uczestnika"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

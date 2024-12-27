@@ -2007,13 +2007,13 @@ return [
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		网络研讨会 <span class="tooltip" data-tip="A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
+		网络研讨会
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-conference' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		会议 <span class="tooltip" data-tip="An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility"></span>
+		会议
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		权限 <span class="tooltip" data-tip="使用此功能为您的网络研讨会主持人分配不同的访问级别。<br><br>• 管理员 - 具有全部控制权和所有功能访问权限的主要网络研讨会房间管理员；<br><br>• 主持人，演讲者 - 适合协助管理网络研讨会或进行演讲的主持人或演讲者的标准访问权限；<br><br>• 被邀请的演讲者 - 权限有限的客座演讲者角色，适用于一次性贡献者或外部演讲者。<br><br>通过自定义权限，您可以根据每个参与者的角色提供顺畅和有序的网络研讨会体验"></span>
+		权限 <span class="tooltip" data-tip="使用此功能为您的网络研讨会主持人分配不同的访问级别。<br><br>• 管理员 – 具有全部控制权和所有功能访问权限的主要网络研讨会房间管理员；<br><br>• 主持人，演讲者 – 适合协助管理网络研讨会或进行演讲的主持人或演讲者的标准访问权限；<br><br>• 被邀请的演讲者 – 权限有限的客座演讲者角色，适用于一次性贡献者或外部演讲者。<br><br>通过自定义权限，您可以根据每个参与者的角色提供顺畅和有序的网络研讨会体验"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

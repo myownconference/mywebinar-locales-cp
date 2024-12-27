@@ -2007,13 +2007,13 @@ return [
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar <span class="tooltip" data-tip="A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
+		Webinar
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-conference' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Meeting <span class="tooltip" data-tip="An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility"></span>
+		Reunião
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permissões <span class="tooltip" data-tip="Use esta função para atribuir diferentes níveis de acesso aos moderadores do webinar.<br><br>• Administrador - O administrador principal da sala do webinar com controle total e acesso a todos os recursos;<br><br>• Moderador, palestrante - Acesso padrão para moderadores ou palestrantes, adequado para quem ajuda a gerenciar o webinar ou realiza apresentações;<br><br>• Apresentador convidado - Uma função de apresentador convidado com direitos limitados, ideal para contribuintes pontuais ou palestrantes externos.<br><br>Personalizando as permissões, você garante uma experiência de webinar organizada e adaptada ao papel de cada participante"></span>
+		Permissões <span class="tooltip" data-tip="Use esta função para atribuir diferentes níveis de acesso aos moderadores do webinar.<br><br>• Administrador – O administrador principal da sala do webinar com controle total e acesso a todos os recursos;<br><br>• Moderador, palestrante – Acesso padrão para moderadores ou palestrantes, adequado para quem ajuda a gerenciar o webinar ou realiza apresentações;<br><br>• Apresentador convidado – Uma função de apresentador convidado com direitos limitados, ideal para contribuintes pontuais ou palestrantes externos.<br><br>Personalizando as permissões, você garante uma experiência de webinar organizada e adaptada ao papel de cada participante"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

@@ -2007,13 +2007,13 @@ return [
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar <span class="tooltip" data-tip="A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
+		Webinar
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-conference' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Meeting <span class="tooltip" data-tip="An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility"></span>
+		Möte
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Behörigheter <span class="tooltip" data-tip="Använd denna funktion för att tilldela olika åtkomstnivåer till dina webinar-moderatorer.<br><br>• Administratör - Huvudadministratören för webinarsalen med full kontroll och åtkomst till alla funktioner;<br><br>• Moderator, talare - Standardåtkomst för moderatorer eller talare, lämplig för dem som hjälper till att hantera webbinariet eller håller presentationer;<br><br>• Inbjuden presentatör - En roll som gästpresentatör med begränsade rättigheter, idealisk för engångsbidragare eller externa talare.<br><br>Genom att anpassa behörigheterna säkerställer du en smidig och organiserad webinarupplevelse anpassad till varje deltagares roll"></span>
+		Behörigheter <span class="tooltip" data-tip="Använd denna funktion för att tilldela olika åtkomstnivåer till dina webinar-moderatorer.<br><br>• Administratör – Huvudadministratören för webinarsalen med full kontroll och åtkomst till alla funktioner;<br><br>• Moderator, talare – Standardåtkomst för moderatorer eller talare, lämplig för dem som hjälper till att hantera webbinariet eller håller presentationer;<br><br>• Inbjuden presentatör – En roll som gästpresentatör med begränsade rättigheter, idealisk för engångsbidragare eller externa talare.<br><br>Genom att anpassa behörigheterna säkerställer du en smidig och organiserad webinarupplevelse anpassad till varje deltagares roll"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

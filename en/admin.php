@@ -2007,13 +2007,13 @@ return [
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar <span class="tooltip" data-tip="A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
+		Webinar
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-conference' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Meeting <span class="tooltip" data-tip="An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility"></span>
+		Meeting
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permissions <span class="tooltip" data-tip="Use this feature to assign varied access levels to your webinar moderators.<br><br>• Administrator - The main webinar room administrator with full control and access to all features;<br><br>• Moderator, speaker - Standard access for moderators or speakers, suitable for those who assist in managing the webinar or deliver presentations.<br><br>• Invited presenter - A guest presenter role with limited rights, ideal for one-time contributors or external speakers.<br><br>By customizing permissions, you ensure a smooth and orderly webinar experience tailored to each participant‘s role."></span>
+		Permissions <span class="tooltip" data-tip="Use this feature to assign varied access levels to your webinar moderators.<br><br>• Administrator – The main webinar room administrator with full control and access to all features;<br><br>• Moderator, speaker – Standard access for moderators or speakers, suitable for those who assist in managing the webinar or deliver presentations.<br><br>• Invited presenter – A guest presenter role with limited rights, ideal for one-time contributors or external speakers.<br><br>By customizing permissions, you ensure a smooth and orderly webinar experience tailored to each participant‘s role."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

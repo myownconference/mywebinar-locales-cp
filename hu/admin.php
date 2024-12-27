@@ -2013,7 +2013,7 @@ return [
 	'room-options-conference' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Meeting
+		Találkozó
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Engedélyek <span class="tooltip" data-tip="Használja ezt a funkciót, hogy különböző hozzáférési szinteket rendeljen a webinárium moderátoraihoz.<br><br>• Adminisztrátor - A fő webinárium szoba adminisztrátora, teljes irányítással és hozzáféréssel az összes funkcióhoz;<br><br>• Moderátor, előadó - Standard hozzáférés moderátorok vagy előadók számára, akik segítenek a webinárium kezelésében vagy prezentációkat tartanak;<br><br>• Meghívott előadó - Korlátozott jogokkal rendelkező vendégelőadó szerepe, amely ideális egyszeri közreműködők vagy külső előadók számára.<br><br>Az engedélyek testreszabásával biztosíthatja a zökkenőmentes és rendezett webinárium élményt, amely igazodik minden résztvevő szerepéhez"></span>
+		Engedélyek <span class="tooltip" data-tip="Használja ezt a funkciót, hogy különböző hozzáférési szinteket rendeljen a webinárium moderátoraihoz.<br><br>• Adminisztrátor – A fő webinárium szoba adminisztrátora, teljes irányítással és hozzáféréssel az összes funkcióhoz;<br><br>• Moderátor, előadó – Standard hozzáférés moderátorok vagy előadók számára, akik segítenek a webinárium kezelésében vagy prezentációkat tartanak;<br><br>• Meghívott előadó – Korlátozott jogokkal rendelkező vendégelőadó szerepe, amely ideális egyszeri közreműködők vagy külső előadók számára.<br><br>Az engedélyek testreszabásával biztosíthatja a zökkenőmentes és rendezett webinárium élményt, amely igazodik minden résztvevő szerepéhez"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

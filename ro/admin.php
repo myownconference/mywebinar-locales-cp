@@ -2007,13 +2007,13 @@ return [
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar <span class="tooltip" data-tip="A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
+		Webinar
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-conference' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Întâlnire <span class="tooltip" data-tip="An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility"></span>
+		Întâlnire
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permisiuni <span class="tooltip" data-tip="Folosiți această funcție pentru a atribui niveluri diferite de acces moderatorilor webinarului.<br><br>• Administrator - Administratorul principal al sălii de webinar, cu control complet și acces la toate funcțiile;<br><br>• Moderator, vorbitor - Acces standard pentru moderatori sau vorbitori, potrivit pentru cei care ajută la gestionarea webinarului sau prezintă;<br><br>• Prezentator invitat - Un rol de prezentator invitat cu drepturi limitate, ideal pentru colaboratori ocazionali sau vorbitori externi.<br><br>Personalizând permisiunile, asigurați o experiență de webinar fluidă și organizată, adaptată rolului fiecărui participant"></span>
+		Permisiuni <span class="tooltip" data-tip="Folosiți această funcție pentru a atribui niveluri diferite de acces moderatorilor webinarului.<br><br>• Administrator – Administratorul principal al sălii de webinar, cu control complet și acces la toate funcțiile;<br><br>• Moderator, vorbitor – Acces standard pentru moderatori sau vorbitori, potrivit pentru cei care ajută la gestionarea webinarului sau prezintă;<br><br>• Prezentator invitat – Un rol de prezentator invitat cu drepturi limitate, ideal pentru colaboratori ocazionali sau vorbitori externi.<br><br>Personalizând permisiunile, asigurați o experiență de webinar fluidă și organizată, adaptată rolului fiecărui participant"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

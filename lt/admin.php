@@ -2007,13 +2007,13 @@ return [
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar <span class="tooltip" data-tip="A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
+		Webinar
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-conference' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Meeting <span class="tooltip" data-tip="An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility"></span>
+		Susitikimas
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Leidimai <span class="tooltip" data-tip="Naudokite šią funkciją, kad priskirtumėte skirtingus prieigos lygius savo seminaro moderatorių.<br><br>• Administratorius - Pagrindinis seminaro kambario administratorius, turintis pilną valdymą ir prieigą prie visų funkcijų;<br><br>• Moderatorius, pranešėjas - Standartinė prieiga moderatoriui ar pranešėjui, kuris padeda valdyti seminarą arba veda pristatymus;<br><br>• Pakviestasis pranešėjas - Svečio vaidmuo su ribotomis teisėmis, puikiai tinkantis vienkartiniams pranešėjams ar išoriniams lektoriams.<br><br>Personalizuodami leidimus užtikrinate sklandžią ir organizuotą seminaro patirtį, pritaikytą kiekvieno dalyvio vaidmeniui"></span>
+		Leidimai <span class="tooltip" data-tip="Naudokite šią funkciją, kad priskirtumėte skirtingus prieigos lygius savo seminaro moderatorių.<br><br>• Administratorius – Pagrindinis seminaro kambario administratorius, turintis pilną valdymą ir prieigą prie visų funkcijų;<br><br>• Moderatorius, pranešėjas – Standartinė prieiga moderatoriui ar pranešėjui, kuris padeda valdyti seminarą arba veda pristatymus;<br><br>• Pakviestasis pranešėjas – Svečio vaidmuo su ribotomis teisėmis, puikiai tinkantis vienkartiniams pranešėjams ar išoriniams lektoriams.<br><br>Personalizuodami leidimus užtikrinate sklandžią ir organizuotą seminaro patirtį, pritaikytą kiekvieno dalyvio vaidmeniui"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

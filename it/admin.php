@@ -2007,13 +2007,13 @@ return [
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar <span class="tooltip" data-tip="A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
+		Webinar
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-conference' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Riunione <span class="tooltip" data-tip="An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility"></span>
+		Riunione
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Autorizzazioni <span class="tooltip" data-tip="Usa questa funzione per assegnare diversi livelli di accesso ai moderatori del tuo webinar.<br><br>• Amministratore - L‘amministratore principale della stanza del webinar con controllo totale e accesso a tutte le funzionalità;<br><br>• Moderatore, relatore - Accesso standard per moderatori o relatori, adatto a chi assiste nella gestione del webinar o tiene presentazioni;<br><br>• Presentatore invitato - Un ruolo di presentatore ospite con diritti limitati, ideale per collaboratori occasionali o relatori esterni.<br><br>Personalizzando le autorizzazioni, garantisci un‘esperienza di webinar fluida e organizzata, adattata al ruolo di ciascun partecipante"></span>
+		Autorizzazioni <span class="tooltip" data-tip="Usa questa funzione per assegnare diversi livelli di accesso ai moderatori del tuo webinar.<br><br>• Amministratore – L‘amministratore principale della stanza del webinar con controllo totale e accesso a tutte le funzionalità;<br><br>• Moderatore, relatore – Accesso standard per moderatori o relatori, adatto a chi assiste nella gestione del webinar o tiene presentazioni;<br><br>• Presentatore invitato – Un ruolo di presentatore ospite con diritti limitati, ideale per collaboratori occasionali o relatori esterni.<br><br>Personalizzando le autorizzazioni, garantisci un‘esperienza di webinar fluida e organizzata, adattata al ruolo di ciascun partecipante"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

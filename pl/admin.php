@@ -2008,13 +2008,13 @@ return [
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar <span class="tooltip" data-tip="Tryb wydarzenia skoncentrowany na prezentacji, idealny dla webinarów, wykładów, warsztatów lub prezentacji produktów. Podczas gdy jedna lub więcej kamer prelegentów jest dyskretnie umieszczona w rogu, większość przestrzeni roboczej prezentuje prezentację lub udostępnianie ekranu, pozwalając uczestnikom skupić się na prezentowanych treściach"></span>
+		Webinar
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-conference' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Wideokonferencja <span class="tooltip" data-tip="Interaktywny tryb wydarzenia zaprojektowany do współpracy i dyskusji. Obraz z kamery prelegenta dominuje na ekranie, zapewniając osobistą i twarzą w twarz komunikację. Dostępna przestrzeń robocza jest równo podzielona między wszystkich prezentujących, dając każdemu prelegentowi wystarczającą widoczność"></span>
+		Spotkanie
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
@@ -4402,7 +4402,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Uprawnienia <span class="tooltip" data-tip="Użyj tej funkcji, aby przypisać różne poziomy dostępu moderatorom webinaru.<br><br>• Administrator - Główny administrator pokoju webinarowego z pełną kontrolą i dostępem do wszystkich funkcji;<br><br>• Moderator, mówca - Standardowy dostęp dla moderatorów lub mówców, odpowiedni dla osób pomagających w zarządzaniu webinarem lub prowadzących prezentacje;<br><br>• Zaproszony prelegent - Rola gościnnego prezentera z ograniczonymi prawami, idealna dla jednorazowych współpracowników lub zewnętrznych mówców.<br><br>Dostosowując uprawnienia, zapewniasz płynne i zorganizowane doświadczenie webinarowe dostosowane do roli każdego uczestnika"></span>
+		Uprawnienia <span class="tooltip" data-tip="Użyj tej funkcji, aby przypisać różne poziomy dostępu moderatorom webinaru.<br><br>• Administrator – Główny administrator pokoju webinarowego z pełną kontrolą i dostępem do wszystkich funkcji;<br><br>• Moderator, mówca – Standardowy dostęp dla moderatorów lub mówców, odpowiedni dla osób pomagających w zarządzaniu webinarem lub prowadzących prezentacje;<br><br>• Zaproszony prelegent – Rola gościnnego prezentera z ograniczonymi prawami, idealna dla jednorazowych współpracowników lub zewnętrznych mówców.<br><br>Dostosowując uprawnienia, zapewniasz płynne i zorganizowane doświadczenie webinarowe dostosowane do roli każdego uczestnika"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

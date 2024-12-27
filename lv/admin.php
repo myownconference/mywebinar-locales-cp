@@ -2007,13 +2007,13 @@ return [
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar <span class="tooltip" data-tip="A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
+		Vebinārs
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-conference' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Meeting <span class="tooltip" data-tip="An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility"></span>
+		Tikšanās
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Atļaujas <span class="tooltip" data-tip="Izmantojiet šo funkciju, lai piešķirtu dažādus piekļuves līmeņus saviem semināra moderatoriem.<br><br>• Administrators - Galvenais semināra istabas administrators ar pilnu kontroli un piekļuvi visām funkcijām;<br><br>• Moderators, runātājs - Standarta piekļuve moderatoriem vai runātājiem, piemērota tiem, kas palīdz vadīt semināru vai veic prezentācijas;<br><br>• Ielūgtais prezentētājs - Viesu prezentētāja loma ar ierobežotām tiesībām, lieliski piemērota vienreizējiem veicinātājiem vai ārējiem runātājiem.<br><br>Pielāgojot atļaujas, jūs nodrošināt vienmērīgu un organizētu semināra pieredzi, pielāgotu katra dalībnieka lomai"></span>
+		Atļaujas <span class="tooltip" data-tip="Izmantojiet šo funkciju, lai piešķirtu dažādus piekļuves līmeņus saviem semināra moderatoriem.<br><br>• Administrators – Galvenais semināra istabas administrators ar pilnu kontroli un piekļuvi visām funkcijām;<br><br>• Moderators, runātājs – Standarta piekļuve moderatoriem vai runātājiem, piemērota tiem, kas palīdz vadīt semināru vai veic prezentācijas;<br><br>• Ielūgtais prezentētājs – Viesu prezentētāja loma ar ierobežotām tiesībām, lieliski piemērota vienreizējiem veicinātājiem vai ārējiem runātājiem.<br><br>Pielāgojot atļaujas, jūs nodrošināt vienmērīgu un organizētu semināra pieredzi, pielāgotu katra dalībnieka lomai"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

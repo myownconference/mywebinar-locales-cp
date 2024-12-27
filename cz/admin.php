@@ -2007,13 +2007,13 @@ return [
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar <span class="tooltip" data-tip="A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
+		Webinář
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-conference' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Meeting <span class="tooltip" data-tip="An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility"></span>
+		Schůzka
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Oprávnění <span class="tooltip" data-tip="Použijte tuto funkci k přidělení různých úrovní přístupu moderátorům webináře.<br><br>• Administrátor - Hlavní správce místnosti webináře s plnou kontrolou a přístupem ke všem funkcím;<br><br>• Moderátor, Řečník - Standardní přístup pro moderátory nebo řečníky, vhodné pro ty, kteří pomáhají s řízením webináře nebo prezentují;<br><br>• Pozvaný prezentující - Role hostujícího prezentujícího s omezenými právy, ideální pro jednorázové přispěvatele nebo externí řečníky.<br><br>Přizpůsobením oprávnění zajistíte hladký a organizovaný zážitek z webináře přizpůsobený roli každého účastníka"></span>
+		Oprávnění <span class="tooltip" data-tip="Použijte tuto funkci k přidělení různých úrovní přístupu moderátorům webináře.<br><br>• Administrátor – Hlavní správce místnosti webináře s plnou kontrolou a přístupem ke všem funkcím;<br><br>• Moderátor, Řečník – Standardní přístup pro moderátory nebo řečníky, vhodné pro ty, kteří pomáhají s řízením webináře nebo prezentují;<br><br>• Pozvaný prezentující – Role hostujícího prezentujícího s omezenými právy, ideální pro jednorázové přispěvatele nebo externí řečníky.<br><br>Přizpůsobením oprávnění zajistíte hladký a organizovaný zážitek z webináře přizpůsobený roli každého účastníka"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

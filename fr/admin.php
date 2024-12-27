@@ -2008,13 +2008,13 @@ return [
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar <span class="tooltip" data-tip="A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
+		Webinaire
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-conference' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Conférence vidéo <span class="tooltip" data-tip="An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility"></span>
+		Réunion
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
@@ -4396,7 +4396,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Autorisations <span class="tooltip" data-tip="Utilisez cette fonctionnalité pour attribuer différents niveaux d‘accès aux modérateurs de votre webinaire.<br><br>• Administrateur - L’administrateur principal de la salle du webinaire avec un contrôle total et un accès à toutes les fonctionnalités;<br><br>• Modérateur, intervenant - Accès standard pour les modérateurs ou les intervenants, adapté à ceux qui assistent à la gestion du webinaire ou présentent;<br><br>• Présentateur invité - Un rôle de présentateur invité avec des droits limités, idéal pour les contributeurs ponctuels ou les intervenants externes.<br><br>En personnalisant les autorisations, vous assurez une expérience de webinaire fluide et organisée, adaptée au rôle de chaque participant"></span>
+		Autorisations <span class="tooltip" data-tip="Utilisez cette fonctionnalité pour attribuer différents niveaux d‘accès aux modérateurs de votre webinaire.<br><br>• Administrateur – L’administrateur principal de la salle du webinaire avec un contrôle total et un accès à toutes les fonctionnalités;<br><br>• Modérateur, intervenant – Accès standard pour les modérateurs ou les intervenants, adapté à ceux qui assistent à la gestion du webinaire ou présentent;<br><br>• Présentateur invité – Un rôle de présentateur invité avec des droits limités, idéal pour les contributeurs ponctuels ou les intervenants externes.<br><br>En personnalisant les autorisations, vous assurez une expérience de webinaire fluide et organisée, adaptée au rôle de chaque participant"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

@@ -2007,13 +2007,13 @@ return [
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar <span class="tooltip" data-tip="A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
+		Webinar
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-conference' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Toplantı <span class="tooltip" data-tip="An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility"></span>
+		Toplantı
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
@@ -4382,7 +4382,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		İzinler <span class="tooltip" data-tip="Webinar moderatörlerinize farklı erişim seviyeleri atamak için bu özelliği kullanın.<br><br>• Yönetici - Tüm kontrol ve özelliklere erişim sağlayan ana webinar odası yöneticisi;<br><br>• Moderatör, konuşmacı - Webinarı yönetmeye yardımcı olan veya sunum yapan moderatörler veya konuşmacılar için standart erişim;<br><br>• Davetli sunucu - Sınırlı haklara sahip misafir sunucu rolü, tek seferlik katılımcılar veya dış konuşmacılar için idealdir.<br><br>İzinleri özelleştirerek, her katılımcının rolüne uygun düzenli ve sorunsuz bir webinar deneyimi sağlarsınız"></span>
+		İzinler <span class="tooltip" data-tip="Webinar moderatörlerinize farklı erişim seviyeleri atamak için bu özelliği kullanın.<br><br>• Yönetici – Tüm kontrol ve özelliklere erişim sağlayan ana webinar odası yöneticisi;<br><br>• Moderatör, konuşmacı – Webinarı yönetmeye yardımcı olan veya sunum yapan moderatörler veya konuşmacılar için standart erişim;<br><br>• Davetli sunucu – Sınırlı haklara sahip misafir sunucu rolü, tek seferlik katılımcılar veya dış konuşmacılar için idealdir.<br><br>İzinleri özelleştirerek, her katılımcının rolüne uygun düzenli ve sorunsuz bir webinar deneyimi sağlarsınız"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

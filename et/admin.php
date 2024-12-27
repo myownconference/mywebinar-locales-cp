@@ -2007,13 +2007,13 @@ return [
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar <span class="tooltip" data-tip="A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
+		Webinar
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-conference' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Meeting <span class="tooltip" data-tip="An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility"></span>
+		Koosolek
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Õigused <span class="tooltip" data-tip="Kasutage seda funktsiooni, et määrata veebiseminari moderaatoritele erinevad juurdepääsutasemed.<br><br>• Administraator - Peamine veebiseminari administraator, kellel on täielik kontroll ja juurdepääs kõigile funktsioonidele;<br><br>• Moderaator, kõneleja - Standardne juurdepääs moderaatoritele või esinejatele, sobib neile, kes aitavad veebiseminari hallata või esitlusi teha;<br><br>• Kutsutud esineja - Külalisesineja roll piiratud õigustega, ideaalne ühekordsetele esinejatele või välishindajatele.<br><br>Kohandades õigusi tagate sujuva ja korrastatud veebiseminari kogemuse, mis on kohandatud iga osaleja rollile"></span>
+		Õigused <span class="tooltip" data-tip="Kasutage seda funktsiooni, et määrata veebiseminari moderaatoritele erinevad juurdepääsutasemed.<br><br>• Administraator – Peamine veebiseminari administraator, kellel on täielik kontroll ja juurdepääs kõigile funktsioonidele;<br><br>• Moderaator, kõneleja – Standardne juurdepääs moderaatoritele või esinejatele, sobib neile, kes aitavad veebiseminari hallata või esitlusi teha;<br><br>• Kutsutud esineja – Külalisesineja roll piiratud õigustega, ideaalne ühekordsetele esinejatele või välishindajatele.<br><br>Kohandades õigusi tagate sujuva ja korrastatud veebiseminari kogemuse, mis on kohandatud iga osaleja rollile"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

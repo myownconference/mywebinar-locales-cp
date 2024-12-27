@@ -2007,13 +2007,13 @@ return [
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar <span class="tooltip" data-tip="A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
+		ウェビナー
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-conference' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Meeting <span class="tooltip" data-tip="An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility"></span>
+		会議
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		権限 <span class="tooltip" data-tip="この機能を使用して、ウェビナーのモデレーターに異なるアクセスレベルを割り当てます。<br><br>• 管理者 - 完全な制御とすべての機能へのアクセスを持つ主要なウェビナールームの管理者;<br><br>• モデレーター、スピーカー - ウェビナーの管理を支援するか、プレゼンテーションを行うモデレーターやスピーカー向けの標準アクセス;<br><br>• 招待されたプレゼンター - 制限付きの権限を持つゲストプレゼンターの役割で、一度限りの寄稿者や外部スピーカーに最適です。<br><br>権限をカスタマイズすることで、各参加者の役割に応じたスムーズで整理されたウェビナー体験を提供します"></span>
+		権限 <span class="tooltip" data-tip="この機能を使用して、ウェビナーのモデレーターに異なるアクセスレベルを割り当てます。<br><br>• 管理者 – 完全な制御とすべての機能へのアクセスを持つ主要なウェビナールームの管理者;<br><br>• モデレーター、スピーカー – ウェビナーの管理を支援するか、プレゼンテーションを行うモデレーターやスピーカー向けの標準アクセス;<br><br>• 招待されたプレゼンター – 制限付きの権限を持つゲストプレゼンターの役割で、一度限りの寄稿者や外部スピーカーに最適です。<br><br>権限をカスタマイズすることで、各参加者の役割に応じたスムーズで整理されたウェビナー体験を提供します"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

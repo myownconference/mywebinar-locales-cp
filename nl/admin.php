@@ -2007,13 +2007,13 @@ return [
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar <span class="tooltip" data-tip="A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
+		Webinar
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-conference' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Meeting <span class="tooltip" data-tip="An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility"></span>
+		Vergadering
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Machtigingen <span class="tooltip" data-tip="Gebruik deze functie om verschillende toegangsrechten toe te wijzen aan de moderators van uw webinar.<br><br>• Beheerder - De hoofdbeheerder van de webinarruimte met volledige controle en toegang tot alle functies;<br><br>• Moderator, spreker - Standaardtoegang voor moderators of sprekers, geschikt voor degenen die helpen bij het beheren van het webinar of presentaties geven;<br><br>• Uitgenodigde presentator - Een gastpresentatorrol met beperkte rechten, ideaal voor eenmalige bijdragers of externe sprekers.<br><br>Door machtigingen aan te passen, zorgt u voor een soepele en georganiseerde webinarervaring die is afgestemd op de rol van elke deelnemer"></span>
+		Machtigingen <span class="tooltip" data-tip="Gebruik deze functie om verschillende toegangsrechten toe te wijzen aan de moderators van uw webinar.<br><br>• Beheerder – De hoofdbeheerder van de webinarruimte met volledige controle en toegang tot alle functies;<br><br>• Moderator, spreker – Standaardtoegang voor moderators of sprekers, geschikt voor degenen die helpen bij het beheren van het webinar of presentaties geven;<br><br>• Uitgenodigde presentator – Een gastpresentatorrol met beperkte rechten, ideaal voor eenmalige bijdragers of externe sprekers.<br><br>Door machtigingen aan te passen, zorgt u voor een soepele en georganiseerde webinarervaring die is afgestemd op de rol van elke deelnemer"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

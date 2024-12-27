@@ -2007,13 +2007,13 @@ return [
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar <span class="tooltip" data-tip="A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
+		Webinaari
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-conference' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Meeting <span class="tooltip" data-tip="An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility"></span>
+		Kokous
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Oikeudet <span class="tooltip" data-tip="Käytä tätä toimintoa määrittääksesi erilaisia käyttöoikeustasoja verkkoseminaarin moderaattoreille.<br><br>• Ylläpitäjä - Verkkoseminaarin huoneen pääylläpitäjä, jolla on täysi hallinta ja pääsy kaikkiin ominaisuuksiin;<br><br>• Moderaattori, puhuja - Vakiokäyttöoikeudet moderaattoreille tai puhujille, sopii niille, jotka auttavat hallitsemaan verkkoseminaaria tai pitävät esityksiä;<br><br>• Kutsuttu esittäjä - Kutsutun esittäjän rooli, jolla on rajoitetut oikeudet, sopii kertaluontoisille esittäjille tai ulkopuolisille puhujille.<br><br>Käyttöoikeuksia mukauttamalla varmistat sujuvan ja järjestäytyneen verkkoseminaarikokemuksen, joka on räätälöity jokaisen osallistujan roolin mukaan"></span>
+		Oikeudet <span class="tooltip" data-tip="Käytä tätä toimintoa määrittääksesi erilaisia käyttöoikeustasoja verkkoseminaarin moderaattoreille.<br><br>• Ylläpitäjä – Verkkoseminaarin huoneen pääylläpitäjä, jolla on täysi hallinta ja pääsy kaikkiin ominaisuuksiin;<br><br>• Moderaattori, puhuja – Vakiokäyttöoikeudet moderaattoreille tai puhujille, sopii niille, jotka auttavat hallitsemaan verkkoseminaaria tai pitävät esityksiä;<br><br>• Kutsuttu esittäjä – Kutsutun esittäjän rooli, jolla on rajoitetut oikeudet, sopii kertaluontoisille esittäjille tai ulkopuolisille puhujille.<br><br>Käyttöoikeuksia mukauttamalla varmistat sujuvan ja järjestäytyneen verkkoseminaarikokemuksen, joka on räätälöity jokaisen osallistujan roolin mukaan"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

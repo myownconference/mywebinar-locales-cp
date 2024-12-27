@@ -2007,13 +2007,13 @@ return [
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar <span class="tooltip" data-tip="A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
+		Webinar
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-conference' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Meeting <span class="tooltip" data-tip="An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility"></span>
+		Møde
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tilladelser <span class="tooltip" data-tip="Brug denne funktion til at tildele forskellige adgangsniveauer til dine webinar-moderatorer.<br><br>• Administrator - Den primære webinaradministrator med fuld kontrol og adgang til alle funktioner;<br><br>• Moderator, Talere - Standardadgang til moderatorer eller talere, velegnet til dem, der hjælper med at administrere webinaret eller holder oplæg;<br><br>• Inviteret Præsentator - En gæsterolle med begrænsede rettigheder, ideel til enkeltstående bidragsydere eller eksterne talere.<br><br>Ved at tilpasse tilladelser sikrer du en smidig og organiseret webinaroplevelse tilpasset hver deltagers rolle"></span>
+		Tilladelser <span class="tooltip" data-tip="Brug denne funktion til at tildele forskellige adgangsniveauer til dine webinar-moderatorer.<br><br>• Administrator – Den primære webinaradministrator med fuld kontrol og adgang til alle funktioner;<br><br>• Moderator, Talere – Standardadgang til moderatorer eller talere, velegnet til dem, der hjælper med at administrere webinaret eller holder oplæg;<br><br>• Inviteret Præsentator – En gæsterolle med begrænsede rettigheder, ideel til enkeltstående bidragsydere eller eksterne talere.<br><br>Ved at tilpasse tilladelser sikrer du en smidig og organiseret webinaroplevelse tilpasset hver deltagers rolle"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

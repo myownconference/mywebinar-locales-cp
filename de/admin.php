@@ -2007,13 +2007,13 @@ return [
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar <span class="tooltip" data-tip="A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
+		Webinar
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-conference' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Besprechung <span class="tooltip" data-tip="An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility"></span>
+		Meeting
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
@@ -4376,7 +4376,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Berechtigungen <span class="tooltip" data-tip="Verwenden Sie diese Funktion, um den Moderatoren Ihres Webinars unterschiedliche Zugriffsrechte zuzuweisen.<br><br>• Administrator - Der Hauptadministrator des Webinarraums mit vollständiger Kontrolle und Zugriff auf alle Funktionen;<br><br>• Moderator, Sprecher - Standardzugriff für Moderatoren oder Sprecher, geeignet für diejenigen, die bei der Verwaltung des Webinars helfen oder Präsentationen halten;<br><br>• Eingeladener Präsentator - Eine Rolle als Gastpräsentator mit eingeschränkten Rechten, ideal für einmalige Mitwirkende oder externe Sprecher.<br><br>Durch Anpassen der Berechtigungen gewährleisten Sie ein reibungsloses und geordnetes Webinar-Erlebnis, das auf die Rolle jedes Teilnehmers zugeschnitten ist"></span>
+		Berechtigungen <span class="tooltip" data-tip="Verwenden Sie diese Funktion, um den Moderatoren Ihres Webinars unterschiedliche Zugriffsrechte zuzuweisen.<br><br>• Administrator – Der Hauptadministrator des Webinarraums mit vollständiger Kontrolle und Zugriff auf alle Funktionen;<br><br>• Moderator, Sprecher – Standardzugriff für Moderatoren oder Sprecher, geeignet für diejenigen, die bei der Verwaltung des Webinars helfen oder Präsentationen halten;<br><br>• Eingeladener Präsentator – Eine Rolle als Gastpräsentator mit eingeschränkten Rechten, ideal für einmalige Mitwirkende oder externe Sprecher.<br><br>Durch Anpassen der Berechtigungen gewährleisten Sie ein reibungsloses und geordnetes Webinar-Erlebnis, das auf die Rolle jedes Teilnehmers zugeschnitten ist"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

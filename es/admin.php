@@ -2891,13 +2891,13 @@ return [
 	'landing-page-mode' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Modo página de destino <span class="tooltip" data-tip="Active este modo para transformar su sala de webinarios en una página de destino. En lugar de ingresar directamente al webinario, los asistentes primero proporcionarán su correo electrónico y otra información requerida. Este modo ayuda a crear su lista de suscriptores y recopilar datos de los asistentes antes del webinario. Actívelo para recopilar datos primero; desactívelo para el acceso directo"></span>
+		Modo de página de destino <span class="tooltip" data-tip="Activa este modo para convertir tu sala de webinar en una página de destino. En lugar de ingresar directamente al webinar, los asistentes proporcionarán primero su correo electrónico y otra información requerida. Este modo ayuda a construir tu lista de suscriptores y recopilar datos de los asistentes antes del webinar. Actívalo para recopilar datos primero; desactívalo para entrada directa"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Página de destino <span class="tooltip" data-tip="Utilice esta página de registro para recopilar información de los asistentes para futuros webinarios. Sus asistentes pueden registrarse ingresando su correo electrónico, nombre y cualquier otro detalle personalizado que especifique en la configuración avanzada. Esta función le permite crear una lista de contactos valiosa para futuras comunicaciones y notificaciones de eventos. Para copiar el enlace en su portapapeles, simplemente haga clic en el cuadro de entrada. Asegúrese de personalizar los campos de registro para recopilar toda la información que necesita para adaptar sus webinarios y actividades de seguimiento de manera efectiva"></span>
+		Página de destino
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page-edit' => ///////////////////////////////////////////////////////////////

@@ -2889,13 +2889,13 @@ return [
 	'landing-page-mode' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Landing page mode <span class="tooltip" data-tip="Activate this mode to turn your webinar room into a landing page. Instead of entering the webinar directly, attendees will first provide their email and other required information. This mode helps build your subscriber list and gather attendee data before the webinar. Turn it on to collect data first; turn it off for direct entry"></span>
+		Landingspaginamodus <span class="tooltip" data-tip="Activeer deze modus om uw webinarruimte om te zetten in een landingspagina. In plaats van direct deel te nemen aan het webinar, zullen deelnemers eerst hun e-mailadres en andere vereiste informatie verstrekken. Deze modus helpt bij het opbouwen van uw abonneelijst en het verzamelen van deelnemergegevens vóór het webinar. Zet het aan om eerst gegevens te verzamelen; zet het uit voor directe toegang"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Landing page <span class="tooltip" data-tip="Use this registration page to collect attendee information for future webinars. Your attendees can sign up by entering their email, name, and any other custom details you specify in the advanced settings. This feature allows you to build a valuable contact list for future communications and event notifications. To copy the link to your clipboard, simply click on the input box. Make sure to customize the registration fields to gather all the information you need to tailor your webinars and follow-up activities effectively"></span>
+		Landingspagina
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page-edit' => ///////////////////////////////////////////////////////////////

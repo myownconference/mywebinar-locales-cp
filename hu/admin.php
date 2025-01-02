@@ -2889,13 +2889,13 @@ return [
 	'landing-page-mode' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Landing oldal mód <span class="tooltip" data-tip="Aktiválja ezt a módot, hogy webináriumterét landing oldallá alakítsa. A webináriumba való közvetlen belépés helyett a résztvevők először megadják e-mail címüket és más szükséges információkat. Ez a mód segít a feliratkozói lista építésében és az adatok gyűjtésében a webinárium előtt. Kapcsolja be az adatgyűjtéshez; kapcsolja ki a közvetlen belépéshez"></span>
+		Landing oldal mód <span class="tooltip" data-tip="Kapcsolja be ezt az üzemmódot, hogy webinárium szobáját egy landing oldallá alakítsa. Ahelyett, hogy a résztvevők közvetlenül belépnének a webináriumba, először meg kell adniuk e-mailjüket és egyéb szükséges információikat. Ez a mód segít az előfizetői lista bővítésében és az adatok gyűjtésében a webinárium előtt. Kapcsolja be az adatok gyűjtéséhez; kapcsolja ki a közvetlen belépéshez"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Landing oldal <span class="tooltip" data-tip="Használja ezt a regisztrációs oldalt a résztvevők adatainak összegyűjtésére a jövőbeli webináriumokhoz. A résztvevők megadhatják e-mail címüket, nevüket és bármilyen más egyéni adatot, amelyet a speciális beállításokban határoz meg. Ez a funkció lehetővé teszi egy értékes kapcsolattartói lista létrehozását a jövőbeni kommunikációk és eseményértesítések számára. A link vágólapra másolásához egyszerűen kattintson a beviteli mezőre. Győződjön meg róla, hogy a regisztrációs mezőket testreszabja az összes szükséges információ összegyűjtéséhez, hogy hatékonyan személyre szabja a webináriumokat és az utókövetési tevékenységeket"></span>
+		Céloldal
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page-edit' => ///////////////////////////////////////////////////////////////

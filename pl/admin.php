@@ -2892,13 +2892,13 @@ return [
 	'landing-page-mode' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tryb strony docelowej <span class="tooltip" data-tip="Aktywuj ten tryb, aby przekształcić pokój webinarowy w stronę docelową. Zamiast bezpośrednio wchodzić na webinar, uczestnicy najpierw podadzą swój e-mail i inne wymagane informacje. Ten tryb pomaga budować listę subskrybentów i zbierać dane uczestników przed webinarem. Włącz, aby najpierw zbierać dane; wyłącz, aby uzyskać bezpośredni dostęp"></span>
+		Tryb strony docelowej <span class="tooltip" data-tip="Aktywuj ten tryb, aby zamienić pokój webinarowy w stronę docelową. Zamiast bezpośredniego wejścia na webinar, uczestnicy najpierw podadzą swój e-mail i inne wymagane informacje. Ten tryb pomaga w budowaniu listy subskrybentów i zbieraniu danych uczestników przed webinarem. Włącz go, aby najpierw zebrać dane; wyłącz go, aby umożliwić bezpośrednie wejście"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Strona docelowa <span class="tooltip" data-tip="Użyj tej strony rejestracyjnej, aby zbierać informacje o uczestnikach na przyszłe webinary. Twoi uczestnicy mogą zarejestrować się, podając swój adres e-mail, imię i nazwisko oraz inne niestandardowe informacje, które określisz w ustawieniach zaawansowanych. Ta funkcja pozwala zbudować wartościową listę kontaktów do przyszłej komunikacji i powiadomień o wydarzeniach. Aby skopiować link do schowka, po prostu kliknij pole wprowadzania. Pamiętaj, aby dostosować pola rejestracyjne, aby zebrać wszystkie potrzebne informacje, aby skutecznie dostosować swoje webinary i działania następcze"></span>
+		Strona docelowa
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page-edit' => ///////////////////////////////////////////////////////////////

@@ -2889,13 +2889,13 @@ return [
 	'landing-page-mode' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Modul pagină de destinație <span class="tooltip" data-tip="Activați acest mod pentru a transforma camera de webinar într-o pagină de destinație. În loc să intrați direct în webinar, participanții vor furniza mai întâi e-mailul și alte informații necesare. Acest mod ajută la construirea listei de abonați și la colectarea datelor participanților înainte de webinar. Activați-l pentru a colecta date mai întâi; dezactivați-l pentru acces direct"></span>
+		Modul pagină de destinație <span class="tooltip" data-tip="Activați acest mod pentru a transforma sala de webinar într-o pagină de destinație. În loc să intre direct în webinar, participanții vor furniza mai întâi e-mailul și alte informații necesare. Acest mod ajută la construirea listei de abonați și la colectarea datelor participanților înainte de webinar. Activați-l pentru a colecta date mai întâi; dezactivați-l pentru acces direct"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pagina de destinație <span class="tooltip" data-tip="Utilizați această pagină de înregistrare pentru a colecta informații despre participanți pentru viitoarele webinarii. Participanții dvs. se pot înscrie introducând adresa de e-mail, numele și orice alte detalii personalizate pe care le specificați în setările avansate. Această funcție vă permite să construiți o listă de contacte valoroasă pentru comunicările viitoare și notificările evenimentelor. Pentru a copia linkul în clipboard, faceți clic pe caseta de introducere. Asigurați-vă că personalizați câmpurile de înregistrare pentru a colecta toate informațiile de care aveți nevoie pentru a adapta eficient webinariile și activitățile de urmărire"></span>
+		Pagină de destinație
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page-edit' => ///////////////////////////////////////////////////////////////

@@ -2893,13 +2893,13 @@ return [
 	'landing-page-mode' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mode page d‘atterrissage <span class="tooltip" data-tip="Activez ce mode pour transformer votre salle de webinaire en page de destination. Au lieu d‘entrer directement dans le webinaire, les participants fourniront d‘abord leur e-mail et autres informations requises. Ce mode aide à créer votre liste d‘abonnés et à recueillir des données sur les participants avant le webinaire. Activez-le pour collecter les données en premier; désactivez-le pour l‘entrée directe"></span>
+		Mode page de destination <span class="tooltip" data-tip="Activez ce mode pour transformer votre salle de webinaire en une page de destination. Au lieu dʼentrer directement dans le webinaire, les participants devront dʼabord fournir leur e-mail et dʼautres informations requises. Ce mode aide à construire votre liste dʼabonnés et à collecter les données des participants avant le webinaire. Activez-le pour collecter les données en premier; désactivez-le pour une entrée directe"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Page de destination <span class="tooltip" data-tip="Utilisez cette page d‘inscription pour collecter les informations des participants pour les futurs webinaires. Vos participants peuvent s‘inscrire en entrant leur e-mail, leur nom et d‘autres détails personnalisés que vous spécifiez dans les paramètres avancés. Cette fonctionnalité vous permet de constituer une liste de contacts précieuse pour les communications futures et les notifications d‘événements. Pour copier le lien dans votre presse-papiers, cliquez simplement sur la zone de saisie. Assurez-vous de personnaliser les champs d‘inscription pour collecter toutes les informations dont vous avez besoin pour adapter efficacement vos webinaires et activités de suivi"></span>
+		Page de destination
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page-edit' => ///////////////////////////////////////////////////////////////

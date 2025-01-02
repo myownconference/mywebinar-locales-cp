@@ -2889,13 +2889,13 @@ return [
 	'landing-page-mode' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Açılış sayfası modu <span class="tooltip" data-tip="Webiner odanızı açılış sayfasına dönüştürmek için bu modu etkinleştirin. Webinerine doğrudan girmek yerine, katılımcılar önce e-posta adreslerini ve gerekli diğer bilgileri sağlar. Bu mod, abone listenizi oluşturmanıza ve webinerinden önce katılımcı verilerini toplamanıza yardımcı olur. Öncelikle veri toplamak için açın; doğrudan giriş için kapatın"></span>
+		Açılış sayfası modu <span class="tooltip" data-tip="Webinar odanızı bir açılış sayfasına dönüştürmek için bu modu etkinleştirin. Webinara doğrudan girmek yerine, katılımcılar önce e-posta adreslerini ve diğer gerekli bilgileri sağlayacaklar. Bu mod, abone listenizi oluşturmanıza ve webinar öncesinde katılımcı verilerini toplamanıza yardımcı olur. Verileri toplamak için açın; doğrudan giriş için kapatın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Açılış sayfası <span class="tooltip" data-tip="Gelecekteki webinerleri için katılımcı bilgilerini toplamak için bu kayıt sayfasını kullanın. Katılımcılarınız, e-postalarını, adlarını ve gelişmiş ayarlarda belirttiğiniz diğer özel ayrıntıları girerek kaydolabilir. Bu özellik, gelecekteki iletişimler ve etkinlik bildirimleri için değerli bir iletişim listesi oluşturmanıza olanak tanır. Bağlantıyı panonuza kopyalamak için giriş kutusuna tıklamanız yeterlidir. Webinerlerinizi ve takip etkinliklerinizi etkili bir şekilde uyarlamak için ihtiyaç duyduğunuz tüm bilgileri toplamak üzere kayıt alanlarını özelleştirdiğinizden emin olun"></span>
+		Açılış sayfası
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page-edit' => ///////////////////////////////////////////////////////////////

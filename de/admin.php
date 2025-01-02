@@ -2889,13 +2889,13 @@ return [
 	'landing-page-mode' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Landingpage-Modus <span class="tooltip" data-tip="Aktivieren Sie diesen Modus, um Ihren Webinarraum in eine Landingpage zu verwandeln. Anstatt direkt ins Webinar zu gelangen, geben die Teilnehmer zuerst ihre E-Mail-Adresse und andere erforderliche Informationen an. Dieser Modus hilft Ihnen, Ihre Abonnentenliste aufzubauen und Teilnehmerdaten vor dem Webinar zu sammeln. Aktivieren Sie ihn, um zuerst Daten zu sammeln; deaktivieren Sie ihn für direkten Zugang"></span>
+		Landingpage-Modus <span class="tooltip" data-tip="Aktivieren Sie diesen Modus, um Ihren Webinarraum in eine Landingpage zu verwandeln. Anstatt direkt am Webinar teilzunehmen, geben die Teilnehmer zunächst ihre E-Mail-Adresse und andere erforderliche Informationen ein. Dieser Modus hilft, Ihre Abonnentenliste aufzubauen und Teilnehmerdaten vor dem Webinar zu sammeln. Aktivieren Sie ihn, um zuerst Daten zu sammeln; deaktivieren Sie ihn für den direkten Eintritt"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Landingpage <span class="tooltip" data-tip="Verwenden Sie diese Registrierungsseite, um Teilnehmerinformationen für zukünftige Webinare zu sammeln. Ihre Teilnehmer können sich anmelden, indem sie ihre E-Mail-Adresse, ihren Namen und alle anderen benutzerdefinierten Details eingeben, die Sie in den erweiterten Einstellungen angeben. Diese Funktion ermöglicht es Ihnen, eine wertvolle Kontaktliste für zukünftige Mitteilungen und Veranstaltungsbenachrichtigungen aufzubauen. Um den Link in Ihre Zwischenablage zu kopieren, klicken Sie einfach auf das Eingabefeld. Stellen Sie sicher, dass Sie die Registrierungsfelder anpassen, um alle Informationen zu sammeln, die Sie benötigen, um Ihre Webinare und Nachverfolgungsaktivitäten effektiv anzupassen"></span>
+		Landingpage
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page-edit' => ///////////////////////////////////////////////////////////////

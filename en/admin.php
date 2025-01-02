@@ -2895,7 +2895,7 @@ return [
 	'landing-page' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Landing page <span class="tooltip" data-tip="Use this registration page to collect attendee information for future webinars. Your attendees can sign up by entering their email, name, and any other custom details you specify in the advanced settings. This feature allows you to build a valuable contact list for future communications and event notifications. To copy the link to your clipboard, simply click on the input box. Make sure to customize the registration fields to gather all the information you need to tailor your webinars and follow-up activities effectively"></span>
+		Landing page
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page-edit' => ///////////////////////////////////////////////////////////////

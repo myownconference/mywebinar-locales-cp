@@ -2889,13 +2889,13 @@ return [
 	'landing-page-mode' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Modalità pagina di destinazione <span class="tooltip" data-tip="Attiva questa modalità per trasformare la tua sala webinar in una pagina di destinazione. Invece di entrare direttamente nel webinar, i partecipanti forniranno prima la loro email e altre informazioni richieste. Questa modalità aiuta a costruire la tua lista di iscritti e a raccogliere i dati dei partecipanti prima del webinar. Attivala per raccogliere i dati prima; disattivala per l‘ingresso diretto"></span>
+		Modalità pagina di destinazione <span class="tooltip" data-tip="Attiva questa modalità per trasformare la stanza del tuo webinar in una pagina di destinazione. Invece di entrare direttamente nel webinar, i partecipanti forniranno prima la loro email e altre informazioni richieste. Questa modalità aiuta a costruire la tua lista di iscritti e a raccogliere i dati dei partecipanti prima del webinar. Attivalo per raccogliere i dati prima; disattivalo per lʼingresso diretto"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pagina di destinazione <span class="tooltip" data-tip="Utilizza questa pagina di registrazione per raccogliere le informazioni dei partecipanti per i futuri webinar. I tuoi partecipanti possono iscriversi inserendo la loro email, nome e qualsiasi altro dettaglio personalizzato che specifichi nelle impostazioni avanzate. Questa funzione ti consente di creare una lista di contatti preziosa per le comunicazioni future e le notifiche degli eventi. Per copiare il link negli appunti, fai semplicemente clic sulla casella di inserimento. Assicurati di personalizzare i campi di registrazione per raccogliere tutte le informazioni necessarie per adattare efficacemente i tuoi webinar e le attività di follow-up"></span>
+		Pagina di atterraggio
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page-edit' => ///////////////////////////////////////////////////////////////

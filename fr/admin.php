@@ -1702,7 +1702,7 @@ return [
 	'webcam-chat-position' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Position de la webcam
+		Position de la webcam <span class="tooltip" data-tip="Choisissez lʼemplacement de la zone de la webcam dans votre salle de webinaire. Ce paramètre vous permet de positionner lʼaffichage de la webcam à côté ou au-dessus de la zone de travail. Sélectionnez votre emplacement préféré pour personnaliser la disposition de la salle"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webcam-position-left' => ////////////////////////////////////////////////////////////

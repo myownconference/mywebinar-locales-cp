@@ -1701,7 +1701,7 @@ return [
 	'webcam-chat-position' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Posizione webcam
+		Posizione Webcam <span class="tooltip" data-tip="Scegli la posizione dellʼarea della webcam nella stanza del tuo webinar. Questa impostazione ti consente di posizionare la visualizzazione della webcam accanto o sopra lʼarea di lavoro. Seleziona la tua posizione preferita per personalizzare il layout della stanza"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webcam-position-left' => ////////////////////////////////////////////////////////////

@@ -3105,7 +3105,13 @@ return [
 	'record-link-available' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link will be valid
+		Įrašo nuorodos galiojimo pabaigos data <span class="tooltip" data-tip="Pasirinkite datą, iki kurios įrašo nuoroda liks aktyvi ir pasiekiama. Po šios datos nuoroda nebebus veiksminga. Jei pasirinkta data viršija jūsų mokamo plano galiojimo pabaigą, nuoroda liks aktyvi tik iki jūsų prenumeratos galiojimo pabaigos. Įsitikinkite, kad tai suprantate, arba apsvarstykite plano pratęsimą, kad padengtumėte pasirinktą datą"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'record-limit-alert-text' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Pasirinkta data viršija jūsų mokamo plano pabaigą. Nuoroda išliks aktyvi tik iki jūsų plano galiojimo pabaigos. Norėdami išlaikyti nuorodą pasiekiamą, prašome pratęsti savo planą. <a href="/?p=pay">Spustelėkite čia</a> norėdami peržiūrėti galimus kainų planus
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

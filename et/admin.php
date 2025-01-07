@@ -3105,7 +3105,13 @@ return [
 	'record-link-available' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link will be valid
+		Salvestuse lingi aegumiskuupäev <span class="tooltip" data-tip="Valige kuupäev, kuni millal salvestuse link jääb aktiivseks ja kättesaadavaks. Pärast seda kuupäeva link enam ei tööta. Kui valitud kuupäev ületab teie tasulise plaani lõpu, jääb link aktiivseks ainult seni, kuni teie tellimus on kehtiv. Palun veenduge, et mõistate seda, või kaaluge plaani pikendamist, et katta valitud kuupäev"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'record-limit-alert-text' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Valitud kuupäev ületab teie tasulise plaani lõpu. Link jääb aktiivseks ainult teie plaani kehtivusaja lõpuni. Lingile juurdepääsu säilitamiseks pikendage oma plaani. <a href="/?p=pay">Klõpsake siin</a>, et vaadata saadaolevaid hinnaplaane
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

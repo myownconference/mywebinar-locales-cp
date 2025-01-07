@@ -3105,7 +3105,13 @@ return [
 	'record-link-available' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link-ul va fi valid
+		Data de expirare a linkului de înregistrare <span class="tooltip" data-tip="Selectați data până la care linkul de înregistrare va rămâne activ și accesibil. După această dată, linkul nu va mai funcționa. Dacă data selectată depășește sfârșitul planului tarifar plătit, linkul va rămâne activ doar până la expirarea abonamentului. Asigurați-vă că înțelegeți acest lucru sau luați în considerare extinderea planului pentru a acoperi data selectată"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'record-limit-alert-text' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Data selectată depășește sfârșitul planului dvs. plătit. Linkul va rămâne activ doar până la data de expirare a planului dvs. Pentru a menține linkul accesibil, vă rugăm să vă extindeți planul. <a href="/?p=pay">Faceți clic aici</a> pentru a vedea planurile tarifare disponibile
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

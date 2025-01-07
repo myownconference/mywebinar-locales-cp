@@ -3105,7 +3105,13 @@ return [
 	'record-link-available' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		A link érvényes lesz
+		A felvételi link lejárati dátuma <span class="tooltip" data-tip="Válassza ki azt a dátumot, ameddig a felvételi link aktív és elérhető marad. Ezt követően a link nem fog működni. Ha a kiválasztott dátum meghaladja a fizetett csomag érvényességét, a link csak az előfizetés érvényességéig marad aktív. Kérjük, győződjön meg arról, hogy érti ezt, vagy fontolja meg a csomag meghosszabbítását, hogy lefedje a kiválasztott dátumot"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'record-limit-alert-text' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		A kiválasztott dátum meghaladja a fizetett terv végét. A link csak a terv lejárati dátumáig marad aktív. A link elérhetőségének fenntartásához hosszabbítsa meg a tervét. <a href="/?p=pay">Kattintson ide</a>, hogy megtekinthesse az elérhető árterveket
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

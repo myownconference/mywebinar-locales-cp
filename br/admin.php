@@ -3105,7 +3105,13 @@ return [
 	'record-link-available' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link will be valid
+		Data de expiração do link da gravação <span class="tooltip" data-tip="Selecione a data até a qual o link da gravação permanecerá ativo e acessível. Após essa data, o link não funcionará mais. Se a data selecionada exceder o término do seu plano de preços pago, o link permanecerá ativo apenas até que sua assinatura seja válida. Certifique-se de entender isso ou considere estender seu plano de preços para cobrir a data selecionada"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'record-limit-alert-text' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		A data selecionada excede o término do seu plano pago. O link permanecerá ativo apenas até a data de expiração do seu plano. Para manter o link acessível, por favor, estenda seu plano. <a href="/?p=pay">Clique aqui</a> para ver os planos de preços disponíveis
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

@@ -3105,7 +3105,13 @@ return [
 	'record-link-available' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link will be valid
+		Vervaldatum van opnamekoppeling <span class="tooltip" data-tip="Selecteer de datum tot wanneer de opnamekoppeling actief en toegankelijk blijft. Na deze datum werkt de koppeling niet meer. Als de geselecteerde datum het einde van uw betaalde abonnement overschrijdt, blijft de koppeling alleen actief zolang uw abonnement geldig is. Zorg ervoor dat u dit begrijpt, of overweeg uw abonnement te verlengen om de geselecteerde datum te dekken"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'record-limit-alert-text' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		De geselecteerde datum overschrijdt het einde van uw betaalde plan. De link blijft alleen actief tot de vervaldatum van uw plan. Om de link toegankelijk te houden, verleng uw plan alstublieft. <a href="/?p=pay">Klik hier</a> om beschikbare prijsplannen te bekijken
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

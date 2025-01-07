@@ -3105,7 +3105,13 @@ return [
 	'record-link-available' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link will be valid
+		Datum poteka veljavnosti povezave do posnetka <span class="tooltip" data-tip="Izberite datum, do katerega bo povezava do posnetka ostala aktivna in dostopna. Po tem datumu povezava ne bo več delovala. Če izbrani datum presega konec vašega plačljivega načrta, bo povezava ostala aktivna le do veljavnosti vaše naročnine. Prepričajte se, da to razumete, ali razmislite o podaljšanju načrta za pokritje izbranega datuma"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'record-limit-alert-text' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Izbrani datum presega konec vašega plačljivega načrta. Povezava bo ostala aktivna samo do datuma poteka vašega načrta. Če želite povezavo ohraniti dostopno, podaljšajte svoj načrt. <a href="/?p=pay">Kliknite tukaj</a> za ogled razpoložljivih cenovnih načrtov
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

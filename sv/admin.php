@@ -3105,7 +3105,13 @@ return [
 	'record-link-available' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link will be valid
+		Utgångsdatum för inspelningslänk <span class="tooltip" data-tip="Välj det datum fram till vilket inspelningslänken kommer att vara aktiv och tillgänglig. Efter detta datum fungerar länken inte längre. Om det valda datumet överstiger slutet på din betalda plan, kommer länken bara att förbli aktiv så länge din prenumeration är giltig. Se till att du förstår detta eller överväg att förlänga din plan för att täcka det valda datumet"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'record-limit-alert-text' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Det valda datumet överstiger slutet på din betalda plan. Länken kommer endast att vara aktiv fram till utgångsdatumet för din plan. För att hålla länken tillgänglig, förläng din plan. <a href="/?p=pay">Klicka här</a> för att se tillgängliga prisplaner
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

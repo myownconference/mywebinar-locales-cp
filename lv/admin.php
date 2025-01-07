@@ -3105,7 +3105,13 @@ return [
 	'record-link-available' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link will be valid
+		Ieraksta saites derīguma termiņa datums <span class="tooltip" data-tip="Izvēlieties datumu, līdz kuram ieraksta saite paliks aktīva un pieejama. Pēc šī datuma saite vairs nedarbosies. Ja izvēlētais datums pārsniedz jūsu apmaksātā plāna beigu datumu, saite paliks aktīva tikai līdz jūsu abonementa derīguma termiņam. Lūdzu, pārliecinieties, ka to saprotat, vai apsveriet iespēju pagarināt savu plānu, lai iekļautu izvēlēto datumu"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'record-limit-alert-text' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Izvēlētā datums pārsniedz jūsu apmaksātā plāna beigu datumu. Saite paliks aktīva tikai līdz jūsu plāna derīguma termiņa beigām. Lai saglabātu saiti pieejamu, lūdzu, pagariniet savu plānu. <a href="/?p=pay">Noklikšķiniet šeit</a>, lai skatītu pieejamos cenu plānus
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

@@ -3105,7 +3105,13 @@ return [
 	'record-link-available' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link will be valid
+		Tallennelinkin vanhenemispäivämäärä <span class="tooltip" data-tip="Valitse päivämäärä, johon asti tallennelinkki on aktiivinen ja käytettävissä. Tämän päivämäärän jälkeen linkki ei enää toimi. Jos valittu päivämäärä ylittää maksetun hinnoittelusuunnitelmasi voimassaoloajan, linkki pysyy aktiivisena vain niin kauan kuin tilauksesi on voimassa. Varmista, että ymmärrät tämän, tai harkitse hinnoittelusuunnitelmasi pidentämistä valitun päivämäärän kattamiseksi"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'record-limit-alert-text' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Valittu päivämäärä ylittää maksullisen suunnitelmasi loppumisen. Linkki pysyy aktiivisena vain suunnitelmasi voimassaolon päättymiseen saakka. Pidäksesi linkin käytettävissä, pidennä suunnitelmaasi. <a href="/?p=pay">Klikkaa tästä</a> nähdäksesi saatavilla olevat hintasuunnitelmat
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

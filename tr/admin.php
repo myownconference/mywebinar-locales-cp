@@ -3105,7 +3105,13 @@ return [
 	'record-link-available' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bağlantı geçerli olacak
+		Kayıt bağlantısı son kullanma tarihi <span class="tooltip" data-tip="Kayıt bağlantısının aktif ve erişilebilir kalacağı tarihi seçin. Bu tarihten sonra bağlantı çalışmaz. Seçilen tarih, ücretli planınızın bitiş tarihini aşarsa, bağlantı yalnızca aboneliğiniz geçerli olduğu sürece aktif kalır. Lütfen bunu anladığınızdan emin olun veya seçilen tarihi kapsamak için planınızı uzatmayı düşünün"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'record-limit-alert-text' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Seçilen tarih, ücretli planınızın bitiş tarihini aşıyor. Bağlantı yalnızca planınızın son kullanma tarihine kadar aktif kalacaktır. Bağlantıyı erişilebilir tutmak için lütfen planınızı uzatın. <a href="/?p=pay">Buraya tıklayın</a> mevcut fiyatlandırma planlarını görmek için
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

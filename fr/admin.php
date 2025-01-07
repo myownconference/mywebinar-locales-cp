@@ -3111,7 +3111,13 @@ return [
 	'record-link-available' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Le lien sera valide
+		Date dʼexpiration du lien dʼenregistrement <span class="tooltip" data-tip="Sélectionnez la date jusquʼà laquelle le lien dʼenregistrement restera actif et accessible. Après cette date, le lien ne fonctionnera plus. Si la date sélectionnée dépasse la fin de votre plan tarifaire payé, le lien restera actif uniquement tant que votre abonnement sera valide. Veuillez vous assurer de comprendre cela, ou envisagez de prolonger votre plan tarifaire pour couvrir la date sélectionnée"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'record-limit-alert-text' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		La date sélectionnée dépasse la fin de votre plan payant. Le lien restera actif uniquement jusquʼà la date dʼexpiration de votre plan. Pour maintenir le lien accessible, veuillez prolonger votre plan. <a href="/?p=pay">Cliquez ici</a> pour consulter les plans tarifaires disponibles
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

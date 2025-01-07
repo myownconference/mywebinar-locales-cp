@@ -3105,7 +3105,13 @@ return [
 	'record-link-available' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link ist gültig für
+		Ablaufdatum des Aufnahme-Links <span class="tooltip" data-tip="Wählen Sie das Datum aus, bis zu dem der Aufnahme-Link aktiv und zugänglich bleibt. Nach diesem Datum funktioniert der Link nicht mehr. Wenn das ausgewählte Datum das Ende Ihres kostenpflichtigen Tarifplans überschreitet, bleibt der Link nur bis zum Ablauf Ihres Abonnements aktiv. Bitte stellen Sie sicher, dass Sie dies verstehen, oder erwägen Sie, Ihren Tarifplan zu verlängern, um das ausgewählte Datum abzudecken"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'record-limit-alert-text' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Das ausgewählte Datum überschreitet das Ende Ihres kostenpflichtigen Plans. Der Link bleibt nur bis zum Ablaufdatum Ihres Plans aktiv. Um den Link zugänglich zu halten, verlängern Sie bitte Ihren Plan. <a href="/?p=pay">Klicken Sie hier</a>, um verfügbare Preispläne anzuzeigen
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

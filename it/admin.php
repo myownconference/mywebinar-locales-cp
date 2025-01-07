@@ -3105,7 +3105,13 @@ return [
 	'record-link-available' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Il link sarà valido
+		Data di scadenza del link di registrazione <span class="tooltip" data-tip="Seleziona la data entro cui il link di registrazione rimarrà attivo e accessibile. Dopo questa data, il link non funzionerà più. Se la data selezionata supera la fine del tuo piano tariffario a pagamento, il link rimarrà attivo solo fino alla validità del tuo abbonamento. Assicurati di comprendere ciò o considera di estendere il tuo piano tariffario per coprire la data selezionata"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'record-limit-alert-text' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		La data selezionata supera la fine del tuo piano a pagamento. Il link rimarrà attivo solo fino alla data di scadenza del tuo piano. Per mantenere il link accessibile, estendi il tuo piano. <a href="/?p=pay">Clicca qui</a> per visualizzare i piani tariffari disponibili
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

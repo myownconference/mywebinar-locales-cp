@@ -3109,7 +3109,13 @@ return [
 	'record-link-available' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link
+		Data wygaśnięcia linku do nagrania <span class="tooltip" data-tip="Wybierz datę, do której link do nagrania pozostanie aktywny i dostępny. Po tej dacie link przestanie działać. Jeśli wybrana data przekracza koniec Twojego płatnego planu, link pozostanie aktywny tylko do czasu, gdy Twoja subskrypcja będzie ważna. Upewnij się, że to rozumiesz, lub rozważ przedłużenie swojego planu, aby obejmował wybraną datę"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'record-limit-alert-text' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Wybrana data przekracza koniec Twojego płatnego planu. Link pozostanie aktywny tylko do daty wygaśnięcia Twojego planu. Aby link pozostał dostępny, przedłuż swój plan. <a href="/?p=pay">Kliknij tutaj</a>, aby zobaczyć dostępne plany cenowe
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

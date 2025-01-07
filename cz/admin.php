@@ -3105,7 +3105,13 @@ return [
 	'record-link-available' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link will be valid
+		Datum vypršení platnosti odkazu na záznam <span class="tooltip" data-tip="Vyberte datum, do kterého bude odkaz na záznam aktivní a přístupný. Po tomto datu odkaz přestane fungovat. Pokud zvolený datum přesahuje konec vašeho placeného plánu, odkaz zůstane aktivní pouze do konce platnosti vašeho předplatného. Ujistěte se, že tomu rozumíte, nebo zvažte prodloužení plánu, aby pokryl zvolený datum"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'record-limit-alert-text' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Zvolený datum přesahuje konec vašeho placeného plánu. Odkaz zůstane aktivní pouze do data vypršení vašeho plánu. Chcete-li odkaz zachovat přístupný, prodlužte svůj plán. <a href="/?p=pay">Klikněte zde</a> pro zobrazení dostupných cenových plánů
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

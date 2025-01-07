@@ -3105,7 +3105,13 @@ return [
 	'record-link-available' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link will be valid
+		Udløbsdato for optagelseslink <span class="tooltip" data-tip="Vælg datoen, indtil hvilken optagelseslinket forbliver aktivt og tilgængeligt. Efter denne dato fungerer linket ikke længere. Hvis den valgte dato overstiger udløbet af din betalte plan, vil linket kun forblive aktivt, så længe dit abonnement er gyldigt. Sørg for, at du forstår dette, eller overvej at forlænge din plan for at dække den valgte dato"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'record-limit-alert-text' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Den valgte dato overstiger slutningen af din betalte plan. Linket forbliver kun aktivt indtil udløbsdatoen for din plan. For at holde linket tilgængeligt, skal du forlænge din plan. <a href="/?p=pay">Klik her</a> for at se tilgængelige prisplaner
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

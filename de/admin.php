@@ -1503,7 +1503,7 @@ return [
 	'record-quality' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Qualität <span class="tooltip" data-tip="Choose the desired resolution for your webinar recording. A higher resolution offers clearer visuals but may require more storage space and bandwidth"></span>
+		Qualität <span class="tooltip" data-tip="Wählen Sie die Auflösung für Ihre Webinar-Aufzeichnung. Höhere Auflösungen bieten klarere Bilder, erfordern jedoch mehr Speicherplatz und Bandbreite. Beachten Sie, dass die Auswahl einer Auflösung wie 1080p nicht bedeutet, dass Ihre Webcam allein in 1080p aufgezeichnet wird, da Webcams typischerweise mit maximal 480p streamen. Höhere Auflösungen ermöglichen eine bessere Klarheit von gemeinsam genutzten Inhalten wie Präsentationen und Bildschirmfreigaben"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sd-fullhd' => ///////////////////////////////////////////////////////////////////////

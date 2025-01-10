@@ -1503,7 +1503,7 @@ return [
 	'record-quality' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Quality <span class="tooltip" data-tip="Choose the desired resolution for your webinar video. A higher resolution offers clearer visuals but may require more storage space and bandwidth"></span>
+		Kokybė <span class="tooltip" data-tip="Pasirinkite savo internetinio seminaro įrašo raišką. Aukštesnės raiškos suteikia aiškesnius vaizdus, tačiau reikalauja daugiau vietos saugykloje ir pralaidumo. Atkreipkite dėmesį, kad pasirinkus raišką, pvz., 1080p, tai nereiškia, kad jūsų internetinė kamera bus įrašoma tik 1080p raiška, nes internetinės kameros paprastai transliuoja maksimaliai 480p. Aukštesnės raiškos leidžia geriau matyti bendrinamą turinį, pvz., prezentacijas ir ekrano bendrinimą"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sd-fullhd' => ///////////////////////////////////////////////////////////////////////

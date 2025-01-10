@@ -1503,7 +1503,7 @@ return [
 	'record-quality' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Jakość <span class="tooltip" data-tip="Wybierz żądaną rozdzielczość dla nagrania webinaru. Wyższa rozdzielczość oferuje jaśniejsze obrazy, ale może wymagać więcej miejsca na dysku i przepustowości"></span>
+		Jakość <span class="tooltip" data-tip="Wybierz rozdzielczość dla nagrywania swojego webinaru. Wyższe rozdzielczości zapewniają lepszą jakość obrazu, ale wymagają więcej miejsca na dysku i przepustowości łącza. Pamiętaj, że wybór rozdzielczości, takiej jak 1080p, nie oznacza, że twoja kamera internetowa będzie nagrywana wyłącznie w tej rozdzielczości, ponieważ kamery internetowe zazwyczaj transmitują maksymalnie w 480p. Wyższe rozdzielczości pozwalają na lepszą jakość wspólnego materiału, takiego jak prezentacje i udostępnianie ekranu"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sd-fullhd' => ///////////////////////////////////////////////////////////////////////

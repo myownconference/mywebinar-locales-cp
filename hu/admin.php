@@ -1503,7 +1503,7 @@ return [
 	'record-quality' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Minőség <span class="tooltip" data-tip="Válassza ki a kívánt felbontást a webinárium felvételéhez. A magasabb felbontás tisztább képet nyújt, de több tárhelyet és sávszélességet igényelhet"></span>
+		Minőség <span class="tooltip" data-tip="Válassza ki a felbontást a webinárium felvételéhez. A magasabb felbontások tisztább vizuális élményt nyújtanak, de több tárhelyet és sávszélességet igényelnek. Ne feledje, hogy egy olyan felbontás kiválasztása, mint például a 1080p, nem jelenti azt, hogy a webkamerája kizárólag 1080p-ben kerül rögzítésre, mivel a webkamerák általában maximum 480p-n közvetítenek. A magasabb felbontások jobb tisztaságot biztosítanak a megosztott tartalom, például a prezentációk és a képernyőmegosztás esetében"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sd-fullhd' => ///////////////////////////////////////////////////////////////////////

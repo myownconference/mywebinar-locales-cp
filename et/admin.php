@@ -1503,7 +1503,7 @@ return [
 	'record-quality' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Quality <span class="tooltip" data-tip="Choose the desired resolution for your webinar video. A higher resolution offers clearer visuals but may require more storage space and bandwidth"></span>
+		Kvaliteet <span class="tooltip" data-tip="Valige oma veebiseminari salvestuse jaoks lahutusvõime. Kõrgemad lahutusvõimed pakuvad selgemaid visuaale, kuid nõuavad rohkem salvestusruumi ja ribalaiust. Pange tähele, et sellise lahutusvõime nagu 1080p valimine ei tähenda, et teie veebikaamera salvestatakse ainult 1080p-s, kuna veebikaamerad voogesitavad tavaliselt maksimaalselt 480p. Kõrgemad lahutusvõimed võimaldavad paremat jagatud sisu selgust, näiteks esitlustes ja ekraani jagamisel"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sd-fullhd' => ///////////////////////////////////////////////////////////////////////

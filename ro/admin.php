@@ -1503,7 +1503,7 @@ return [
 	'record-quality' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Calitate <span class="tooltip" data-tip="Choose the desired resolution for your webinar recording. A higher resolution offers clearer visuals but may require more storage space and bandwidth"></span>
+		Calitate <span class="tooltip" data-tip="Selectați rezoluția pentru înregistrarea webinarului. Rezoluțiile mai mari oferă imagini mai clare, dar necesită mai mult spațiu de stocare și lățime de bandă. Rețineți că selectarea unei rezoluții, cum ar fi 1080p, nu înseamnă că webcam-ul dvs. va fi înregistrat exclusiv la 1080p, deoarece webcam-urile transmit, de obicei, la un maxim de 480p. Rezoluțiile mai mari permit o claritate mai bună a conținutului partajat, cum ar fi prezentările și partajarea ecranului"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sd-fullhd' => ///////////////////////////////////////////////////////////////////////

@@ -1503,7 +1503,7 @@ return [
 	'record-quality' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kalite <span class="tooltip" data-tip="Choose the desired resolution for your webinar recording. A higher resolution offers clearer visuals but may require more storage space and bandwidth"></span>
+		Kalite <span class="tooltip" data-tip="Web semineri kaydınız için çözünürlüğü seçin. Daha yüksek çözünürlükler daha net görseller sağlar, ancak daha fazla depolama alanı ve bant genişliği gerektirir. 1080p gibi bir çözünürlük seçmenin, yalnızca web kameranızın 1080p'de kaydedileceği anlamına gelmediğini unutmayın; çünkü web kameraları genellikle maksimum 480p'de yayın yapar. Daha yüksek çözünürlükler, sunumlar ve ekran paylaşımı gibi paylaşılan içerikte daha iyi netlik sağlar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sd-fullhd' => ///////////////////////////////////////////////////////////////////////

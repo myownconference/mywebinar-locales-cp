@@ -1503,7 +1503,7 @@ return [
 	'record-quality' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Quality <span class="tooltip" data-tip="Choose the desired resolution for your webinar video. A higher resolution offers clearer visuals but may require more storage space and bandwidth"></span>
+		Kvalitet <span class="tooltip" data-tip="Välj upplösningen för din webinarinspelning. Högre upplösningar ger tydligare visuella element, men kräver mer lagringsutrymme och bandbredd. Observera att val av en upplösning som 1080p inte betyder att din webbkamera enbart kommer att spelas in i 1080p, eftersom webbkameror vanligtvis strömmar med högst 480p. Högre upplösningar möjliggör bättre tydlighet i delat innehåll, som presentationer och skärmdelning"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sd-fullhd' => ///////////////////////////////////////////////////////////////////////

@@ -1503,7 +1503,7 @@ return [
 	'record-quality' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Quality <span class="tooltip" data-tip="Choose the desired resolution for your webinar video. A higher resolution offers clearer visuals but may require more storage space and bandwidth"></span>
+		Kvalitāte <span class="tooltip" data-tip="Izvēlieties sava tīmekļsemināra ieraksta izšķirtspēju. Augstāka izšķirtspēja nodrošina skaidrākus vizuālos materiālus, taču prasa vairāk krātuves vietas un joslas platuma. Lūdzu, ņemiet vērā, ka, izvēloties tādu izšķirtspēju kā 1080p, tas nenozīmē, ka jūsu tīmekļa kamera tiks ierakstīta tikai 1080p, jo tīmekļa kameras parasti straumē ar maksimālo izšķirtspēju 480p. Augstākas izšķirtspējas ļauj labāk skatīt koplietoto saturu, piemēram, prezentācijas un ekrāna koplietošanu"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sd-fullhd' => ///////////////////////////////////////////////////////////////////////

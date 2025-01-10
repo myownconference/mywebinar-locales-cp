@@ -1503,7 +1503,7 @@ return [
 	'record-quality' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Quality <span class="tooltip" data-tip="Choose the desired resolution for your webinar video. A higher resolution offers clearer visuals but may require more storage space and bandwidth"></span>
+		Kakovost <span class="tooltip" data-tip="Izberite ločljivost za snemanje vašega spletnega seminarja. Višje ločljivosti zagotavljajo jasnejšo sliko, vendar zahtevajo več prostora za shranjevanje in pasovne širine. Upoštevajte, da izbira ločljivosti, kot je 1080p, ne pomeni, da bo vaša spletna kamera posneta izključno v tej ločljivosti, saj spletne kamere običajno pretakajo največ pri 480p. Višje ločljivosti omogočajo boljšo jasnost deljene vsebine, kot so predstavitve in skupna raba zaslona"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sd-fullhd' => ///////////////////////////////////////////////////////////////////////

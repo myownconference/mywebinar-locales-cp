@@ -1503,7 +1503,7 @@ return [
 	'record-quality' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Quality <span class="tooltip" data-tip="Choose the desired resolution for your webinar video. A higher resolution offers clearer visuals but may require more storage space and bandwidth"></span>
+		Kvalita <span class="tooltip" data-tip="Vyberte rozlíšenie pre nahrávanie vášho webinára. Vyššie rozlíšenia poskytujú jasnejší obraz, ale vyžadujú viac úložného priestoru a šírky pásma. Upozorňujeme, že výber rozlíšenia, ako je 1080p, neznamená, že vaša webkamera bude nahrávaná výhradne v tomto rozlíšení, pretože webkamery zvyčajne streamujú maximálne v 480p. Vyššie rozlíšenia umožňujú lepšiu jasnosť zdieľaného obsahu, ako sú prezentácie a zdieľanie obrazovky"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sd-fullhd' => ///////////////////////////////////////////////////////////////////////

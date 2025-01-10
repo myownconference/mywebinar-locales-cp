@@ -1503,7 +1503,7 @@ return [
 	'record-quality' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Quality <span class="tooltip" data-tip="Choose the desired resolution for your webinar video. A higher resolution offers clearer visuals but may require more storage space and bandwidth"></span>
+		Laatu <span class="tooltip" data-tip="Valitse webinaaritallenteesi tarkkuus. Korkeammat tarkkuudet tarjoavat selkeämpiä kuvia, mutta vaativat enemmän tallennustilaa ja kaistanleveyttä. Huomaa, että tarkkuuden, kuten 1080p, valitseminen ei tarkoita, että verkkokameraasi tallennetaan vain 1080p-tarkkuudella, koska verkkokamerat lähettävät yleensä enintään 480p-tarkkuudella. Korkeammat tarkkuudet parantavat jaetun sisällön, kuten esitysten ja näytön jakamisen, selkeyttä"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sd-fullhd' => ///////////////////////////////////////////////////////////////////////

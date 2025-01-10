@@ -2163,7 +2163,7 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Custom fields <span class="tooltip" data-tip="Select and organize the fields you want to display during the webinar registration process to gather additional attendee information"></span>
+		Kirjautumislomake <span class="tooltip" data-tip="Webinaarin rekisteröinti- ja kirjautumislomake sisältää oletuksena kaksi pakollista kenttää: sähköpostin ja osallistujan nimen. Voit kuitenkin mukauttaa lomaketta lisäämällä ja järjestämällä lisäkenttiä kerätäksesi enemmän tietoa osallistujista. Huomaa, että kaikki mukautetut kentät, jotka lisätään rekisteröinti- ja kirjautumislomakkeisiin, ovat oletuksena pakollisia"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////

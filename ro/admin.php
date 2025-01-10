@@ -2163,7 +2163,7 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Câmpuri <span class="tooltip" data-tip="Select and arrange the fields you‘d like to display for webinar registration"></span>
+		Formular de autentificare <span class="tooltip" data-tip="Formularul de înregistrare și autentificare pentru webinar include două câmpuri obligatorii în mod implicit: e-mail și numele participantului. Cu toate acestea, puteți personaliza formularul adăugând și aranjând câmpuri suplimentare pentru a colecta mai multe informații despre participanți. Rețineți că toate câmpurile personalizate adăugate în formularele de înregistrare și autentificare vor fi obligatorii în mod implicit"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////

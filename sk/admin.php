@@ -2163,7 +2163,7 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Custom fields <span class="tooltip" data-tip="Select and organize the fields you want to display during the webinar registration process to gather additional attendee information"></span>
+		Prihlasovací formulár <span class="tooltip" data-tip="Registračný a prihlasovací formulár na webinár obsahuje predvolene dve povinné polia: e-mail a meno účastníka. Môžete však formulár prispôsobiť pridaním a usporiadaním ďalších polí na zhromažďovanie ďalších informácií o účastníkoch. Upozorňujeme, že všetky vlastné polia pridané do registračných a prihlasovacích formulárov budú predvolene povinné"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////

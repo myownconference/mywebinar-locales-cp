@@ -2163,7 +2163,7 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Campi <span class="tooltip" data-tip="Select and arrange the fields you‘d like to display for webinar registration"></span>
+		Modulo di accesso <span class="tooltip" data-tip="Il modulo di registrazione e accesso al webinar include due campi obbligatori per impostazione predefinita: email e nome del partecipante. Tuttavia, è possibile personalizzare il modulo aggiungendo e organizzando campi aggiuntivi per raccogliere ulteriori informazioni sui partecipanti. Nota che tutti i campi personalizzati aggiunti ai moduli di registrazione e accesso saranno obbligatori per impostazione predefinita"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////

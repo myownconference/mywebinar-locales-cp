@@ -2163,7 +2163,7 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Custom fields <span class="tooltip" data-tip="Select and organize the fields you want to display during the webinar registration process to gather additional attendee information"></span>
+		Inloggningsformulär <span class="tooltip" data-tip="Registrerings- och inloggningsformuläret för webbinariet innehåller som standard två obligatoriska fält: e-postadress och deltagarens namn. Du kan dock anpassa formuläret genom att lägga till och ordna ytterligare fält för att samla in mer information om deltagarna. Observera att alla anpassade fält som läggs till i registrerings- och inloggningsformulären som standard är obligatoriska"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////

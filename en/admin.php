@@ -2163,7 +2163,7 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Custom fields <span class="tooltip" data-tip="Select and organize the fields you want to display during the webinar registration process to gather additional attendee information"></span>
+		Login form <span class="tooltip" data-tip="The webinar registration and login form includes two mandatory fields by default: email and attendee name. However, you can customize the form by adding and arranging additional fields to collect more attendee information. Note that all custom fields added to the registration and login forms will be mandatory by default"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////

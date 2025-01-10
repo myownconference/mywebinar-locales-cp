@@ -2163,7 +2163,7 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Formulario de ingreso <span class="tooltip" data-tip="Select and arrange the fields you‘d like to display for webinar registration"></span>
+		Formulario de inicio de sesión <span class="tooltip" data-tip="El formulario de registro e inicio de sesión del webinar incluye dos campos obligatorios por defecto: correo electrónico y nombre del asistente. Sin embargo, puedes personalizar el formulario añadiendo y organizando campos adicionales para recopilar más información de los asistentes. Ten en cuenta que todos los campos personalizados añadidos a los formularios de registro e inicio de sesión serán obligatorios por defecto"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////

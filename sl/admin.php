@@ -2163,7 +2163,7 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Custom fields <span class="tooltip" data-tip="Select and organize the fields you want to display during the webinar registration process to gather additional attendee information"></span>
+		Prijavni obrazec <span class="tooltip" data-tip="Registracijski in prijavni obrazec za spletni seminar privzeto vključuje dve obvezni polji: e-poštni naslov in ime udeleženca. Vendar lahko obrazec prilagodite z dodajanjem in urejanjem dodatnih polj za zbiranje več informacij o udeležencih. Upoštevajte, da bodo vsa prilagojena polja, dodana v registracijske in prijavne obrazce, privzeto obvezna"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////

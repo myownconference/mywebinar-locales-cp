@@ -2164,7 +2164,7 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Formularz logowania <span class="tooltip" data-tip="Wybierz i ułóż pola, które chciałbyś wyświetlić przy rejestracji na webinar"></span>
+		Formularz logowania <span class="tooltip" data-tip="Formularz rejestracji i logowania na webinar zawiera domyślnie dwa obowiązkowe pola: e-mail i imię uczestnika. Możesz jednak dostosować formularz, dodając i organizując dodatkowe pola, aby zebrać więcej informacji o uczestnikach. Zwróć uwagę, że wszystkie niestandardowe pola dodane do formularzy rejestracji i logowania będą domyślnie obowiązkowe"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////

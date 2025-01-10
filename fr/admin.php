@@ -2164,7 +2164,7 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Formulaire de connexion <span class="tooltip" data-tip="Select and arrange the fields you‘d like to display for webinar registration"></span>
+		Formulaire de connexion <span class="tooltip" data-tip="Le formulaire dʼinscription et de connexion au webinaire comprend deux champs obligatoires par défaut: lʼe-mail et le nom du participant. Cependant, vous pouvez personnaliser le formulaire en ajoutant et en organisant des champs supplémentaires pour collecter davantage dʼinformations sur les participants. Notez que tous les champs personnalisés ajoutés aux formulaires dʼinscription et de connexion seront obligatoires par défaut"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////

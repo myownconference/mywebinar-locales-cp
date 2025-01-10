@@ -2163,7 +2163,7 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Custom fields <span class="tooltip" data-tip="Select and organize the fields you want to display during the webinar registration process to gather additional attendee information"></span>
+		Pieteikšanās veidlapa <span class="tooltip" data-tip="Tīmekļsemināra reģistrācijas un pieteikšanās veidlapa pēc noklusējuma ietver divus obligātus laukus: e-pasta adresi un dalībnieka vārdu. Tomēr jūs varat pielāgot veidlapu, pievienojot un sakārtojot papildu laukus, lai savāktu vairāk informācijas par dalībniekiem. Lūdzu, ņemiet vērā, ka visi pielāgotie lauki, kas pievienoti reģistrācijas un pieteikšanās veidlapām, pēc noklusējuma būs obligāti"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////

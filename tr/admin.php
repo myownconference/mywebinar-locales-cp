@@ -2163,7 +2163,7 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Alanlar <span class="tooltip" data-tip="Select and arrange the fields you‘d like to display for webinar registration"></span>
+		Giriş formu <span class="tooltip" data-tip="Web semineri kayıt ve giriş formu varsayılan olarak iki zorunlu alan içerir: e-posta ve katılımcı adı. Ancak, formu ek alanlar ekleyerek ve düzenleyerek özelleştirebilir, katılımcılar hakkında daha fazla bilgi toplayabilirsiniz. Kayıt ve giriş formlarına eklenen tüm özel alanların varsayılan olarak zorunlu olduğunu unutmayın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////

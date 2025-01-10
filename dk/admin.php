@@ -2163,7 +2163,7 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Custom fields <span class="tooltip" data-tip="Select and organize the fields you want to display during the webinar registration process to gather additional attendee information"></span>
+		Loginformular <span class="tooltip" data-tip="Webinar-registrerings- og loginformularen indeholder som standard to obligatoriske felter: e-mail og deltagerens navn. Du kan dog tilpasse formularen ved at tilføje og arrangere yderligere felter for at indsamle flere deltageroplysninger. Bemærk, at alle brugerdefinerede felter, der tilføjes til registrerings- og loginformularer, som standard vil være obligatoriske"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////

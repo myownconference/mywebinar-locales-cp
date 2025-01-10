@@ -2163,7 +2163,7 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Custom fields <span class="tooltip" data-tip="Select and organize the fields you want to display during the webinar registration process to gather additional attendee information"></span>
+		Sisselogimisvorm <span class="tooltip" data-tip="Veebiseminari registreerimis- ja sisselogimisvorm sisaldab vaikimisi kahte kohustuslikku välja: e-posti aadressi ja osaleja nime. Siiski saate vormi kohandada, lisades ja korraldades täiendavaid välju, et koguda rohkem teavet osalejate kohta. Pange tähele, et kõik registreerimis- ja sisselogimisvormidele lisatud kohandatud väljad on vaikimisi kohustuslikud"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////

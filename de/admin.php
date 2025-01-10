@@ -2163,7 +2163,7 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Felder <span class="tooltip" data-tip="Select and arrange the fields you‘d like to display for webinar registration"></span>
+		Anmeldeformular <span class="tooltip" data-tip="Das Registrierungs- und Anmeldeformular für das Webinar enthält standardmäßig zwei Pflichtfelder: E-Mail und Teilnehmername. Sie können das Formular jedoch anpassen, indem Sie zusätzliche Felder hinzufügen und anordnen, um weitere Informationen über die Teilnehmer zu sammeln. Beachten Sie, dass alle benutzerdefinierten Felder, die zu den Registrierungs- und Anmeldeformularen hinzugefügt werden, standardmäßig obligatorisch sind"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////

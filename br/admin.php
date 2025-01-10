@@ -2163,7 +2163,7 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Custom fields <span class="tooltip" data-tip="Select and organize the fields you want to display during the webinar registration process to gather additional attendee information"></span>
+		Formulário de login <span class="tooltip" data-tip="O formulário de registro e login do webinar inclui dois campos obrigatórios por padrão: e-mail e nome do participante. No entanto, você pode personalizar o formulário adicionando e organizando campos adicionais para coletar mais informações dos participantes. Observe que todos os campos personalizados adicionados aos formulários de registro e login serão obrigatórios por padrão"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////

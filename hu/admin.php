@@ -2163,7 +2163,7 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mezők <span class="tooltip" data-tip="Válassza ki és rendezze el azokat a mezőket, amelyeket meg szeretne jeleníteni a webinárium regisztráció során"></span>
+		Bejelentkezési űrlap <span class="tooltip" data-tip="A webinárium regisztrációs és bejelentkezési űrlapja alapértelmezés szerint két kötelező mezőt tartalmaz: e-mail és résztvevő neve. Azonban testreszabhatja az űrlapot további mezők hozzáadásával és rendezésével, hogy több információt gyűjtsön a résztvevőkről. Vegye figyelembe, hogy a regisztrációs és bejelentkezési űrlapokhoz hozzáadott összes egyedi mező alapértelmezés szerint kötelező lesz"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////

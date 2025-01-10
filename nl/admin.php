@@ -2163,7 +2163,7 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Custom fields <span class="tooltip" data-tip="Select and organize the fields you want to display during the webinar registration process to gather additional attendee information"></span>
+		Inlogformulier <span class="tooltip" data-tip="Het registratie- en inlogformulier voor het webinar bevat standaard twee verplichte velden: e-mail en naam van de deelnemer. Je kunt het formulier echter aanpassen door extra velden toe te voegen en te rangschikken om meer informatie over de deelnemers te verzamelen. Houd er rekening mee dat alle aangepaste velden die aan de registratie- en inlogformulieren worden toegevoegd, standaard verplicht zijn"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////

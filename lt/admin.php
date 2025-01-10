@@ -2163,7 +2163,7 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Custom fields <span class="tooltip" data-tip="Select and organize the fields you want to display during the webinar registration process to gather additional attendee information"></span>
+		Prisijungimo forma <span class="tooltip" data-tip="Internetinio seminaro registracijos ir prisijungimo forma pagal numatytuosius nustatymus apima du privalomus laukus: el. pašto adresą ir dalyvio vardą. Tačiau galite pritaikyti formą, pridėdami ir išdėstydami papildomus laukus, kad surinktumėte daugiau informacijos apie dalyvius. Atkreipkite dėmesį, kad visi registracijos ir prisijungimo formose pridėti pritaikyti laukai bus privalomi pagal numatytuosius nustatymus"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////

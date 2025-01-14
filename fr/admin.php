@@ -2953,9 +2953,7 @@ return [
 	'lending-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		L‘espace de travail a été désactivé et le mode page de renvoi a été activé. Il
-		est toujours possible de collecter les e-mail et autres données
-		des participants.
+		Le mode webinaire standard a été désactivé, et le mode page de destination est maintenant actif. Cela signifie que vous pouvez collecter les e-mails et autres données des participants sans héberger de webinaire. La salle de webinaire est verrouillée, et les modérateurs ainsi que les participants ne peuvent pas se connecter
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-be' => /////////////////////////////////////////////////////////////////////////

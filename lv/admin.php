@@ -2949,7 +2949,7 @@ return [
 	'lending-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		The standard webinar mode has been disabled, and the landing page mode is now active. This means that you can now collect attendees‘ emails and other data without actually holding an webinar.
+		Standarta tīmekļsemināra režīms ir atspējots, un tagad ir aktivizēts galvenās lapas režīms. Tas nozīmē, ka varat vākt dalībnieku e-pastus un citus datus, neveicot tīmekļsemināru. Tīmekļsemināra telpa ir bloķēta, un moderatori un dalībnieki nevar pieteikties
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-be' => /////////////////////////////////////////////////////////////////////////

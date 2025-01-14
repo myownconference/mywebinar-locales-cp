@@ -2949,7 +2949,7 @@ return [
 	'lending-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Standart webinar modu devre dışı bırakıldı ve karşılama sayfası modu etkinleştirildi. Bu, webinar düzenlemeden katılımcıların e-posta ve diğer verilerini toplayabileceğiniz anlamına gelir.
+		Standart web semineri modu devre dışı bırakıldı ve şimdi açılış sayfası modu etkin. Bu, bir web semineri düzenlemeden katılımcıların e-postalarını ve diğer verilerini toplayabileceğiniz anlamına gelir. Web semineri odası kilitli, ve moderatörler ve katılımcılar giriş yapamıyor
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-be' => /////////////////////////////////////////////////////////////////////////

@@ -2952,8 +2952,7 @@ return [
 	'lending-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pokój webinarowy jest wyłączony, aktywowano tryb landingu. Możesz zbierać maile
-		oraz inne dane od uczestników.
+		Standardowy tryb webinaru został wyłączony, a teraz aktywny jest tryb strony docelowej. Oznacza to, że możesz zbierać adresy e-mail uczestników i inne dane bez organizowania webinaru. Pokój webinarowy jest zablokowany, a moderatorzy i uczestnicy nie mogą się zalogować
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-be' => /////////////////////////////////////////////////////////////////////////

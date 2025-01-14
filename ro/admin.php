@@ -2949,7 +2949,7 @@ return [
 	'lending-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Modul de eveniment standard a fost dezactivat și modul pagină de destinație este acum activ. Acest lucru înseamnă că acum puteți colecta email-urile și alte date ale participanților fără a ține de fapt un eveniment.
+		Modul standard al webinarului a fost dezactivat, iar modul pagină de destinație este acum activ. Aceasta înseamnă că puteți colecta e-mailurile și alte date ale participanților fără a găzdui un webinar. Sala webinarului este blocată, iar moderatorii și participanții nu pot accesa
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-be' => /////////////////////////////////////////////////////////////////////////

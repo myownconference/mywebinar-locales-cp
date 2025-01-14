@@ -2951,8 +2951,7 @@ return [
 	'lending-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		La sala del webinario ha sido desabilitada y el modo página de captura ha sido
-		activado. Todavía se puede recolectar emails y otros datos de los participantes.
+		El modo estándar de webinar ha sido desactivado y ahora está activo el modo de página de destino. Esto significa que puedes recopilar correos electrónicos y otros datos de los asistentes sin realizar un webinar. La sala del webinar está bloqueada, y los moderadores y asistentes no pueden iniciar sesión
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-be' => /////////////////////////////////////////////////////////////////////////

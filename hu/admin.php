@@ -2949,7 +2949,7 @@ return [
 	'lending-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		A normál webinárium mód letiltásra került, és a landing page mód most aktív. Ez azt jelenti, hogy mostantól gyűjtheti a résztvevők e-mailjeit és egyéb adatait anélkül, hogy ténylegesen megtartaná a webináriumot.
+		Az alapértelmezett webinárium mód le lett tiltva, és most az érkezési oldal mód aktív. Ez azt jelenti, hogy gyűjthet résztvevők e-mailjeit és egyéb adatait anélkül, hogy webináriumot tartana. A webinárium szoba zárolva van, és a moderátorok és a résztvevők nem tudnak bejelentkezni
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-be' => /////////////////////////////////////////////////////////////////////////

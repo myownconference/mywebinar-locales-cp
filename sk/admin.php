@@ -2949,7 +2949,7 @@ return [
 	'lending-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		The standard webinar mode has been disabled, and the landing page mode is now active. This means that you can now collect attendees‘ emails and other data without actually holding an webinar.
+		Štandardný režim webinára bol deaktivovaný a teraz je aktívny režim vstupnej stránky. To znamená, že môžete zhromažďovať e-maily účastníkov a ďalšie údaje bez organizovania webinára. Miestnosť webinára je uzamknutá a moderátori ani účastníci sa nemôžu prihlásiť
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-be' => /////////////////////////////////////////////////////////////////////////

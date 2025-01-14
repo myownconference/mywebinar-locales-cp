@@ -2949,7 +2949,7 @@ return [
 	'lending-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		La modalità evento standard è stata disattivata e ora è attiva la modalità pagina di atterraggio. Questo significa che ora puoi raccogliere le email dei partecipanti e altri dati senza effettivamente tenere un evento.
+		La modalità webinar standard è stata disattivata, e la modalità pagina di destinazione è ora attiva. Questo significa che puoi raccogliere le email e altri dati dei partecipanti senza ospitare un webinar. La stanza del webinar è bloccata, e i moderatori e i partecipanti non possono accedere
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-be' => /////////////////////////////////////////////////////////////////////////

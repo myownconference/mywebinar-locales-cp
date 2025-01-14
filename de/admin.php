@@ -2949,7 +2949,7 @@ return [
 	'lending-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Der Standard-Webinar-Modus wurde deaktiviert, und der Landing-Page-Modus ist aktiv. Sie können jetzt E-mails und andere Daten von Teilnehmern sammeln, ohne das Webinar durchzuführen.
+		Der Standard-Webinarmodus wurde deaktiviert, und der Landingpage-Modus ist jetzt aktiv. Das bedeutet, dass Sie die E-Mail-Adressen und andere Daten der Teilnehmer sammeln können, ohne ein Webinar zu veranstalten. Der Webinarraum ist gesperrt, und Moderatoren sowie Teilnehmer können sich nicht einloggen
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-be' => /////////////////////////////////////////////////////////////////////////

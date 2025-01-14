@@ -2949,7 +2949,7 @@ return [
 	'lending-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		The standard webinar mode has been disabled, and the landing page mode is now active. This means that you can now collect attendees‘ emails and other data without actually holding an webinar.
+		Standartinis internetinio seminaro režimas buvo išjungtas, o nukreipimo puslapio režimas dabar aktyvus. Tai reiškia, kad galite rinkti dalyvių el. paštus ir kitus duomenis be internetinio seminaro vedimo. Internetinio seminaro kambarys užrakintas, ir moderatoriai bei dalyviai negali prisijungti
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-be' => /////////////////////////////////////////////////////////////////////////

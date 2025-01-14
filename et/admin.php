@@ -2949,7 +2949,7 @@ return [
 	'lending-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		The standard webinar mode has been disabled, and the landing page mode is now active. This means that you can now collect attendees‘ emails and other data without actually holding an webinar.
+		Tavaveebiseminari režiim on keelatud ja nüüd on aktiivne sihtlehe režiim. See tähendab, et saate koguda osalejate e-kirju ja muid andmeid ilma veebiseminari korraldamata. Veebiseminari tuba on lukustatud ja moderaatorid ning osalejad ei saa sisse logida
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-be' => /////////////////////////////////////////////////////////////////////////

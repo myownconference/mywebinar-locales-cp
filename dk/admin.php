@@ -3567,7 +3567,7 @@ return [
 	'webinar-info' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Links and access <span class="tooltip" data-tip="This section provides all the essential links for your webinar, including the registration form code for upcoming webinars if this feature is enabled in your event settings. You can copy the general public webinar link, the access password (if enabled), and the links for all your invited presenters to ensure a successful online event."></span>
+		Links and access <span class="tooltip" data-tip="This section provides all the essential links for your webinar, including the registration form code for upcoming webinars if this feature is enabled in your event settings. You can copy the general public webinar link, the access password (if enabled), and the links for all your invited presenters to ensure a successful online event"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-status' => /////////////////////////////////////////////////////////////////////
@@ -3753,7 +3753,7 @@ return [
 	'record-edit' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Video editing
+		Rediger webinaroptagelse <span class="tooltip" data-tip="Trim eller del dine tidligere optagede webinarer i dele. Brug denne side til at finjustere og forbedre dine optagelser, og skab færdige og delbare videoer, inden du deler webinaret med dit publikum"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'logotype-url-placeholder' => ////////////////////////////////////////////////////////
@@ -5211,7 +5211,7 @@ return [
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Text direction <span class="tooltip" data-tip="Choose the text direction for the public chat area, supporting both left-to-right (e.g., English) and right-to-left (e.g., Arabic) languages. This ensures a smooth experience for all participants, regardless of their native script orientation."></span>
+		Text direction <span class="tooltip" data-tip="Choose the text direction for the public chat area, supporting both left-to-right (e.g., English) and right-to-left (e.g., Arabic) languages. This ensures a smooth experience for all participants, regardless of their native script orientation"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////
@@ -5235,7 +5235,7 @@ return [
 	'combine-header' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Fragments order
+		Sammenflet webinaroptagelser <span class="tooltip" data-tip="Kombiner flere webinaroptagelser til én sammenhængende video. Brug denne side til at arrangere rækkefølgen af fragmenter og skabe en samlet og poleret slutoptagelse til deling med dit publikum"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'edited' => //////////////////////////////////////////////////////////////////////////

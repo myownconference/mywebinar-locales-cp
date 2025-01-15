@@ -3567,7 +3567,7 @@ return [
 	'webinar-info' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Links and access <span class="tooltip" data-tip="This section provides all the essential links for your webinar, including the registration form code for upcoming webinars if this feature is enabled in your event settings. You can copy the general public webinar link, the access password (if enabled), and the links for all your invited presenters to ensure a successful online event."></span>
+		Links and access <span class="tooltip" data-tip="This section provides all the essential links for your webinar, including the registration form code for upcoming webinars if this feature is enabled in your event settings. You can copy the general public webinar link, the access password (if enabled), and the links for all your invited presenters to ensure a successful online event"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-status' => /////////////////////////////////////////////////////////////////////
@@ -3753,7 +3753,7 @@ return [
 	'record-edit' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Video editing
+		Edit webinar recording <span class="tooltip" data-tip="Trim or split your previously recorded webinars into parts. Use this page to refine and enhance your recordings, creating polished, shareable videos before sharing the webinar with your audience"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'logotype-url-placeholder' => ////////////////////////////////////////////////////////
@@ -4430,7 +4430,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permissions <span class="tooltip" data-tip="Use this feature to assign varied access levels to your webinar moderators.<br><br>• Administrator – The main webinar room administrator with full control and access to all features;<br><br>• Moderator, speaker – Standard access for moderators or speakers, suitable for those who assist in managing the webinar or deliver presentations.<br><br>• Invited presenter – A guest presenter role with limited rights, ideal for one-time contributors or external speakers.<br><br>By customizing permissions, you ensure a smooth and orderly webinar experience tailored to each participant‘s role."></span>
+		Permissions <span class="tooltip" data-tip="Use this feature to assign varied access levels to your webinar moderators.<br><br>• Administrator – The main webinar room administrator with full control and access to all features;<br><br>• Moderator, speaker – Standard access for moderators or speakers, suitable for those who assist in managing the webinar or deliver presentations.<br><br>• Invited presenter – A guest presenter role with limited rights, ideal for one-time contributors or external speakers.<br><br>By customizing permissions, you ensure a smooth and orderly webinar experience tailored to each participant‘s role"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -5211,7 +5211,7 @@ return [
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Text direction <span class="tooltip" data-tip="Choose the text direction for the public chat area, supporting both left-to-right (e.g., English) and right-to-left (e.g., Arabic) languages. This ensures a smooth experience for all participants, regardless of their native script orientation."></span>
+		Text direction <span class="tooltip" data-tip="Choose the text direction for the public chat area, supporting both left-to-right (e.g., English) and right-to-left (e.g., Arabic) languages. This ensures a smooth experience for all participants, regardless of their native script orientation"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////
@@ -5235,7 +5235,7 @@ return [
 	'combine-header' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Fragments order
+		Merge webinar recordings <span class="tooltip" data-tip="Combine multiple webinar recordings into one seamless video. Use this page to arrange the order of fragments, creating a unified and polished final recording to share with your audience"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'edited' => //////////////////////////////////////////////////////////////////////////

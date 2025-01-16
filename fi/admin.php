@@ -4983,7 +4983,7 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S invitations available
+		%S kutsua saatavilla <span class="tooltip" data-tip="Tämä numero ilmaisee, kuinka monta osallistujaa voit kutsua yhteen webinaariin. Se heijastaa nykyisen suunnitelmasi perusteella saatavilla olevien kutsujen kokonaismäärää. Huomaa, että kutsujen määrä voi olla jopa 5 kertaa hinnastosuunnitelmasi osallistujarajan verran. Esimerkiksi, jos suunnitelmasi sallii 60 osallistujaa, voit kutsua jopa 300 osallistujaa joustavuuden ja sitoutumisen takaamiseksi"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////

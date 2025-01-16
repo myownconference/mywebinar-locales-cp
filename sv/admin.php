@@ -4983,7 +4983,7 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S invitations available
+		%S inbjudningar tillgängliga <span class="tooltip" data-tip="Detta antal anger det maximala antalet deltagare du kan bjuda in till ett enda webinar. Det återspeglar det totala antalet inbjudningar som är tillgängliga baserat på din nuvarande plan. Observera att antalet inbjudningar kan vara upp till 5 gånger deltagarbegränsningen i din prisplan. Till exempel, om din plan tillåter 60 deltagare, kan du bjuda in upp till 300 deltagare för att säkerställa flexibilitet och engagemang"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////

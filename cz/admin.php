@@ -4983,7 +4983,7 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S invitations available
+		%S pozvánek k dispozici <span class="tooltip" data-tip="Toto číslo udává maximální počet účastníků, které můžete pozvat na jeden webinář. Odráží celkový počet dostupných pozvánek podle vašeho aktuálního plánu. Všimněte si, že počet pozvánek může být až 5krát vyšší než limit účastníků vašeho cenového plánu. Například pokud váš plán umožňuje 60 účastníků, můžete pozvat až 300 účastníků, aby byla zajištěna flexibilita a zapojení"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////

@@ -4983,7 +4983,7 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S invitations available
+		%S kutseid saadaval <span class="tooltip" data-tip="See number näitab maksimaalset osalejate arvu, keda saate kutsuda ühele veebiseminarile. See kajastab teie praeguse plaani põhjal saadaolevate kutsete koguarvu. Pange tähele, et kutsete arv võib olla kuni 5 korda suurem kui teie hinnaplaani osalejate piirang. Näiteks kui teie plaan lubab 60 osalejat, saate kutsuda kuni 300 osalejat, et tagada paindlikkus ja osalus"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////

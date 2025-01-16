@@ -4983,7 +4983,7 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S meghívó elérhető
+		%S meghívó elérhető <span class="tooltip" data-tip="Ez a szám azt jelzi, hogy hány résztvevőt hívhat meg egyetlen webináriumra. Ez tükrözi a jelenlegi csomagja alapján elérhető meghívók teljes számát. Vegye figyelembe, hogy a meghívók száma akár 5-szöröse is lehet az árképzési csomag résztvevői korlátjának. Például, ha a csomagja 60 résztvevőt engedélyez, akár 300 résztvevőt is meghívhat a rugalmasság és az elkötelezettség érdekében"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////

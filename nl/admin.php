@@ -4983,7 +4983,7 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S invitations available
+		%S uitnodigingen beschikbaar <span class="tooltip" data-tip="Dit aantal geeft het maximale aantal deelnemers aan dat je kunt uitnodigen voor één webinar. Het weerspiegelt het totale aantal beschikbare uitnodigingen op basis van je huidige plan. Merk op dat het aantal uitnodigingen tot 5 keer het deelnemerslimiet van je prijsplan kan zijn. Bijvoorbeeld, als je plan 60 deelnemers toestaat, kun je tot 300 deelnemers uitnodigen om flexibiliteit en betrokkenheid te garanderen"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////

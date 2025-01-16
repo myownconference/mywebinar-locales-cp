@@ -4983,7 +4983,7 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S invitații disponibile
+		%S invitații disponibile <span class="tooltip" data-tip="Acest număr indică numărul maxim de participanți pe care îi puteți invita la un singur webinar. Reflectă numărul total de invitații disponibile în funcție de planul dvs. actual. Rețineți că numărul de invitații poate fi de până la 5 ori limita de participanți a planului dvs. De exemplu, dacă planul dvs. permite 60 de participanți, puteți invita până la 300 de participanți pentru a asigura flexibilitate și implicare"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////

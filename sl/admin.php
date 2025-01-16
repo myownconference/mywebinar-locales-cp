@@ -4983,7 +4983,7 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S invitations available
+		%S povabil na voljo <span class="tooltip" data-tip="Ta številka označuje največje število udeležencev, ki jih lahko povabite na en webinar. Odraža skupno število razpoložljivih povabil glede na vaš trenutni načrt. Upoštevajte, da je število povabil lahko do 5-krat večje od omejitve udeležencev vašega cenovnega načrta. Na primer, če vaš načrt dovoljuje 60 udeležencev, lahko povabite do 300 udeležencev za zagotavljanje prilagodljivosti in sodelovanja"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////

@@ -2343,7 +2343,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Codice di incorporamento del modulo di registrazione <span class="tooltip" data-tip="Copia questo codice HTML IFRAME per incorporare un modulo di registrazione nella tua pagina personale per il tuo webinar. Questo codice è universale e potrebbe necessitare di ulteriori personalizzazioni per adattarsi ai parametri e allo stile della tua pagina. Basta fare clic sul campo di inserimento per copiare il codice negli appunti"></span>
+		Codice modulo di registrazione <span class="tooltip" data-tip="Copia questo codice HTML IFRAME per incorporare il modulo di registrazione nel tuo sito web. Questo codice è flessibile e potrebbe richiedere alcune modifiche per adattarsi al design del tuo sito. Clicca sul pulsante qui sotto per copiarlo negli appunti."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////
@@ -3375,7 +3375,7 @@ return [
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link per moderatori e organizzatori dell‘evento <span class="tooltip" data-tip="This link grants moderators, presenters, and speakers direct access to the scheduled webinar. Copy and share it with your team to ensure their participation. Alternatively, click the «letter» icon to send the link directly to a moderator‘s email or click the «Open» button to log in to the webinar on behalf of that moderator"></span>
+		Link per moderatori <span class="tooltip" data-tip="Questi link offrono ai moderatori e ai presentatori lʼaccesso diretto allʼevento programmato. Copiali e condividili con il tuo team per permettere loro di partecipare. Puoi anche cliccare sullʼicona «busta» per inviare un link direttamente allʼemail di un moderatore o premere il pulsante «Partecipa» per entrare nellʼevento a loro nome"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-max' => //////////////////////////////////////////////////////////////////////

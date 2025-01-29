@@ -2343,7 +2343,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kayıt formu yerleştirme kodu <span class="tooltip" data-tip="Webineriniz için kişisel web sayfanıza bir kayıt formu yerleştirmek için bu IFRAME HTML kodunu kopyalayın. Bu kod evrenseldir ve sayfanızın parametrelerine ve tarzına uyacak şekilde ek özelleştirme gerektirebilir. Kodu panonuza kopyalamak için giriş alanına tıklamanız yeterlidir"></span>
+		Kayıt formu kodu <span class="tooltip" data-tip="Kayıt formunu web sitenize yerleştirmek için bu HTML IFRAME kodunu kopyalayın. Bu kod esnektir ve sitenizin tasarımına uyum sağlaması için bazı düzenlemeler gerekebilir. Aşağıdaki düğmeye tıklayarak panoya kopyalayabilirsiniz."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////
@@ -3381,7 +3381,7 @@ return [
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderatörler ve webinar sunucuları için bağlantılar <span class="tooltip" data-tip="This link grants moderators, presenters, and speakers direct access to the scheduled webinar. Copy and share it with your team to ensure their participation. Alternatively, click the «letter» icon to send the link directly to a moderator‘s email or click the «Open» button to log in to the webinar on behalf of that moderator"></span>
+		Moderatör bağlantıları <span class="tooltip" data-tip="Bu bağlantılar moderatörlere ve sunuculara planlanmış etkinliğe doğrudan erişim sağlar. Kopyalayın ve ekibinizle paylaşın, böylece katılabilirler. Ayrıca «zarf» simgesine tıklayarak bağlantıyı doğrudan bir moderatörün e-postasına gönderebilir veya «Katıl» düğmesine basarak etkinliğe onlar adına giriş yapabilirsiniz"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-max' => //////////////////////////////////////////////////////////////////////

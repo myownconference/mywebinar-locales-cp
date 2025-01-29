@@ -2343,7 +2343,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		注册表单嵌入代码 <span class="tooltip" data-tip="复制此 IFRAME HTML 代码以在您的个人网页上嵌入注册表单。此代码是通用的，可能需要进一步自定义以匹配您的页面参数和样式。只需点击输入框即可将代码复制到剪贴板"></span>
+		注册表单代码 <span class="tooltip" data-tip="复制此 HTML IFRAME 代码，将注册表单嵌入到您的网站。此代码是灵活的，可能需要一些调整以适应您的网站设计。点击下方按钮将其复制到剪贴板。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////
@@ -3375,7 +3375,7 @@ return [
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		主持人和活动主办方的链接 <span class="tooltip" data-tip="This link grants moderators, presenters, and speakers direct access to the scheduled webinar. Copy and share it with your team to ensure their participation. Alternatively, click the «letter» icon to send the link directly to a moderator‘s email or click the «Open» button to log in to the webinar on behalf of that moderator"></span>
+		主持人链接 <span class="tooltip" data-tip="这些链接为主持人和演讲者提供了直接访问已安排活动的权限。复制并分享给您的团队，让他们能够加入。您还可以点击 «信封» 图标将链接直接发送到主持人的电子邮件，或者点击 «加入» 按钮代表他们进入活动"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-max' => //////////////////////////////////////////////////////////////////////

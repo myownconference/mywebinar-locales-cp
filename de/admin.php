@@ -2343,7 +2343,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Einbettungscode für Anmeldeformular <span class="tooltip" data-tip="Kopieren Sie diesen IFRAME-HTML-Code, um ein Anmeldeformular auf Ihrer persönlichen Webseite einzubetten. Dieser Code ist universell und muss möglicherweise weiter angepasst werden, um den Parametern und dem Stil Ihrer Seite zu entsprechen. Klicken Sie einfach auf das Eingabefeld, um den Code in Ihre Zwischenablage zu kopieren"></span>
+		Registrierungsformular-Code <span class="tooltip" data-tip="Kopiere diesen HTML-IFRAME-Code, um das Registrierungsformular auf deiner Website einzubetten. Dieser Code ist flexibel und könnte Anpassungen benötigen, um sich an das Design deiner Website anzupassen. Klicke auf die Schaltfläche unten, um ihn in deine Zwischenablage zu kopieren."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////
@@ -3375,7 +3375,7 @@ return [
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Links für Moderatoren und Veranstalter <span class="tooltip" data-tip="This link grants moderators, presenters, and speakers direct access to the scheduled webinar. Copy and share it with your team to ensure their participation. Alternatively, click the «letter» icon to send the link directly to a moderator‘s email or click the «Open» button to log in to the webinar on behalf of that moderator"></span>
+		Links für Moderatoren <span class="tooltip" data-tip="Diese Links geben Moderatoren und Präsentatoren direkten Zugang zur geplanten Veranstaltung. Kopiere und teile sie mit deinem Team, damit sie beitreten können. Du kannst auch auf das «umschlag»-Symbol klicken, um den Link direkt an die E-Mail eines Moderators zu senden, oder die «Beitreten»-Schaltfläche drücken, um die Veranstaltung in ihrem Namen zu betreten"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-max' => //////////////////////////////////////////////////////////////////////

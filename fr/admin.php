@@ -2344,7 +2344,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Code d‘intégration du formulaire d‘inscription <span class="tooltip" data-tip="Copiez ce code HTML IFRAME pour intégrer un formulaire d‘inscription sur votre page personnelle pour votre webinaire. Ce code est universel et peut nécessiter une personnalisation supplémentaire pour correspondre aux paramètres et au style de votre page. Cliquez simplement sur le champ de saisie pour copier le code dans votre presse-papiers"></span>
+		Code du formulaire dʼinscription <span class="tooltip" data-tip="Copiez ce code HTML IFRAME pour intégrer le formulaire dʼinscription sur votre site web. Ce code est flexible et peut nécessiter quelques ajustements pour sʼadapter au design de votre site. Cliquez sur le bouton ci-dessous pour le copier dans votre presse-papiers."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////
@@ -3383,7 +3383,7 @@ return [
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Liens pour les modérateurs et les hôtes de l‘événement <span class="tooltip" data-tip="This link grants moderators, presenters, and speakers direct access to the scheduled webinar. Copy and share it with your team to ensure their participation. Alternatively, click the «letter» icon to send the link directly to a moderator‘s email or click the «Open» button to log in to the webinar on behalf of that moderator"></span>
+		Liens pour modérateurs <span class="tooltip" data-tip="Ces liens donnent aux modérateurs et aux présentateurs un accès direct à lʼévénement programmé. Copiez-les et partagez-les avec votre équipe pour quʼils puissent se joindre. Vous pouvez également cliquer sur lʼicône «enveloppe» pour envoyer un lien directement à lʼe-mail dʼun modérateur ou appuyer sur le bouton «Rejoindre» pour entrer dans lʼévénement en leur nom"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-max' => //////////////////////////////////////////////////////////////////////

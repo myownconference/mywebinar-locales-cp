@@ -2343,7 +2343,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Registration form embed code <span class="tooltip" data-tip="Copy this IFRAME HTML code to embed a registration form on your personal webpage for your webinar. This code is universal and may need further customization to match your page’s parameters and style. Simply click on the input field to copy the code to your clipboard"></span>
+		登録フォームコード <span class="tooltip" data-tip="このHTML IFRAMEコードをコピーして、登録フォームをウェブサイトに埋め込みます。このコードは柔軟で、サイトデザインに合わせて調整が必要になる場合があります。下のボタンをクリックしてクリップボードにコピーしてください。"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////
@@ -3375,7 +3375,7 @@ return [
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Links for moderators and webinar hosts <span class="tooltip" data-tip="This link grants moderators, presenters, and speakers direct access to the scheduled webinar. Copy and share it with your team to ensure their participation. Alternatively, click the «letter» icon to send the link directly to a moderator‘s email or click the «Open» button to log in to the webinar on behalf of that moderator"></span>
+		モデレーター用リンク <span class="tooltip" data-tip="これらのリンクを使用すると、モデレーターやプレゼンターがスケジュールされたイベントに直接アクセスできます。コピーしてチームと共有し、参加できるようにしてください。また、「封筒」アイコンをクリックしてリンクをモデレーターのメールに直接送信したり、「参加」ボタンを押して彼らの代わりにイベントに入ることもできます"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-max' => //////////////////////////////////////////////////////////////////////

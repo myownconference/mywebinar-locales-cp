@@ -2343,7 +2343,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Registration form embed code <span class="tooltip" data-tip="Copy this IFRAME HTML code to embed a registration form on your personal webpage for your webinar. This code is universal and may need further customization to match your page’s parameters and style. Simply click on the input field to copy the code to your clipboard"></span>
+		Registration form code <span class="tooltip" data-tip="Copy this HTML IFRAME code to embed the registration form on your website. This code is flexible and may need some adjustments to fit your siteʼs design. Click the button below to copy it to your clipboard."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////
@@ -3375,7 +3375,7 @@ return [
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Links for moderators and webinar hosts <span class="tooltip" data-tip="This link grants moderators, presenters, and speakers direct access to the scheduled webinar. Copy and share it with your team to ensure their participation. Alternatively, click the «letter» icon to send the link directly to a moderator‘s email or click the «Open» button to log in to the webinar on behalf of that moderator"></span>
+		Links for moderators <span class="tooltip" data-tip="These links give moderators and presenters direct access to the scheduled event. Copy and share them with your team so they can join. You can also click the «envelope» icon to send a link directly to a moderator’s email or press the «Join» button to enter the event on their behalf"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-max' => //////////////////////////////////////////////////////////////////////

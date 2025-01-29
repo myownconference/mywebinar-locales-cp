@@ -2343,7 +2343,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Registration form embed code <span class="tooltip" data-tip="Copy this IFRAME HTML code to embed a registration form on your personal webpage for your webinar. This code is universal and may need further customization to match your page’s parameters and style. Simply click on the input field to copy the code to your clipboard"></span>
+		Kód registračného formulára <span class="tooltip" data-tip="Skopírujte tento HTML IFRAME kód na vloženie registračného formulára na svoju webovú stránku. Tento kód je flexibilný a môže si vyžadovať určité úpravy, aby zodpovedal dizajnu vašej stránky. Kliknite na tlačidlo nižšie, aby ste ho skopírovali do schránky."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////
@@ -3375,7 +3375,7 @@ return [
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Links for moderators and webinar hosts <span class="tooltip" data-tip="This link grants moderators, presenters, and speakers direct access to the scheduled webinar. Copy and share it with your team to ensure their participation. Alternatively, click the «letter» icon to send the link directly to a moderator‘s email or click the «Open» button to log in to the webinar on behalf of that moderator"></span>
+		Odkazy pre moderátorov <span class="tooltip" data-tip="Tieto odkazy poskytujú moderátorom a prezentujúcim priamy prístup k plánovanému podujatiu. Skopírujte ich a zdieľajte so svojím tímom, aby sa mohli pripojiť. Môžete tiež kliknúť na ikonu «obálky», aby ste poslali odkaz priamo na e-mail moderátora, alebo stlačiť tlačidlo «Pripojiť sa» na vstup do podujatia v ich mene"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-max' => //////////////////////////////////////////////////////////////////////

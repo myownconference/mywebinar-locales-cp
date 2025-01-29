@@ -2343,7 +2343,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Registration form embed code <span class="tooltip" data-tip="Copy this IFRAME HTML code to embed a registration form on your personal webpage for your webinar. This code is universal and may need further customization to match your page’s parameters and style. Simply click on the input field to copy the code to your clipboard"></span>
+		Kod för registreringsformulär <span class="tooltip" data-tip="Kopiera denna HTML IFRAME-kod för att bädda in registreringsformuläret på din webbplats. Denna kod är flexibel och kan behöva vissa justeringar för att passa din webbdesign. Klicka på knappen nedan för att kopiera den till ditt urklipp."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////
@@ -3375,7 +3375,7 @@ return [
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Links for moderators and webinar hosts <span class="tooltip" data-tip="This link grants moderators, presenters, and speakers direct access to the scheduled webinar. Copy and share it with your team to ensure their participation. Alternatively, click the «letter» icon to send the link directly to a moderator‘s email or click the «Open» button to log in to the webinar on behalf of that moderator"></span>
+		Länkar för moderatorer <span class="tooltip" data-tip="Dessa länkar ger moderatorer och presentatörer direkt tillgång till det schemalagda evenemanget. Kopiera och dela dem med ditt team så att de kan delta. Du kan också klicka på «kuvert»-ikonen för att skicka en länk direkt till en moderators e-post eller trycka på «Gå med»-knappen för att ansluta till evenemanget åt dem"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-max' => //////////////////////////////////////////////////////////////////////

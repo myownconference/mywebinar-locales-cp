@@ -2343,7 +2343,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Código de inserción del formulario de registro <span class="tooltip" data-tip="Copie este código HTML de IFRAME para incrustar un formulario de registro en su página web personal para su webinario. Este código es universal y puede necesitar una personalización adicional para que coincida con los parámetros y el estilo de su página. Simplemente haga clic en el campo de entrada para copiar el código a su portapapeles"></span>
+		Código del formulario de registro <span class="tooltip" data-tip="Copia este código HTML IFRAME para incrustar el formulario de registro en tu sitio web. Este código es flexible y puede necesitar algunos ajustes para adaptarse al diseño de tu sitio. Haz clic en el botón de abajo para copiarlo en tu portapapeles."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////
@@ -3379,7 +3379,7 @@ return [
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Enlaces para moderadores y anfitriones del evento <span class="tooltip" data-tip="This link grants moderators, presenters, and speakers direct access to the scheduled webinar. Copy and share it with your team to ensure their participation. Alternatively, click the «letter» icon to send the link directly to a moderator‘s email or click the «Open» button to log in to the webinar on behalf of that moderator"></span>
+		Enlaces para moderadores <span class="tooltip" data-tip="Estos enlaces brindan a los moderadores y presentadores acceso directo al evento programado. Copia y compártelos con tu equipo para que puedan unirse. También puedes hacer clic en el icono de «sobre» para enviar un enlace directamente al correo electrónico del moderador o presionar el botón «Unirse» para ingresar al evento en su nombre"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-max' => //////////////////////////////////////////////////////////////////////

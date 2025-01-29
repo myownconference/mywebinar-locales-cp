@@ -2343,7 +2343,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Registration form embed code <span class="tooltip" data-tip="Copy this IFRAME HTML code to embed a registration form on your personal webpage for your webinar. This code is universal and may need further customization to match your page’s parameters and style. Simply click on the input field to copy the code to your clipboard"></span>
+		Код на формата за регистрация <span class="tooltip" data-tip="Копирайте този HTML IFRAME код, за да вградите формуляра за регистрация във вашия сайт. Този код е гъвкав и може да се наложи малка корекция, за да пасне на дизайна на вашия сайт. Натиснете бутона по-долу, за да го копирате в клипборда си."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////
@@ -3375,7 +3375,7 @@ return [
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Links for moderators and webinar hosts <span class="tooltip" data-tip="This link grants moderators, presenters, and speakers direct access to the scheduled webinar. Copy and share it with your team to ensure their participation. Alternatively, click the «letter» icon to send the link directly to a moderator‘s email or click the «Open» button to log in to the webinar on behalf of that moderator"></span>
+		Връзки за модератори <span class="tooltip" data-tip="Тези връзки предоставят на модераторите и презентаторите директен достъп до насроченото събитие. Копирайте ги и ги споделете с екипа си, за да могат да се присъединят. Можете също така да натиснете иконата «плик», за да изпратите връзката директно на имейла на модератора, или да натиснете бутона «Присъединяване», за да влезете в събитието от тяхно име"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-max' => //////////////////////////////////////////////////////////////////////

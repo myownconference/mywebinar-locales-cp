@@ -2343,7 +2343,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Registration form embed code <span class="tooltip" data-tip="Copy this IFRAME HTML code to embed a registration form on your personal webpage for your webinar. This code is universal and may need further customization to match your page’s parameters and style. Simply click on the input field to copy the code to your clipboard"></span>
+		Reģistrācijas formas kods <span class="tooltip" data-tip="Kopējiet šo HTML IFRAME kodu, lai iegultu reģistrācijas formu savā vietnē. Šis kods ir elastīgs un var prasīt dažas izmaiņas, lai atbilstu jūsu vietnes dizainam. Noklikšķiniet uz pogas zemāk, lai to kopētu starpliktuvē."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////
@@ -3375,7 +3375,7 @@ return [
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Links for moderators and webinar hosts <span class="tooltip" data-tip="This link grants moderators, presenters, and speakers direct access to the scheduled webinar. Copy and share it with your team to ensure their participation. Alternatively, click the «letter» icon to send the link directly to a moderator‘s email or click the «Open» button to log in to the webinar on behalf of that moderator"></span>
+		Saites moderatoriem <span class="tooltip" data-tip="Šīs saites sniedz moderatoriem un runātājiem tiešu piekļuvi plānotajam pasākumam. Kopējiet un kopīgojiet tās ar savu komandu, lai viņi varētu pievienoties. Varat arī noklikšķināt uz «aploksnes» ikonas, lai nosūtītu saiti tieši moderatora e-pastam, vai nospiest «Pievienoties» pogu, lai ieietu pasākumā viņu vārdā"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-max' => //////////////////////////////////////////////////////////////////////

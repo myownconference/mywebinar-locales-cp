@@ -2343,7 +2343,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Registration form embed code <span class="tooltip" data-tip="Copy this IFRAME HTML code to embed a registration form on your personal webpage for your webinar. This code is universal and may need further customization to match your page’s parameters and style. Simply click on the input field to copy the code to your clipboard"></span>
+		Código do formulário de inscrição <span class="tooltip" data-tip="Copie este código HTML IFRAME para incorporar o formulário de inscrição no seu site. Este código é flexível e pode precisar de ajustes para se adequar ao design do seu site. Clique no botão abaixo para copiá-lo para a área de transferência."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////
@@ -3375,7 +3375,7 @@ return [
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Links for moderators and webinar hosts <span class="tooltip" data-tip="This link grants moderators, presenters, and speakers direct access to the scheduled webinar. Copy and share it with your team to ensure their participation. Alternatively, click the «letter» icon to send the link directly to a moderator‘s email or click the «Open» button to log in to the webinar on behalf of that moderator"></span>
+		Links para moderadores <span class="tooltip" data-tip="Esses links dão acesso direto aos moderadores e apresentadores ao evento agendado. Copie e compartilhe com sua equipe para que possam participar. Você também pode clicar no ícone «envelope» para enviar um link diretamente para o e-mail do moderador ou pressionar o botão «Entrar» para acessar o evento em nome deles"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-max' => //////////////////////////////////////////////////////////////////////

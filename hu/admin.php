@@ -2343,7 +2343,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Regisztrációs űrlap beágyazási kód <span class="tooltip" data-tip="Másolja le ezt az IFRAME HTML kódot, hogy beágyazza a regisztrációs űrlapot a személyes weboldalán a webináriumához. Ez a kód univerzális, és további testreszabásra lehet szükség a lapja paramétereinek és stílusának megfelelően. Egyszerűen kattintson a beviteli mezőre, hogy a kódot a vágólapra másolja"></span>
+		Regisztrációs űrlap kódja <span class="tooltip" data-tip="Másold ki ezt a HTML IFRAME kódot, hogy beágyazd a regisztrációs űrlapot a weboldaladra. Ez a kód rugalmas, és szükség lehet néhány módosításra, hogy illeszkedjen az oldalad dizájnjához. Kattints az alábbi gombra a vágólapra másoláshoz."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////
@@ -3375,7 +3375,7 @@ return [
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Linkek a moderátoroknak és webinárium házigazdáknak <span class="tooltip" data-tip="Ez a link közvetlen hozzáférést biztosít a moderátoroknak, előadóknak és beszélőknek az ütemezett webináriumhoz. Másolja és ossza meg csapatával, hogy biztosítsa részvételüket. Alternatívaként kattintson a «levél» ikonra, hogy közvetlenül a moderátor e-mail címére küldje a linket, vagy kattintson a «Megnyitás» gombra, hogy a moderátor nevében bejelentkezzen a webináriumba"></span>
+		Hivatkozások moderátorok számára <span class="tooltip" data-tip="Ezek a hivatkozások közvetlen hozzáférést biztosítanak a moderátoroknak és előadóknak az ütemezett eseményhez. Másold ki és oszd meg a csapatoddal, hogy csatlakozhassanak. Kattinthatsz a «boríték» ikonra is, hogy közvetlenül elküldd a linket egy moderátor e-mail címére, vagy megnyomhatod a «Csatlakozás» gombot, hogy belépj az eseménybe az ő nevükben"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-max' => //////////////////////////////////////////////////////////////////////

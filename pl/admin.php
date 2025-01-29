@@ -2344,7 +2344,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kod osadzania formularza rejestracyjnego <span class="tooltip" data-tip="Skopiuj ten kod HTML IFRAME, aby osadzić formularz rejestracyjny na swojej osobistej stronie internetowej dla webinaru. Ten kod jest uniwersalny i może wymagać dalszej personalizacji, aby dopasować go do parametrów i stylu strony. Wystarczy kliknąć pole wejściowe, aby skopiować kod do schowka"></span>
+		Kod formularza rejestracyjnego <span class="tooltip" data-tip="Skopiuj ten kod HTML IFRAME, aby osadzić formularz rejestracyjny na swojej stronie internetowej. Ten kod jest elastyczny i może wymagać pewnych dostosowań, aby pasował do projektu Twojej witryny. Kliknij poniższy przycisk, aby skopiować go do schowka."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////
@@ -3381,7 +3381,7 @@ return [
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Linki dla moderatorów i prowadzących webinar <span class="tooltip" data-tip="Ten link zapewnia moderatorom, prelegentom i mówcom bezpośredni dostęp do zaplanowanego webinaru. Skopiuj go i udostępnij swojemu zespołowi, aby zapewnić ich udział. Alternatywnie kliknij ikonę «list» aby wysłać link bezpośrednio na email moderatora lub kliknij przycisk «Otwórz», aby zalogować się na webinar w imieniu tego moderatora"></span>
+		Linki dla moderatorów <span class="tooltip" data-tip="Te linki zapewniają moderatorom i prelegentom bezpośredni dostęp do zaplanowanego wydarzenia. Skopiuj je i udostępnij swojemu zespołowi, aby mogli dołączyć. Możesz także kliknąć ikonę «koperty», aby wysłać link bezpośrednio na e-mail moderatora, lub nacisnąć przycisk «Dołącz», aby wejść na wydarzenie w ich imieniu"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-max' => //////////////////////////////////////////////////////////////////////

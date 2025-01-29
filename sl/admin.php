@@ -2343,7 +2343,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Registration form embed code <span class="tooltip" data-tip="Copy this IFRAME HTML code to embed a registration form on your personal webpage for your webinar. This code is universal and may need further customization to match your page’s parameters and style. Simply click on the input field to copy the code to your clipboard"></span>
+		Koda registracijskega obrazca <span class="tooltip" data-tip="Kopirajte to HTML IFRAME kodo, da vdelate registracijski obrazec na svojo spletno stran. Ta koda je prilagodljiva in lahko zahteva nekaj prilagoditev, da se ujema z dizajnom vaše strani. Kliknite spodnji gumb, da jo kopirate v odložišče."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////
@@ -3375,7 +3375,7 @@ return [
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Links for moderators and webinar hosts <span class="tooltip" data-tip="This link grants moderators, presenters, and speakers direct access to the scheduled webinar. Copy and share it with your team to ensure their participation. Alternatively, click the «letter» icon to send the link directly to a moderator‘s email or click the «Open» button to log in to the webinar on behalf of that moderator"></span>
+		Povezave za moderatorje <span class="tooltip" data-tip="Te povezave moderatorjem in predavateljem omogočajo neposreden dostop do načrtovanega dogodka. Kopirajte jih in jih delite s svojo ekipo, da se lahko pridružijo. Prav tako lahko kliknete na ikono «kuverte», da pošljete povezavo neposredno na e-pošto moderatorja, ali pritisnete gumb «Pridruži se» za vstop v dogodek v njihovem imenu"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-max' => //////////////////////////////////////////////////////////////////////

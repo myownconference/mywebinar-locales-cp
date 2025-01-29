@@ -2343,7 +2343,7 @@ return [
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Cod de încorporare a formularului de înregistrare <span class="tooltip" data-tip="Copiați acest cod HTML IFRAME pentru a încorpora un formular de înregistrare pe pagina dvs. personală pentru webinarul dvs. Acest cod este universal și poate necesita personalizare suplimentară pentru a se potrivi cu parametrii și stilul paginii dvs. Pur și simplu faceți clic pe câmpul de introducere pentru a copia codul în clipboard"></span>
+		Codul formularului de înregistrare <span class="tooltip" data-tip="Copiază acest cod HTML IFRAME pentru a încorpora formularul de înregistrare pe site-ul tău. Acest cod este flexibil și poate necesita unele ajustări pentru a se potrivi designului site-ului tău. Apasă butonul de mai jos pentru a-l copia în clipboard."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'bad-lang' => ////////////////////////////////////////////////////////////////////////
@@ -3375,7 +3375,7 @@ return [
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link-uri pentru moderatori și gazdele evenimentului <span class="tooltip" data-tip="This link grants moderators, presenters, and speakers direct access to the scheduled webinar. Copy and share it with your team to ensure their participation. Alternatively, click the «letter» icon to send the link directly to a moderator‘s email or click the «Open» button to log in to the webinar on behalf of that moderator"></span>
+		Linkuri pentru moderatori <span class="tooltip" data-tip="Aceste linkuri oferă moderatorilor și prezentatorilor acces direct la evenimentul programat. Copiază-le și distribuie-le echipei tale pentru ca ei să se poată alătura. De asemenea, poți face clic pe pictograma «plic» pentru a trimite un link direct pe e-mailul unui moderator sau să apeși butonul «Alătură-te» pentru a intra în eveniment în numele lor"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-max' => //////////////////////////////////////////////////////////////////////

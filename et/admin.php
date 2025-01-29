@@ -3369,7 +3369,7 @@ return [
 	'webinar-link-for-all' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Üldine juurdepääsulink <span class="tooltip" data-tip="See universaalne link võimaldab kõigil osalejatel sündmusega liituda. Jaga seda e-posti, sotsiaalmeedia või oma veebisaidi kaudu, et kutsuda osalejaid"></span>
+		Üldine link <span class="tooltip" data-tip="See universaalne link võimaldab kõigil osalejatel sündmusega liituda. Jaga seda e-posti, sotsiaalmeedia või oma veebisaidi kaudu, et kutsuda osalejaid"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-link' => ////////////////////////////////////////////////////////////////////

@@ -3369,7 +3369,7 @@ return [
 	'webinar-link-for-all' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Splošna dostopna povezava <span class="tooltip" data-tip="Ta univerzalna povezava omogoča vsem udeležencem, da se pridružijo dogodku. Delite jo prek e-pošte, družbenih omrežij ali svoje spletne strani, da povabite udeležence"></span>
+		Splošna povezava <span class="tooltip" data-tip="Ta univerzalna povezava omogoča vsem udeležencem, da se pridružijo dogodku. Delite jo prek e-pošte, družbenih omrežij ali svoje spletne strani, da povabite udeležence"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-link' => ////////////////////////////////////////////////////////////////////

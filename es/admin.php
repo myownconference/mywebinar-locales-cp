@@ -3373,7 +3373,7 @@ return [
 	'webinar-link-for-all' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Enlace de acceso general <span class="tooltip" data-tip="Este enlace universal permite que todos los asistentes se unan al evento. Compártelo por correo electrónico, redes sociales o tu sitio web para invitar a los participantes"></span>
+		Enlace general <span class="tooltip" data-tip="Este enlace universal permite que todos los asistentes se unan al evento. Compártelo por correo electrónico, redes sociales o tu sitio web para invitar a los participantes"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-link' => ////////////////////////////////////////////////////////////////////

@@ -3369,7 +3369,7 @@ return [
 	'webinar-link-for-all' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Algemene toegangslink <span class="tooltip" data-tip="Deze universele link geeft alle deelnemers toegang tot het evenement. Deel het via e-mail, sociale media of je website om deelnemers uit te nodigen"></span>
+		Algemene link <span class="tooltip" data-tip="Deze universele link geeft alle deelnemers toegang tot het evenement. Deel het via e-mail, sociale media of je website om deelnemers uit te nodigen"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-link' => ////////////////////////////////////////////////////////////////////

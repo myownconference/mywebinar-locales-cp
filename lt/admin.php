@@ -3369,7 +3369,7 @@ return [
 	'webinar-link-for-all' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bendroji prieigos nuoroda <span class="tooltip" data-tip="Ši universali nuoroda leidžia visiems dalyviams prisijungti prie renginio. Dalinkitės ja el. paštu, socialiniuose tinkluose ar savo svetainėje, kad pakviestumėte dalyvius"></span>
+		Bendroji nuoroda <span class="tooltip" data-tip="Ši universali nuoroda leidžia visiems dalyviams prisijungti prie renginio. Dalinkitės ja el. paštu, socialiniuose tinkluose ar savo svetainėje, kad pakviestumėte dalyvius"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-link' => ////////////////////////////////////////////////////////////////////

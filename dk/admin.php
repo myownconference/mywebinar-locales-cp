@@ -3369,7 +3369,7 @@ return [
 	'webinar-link-for-all' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Generel adgangslink <span class="tooltip" data-tip="Dette universelle link giver alle deltagere adgang til begivenheden. Del det via e-mail, sociale medier eller din hjemmeside for at invitere deltagere"></span>
+		Generel link <span class="tooltip" data-tip="Dette universelle link giver alle deltagere adgang til begivenheden. Del det via e-mail, sociale medier eller din hjemmeside for at invitere deltagere"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-link' => ////////////////////////////////////////////////////////////////////

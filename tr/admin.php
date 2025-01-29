@@ -3381,7 +3381,7 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinar katılımcıları için bağlantı <span class="tooltip" data-tip="This link provides direct access to the scheduled webinar. Copy and share it with your audience to grant them entry. The link is ideal for sending via email, social media, or messengers"></span>
+		Katılımcılar için bağlantı <span class="tooltip" data-tip="Bu bağlantı, katılımcılara planlanan web seminerine doğrudan erişim sağlar. Kopyalayın ve davet etmek için kitlenizle paylaşın. E-posta, sosyal medya veya mesajlaşma uygulamaları aracılığıyla paylaşmak için mükemmel"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////

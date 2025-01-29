@@ -3375,7 +3375,7 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link a webinárium résztvevőinek <span class="tooltip" data-tip="Ez a link közvetlen hozzáférést biztosít az ütemezett webináriumhoz. Másolja és ossza meg közönségével, hogy beléphessenek. A link ideális e-mailben, közösségi médiában vagy üzenetküldő alkalmazásokban történő küldésre"></span>
+		Hivatkozás résztvevők számára <span class="tooltip" data-tip="Ez a link közvetlen hozzáférést biztosít a résztvevők számára az ütemezett webinárhoz. Másold ki és oszd meg közönségeddel, hogy meghívd őket. Tökéletes e-mailben, közösségi médiában vagy üzenetküldő alkalmazásokban való megosztásra"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////

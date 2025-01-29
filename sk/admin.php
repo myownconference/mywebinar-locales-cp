@@ -3375,7 +3375,7 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link for webinar attendees <span class="tooltip" data-tip="This link provides direct access to the scheduled webinar. Copy and share it with your audience to grant them entry. The link is ideal for sending via email, social media, or messengers"></span>
+		Odkaz pre účastníkov <span class="tooltip" data-tip="Tento odkaz umožňuje účastníkom priamy prístup k naplánovanému webináru. Skopírujte ho a zdieľajte so svojím publikom, aby ste ich pozvali. Ideálne na zdieľanie e-mailom, na sociálnych sieťach alebo v správach"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////

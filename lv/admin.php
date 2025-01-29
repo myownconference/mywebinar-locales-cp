@@ -3375,7 +3375,7 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link for webinar attendees <span class="tooltip" data-tip="This link provides direct access to the scheduled webinar. Copy and share it with your audience to grant them entry. The link is ideal for sending via email, social media, or messengers"></span>
+		Saite dalībniekiem <span class="tooltip" data-tip="Šī saite nodrošina dalībniekiem tiešu piekļuvi plānotajam vebināram. Kopējiet un kopīgojiet to ar savu auditoriju, lai viņus uzaicinātu. Ideāli piemērota dalīšanai pa e-pastu, sociālajos tīklos vai ziņapmaiņas lietotnēs"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////

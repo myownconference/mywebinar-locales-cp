@@ -3375,7 +3375,7 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		活动参与者的链接 <span class="tooltip" data-tip="This link provides direct access to the scheduled webinar. Copy and share it with your audience to grant them entry. The link is ideal for sending via email, social media, or messengers"></span>
+		参会者链接 <span class="tooltip" data-tip="此链接为参会者提供直接访问已安排的网络研讨会的权限。复制并与您的受众分享，以邀请他们。适用于通过电子邮件、社交媒体或消息应用程序进行分享"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////

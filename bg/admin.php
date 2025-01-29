@@ -3375,7 +3375,7 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link for webinar attendees <span class="tooltip" data-tip="This link provides direct access to the scheduled webinar. Copy and share it with your audience to grant them entry. The link is ideal for sending via email, social media, or messengers"></span>
+		Линк за участници <span class="tooltip" data-tip="Този линк предоставя на участниците директен достъп до насрочения уебинар. Копирайте го и го споделете с аудиторията си, за да ги поканите. Идеален за споделяне по имейл, в социалните мрежи или чрез приложения за съобщения"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////

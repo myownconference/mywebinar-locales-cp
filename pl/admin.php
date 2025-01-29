@@ -3381,7 +3381,7 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link dla uczestników webinaru <span class="tooltip" data-tip="Ten link zapewnia bezpośredni dostęp do zaplanowanego webinaru. Skopiuj go i udostępnij swojej publiczności, aby umożliwić jej wejście. Link jest idealny do wysyłania przez email, media społecznościowe lub komunikatory"></span>
+		Link dla uczestników <span class="tooltip" data-tip="Ten link zapewnia uczestnikom bezpośredni dostęp do zaplanowanego webinaru. Skopiuj go i udostępnij swojej publiczności, aby ich zaprosić. Idealny do udostępniania przez e-mail, media społecznościowe lub aplikacje do przesyłania wiadomości"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////

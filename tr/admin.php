@@ -3123,7 +3123,7 @@ return [
 	'record-limit-alert-text' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Seçilen tarih, ücretli planınızın bitiş tarihini aşıyor. Bağlantı yalnızca planınızın son kullanma tarihine kadar aktif kalacaktır. Bağlantıyı erişilebilir tutmak için lütfen planınızı uzatın. <a href="/?p=pay">Buraya tıklayın</a> mevcut fiyatlandırma planlarını görmek için
+		Seçilen tarih, ücretli planınızın bitiş tarihini aşıyor. Bağlantı yalnızca planınızın son kullanma tarihine kadar aktif kalacaktır. Bağlantıyı erişilebilir tutmak için lütfen planınızı uzatın
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

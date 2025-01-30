@@ -3123,7 +3123,7 @@ return [
 	'record-limit-alert-text' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		A kiválasztott dátum meghaladja a fizetett terv végét. A link csak a terv lejárati dátumáig marad aktív. A link elérhetőségének fenntartásához hosszabbítsa meg a tervét. <a href="/?p=pay">Kattintson ide</a>, hogy megtekinthesse az elérhető árterveket
+		A kiválasztott dátum meghaladja a fizetett terv végét. A link csak a terv lejárati dátumáig marad aktív. A link elérhetőségének fenntartásához hosszabbítsa meg a tervét
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

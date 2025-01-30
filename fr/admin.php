@@ -3127,7 +3127,7 @@ return [
 	'record-limit-alert-text' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		La date sélectionnée dépasse la fin de votre plan payant. Le lien restera actif uniquement jusquʼà la date dʼexpiration de votre plan. Pour maintenir le lien accessible, veuillez prolonger votre plan. <a href="/?p=pay">Cliquez ici</a> pour consulter les plans tarifaires disponibles
+		La date sélectionnée dépasse la fin de votre plan payant. Le lien restera actif uniquement jusquʼà la date dʼexpiration de votre plan. Pour maintenir le lien accessible, veuillez prolonger votre plan
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

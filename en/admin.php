@@ -3123,7 +3123,7 @@ return [
 	'record-limit-alert-text' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		The selected date exceeds the end of your paid plan. The link will remain active only until your plan’s expiration date. To keep the link accessible, please extend your plan. <a href="/?p=pay">Click here</a> to view available pricing plans
+		The selected date exceeds the end of your paid plan. The link will remain active only until your plan’s expiration date. To keep the link accessible, please extend your plan
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

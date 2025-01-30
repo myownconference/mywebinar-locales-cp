@@ -3123,7 +3123,7 @@ return [
 	'record-limit-alert-text' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		De geselecteerde datum overschrijdt het einde van uw betaalde plan. De link blijft alleen actief tot de vervaldatum van uw plan. Om de link toegankelijk te houden, verleng uw plan alstublieft. <a href="/?p=pay">Klik hier</a> om beschikbare prijsplannen te bekijken
+		De geselecteerde datum overschrijdt het einde van uw betaalde plan. De link blijft alleen actief tot de vervaldatum van uw plan. Om de link toegankelijk te houden, verleng uw plan alstublieft
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

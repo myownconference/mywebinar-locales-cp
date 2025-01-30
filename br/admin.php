@@ -3123,7 +3123,7 @@ return [
 	'record-limit-alert-text' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		A data selecionada excede o término do seu plano pago. O link permanecerá ativo apenas até a data de expiração do seu plano. Para manter o link acessível, por favor, estenda seu plano. <a href="/?p=pay">Clique aqui</a> para ver os planos de preços disponíveis
+		A data selecionada excede o término do seu plano pago. O link permanecerá ativo apenas até a data de expiração do seu plano. Para manter o link acessível, por favor, estenda seu plano
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

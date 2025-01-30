@@ -3123,7 +3123,7 @@ return [
 	'record-limit-alert-text' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Den valgte dato overstiger slutningen af din betalte plan. Linket forbliver kun aktivt indtil udløbsdatoen for din plan. For at holde linket tilgængeligt, skal du forlænge din plan. <a href="/?p=pay">Klik her</a> for at se tilgængelige prisplaner
+		Den valgte dato overstiger slutningen af din betalte plan. Linket forbliver kun aktivt indtil udløbsdatoen for din plan. For at holde linket tilgængeligt, skal du forlænge din plan
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

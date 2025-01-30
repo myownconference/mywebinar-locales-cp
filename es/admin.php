@@ -3125,7 +3125,7 @@ return [
 	'record-limit-alert-text' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		La fecha seleccionada excede el final de tu plan de pago. El enlace permanecerá activo solo hasta la fecha de expiración de tu plan. Para mantener el enlace accesible, extiende tu plan. <a href="/?p=pay">Haz clic aquí</a> para ver los planes de precios disponibles
+		La fecha seleccionada excede el final de tu plan de pago. El enlace permanecerá activo solo hasta la fecha de expiración de tu plan. Para mantener el enlace accesible, extiende tu plan
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

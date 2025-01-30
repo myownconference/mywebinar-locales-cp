@@ -3123,7 +3123,7 @@ return [
 	'record-limit-alert-text' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Data selectată depășește sfârșitul planului dvs. plătit. Linkul va rămâne activ doar până la data de expirare a planului dvs. Pentru a menține linkul accesibil, vă rugăm să vă extindeți planul. <a href="/?p=pay">Faceți clic aici</a> pentru a vedea planurile tarifare disponibile
+		Data selectată depășește sfârșitul planului dvs. plătit. Linkul va rămâne activ doar până la data de expirare a planului dvs. Pentru a menține linkul accesibil, vă rugăm să vă extindeți planul
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

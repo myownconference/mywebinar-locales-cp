@@ -3123,7 +3123,7 @@ return [
 	'record-limit-alert-text' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pasirinkta data viršija jūsų mokamo plano pabaigą. Nuoroda išliks aktyvi tik iki jūsų plano galiojimo pabaigos. Norėdami išlaikyti nuorodą pasiekiamą, prašome pratęsti savo planą. <a href="/?p=pay">Spustelėkite čia</a> norėdami peržiūrėti galimus kainų planus
+		Pasirinkta data viršija jūsų mokamo plano pabaigą. Nuoroda išliks aktyvi tik iki jūsų plano galiojimo pabaigos. Norėdami išlaikyti nuorodą pasiekiamą, prašome pratęsti savo planą
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

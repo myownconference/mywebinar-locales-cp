@@ -3123,7 +3123,7 @@ return [
 	'record-limit-alert-text' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Izbrani datum presega konec vašega plačljivega načrta. Povezava bo ostala aktivna samo do datuma poteka vašega načrta. Če želite povezavo ohraniti dostopno, podaljšajte svoj načrt. <a href="/?p=pay">Kliknite tukaj</a> za ogled razpoložljivih cenovnih načrtov
+		Izbrani datum presega konec vašega plačljivega načrta. Povezava bo ostala aktivna samo do datuma poteka vašega načrta. Če želite povezavo ohraniti dostopno, podaljšajte svoj načrt
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

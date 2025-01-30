@@ -3123,7 +3123,7 @@ return [
 	'record-limit-alert-text' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Das ausgewählte Datum überschreitet das Ende Ihres kostenpflichtigen Plans. Der Link bleibt nur bis zum Ablaufdatum Ihres Plans aktiv. Um den Link zugänglich zu halten, verlängern Sie bitte Ihren Plan. <a href="/?p=pay">Klicken Sie hier</a>, um verfügbare Preispläne anzuzeigen
+		Das ausgewählte Datum überschreitet das Ende Ihres kostenpflichtigen Plans. Der Link bleibt nur bis zum Ablaufdatum Ihres Plans aktiv. Um den Link zugänglich zu halten, verlängern Sie bitte Ihren Plan
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

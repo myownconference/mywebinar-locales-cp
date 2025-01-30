@@ -3123,7 +3123,7 @@ return [
 	'record-limit-alert-text' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Zvolený dátum presahuje koniec vášho plateného plánu. Odkaz zostane aktívny iba do dátumu vypršania platnosti vášho plánu. Ak chcete, aby bol odkaz prístupný, predĺžte svoj plán. <a href="/?p=pay">Kliknite sem</a>, aby ste si pozreli dostupné cenové plány
+		Zvolený dátum presahuje koniec vášho plateného plánu. Odkaz zostane aktívny iba do dátumu vypršania platnosti vášho plánu. Ak chcete, aby bol odkaz prístupný, predĺžte svoj plán
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

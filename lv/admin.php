@@ -3123,7 +3123,7 @@ return [
 	'record-limit-alert-text' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Izvēlētā datums pārsniedz jūsu apmaksātā plāna beigu datumu. Saite paliks aktīva tikai līdz jūsu plāna derīguma termiņa beigām. Lai saglabātu saiti pieejamu, lūdzu, pagariniet savu plānu. <a href="/?p=pay">Noklikšķiniet šeit</a>, lai skatītu pieejamos cenu plānus
+		Izvēlētā datums pārsniedz jūsu apmaksātā plāna beigu datumu. Saite paliks aktīva tikai līdz jūsu plāna derīguma termiņa beigām. Lai saglabātu saiti pieejamu, lūdzu, pagariniet savu plānu
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

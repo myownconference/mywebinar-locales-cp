@@ -3123,7 +3123,7 @@ return [
 	'record-limit-alert-text' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Valittu päivämäärä ylittää maksullisen suunnitelmasi loppumisen. Linkki pysyy aktiivisena vain suunnitelmasi voimassaolon päättymiseen saakka. Pidäksesi linkin käytettävissä, pidennä suunnitelmaasi. <a href="/?p=pay">Klikkaa tästä</a> nähdäksesi saatavilla olevat hintasuunnitelmat
+		Valittu päivämäärä ylittää maksullisen suunnitelmasi loppumisen. Linkki pysyy aktiivisena vain suunnitelmasi voimassaolon päättymiseen saakka. Pidäksesi linkin käytettävissä, pidennä suunnitelmaasi
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

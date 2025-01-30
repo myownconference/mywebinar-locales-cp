@@ -3123,7 +3123,7 @@ return [
 	'record-limit-alert-text' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Valitud kuupäev ületab teie tasulise plaani lõpu. Link jääb aktiivseks ainult teie plaani kehtivusaja lõpuni. Lingile juurdepääsu säilitamiseks pikendage oma plaani. <a href="/?p=pay">Klõpsake siin</a>, et vaadata saadaolevaid hinnaplaane
+		Valitud kuupäev ületab teie tasulise plaani lõpu. Link jääb aktiivseks ainult teie plaani kehtivusaja lõpuni. Lingile juurdepääsu säilitamiseks pikendage oma plaani
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

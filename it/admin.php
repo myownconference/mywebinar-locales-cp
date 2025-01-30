@@ -3123,7 +3123,7 @@ return [
 	'record-limit-alert-text' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		La data selezionata supera la fine del tuo piano a pagamento. Il link rimarrà attivo solo fino alla data di scadenza del tuo piano. Per mantenere il link accessibile, estendi il tuo piano. <a href="/?p=pay">Clicca qui</a> per visualizzare i piani tariffari disponibili
+		La data selezionata supera la fine del tuo piano a pagamento. Il link rimarrà attivo solo fino alla data di scadenza del tuo piano. Per mantenere il link accessibile, estendi il tuo piano
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

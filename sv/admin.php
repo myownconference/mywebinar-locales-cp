@@ -3123,7 +3123,7 @@ return [
 	'record-limit-alert-text' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Det valda datumet överstiger slutet på din betalda plan. Länken kommer endast att vara aktiv fram till utgångsdatumet för din plan. För att hålla länken tillgänglig, förläng din plan. <a href="/?p=pay">Klicka här</a> för att se tillgängliga prisplaner
+		Det valda datumet överstiger slutet på din betalda plan. Länken kommer endast att vara aktiv fram till utgångsdatumet för din plan. För att hålla länken tillgänglig, förläng din plan
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

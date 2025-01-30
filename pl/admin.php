@@ -3126,7 +3126,7 @@ return [
 	'record-limit-alert-text' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Wybrana data przekracza koniec Twojego płatnego planu. Link pozostanie aktywny tylko do daty wygaśnięcia Twojego planu. Aby link pozostał dostępny, przedłuż swój plan. <a href="/?p=pay">Kliknij tutaj</a>, aby zobaczyć dostępne plany cenowe
+		Wybrana data przekracza koniec Twojego płatnego planu. Link pozostanie aktywny tylko do daty wygaśnięcia Twojego planu. Aby link pozostał dostępny, przedłuż swój plan
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////

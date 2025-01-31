@@ -5709,7 +5709,7 @@ return [
 	'storage-add-video-no-record' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kérjük, vegye figyelembe, hogy a YouTube-videók nem kerülnek rögzítésre a szerzői jogi előírások betartása érdekében. Ha egy videót be szeretne illeszteni a webinárium felvételébe, töltse fel közvetlenül platformunkra MP4 formátumban
+		Kérjük, vegye figyelembe, hogy a YouTube-videók nem kerülnek rögzítésre a szerzői jogi előírások betartása érdekében
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-url-placeholder' => /////////////////////////////////////////////////////////

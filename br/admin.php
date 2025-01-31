@@ -5709,7 +5709,7 @@ return [
 	'storage-add-video-no-record' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Observe que os vídeos do YouTube não são gravados para cumprir as regulamentações de direitos autorais. Para incluir um vídeo na gravação do seu webinar, envie-o diretamente para nossa plataforma no formato MP4
+		Observe que os vídeos do YouTube não são gravados para cumprir as regulamentações de direitos autorais
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-url-placeholder' => /////////////////////////////////////////////////////////

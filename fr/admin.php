@@ -5727,7 +5727,7 @@ return [
 	'storage-add-video-no-record' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Veuillez noter que les vidéos YouTube ne sont pas enregistrées afin de respecter les réglementations sur les droits d’auteur. Pour inclure une vidéo dans l’enregistrement de votre webinaire, téléchargez-la directement sur notre plateforme au format MP4
+		Veuillez noter que les vidéos YouTube ne sont pas enregistrées afin de respecter les réglementations sur les droits d’auteur
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-url-placeholder' => /////////////////////////////////////////////////////////

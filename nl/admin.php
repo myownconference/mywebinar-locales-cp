@@ -5709,7 +5709,7 @@ return [
 	'storage-add-video-no-record' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Houd er rekening mee dat YouTube-video’s niet worden opgenomen om te voldoen aan de auteursrechtelijke regelgeving. Om een video in uw webinar-opname op te nemen, uploadt u deze direct naar ons platform in MP4-formaat
+		Houd er rekening mee dat YouTube-video’s niet worden opgenomen om te voldoen aan de auteursrechtelijke regelgeving
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-url-placeholder' => /////////////////////////////////////////////////////////

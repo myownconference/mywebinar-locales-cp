@@ -5735,7 +5735,7 @@ return [
 	'storage-add-video-no-record' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Proszę pamiętać, że filmy z YouTube nie są nagrywane w celu przestrzegania przepisów dotyczących praw autorskich. Aby dodać wideo do nagrania webinaru, prześlij je bezpośrednio na naszą platformę w formacie MP4
+		Proszę pamiętać, że filmy z YouTube nie są nagrywane w celu przestrzegania przepisów dotyczących praw autorskich
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-url-placeholder' => /////////////////////////////////////////////////////////

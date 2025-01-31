@@ -5709,7 +5709,7 @@ return [
 	'storage-add-video-no-record' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bitte beachten Sie, dass YouTube-Videos nicht aufgezeichnet werden, um Urheberrechtsbestimmungen einzuhalten. Um ein Video in Ihre Webinar-Aufzeichnung aufzunehmen, laden Sie es direkt im MP4-Format auf unsere Plattform hoch
+		Bitte beachten Sie, dass YouTube-Videos nicht aufgezeichnet werden, um Urheberrechtsbestimmungen einzuhalten
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-url-placeholder' => /////////////////////////////////////////////////////////

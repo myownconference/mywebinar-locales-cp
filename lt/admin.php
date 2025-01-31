@@ -5709,7 +5709,7 @@ return [
 	'storage-add-video-no-record' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Atkreipkite dėmesį, kad „YouTube“ vaizdo įrašai nėra įrašomi, kad būtų laikomasi autorių teisių taisyklių. Norėdami įtraukti vaizdo įrašą į savo internetinio seminaro įrašą, įkelkite jį tiesiai į mūsų platformą MP4 formatu
+		Atkreipkite dėmesį, kad YouTube vaizdo įrašai nėra įrašomi, kad būtų laikomasi autorių teisių taisyklių
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-url-placeholder' => /////////////////////////////////////////////////////////

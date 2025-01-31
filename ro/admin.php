@@ -5709,7 +5709,7 @@ return [
 	'storage-add-video-no-record' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vă rugăm să rețineți că videoclipurile YouTube nu sunt înregistrate pentru a respecta reglementările privind drepturile de autor. Pentru a include un videoclip în înregistrarea webinarului, încărcați-l direct pe platforma noastră în format MP4
+		Vă rugăm să rețineți că videoclipurile YouTube nu sunt înregistrate pentru a respecta reglementările privind drepturile de autor
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-url-placeholder' => /////////////////////////////////////////////////////////

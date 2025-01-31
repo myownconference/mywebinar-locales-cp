@@ -5709,7 +5709,7 @@ return [
 	'storage-add-video-no-record' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Si prega di notare che i video di YouTube non vengono registrati per conformarsi alle normative sul copyright. Per includere un video nella registrazione del tuo webinar, caricalo direttamente sulla nostra piattaforma in formato MP4
+		Si prega di notare che i video di YouTube non vengono registrati per conformarsi alle normative sul copyright
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-url-placeholder' => /////////////////////////////////////////////////////////

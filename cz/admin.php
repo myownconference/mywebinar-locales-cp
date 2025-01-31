@@ -5706,6 +5706,12 @@ return [
 		Add YouTube or Vimeo <span class="tooltip" data-tip="Add YouTube or Vimeo videos to your webinar by inserting the video link in the box below. Simply copy the URL of the video from YouTube or Vimeo and paste it here. This feature allows you to enrich your webinar content with external videos, providing a seamless viewing experience for your attendees. Ensure that the link is correct and publicly accessible to avoid any playback issues"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'storage-add-video-no-record' => /////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Vezměte prosím na vědomí, že videa z YouTube nejsou nahrávána, aby bylo dodrženo autorské právo. Chcete-li zahrnout video do záznamu webináře, nahrajte jej přímo na naši platformu ve formátu MP4
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-url-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

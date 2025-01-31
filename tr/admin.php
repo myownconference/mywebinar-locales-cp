@@ -5712,6 +5712,12 @@ return [
 		YouTube veya Vimeo ekle <span class="tooltip" data-tip="YouTube veya Vimeo videolarını aşağıdaki kutuya video bağlantısını ekleyerek webinarınıza ekleyin. Sadece YouTube veya Vimeo’dan videonun URL’sini kopyalayıp buraya yapıştırın. Bu özellik, webinar içeriğinizi harici videolarla zenginleştirmenize olanak tanır ve katılımcılarınız için sorunsuz bir izleme deneyimi sunar. Bağlantının doğru ve genel erişime açık olduğundan emin olun, böylece oynatma sorunlarından kaçının"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'storage-add-video-no-record' => /////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Lütfen unutmayın ki YouTube videoları telif hakkı düzenlemelerine uymak için kaydedilmez. Web semineri kaydınıza bir video eklemek için, onu doğrudan MP4 formatında platformumuza yükleyin
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-url-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

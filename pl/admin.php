@@ -5732,6 +5732,12 @@ return [
 		Dodaj YouTube lub Vimeo <span class="tooltip" data-tip="Dodaj filmy z YouTube lub Vimeo do swojego webinaru, wklejając link do filmu w polu poniżej. Wystarczy skopiować adres URL filmu z YouTube lub Vimeo i wkleić go tutaj. Ta funkcja pozwala wzbogacić treść webinaru o zewnętrzne filmy, zapewniając płynne wrażenia dla uczestników. Upewnij się, że link jest poprawny i publicznie dostępny, aby uniknąć problemów z odtwarzaniem"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'storage-add-video-no-record' => /////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Proszę pamiętać, że filmy z YouTube nie są nagrywane w celu przestrzegania przepisów dotyczących praw autorskich. Aby dodać wideo do nagrania webinaru, prześlij je bezpośrednio na naszą platformę w formacie MP4
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-url-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

@@ -5706,6 +5706,12 @@ return [
 		YouTube und Vimeo <span class="tooltip" data-tip="Fügen Sie YouTube- oder Vimeo-Videos zu Ihrem Webinar hinzu, indem Sie den Videolink in das untenstehende Feld einfügen. Kopieren Sie einfach die URL des Videos von YouTube oder Vimeo und fügen Sie sie hier ein. Diese Funktion ermöglicht es Ihnen, Ihren Webinar-Inhalt mit externen Videos zu bereichern und bietet Ihren Teilnehmern ein nahtloses Seherlebnis. Stellen Sie sicher, dass der Link korrekt und öffentlich zugänglich ist, um Wiedergabeprobleme zu vermeiden"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'storage-add-video-no-record' => /////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Bitte beachten Sie, dass YouTube-Videos nicht aufgezeichnet werden, um Urheberrechtsbestimmungen einzuhalten. Um ein Video in Ihre Webinar-Aufzeichnung aufzunehmen, laden Sie es direkt im MP4-Format auf unsere Plattform hoch
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-url-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

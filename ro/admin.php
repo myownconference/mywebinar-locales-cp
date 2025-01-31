@@ -5706,6 +5706,12 @@ return [
 		Adaugă YouTube sau Vimeo <span class="tooltip" data-tip="Adăugați videoclipuri YouTube sau Vimeo la webinarul dvs. introducând linkul videoclipului în caseta de mai jos. Pur și simplu copiați URL-ul videoclipului de pe YouTube sau Vimeo și lipiți-l aici. Această funcție vă permite să îmbogățiți conținutul webinarului cu videoclipuri externe, oferind o experiență de vizionare fără probleme pentru participanți. Asigurați-vă că linkul este corect și accesibil public pentru a evita problemele de redare"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'storage-add-video-no-record' => /////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Vă rugăm să rețineți că videoclipurile YouTube nu sunt înregistrate pentru a respecta reglementările privind drepturile de autor. Pentru a include un videoclip în înregistrarea webinarului, încărcați-l direct pe platforma noastră în format MP4
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-url-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

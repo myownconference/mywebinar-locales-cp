@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 // +-------------------------------------------------------------------+
 // | Copyright 2003-2023 MyOwnConference.com. All rights reserved.     |

@@ -1533,7 +1533,7 @@ return [
 	'recordings-download-and-share' => ///////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Télécharger et partager des enregistrements <span class="tooltip" data-tip="Ce plan vous permet de télécharger des enregistrements au format MP4 et de partager un lien sécurisé avec une limite de temps pour la visualisation dans le navigateur"></span>
+		Partagez vos enregistrements <span class="tooltip" data-tip="Ce plan vous permet de télécharger des enregistrements au format MP4 et de partager un lien sécurisé avec une limite de temps pour la visualisation dans le navigateur"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'title-grid-webinars' => /////////////////////////////////////////////////////////////

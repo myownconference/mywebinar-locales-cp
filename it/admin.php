@@ -1521,7 +1521,7 @@ return [
 	'recordings-quality' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		qualità della registrazione <span class="tooltip" data-tip="La gamma di qualità di registrazione disponibile per i tuoi eventi online, dalla risoluzione minima alla massima"></span>
+		qualità stream <span class="tooltip" data-tip="La gamma di qualità di registrazione disponibile per i tuoi eventi online, dalla risoluzione minima alla massima"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'recordings-download-only' => ////////////////////////////////////////////////////////

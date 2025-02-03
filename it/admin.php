@@ -4971,7 +4971,7 @@ return [
 	'room-options-password' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Password di accesso <span class="tooltip" data-tip="Toggle this feature to secure your webinar with a password. When enabled, attendees will need to enter the designated password before accessing the webinar, ensuring that your webinar remains private and accessible only to those with the password. It‘s a perfect solution for hosting exclusive, private, or sensitive sessions"></span>
+		Password di accesso <span class="tooltip" data-tip="Proteggi il tuo evento con una password. Se questa funzione è attivata, i partecipanti dovranno inserire la password prima di accedere all’evento, garantendo che il webinar rimanga privato e accessibile solo a chi ha la password e il link"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password' => ////////////////////////////////////////////////////////////////////////

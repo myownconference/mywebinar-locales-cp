@@ -4971,7 +4971,7 @@ return [
 	'room-options-password' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		كلمة مرور الدخول <span class="tooltip" data-tip="Toggle this feature to secure your webinar with a password. When enabled, attendees will need to enter the designated password before accessing the webinar, ensuring that your webinar remains private and accessible only to those with the password. It‘s a perfect solution for hosting exclusive, private, or sensitive sessions"></span>
+		كلمة مرور الدخول <span class="tooltip" data-tip="قم بحماية فعاليتك بكلمة مرور. عند تفعيل هذه الميزة، سيُطلب من المشاركين إدخال كلمة المرور قبل الوصول إلى الفعالية، مما يضمن بقاء الندوة عبر الويب خاصة ومتاحة فقط لأولئك الذين لديهم كلمة المرور والرابط"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password' => ////////////////////////////////////////////////////////////////////////

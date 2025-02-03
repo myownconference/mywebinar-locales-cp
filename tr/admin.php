@@ -4977,7 +4977,7 @@ return [
 	'room-options-password' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Giriş şifresi <span class="tooltip" data-tip="Toggle this feature to secure your webinar with a password. When enabled, attendees will need to enter the designated password before accessing the webinar, ensuring that your webinar remains private and accessible only to those with the password. It‘s a perfect solution for hosting exclusive, private, or sensitive sessions"></span>
+		Giriş şifresi <span class="tooltip" data-tip="Etkinliğinizi bir şifre ile koruyun. Bu özellik etkinleştirildiğinde, katılımcılar etkinliğe erişmeden önce şifreyi girmelidir. Bu, web seminerinizin özel kalmasını ve yalnızca şifre ve bağlantıya sahip olanların erişebilmesini sağlar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password' => ////////////////////////////////////////////////////////////////////////

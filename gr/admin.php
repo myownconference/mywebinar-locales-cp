@@ -4971,7 +4971,7 @@ return [
 	'room-options-password' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Κωδικός πρόσβασης <span class="tooltip" data-tip="Toggle this feature to secure your webinar with a password. When enabled, attendees will need to enter the designated password before accessing the webinar, ensuring that your webinar remains private and accessible only to those with the password. It‘s a perfect solution for hosting exclusive, private, or sensitive sessions"></span>
+		Κωδικός πρόσβασης <span class="tooltip" data-tip="Προστατέψτε την εκδήλωσή σας με κωδικό πρόσβασης. Εάν αυτή η λειτουργία είναι ενεργοποιημένη, οι συμμετέχοντες θα πρέπει να εισαγάγουν τον κωδικό πριν αποκτήσουν πρόσβαση στην εκδήλωση. Αυτό διασφαλίζει ότι το webinar σας παραμένει ιδιωτικό και προσβάσιμο μόνο σε όσους έχουν τον κωδικό και τον σύνδεσμο"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password' => ////////////////////////////////////////////////////////////////////////

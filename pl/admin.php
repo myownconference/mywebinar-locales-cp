@@ -4997,7 +4997,7 @@ return [
 	'room-options-password' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Hasło logowania <span class="tooltip" data-tip="Włącz tę funkcję, aby zabezpieczyć swoje webinarium hasłem. Po aktywacji uczestnicy będą musieli wprowadzić wyznaczone hasło, zanim uzyskają dostęp do webinarium, co gwarantuje, że Twoje spotkanie pozostanie prywatne i dostępne tylko dla osób posiadających hasło. To idealne rozwiązanie do prowadzenia ekskluzywnych, prywatnych lub poufnych sesji"></span>
+		Hasło dostępu <span class="tooltip" data-tip="Chroń swoje wydarzenie hasłem. Jeśli ta funkcja jest włączona, uczestnicy będą musieli wprowadzić hasło przed uzyskaniem dostępu do wydarzenia. Zapewnia to, że Twój webinar pozostanie prywatny i dostępny tylko dla osób posiadających hasło i link"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password' => ////////////////////////////////////////////////////////////////////////

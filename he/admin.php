@@ -4973,7 +4973,7 @@ return [
 	'room-options-password' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		סיסמת התחברות <span class="tooltip" data-tip="Toggle this feature to secure your webinar with a password. When enabled, attendees will need to enter the designated password before accessing the webinar, ensuring that your webinar remains private and accessible only to those with the password. It‘s a perfect solution for hosting exclusive, private, or sensitive sessions"></span>
+		סיסמת גישה <span class="tooltip" data-tip="הגן על האירוע שלך באמצעות סיסמה. אם תכונה זו מופעלת, המשתתפים יידרשו להזין את הסיסמה לפני הכניסה לאירוע, מה שמבטיח שהוובינר שלך יישאר פרטי ונגיש רק למי שיש לו את הסיסמה והקישור"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password' => ////////////////////////////////////////////////////////////////////////

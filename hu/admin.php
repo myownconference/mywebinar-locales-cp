@@ -4971,7 +4971,7 @@ return [
 	'room-options-password' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bejelentkezési jelszó <span class="tooltip" data-tip="Kapcsolja be ezt a funkciót, hogy jelszóval biztosítsa webináriumát. Bekapcsoláskor a résztvevőknek meg kell adniuk a kijelölt jelszót a webinárium elérése előtt, biztosítva, hogy webináriuma privát maradjon, és csak azok férhessenek hozzá, akik rendelkeznek a jelszóval. Ez tökéletes megoldás exkluzív, privát vagy érzékeny ülések megtartására"></span>
+		Belépési jelszó <span class="tooltip" data-tip="Védje eseményét jelszóval. Ha ez a funkció engedélyezve van, a résztvevőknek meg kell adniuk a jelszót, mielőtt hozzáférnének az eseményhez. Ez biztosítja, hogy a webináriuma privát marad, és csak azok számára elérhető, akik rendelkeznek a jelszóval és a hivatkozással"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password' => ////////////////////////////////////////////////////////////////////////

@@ -4971,7 +4971,7 @@ return [
 	'room-options-password' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Parolă de autentificare <span class="tooltip" data-tip="Toggle this feature to secure your webinar with a password. When enabled, attendees will need to enter the designated password before accessing the webinar, ensuring that your webinar remains private and accessible only to those with the password. It‘s a perfect solution for hosting exclusive, private, or sensitive sessions"></span>
+		Parolă de acces <span class="tooltip" data-tip="Protejați evenimentul cu o parolă. Dacă această funcție este activată, participanții trebuie să introducă parola înainte de a accesa evenimentul. Acest lucru asigură că webinarul rămâne privat și accesibil doar pentru cei care au parola și linkul"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password' => ////////////////////////////////////////////////////////////////////////

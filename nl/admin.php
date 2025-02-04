@@ -3387,7 +3387,7 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link voor deelnemers <span class="tooltip" data-tip="Deze link geeft deelnemers directe toegang tot het geplande webinar. Kopieer en deel het met je publiek om hen uit te nodigen. Perfect voor delen via e-mail, sociale media of berichtenapps"></span>
+		Links voor deelnemers <span class="tooltip" data-tip="Deze links geven deelnemers directe toegang tot het geplande webinar. Kopieer en deel ze met je publiek om hen uit te nodigen. Perfect om te delen via e-mail, sociale media of berichtenapps"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////

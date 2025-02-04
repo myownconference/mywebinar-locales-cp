@@ -3387,7 +3387,7 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Odkaz pro účastníky <span class="tooltip" data-tip="Tento odkaz poskytuje účastníkům přímý přístup k naplánovanému webináři. Zkopírujte jej a sdílejte s publikem, abyste je pozvali. Ideální pro sdílení e-mailem, na sociálních sítích nebo v aplikacích pro zasílání zpráv"></span>
+		Odkazy pro účastníky <span class="tooltip" data-tip="Tyto odkazy umožňují účastníkům přímý přístup k plánovanému webináři. Zkopírujte je a sdílejte se svou cílovou skupinou, abyste je pozvali. Ideální pro sdílení prostřednictvím e-mailu, sociálních sítí nebo aplikací pro zasílání zpráv"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////

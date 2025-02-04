@@ -3387,7 +3387,7 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Saite dalībniekiem <span class="tooltip" data-tip="Šī saite nodrošina dalībniekiem tiešu piekļuvi plānotajam vebināram. Kopējiet un kopīgojiet to ar savu auditoriju, lai viņus uzaicinātu. Ideāli piemērota dalīšanai pa e-pastu, sociālajos tīklos vai ziņapmaiņas lietotnēs"></span>
+		Saites dalībniekiem <span class="tooltip" data-tip="Šīs saites nodrošina dalībniekiem tiešu piekļuvi plānotajam tīmekļsemināram. Kopējiet un kopīgojiet tās ar savu auditoriju, lai uzaicinātu viņus. Ideāli piemērots kopīgošanai pa e-pastu, sociālajos tīklos vai ziņapmaiņas lietotnēs"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////

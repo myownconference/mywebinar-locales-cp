@@ -3387,7 +3387,7 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link para participantes <span class="tooltip" data-tip="Este link permite que os participantes acessem diretamente o webinar agendado. Copie e compartilhe com seu público para convidá-los. Perfeito para compartilhamento via e-mail, redes sociais ou aplicativos de mensagens"></span>
+		Links para participantes <span class="tooltip" data-tip="Esses links oferecem aos participantes acesso direto ao webinar agendado. Copie e compartilhe com seu público para convidá-los. Perfeito para compartilhar por e-mail, redes sociais ou aplicativos de mensagens"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////

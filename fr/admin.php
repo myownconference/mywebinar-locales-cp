@@ -3395,7 +3395,7 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Lien pour les participants <span class="tooltip" data-tip="Ce lien permet aux participants dʼaccéder directement au webinaire programmé. Copiez-le et partagez-le avec votre audience pour les inviter. Idéal pour un partage par e-mail, sur les réseaux sociaux ou via des applications de messagerie"></span>
+		Liens pour les participants <span class="tooltip" data-tip="Ces liens permettent aux participants d’accéder directement au webinaire prévu. Copiez et partagez-les avec votre public pour les inviter. Idéal pour un partage par e-mail, sur les réseaux sociaux ou via des applications de messagerie"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////

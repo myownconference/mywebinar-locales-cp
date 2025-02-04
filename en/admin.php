@@ -3387,7 +3387,7 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link for attendees <span class="tooltip" data-tip="This link gives attendees direct access to the scheduled webinar. Copy and share it with your audience to invite them. Itʼs perfect for sharing via email, social media, or messaging apps"></span>
+		Links for attendees <span class="tooltip" data-tip="These links give attendees direct access to the scheduled webinar. Copy and share it with your audience to invite them. Itʼs perfect for sharing via email, social media, or messaging apps"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////

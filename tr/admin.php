@@ -3393,7 +3393,7 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Katılımcılar için bağlantı <span class="tooltip" data-tip="Bu bağlantı, katılımcılara planlanan web seminerine doğrudan erişim sağlar. Kopyalayın ve davet etmek için kitlenizle paylaşın. E-posta, sosyal medya veya mesajlaşma uygulamaları aracılığıyla paylaşmak için mükemmel"></span>
+		Katılımcılar için bağlantılar <span class="tooltip" data-tip="Bu bağlantılar katılımcılara planlanmış web seminerine doğrudan erişim sağlar. Kopyalayıp kitlenizle paylaşarak onları davet edin. E-posta, sosyal medya veya mesajlaşma uygulamalarıyla paylaşmak için mükemmel"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////

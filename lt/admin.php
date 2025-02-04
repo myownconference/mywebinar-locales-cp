@@ -3387,7 +3387,7 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nuoroda dalyviams <span class="tooltip" data-tip="Ši nuoroda suteikia dalyviams tiesioginę prieigą prie suplanuoto internetinio seminaro. Nukopijuokite ir pasidalykite ja su savo auditorija, kad pakviestumėte juos. Puikiai tinka dalintis el. paštu, socialiniuose tinkluose ar pranešimų programėlėse"></span>
+		Nuorodos dalyviams <span class="tooltip" data-tip="Šios nuorodos suteikia dalyviams tiesioginę prieigą prie suplanuoto internetinio seminaro. Nukopijuokite ir pasidalykite jomis su savo auditorija, kad juos pakviestumėte. Puikiai tinka dalytis el. paštu, socialiniuose tinkluose ar žinučių programėlėse"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////

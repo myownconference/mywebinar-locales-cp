@@ -3387,7 +3387,7 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link til deltagere <span class="tooltip" data-tip="Dette link giver deltagere direkte adgang til det planlagte webinar. Kopiér og del det med dit publikum for at invitere dem. Perfekt til deling via e-mail, sociale medier eller beskedapps"></span>
+		Links til deltagere <span class="tooltip" data-tip="Disse links giver deltagere direkte adgang til det planlagte webinar. Kopier og del dem med dit publikum for at invitere dem. Perfekt til deling via e-mail, sociale medier eller beskedapps"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////

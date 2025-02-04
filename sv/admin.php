@@ -3387,7 +3387,7 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Länk för deltagare <span class="tooltip" data-tip="Den här länken ger deltagare direkt tillgång till det schemalagda webbinariet. Kopiera och dela den med din publik för att bjuda in dem. Perfekt för delning via e-post, sociala medier eller meddelandeappar"></span>
+		Länkar för deltagare <span class="tooltip" data-tip="Dessa länkar ger deltagare direkt åtkomst till det schemalagda webbinariet. Kopiera och dela dem med din publik för att bjuda in dem. Perfekt att dela via e-post, sociala medier eller meddelandeappar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////

@@ -3387,7 +3387,7 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Lingid osalejatele <span class="tooltip" data-tip="See link annab osalejatele otsese juurdepääsu planeeritud veebiseminarile. Kopeeri ja jaga seda oma publikuga, et neid kutsuda. Ideaalne jagamiseks e-posti, sotsiaalmeedia või sõnumirakenduste kaudu"></span>
+		Lingid osalejatele <span class="tooltip" data-tip="Need lingid annavad osalejatele otsese juurdepääsu planeeritud veebiseminarile. Kopeerige ja jagage need oma publikuga, et neid kutsuda. Ideaalne jagamiseks e-posti, sotsiaalmeedia või sõnumirakenduste kaudu"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////

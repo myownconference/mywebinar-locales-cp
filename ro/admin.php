@@ -3387,7 +3387,7 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link pentru participanți <span class="tooltip" data-tip="Acest link oferă participanților acces direct la webinarul programat. Copiază-l și distribuie-l publicului tău pentru a-i invita. Perfect pentru distribuirea prin e-mail, rețele sociale sau aplicații de mesagerie"></span>
+		Linkuri pentru participanți <span class="tooltip" data-tip="Aceste linkuri oferă participanților acces direct la webinarul programat. Copiază-le și distribuie-le publicului tău pentru a-i invita. Perfect pentru partajare prin e-mail, rețele sociale sau aplicații de mesagerie"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////

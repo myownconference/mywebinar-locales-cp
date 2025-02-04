@@ -3387,7 +3387,7 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Povezava za udeležence <span class="tooltip" data-tip="Ta povezava omogoča udeležencem neposreden dostop do načrtovanega spletnega seminarja. Kopirajte jo in delite s svojo publiko, da jih povabite. Odlično za deljenje prek e-pošte, družbenih omrežij ali aplikacij za sporočila"></span>
+		Povezave za udeležence <span class="tooltip" data-tip="Te povezave omogočajo udeležencem neposreden dostop do načrtovanega spletnega seminarja. Kopirajte jih in delite s svojim občinstvom, da jih povabite. Odlično za deljenje prek e-pošte, družbenih omrežij ali sporočilnih aplikacij"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////

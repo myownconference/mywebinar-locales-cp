@@ -3391,7 +3391,7 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Enlace para asistentes <span class="tooltip" data-tip="Este enlace permite a los asistentes acceder directamente al webinar programado. Cópialo y compártelo con tu audiencia para invitarlos. Es perfecto para compartir por correo electrónico, redes sociales o aplicaciones de mensajería"></span>
+		Enlaces para asistentes <span class="tooltip" data-tip="Estos enlaces permiten a los asistentes acceder directamente al webinar programado. Cópialos y compártelos con tu audiencia para invitarlos. Perfecto para compartir por correo electrónico, redes sociales o aplicaciones de mensajería"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////

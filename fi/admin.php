@@ -3387,7 +3387,7 @@ return [
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Linkki osallistujille <span class="tooltip" data-tip="Tämä linkki antaa osallistujille suoran pääsyn aikataulutettuun webinaariin. Kopioi ja jaa se yleisöllesi kutsuaksesi heidät. Täydellinen jakamiseen sähköpostitse, sosiaalisessa mediassa tai viestisovelluksissa"></span>
+		Linkit osallistujille <span class="tooltip" data-tip="Nämä linkit antavat osallistujille suoran pääsyn aikataulutettuun webinaariin. Kopioi ja jaa ne yleisösi kanssa kutsuaksesi heidät. Täydellinen jakamiseen sähköpostitse, sosiaalisessa mediassa tai viestisovelluksissa"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////

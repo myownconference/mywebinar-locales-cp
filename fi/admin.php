@@ -4466,7 +4466,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Oikeudet <span class="tooltip" data-tip="Käytä tätä toimintoa määrittääksesi erilaisia käyttöoikeustasoja verkkoseminaarin moderaattoreille.<br><br>• Ylläpitäjä – Verkkoseminaarin huoneen pääylläpitäjä, jolla on täysi hallinta ja pääsy kaikkiin ominaisuuksiin;<br><br>• Moderaattori, puhuja – Vakiokäyttöoikeudet moderaattoreille tai puhujille, sopii niille, jotka auttavat hallitsemaan verkkoseminaaria tai pitävät esityksiä;<br><br>• Kutsuttu esittäjä – Kutsutun esittäjän rooli, jolla on rajoitetut oikeudet, sopii kertaluontoisille esittäjille tai ulkopuolisille puhujille.<br><br>Käyttöoikeuksia mukauttamalla varmistat sujuvan ja järjestäytyneen verkkoseminaarikokemuksen, joka on räätälöity jokaisen osallistujan roolin mukaan"></span>
+		Oikeudet <span class="tooltip" data-tip="Määritä eri käyttöoikeustasot webinaarisi moderaattoreille.<br><br>• Moderaattori ja puhuja – Vakio-oikeudet moderaattoreille ja puhujille, jotta he voivat auttaa webinaarin hallinnassa ja pitää esityksiä.<br><br>• Vieraileva puhuja – Rajoitetun pääsyn rooli vieraileville puhujille, ihanteellinen kertaluonteisille osallistujille tai ulkoisille esiintyjille.<br><br>Räätälöimällä käyttöoikeuksia voit varmistaa sujuvan ja hyvin organisoidun webinaarikokemuksen, antaen jokaiselle osallistujalle sopivan tason hallintaa"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4490,7 +4490,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderaattori, puhuja
+		Moderaattori ja puhuja
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////
@@ -4502,7 +4502,7 @@ return [
 	'moderator-perm-speaker' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kutsuttu esittäjä
+		Vieraileva puhuja
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-speaker-desc' => /////////////////////////////////////////////////////

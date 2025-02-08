@@ -4466,7 +4466,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Behörigheter <span class="tooltip" data-tip="Använd denna funktion för att tilldela olika åtkomstnivåer till dina webinar-moderatorer.<br><br>• Administratör – Huvudadministratören för webinarsalen med full kontroll och åtkomst till alla funktioner;<br><br>• Moderator, talare – Standardåtkomst för moderatorer eller talare, lämplig för dem som hjälper till att hantera webbinariet eller håller presentationer;<br><br>• Inbjuden presentatör – En roll som gästpresentatör med begränsade rättigheter, idealisk för engångsbidragare eller externa talare.<br><br>Genom att anpassa behörigheterna säkerställer du en smidig och organiserad webinarupplevelse anpassad till varje deltagares roll"></span>
+		Behörigheter <span class="tooltip" data-tip="Tilldela olika åtkomstnivåer till dina webbinar-moderatorer.<br><br>• Moderator och talare – Standardåtkomst för moderatorer och talare, vilket gör att de kan hjälpa till att hantera webbinariet och hålla presentationer.<br><br>• Gästtalare – En roll med begränsad åtkomst för gästföreläsare, idealisk för engångsmedverkande eller externa talare.<br><br>Genom att anpassa behörigheter kan du säkerställa en smidig och välorganiserad webbinarupplevelse och ge varje deltagare rätt nivå av kontroll"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4490,7 +4490,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderator, talare
+		Moderator & talare
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////
@@ -4502,7 +4502,7 @@ return [
 	'moderator-perm-speaker' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Inbjuden presentatör
+		Gästtalare
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-speaker-desc' => /////////////////////////////////////////////////////

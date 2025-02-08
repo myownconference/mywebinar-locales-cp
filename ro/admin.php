@@ -4466,7 +4466,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permisiuni <span class="tooltip" data-tip="Folosiți această funcție pentru a atribui niveluri diferite de acces moderatorilor webinarului.<br><br>• Administrator – Administratorul principal al sălii de webinar, cu control complet și acces la toate funcțiile;<br><br>• Moderator, vorbitor – Acces standard pentru moderatori sau vorbitori, potrivit pentru cei care ajută la gestionarea webinarului sau prezintă;<br><br>• Prezentator invitat – Un rol de prezentator invitat cu drepturi limitate, ideal pentru colaboratori ocazionali sau vorbitori externi.<br><br>Personalizând permisiunile, asigurați o experiență de webinar fluidă și organizată, adaptată rolului fiecărui participant"></span>
+		Permisiuni <span class="tooltip" data-tip="Atribuie diferite niveluri de acces moderatorilor webinarului tău.<br><br>• Moderator și prezentator – Acces standard pentru moderatori și prezentatori, permițându-le să ajute la gestionarea webinarului și să susțină prezentări.<br><br>• Prezentator invitat – Rol cu acces limitat pentru prezentatori invitați, ideal pentru colaboratori ocazionali sau vorbitori externi.<br><br>Prin personalizarea permisiunilor, poți asigura o experiență de webinar fluidă și bine organizată, oferind fiecărui participant nivelul adecvat de control"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4490,7 +4490,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderator, vorbitor
+		Moderator și speaker
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////
@@ -4502,7 +4502,7 @@ return [
 	'moderator-perm-speaker' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Prezentator invitat
+		Speaker invitat
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-speaker-desc' => /////////////////////////////////////////////////////

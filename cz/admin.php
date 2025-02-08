@@ -4466,7 +4466,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Oprávnění <span class="tooltip" data-tip="Použijte tuto funkci k přidělení různých úrovní přístupu moderátorům webináře.<br><br>• Administrátor – Hlavní správce místnosti webináře s plnou kontrolou a přístupem ke všem funkcím;<br><br>• Moderátor, Řečník – Standardní přístup pro moderátory nebo řečníky, vhodné pro ty, kteří pomáhají s řízením webináře nebo prezentují;<br><br>• Pozvaný prezentující – Role hostujícího prezentujícího s omezenými právy, ideální pro jednorázové přispěvatele nebo externí řečníky.<br><br>Přizpůsobením oprávnění zajistíte hladký a organizovaný zážitek z webináře přizpůsobený roli každého účastníka"></span>
+		Oprávnění <span class="tooltip" data-tip="Přiřaďte různé úrovně přístupu moderátorům vašeho webináře.<br><br>• Moderátor a řečník – Standardní přístup pro moderátory a řečníky, umožňující jim pomáhat při správě webináře a přednášet.<br><br>• Hostující řečník – Role s omezeným přístupem pro hostující řečníky, ideální pro jednorázové přispěvatele nebo externí mluvčí.<br><br>Přizpůsobením oprávnění zajistíte hladký a dobře organizovaný průběh webináře, přičemž každý účastník dostane odpovídající úroveň kontroly"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4490,7 +4490,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderátor, řečník
+		Moderátor a řečník
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////
@@ -4502,7 +4502,7 @@ return [
 	'moderator-perm-speaker' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pozvaný prezentující
+		Hostující řečník
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-speaker-desc' => /////////////////////////////////////////////////////

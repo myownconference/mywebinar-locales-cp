@@ -4472,7 +4472,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		İzinler <span class="tooltip" data-tip="Webinar moderatörlerinize farklı erişim seviyeleri atamak için bu özelliği kullanın.<br><br>• Yönetici – Tüm kontrol ve özelliklere erişim sağlayan ana webinar odası yöneticisi;<br><br>• Moderatör, konuşmacı – Webinarı yönetmeye yardımcı olan veya sunum yapan moderatörler veya konuşmacılar için standart erişim;<br><br>• Davetli sunucu – Sınırlı haklara sahip misafir sunucu rolü, tek seferlik katılımcılar veya dış konuşmacılar için idealdir.<br><br>İzinleri özelleştirerek, her katılımcının rolüne uygun düzenli ve sorunsuz bir webinar deneyimi sağlarsınız"></span>
+		İzinler <span class="tooltip" data-tip="Webinar moderatörlerinize farklı erişim seviyeleri atayın.<br><br>• Moderatör ve konuşmacı – Moderatörler ve konuşmacılar için standart erişim, onların webinara yardımcı olmasını ve sunum yapmasını sağlar.<br><br>• Konuk konuşmacı – Konuk konuşmacılar için sınırlı erişim rolü, tek seferlik katkı sağlayanlar veya harici konuşmacılar için idealdir.<br><br>İzinleri özelleştirerek, her katılımcıya uygun kontrol seviyesini sağlayarak sorunsuz ve düzenli bir webinar deneyimi sunabilirsiniz"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4496,7 +4496,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderatör, konuşmacı
+		Moderatör ve konuşmacı
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////
@@ -4508,7 +4508,7 @@ return [
 	'moderator-perm-speaker' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Davetli sunucu
+		Konuk konuşmacı
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-speaker-desc' => /////////////////////////////////////////////////////

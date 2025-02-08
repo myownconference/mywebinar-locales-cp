@@ -4466,7 +4466,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permissions <span class="tooltip" data-tip="Use this feature to assign varied access levels to your webinar moderators.<br><br>• Administrator – The main webinar room administrator with full control and access to all features;<br><br>• Moderator, speaker – Standard access for moderators or speakers, suitable for those who assist in managing the webinar or deliver presentations.<br><br>• Invited presenter – A guest presenter role with limited rights, ideal for one-time contributors or external speakers.<br><br>By customizing permissions, you ensure a smooth and orderly webinar experience tailored to each participant‘s role"></span>
+		Permissions <span class="tooltip" data-tip="Assign different access levels to your webinar moderators.<br><br>• Moderator & Speaker – Standard access for moderators and speakers, allowing them to help manage the webinar and deliver presentations.<br><br>• Guest speaker – A limited-access role for guest presenters, ideal for one-time contributors or external speakers.<br><br>By customizing permissions, you can ensure a smooth and well-organized webinar experience, giving each participant the appropriate level of control"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4490,7 +4490,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderator, speaker
+		Moderator & speaker
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////
@@ -4502,7 +4502,7 @@ return [
 	'moderator-perm-speaker' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Invited presenter
+		Guest speaker
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-speaker-desc' => /////////////////////////////////////////////////////

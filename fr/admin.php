@@ -4484,7 +4484,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Autorisations <span class="tooltip" data-tip="Utilisez cette fonctionnalité pour attribuer différents niveaux d‘accès aux modérateurs de votre webinaire.<br><br>• Administrateur – L’administrateur principal de la salle du webinaire avec un contrôle total et un accès à toutes les fonctionnalités;<br><br>• Modérateur, intervenant – Accès standard pour les modérateurs ou les intervenants, adapté à ceux qui assistent à la gestion du webinaire ou présentent;<br><br>• Présentateur invité – Un rôle de présentateur invité avec des droits limités, idéal pour les contributeurs ponctuels ou les intervenants externes.<br><br>En personnalisant les autorisations, vous assurez une expérience de webinaire fluide et organisée, adaptée au rôle de chaque participant"></span>
+		Autorisations <span class="tooltip" data-tip="Attribuez différents niveaux dʼaccès à vos modérateurs de webinaire.<br><br>• Modérateur & intervenant – Accès standard pour les modérateurs et intervenants, leur permettant dʼaider à gérer le webinaire et de faire des présentations.<br><br>• Intervenant invité – Un rôle à accès limité pour les intervenants invités, idéal pour les contributeurs ponctuels ou les conférenciers externes.<br><br>En personnalisant les autorisations, vous garantissez une expérience de webinaire fluide et bien organisée, en offrant à chaque participant le niveau de contrôle approprié"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4508,7 +4508,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Modérateur, intervenant
+		Modérateur & intervenant
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////
@@ -4520,7 +4520,7 @@ return [
 	'moderator-perm-speaker' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Présentateur invité
+		Intervenant invité
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-speaker-desc' => /////////////////////////////////////////////////////

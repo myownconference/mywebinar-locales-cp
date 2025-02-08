@@ -4466,7 +4466,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Povolenia <span class="tooltip" data-tip="Použite túto funkciu na priradenie rôznych úrovní prístupu moderátorom webinára.<br><br>• Administrátor – Hlavný administrátor miestnosti webinára s úplnou kontrolou a prístupom ku všetkým funkciám;<br><br>• Moderátor, rečník – Štandardný prístup pre moderátorov alebo rečníkov, vhodný pre tých, ktorí pomáhajú pri správe webinára alebo prezentujú;<br><br>• Pozvaný prezentujúci – Rola hosťujúceho prezentujúceho s obmedzenými právami, ideálna pre jednorazových prispievateľov alebo externých rečníkov.<br><br>Prispôsobením povolení zabezpečíte plynulý a organizovaný priebeh webinára prispôsobený úlohe každého účastníka"></span>
+		Povolenia <span class="tooltip" data-tip="Priraďte rôzne úrovne prístupu svojim moderátorom webinára.<br><br>• Moderátor a rečník – Štandardný prístup pre moderátorov a rečníkov, ktorý im umožňuje pomáhať s riadením webinára a prednášať.<br><br>• Hosťujúci rečník – Rola s obmedzeným prístupom pre hosťujúcich rečníkov, ideálna pre jednorazových prispievateľov alebo externých spíkrov.<br><br>Prispôsobením povolení zabezpečíte plynulý a dobre organizovaný priebeh webinára, pričom každému účastníkovi pridelíte vhodnú úroveň kontroly"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4490,7 +4490,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderátor, rečník
+		Moderátor a rečník
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////
@@ -4502,7 +4502,7 @@ return [
 	'moderator-perm-speaker' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pozvaný prezentujúci
+		Hosťujúci rečník
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-speaker-desc' => /////////////////////////////////////////////////////

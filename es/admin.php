@@ -4477,7 +4477,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permisos <span class="tooltip" data-tip="Utiliza esta función para asignar diferentes niveles de acceso a los moderadores del webinar.<br><br>• Administrador – El administrador principal de la sala del webinar con control total y acceso a todas las funciones;<br><br>• Moderador, orador – Acceso estándar para moderadores o oradores, adecuado para quienes ayudan a gestionar el webinar o realizan presentaciones;<br><br>• Presentador invitado – Un rol de presentador invitado con derechos limitados, ideal para contribuyentes puntuales o oradores externos.<br><br>Al personalizar los permisos, garantizas una experiencia de webinar fluida y organizada, adaptada al rol de cada participante"></span>
+		Permisos <span class="tooltip" data-tip="Asigna diferentes niveles de acceso a los moderadores de tu seminario web.<br><br>• Moderador y ponente – Acceso estándar para moderadores y ponentes, permitiéndoles ayudar en la gestión del seminario web y realizar presentaciones.<br><br>• Ponente invitado – Un rol de acceso limitado para ponentes invitados, ideal para colaboradores ocasionales o conferenciantes externos.<br><br>Al personalizar los permisos, garantizas una experiencia de seminario web fluida y bien organizada, dando a cada participante el nivel de control adecuado"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4501,7 +4501,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderador, orador
+		Moderador y ponente
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////
@@ -4513,7 +4513,7 @@ return [
 	'moderator-perm-speaker' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Presentador invitado
+		Ponente invitado
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-speaker-desc' => /////////////////////////////////////////////////////

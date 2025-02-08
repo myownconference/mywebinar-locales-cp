@@ -4466,7 +4466,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Õigused <span class="tooltip" data-tip="Kasutage seda funktsiooni, et määrata veebiseminari moderaatoritele erinevad juurdepääsutasemed.<br><br>• Administraator – Peamine veebiseminari administraator, kellel on täielik kontroll ja juurdepääs kõigile funktsioonidele;<br><br>• Moderaator, kõneleja – Standardne juurdepääs moderaatoritele või esinejatele, sobib neile, kes aitavad veebiseminari hallata või esitlusi teha;<br><br>• Kutsutud esineja – Külalisesineja roll piiratud õigustega, ideaalne ühekordsetele esinejatele või välishindajatele.<br><br>Kohandades õigusi tagate sujuva ja korrastatud veebiseminari kogemuse, mis on kohandatud iga osaleja rollile"></span>
+		Õigused <span class="tooltip" data-tip="Määra oma veebiseminari moderaatoritele erinevad juurdepääsutasemed.<br><br>• Moderaator ja esineja – Standardne juurdepääs moderaatoritele ja esinejatele, võimaldades neil veebiseminari hallata ja ettekandeid teha.<br><br>• Külalisesineja – Piiratud juurdepääsuga roll külalisesinejatele, ideaalne ühekordsetele esinejatele või välistele kõnelejatele.<br><br>Kohandades õigusi, saad tagada sujuva ja hästi korraldatud veebiseminari, andes igale osalejale sobiva kontrollitaseme"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4490,7 +4490,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderaator, esineja
+		Moderaator ja esineja
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////
@@ -4502,7 +4502,7 @@ return [
 	'moderator-perm-speaker' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kutsutud esitleja
+		Külalisesineja
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-speaker-desc' => /////////////////////////////////////////////////////

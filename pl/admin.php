@@ -4491,7 +4491,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Uprawnienia <span class="tooltip" data-tip="Użyj tej funkcji, aby przypisać różne poziomy dostępu moderatorom webinaru.<br><br>• Administrator – Główny administrator pokoju webinarowego z pełną kontrolą i dostępem do wszystkich funkcji;<br><br>• Moderator, mówca – Standardowy dostęp dla moderatorów lub mówców, odpowiedni dla osób pomagających w zarządzaniu webinarem lub prowadzących prezentacje;<br><br>• Zaproszony prelegent – Rola gościnnego prezentera z ograniczonymi prawami, idealna dla jednorazowych współpracowników lub zewnętrznych mówców.<br><br>Dostosowując uprawnienia, zapewniasz płynne i zorganizowane doświadczenie webinarowe dostosowane do roli każdego uczestnika"></span>
+		Uprawnienia <span class="tooltip" data-tip="Przypisz różne poziomy dostępu do swoich moderatorów webinaru.<br><br>• Moderator i prelegent – Standardowy dostęp dla moderatorów i prelegentów, umożliwiający im zarządzanie webinarem oraz prowadzenie prezentacji.<br><br>• Gościnny prelegent – Rola z ograniczonym dostępem dla gościnnych prelegentów, idealna dla jednorazowych współtwórców lub zewnętrznych mówców.<br><br>Dostosowując uprawnienia, możesz zapewnić płynne i dobrze zorganizowane doświadczenie webinaru, dostosowując poziom kontroli dla każdego uczestnika"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4515,7 +4515,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderator, mówca
+		Moderator i prelegent
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////

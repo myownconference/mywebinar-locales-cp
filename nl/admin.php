@@ -4466,7 +4466,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Machtigingen <span class="tooltip" data-tip="Gebruik deze functie om verschillende toegangsrechten toe te wijzen aan de moderators van uw webinar.<br><br>• Beheerder – De hoofdbeheerder van de webinarruimte met volledige controle en toegang tot alle functies;<br><br>• Moderator, spreker – Standaardtoegang voor moderators of sprekers, geschikt voor degenen die helpen bij het beheren van het webinar of presentaties geven;<br><br>• Uitgenodigde presentator – Een gastpresentatorrol met beperkte rechten, ideaal voor eenmalige bijdragers of externe sprekers.<br><br>Door machtigingen aan te passen, zorgt u voor een soepele en georganiseerde webinarervaring die is afgestemd op de rol van elke deelnemer"></span>
+		Machtigingen <span class="tooltip" data-tip="Wijs verschillende toegangsrechten toe aan je webinar-moderators.<br><br>• Moderator & spreker – Standaardtoegang voor moderators en sprekers, waarmee ze kunnen helpen bij het beheren van het webinar en presentaties kunnen geven.<br><br>• Gastspreker – Een rol met beperkte toegang voor gastsprekers, ideaal voor eenmalige bijdragers of externe sprekers.<br><br>Door machtigingen aan te passen, zorg je voor een soepel en goed georganiseerd webinar, waarbij elke deelnemer het juiste niveau van controle krijgt"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4490,7 +4490,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderator, spreker
+		Moderator & spreker
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////
@@ -4502,7 +4502,7 @@ return [
 	'moderator-perm-speaker' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Uitgenodigde presentator
+		Gastspreker
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-speaker-desc' => /////////////////////////////////////////////////////

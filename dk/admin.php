@@ -4466,7 +4466,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tilladelser <span class="tooltip" data-tip="Brug denne funktion til at tildele forskellige adgangsniveauer til dine webinar-moderatorer.<br><br>• Administrator – Den primære webinaradministrator med fuld kontrol og adgang til alle funktioner;<br><br>• Moderator, Talere – Standardadgang til moderatorer eller talere, velegnet til dem, der hjælper med at administrere webinaret eller holder oplæg;<br><br>• Inviteret Præsentator – En gæsterolle med begrænsede rettigheder, ideel til enkeltstående bidragsydere eller eksterne talere.<br><br>Ved at tilpasse tilladelser sikrer du en smidig og organiseret webinaroplevelse tilpasset hver deltagers rolle"></span>
+		Tilladelser <span class="tooltip" data-tip="Tildel forskellige adgangsniveauer til dine webinar-moderatorer.<br><br>• Moderator & oplægsholder – Standardadgang for moderatorer og oplægsholdere, så de kan hjælpe med at administrere webinaret og holde præsentationer.<br><br>• Gæsteoplægsholder – En begrænset adgangsrolle for gæsteoplægsholdere, ideel til engangsbidragydere eller eksterne talere.<br><br>Ved at tilpasse tilladelser sikrer du en gnidningsfri og velorganiseret webinaroplevelse, hvor hver deltager får det passende niveau af kontrol"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4490,7 +4490,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderator, taler
+		Moderator og oplægsholder
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////
@@ -4502,7 +4502,7 @@ return [
 	'moderator-perm-speaker' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Inviteret oplægsholder
+		Gæsteoplægsholder
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-speaker-desc' => /////////////////////////////////////////////////////

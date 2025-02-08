@@ -4466,7 +4466,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Berechtigungen <span class="tooltip" data-tip="Verwenden Sie diese Funktion, um den Moderatoren Ihres Webinars unterschiedliche Zugriffsrechte zuzuweisen.<br><br>• Administrator – Der Hauptadministrator des Webinarraums mit vollständiger Kontrolle und Zugriff auf alle Funktionen;<br><br>• Moderator, Sprecher – Standardzugriff für Moderatoren oder Sprecher, geeignet für diejenigen, die bei der Verwaltung des Webinars helfen oder Präsentationen halten;<br><br>• Eingeladener Präsentator – Eine Rolle als Gastpräsentator mit eingeschränkten Rechten, ideal für einmalige Mitwirkende oder externe Sprecher.<br><br>Durch Anpassen der Berechtigungen gewährleisten Sie ein reibungsloses und geordnetes Webinar-Erlebnis, das auf die Rolle jedes Teilnehmers zugeschnitten ist"></span>
+		Berechtigungen <span class="tooltip" data-tip="Weisen Sie Ihren Webinar-Moderatoren unterschiedliche Zugriffsrechte zu.<br><br>• Moderator & Sprecher – Standardzugriff für Moderatoren und Sprecher, sodass sie das Webinar verwalten und Präsentationen halten können.<br><br>• Gastsprecher – Eine eingeschränkte Rolle für Gastredner, ideal für einmalige Referenten oder externe Experten.<br><br>Durch die Anpassung der Berechtigungen können Sie ein reibungsloses und gut organisiertes Webinar-Erlebnis gewährleisten und jedem Teilnehmer das passende Maß an Kontrolle geben"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4490,7 +4490,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderator, Sprecher
+		Moderator & Sprecher
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////
@@ -4502,7 +4502,7 @@ return [
 	'moderator-perm-speaker' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Eingeladener Präsentator
+		Gastsprecher
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-speaker-desc' => /////////////////////////////////////////////////////

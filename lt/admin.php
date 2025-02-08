@@ -4466,7 +4466,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Leidimai <span class="tooltip" data-tip="Naudokite šią funkciją, kad priskirtumėte skirtingus prieigos lygius savo seminaro moderatorių.<br><br>• Administratorius – Pagrindinis seminaro kambario administratorius, turintis pilną valdymą ir prieigą prie visų funkcijų;<br><br>• Moderatorius, pranešėjas – Standartinė prieiga moderatoriui ar pranešėjui, kuris padeda valdyti seminarą arba veda pristatymus;<br><br>• Pakviestasis pranešėjas – Svečio vaidmuo su ribotomis teisėmis, puikiai tinkantis vienkartiniams pranešėjams ar išoriniams lektoriams.<br><br>Personalizuodami leidimus užtikrinate sklandžią ir organizuotą seminaro patirtį, pritaikytą kiekvieno dalyvio vaidmeniui"></span>
+		Leidimai <span class="tooltip" data-tip="Priskirkite skirtingus prieigos lygius savo internetinio seminaro moderatorių.<br><br>• Moderatorius ir pranešėjas – Standartinė prieiga moderatoriams ir pranešėjams, leidžianti jiems padėti valdyti internetinį seminarą ir pristatyti.<br><br>• Kviestinis pranešėjas – Ribotos prieigos vaidmuo kviestiniams pranešėjams, idealus vienkartiniams dalyviams ar išoriniams pranešėjams.<br><br>Tinkindami leidimus, galite užtikrinti sklandžią ir gerai organizuotą internetinio seminaro patirtį, suteikdami kiekvienam dalyviui tinkamą kontrolės lygį"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4490,7 +4490,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderatorius, pranešėjas
+		Moderatorius ir pranešėjas
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////

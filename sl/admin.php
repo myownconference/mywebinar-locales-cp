@@ -4466,7 +4466,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Dovoljenja <span class="tooltip" data-tip="Uporabite to funkcijo za dodeljevanje različnih ravni dostopa moderatorjem spletnega seminarja.<br><br>• Administrator – Glavni administrator sobe spletnega seminarja s popolnim nadzorom in dostopom do vseh funkcij;<br><br>• Moderator, govornik – Standardni dostop za moderatorje ali govornike, primeren za tiste, ki pomagajo pri upravljanju spletnega seminarja ali vodijo predstavitve;<br><br>• Povabljeni predstavitelj – Vloga gostujočega predstavitelja z omejenimi pravicami, idealna za enkratne sodelavce ali zunanje govornike.<br><br>Prilagajanjem dovoljenj zagotovite nemoteno in organizirano izkušnjo spletnega seminarja, prilagojeno vlogi vsakega udeleženca"></span>
+		Dovoljenja <span class="tooltip" data-tip="Dodelite različne ravni dostopa moderatorjem vašega spletnega seminarja.<br><br>• Moderator & govornik – Standardni dostop za moderatorje in govornike, ki jim omogoča upravljanje spletnega seminarja in izvajanje predstavitev.<br><br>• Gostujoči govornik – Omejena vloga za gostujoče govornike, idealna za enkratne prispevke ali zunanje govornike.<br><br>Prilagajanjem dovoljenj lahko zagotovite gladko in dobro organizirano spletno seminarno izkušnjo, s čimer vsakemu udeležencu omogočite ustrezno raven nadzora"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4490,7 +4490,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderator, govornik
+		Moderator in govorec
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////
@@ -4502,7 +4502,7 @@ return [
 	'moderator-perm-speaker' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Povabljeni predstavitelj
+		Gostujoči govorec
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-speaker-desc' => /////////////////////////////////////////////////////

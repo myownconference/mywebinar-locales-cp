@@ -4466,7 +4466,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Autorizzazioni <span class="tooltip" data-tip="Usa questa funzione per assegnare diversi livelli di accesso ai moderatori del tuo webinar.<br><br>• Amministratore – L‘amministratore principale della stanza del webinar con controllo totale e accesso a tutte le funzionalità;<br><br>• Moderatore, relatore – Accesso standard per moderatori o relatori, adatto a chi assiste nella gestione del webinar o tiene presentazioni;<br><br>• Presentatore invitato – Un ruolo di presentatore ospite con diritti limitati, ideale per collaboratori occasionali o relatori esterni.<br><br>Personalizzando le autorizzazioni, garantisci un‘esperienza di webinar fluida e organizzata, adattata al ruolo di ciascun partecipante"></span>
+		Permessi <span class="tooltip" data-tip="Assegna diversi livelli di accesso ai moderatori del tuo webinar.<br><br>• Moderatore & relatore – Accesso standard per moderatori e relatori, consentendo loro di gestire il webinar e tenere presentazioni.<br><br>• Relatore ospite – Ruolo con accesso limitato per relatori ospiti, ideale per contributori occasionali o speaker esterni.<br><br>Personalizzando i permessi, puoi garantire un’esperienza webinar fluida e ben organizzata, offrendo a ciascun partecipante il livello di controllo appropriato"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4490,7 +4490,7 @@ return [
 	'moderator-perm-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Moderatore, relatore
+		Moderatore e relatore
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////
@@ -4502,7 +4502,7 @@ return [
 	'moderator-perm-speaker' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Presentatore invitato
+		Relatore ospite
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-speaker-desc' => /////////////////////////////////////////////////////

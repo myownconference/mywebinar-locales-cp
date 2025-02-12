@@ -4538,7 +4538,7 @@ return [
 		– Up to 2 presenters at once (each participant can speak in turn)<br>
 		– Import up to 20 subscribers for invitations<br>
 		– 20 attendees per webinar<br>
-		– 20 minutes of event saving (quality options: 480p and 720p)<br>
+		– 20 хвілін запісу кожныя 20 хвілін у якасці 480p і 720p<br>
 		– Sharing links to recordings is prohibited<br>
 		– Custom branding changes are prohibited<br>
 		– Custom domain option is not available<br>

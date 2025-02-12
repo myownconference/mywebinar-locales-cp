@@ -4544,7 +4544,7 @@ return [
 		– Aynı anda en fazla 2 sunucu (her katılımcı sırayla konuşabilir)<br>
 		– Davetler için en fazla 20 aboneyi içe aktarın<br>
 		– Webinar başına 20 katılımcı<br>
-		– 20 dakika kayıt (kalite seçenekleri: 480p ve 720p)<br>
+		– Her 20 dakikada bir 20 dakika kayıt 480p ve 720p kalitesinde<br>
 		– Webinar kayıtlarına bağlantı paylaşımı yasaktır<br>
 		– Özel markalama değişiklikleri yasaktır<br>
 		– Özel alan adı seçeneği mevcut değil<br>

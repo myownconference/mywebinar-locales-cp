@@ -4538,7 +4538,7 @@ return [
 		– Fino a 2 presentatori contemporaneamente (ogni partecipante può parlare a turno)<br>
 		– Importa fino a 20 iscritti per inviti<br>
 		– 20 partecipanti per webinar<br>
-		– 20 minuti di registrazione (opzioni di qualità: 480p e 720p)<br>
+		– 20 minuti di registrazione ogni 20 minuti in qualità 480p e 720p<br>
 		– Condivisione di link alle registrazioni dei webinar è vietata<br>
 		– Modifiche al branding personalizzato sono vietate<br>
 		– L‘opzione dominio personalizzato non è disponibile<br>

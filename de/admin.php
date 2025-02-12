@@ -4538,7 +4538,7 @@ return [
 		– Bis zu 2 Moderatoren gleichzeitig (jeder Teilnehmer kann abwechselnd sprechen)<br>
 		– Importieren Sie bis zu 20 Abonnenten für Einladungen<br>
 		– 20 Teilnehmer pro Webinar<br>
-		– 20 Minuten Aufnahme (Qualitätsoptionen: 480p und 720p)<br>
+		– 20 Minuten Aufnahme alle 20 Minuten in 480p und 720p Qualität<br>
 		– Teilen von Links zu Webinar-Aufzeichnungen ist verboten<br>
 		– Änderungen am benutzerdefinierten Branding sind verboten<br>
 		– Anpassbare Domain-Option ist nicht verfügbar<br>

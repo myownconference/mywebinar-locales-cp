@@ -4538,7 +4538,7 @@ return [
 		– Egyszerre legfeljebb 2 előadó (minden résztvevő felváltva beszélhet)<br>
 		– Legfeljebb 20 feliratkozó meghívása meghívókhoz<br>
 		– Webináriumonként 20 résztvevő<br>
-		– 20 perc felvétel (minőségi opciók: 480p és 720p)<br>
+		– 20 perc felvétel minden 20 percben 480p és 720p minőségben<br>
 		– A webinárium felvételeinek megosztása tilos<br>
 		– A testreszabott márkázási változtatások tilosak<br>
 		– Az egyéni domain opció nem érhető el<br>

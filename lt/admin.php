@@ -4538,21 +4538,23 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Free account<br><br>
-		– <u>Non-commercial use only</u><br>
-		– Our logo will appear on every moderator’s webcam<br>
-		– Up to 2 presenters at once (each participant can speak in turn)<br>
-		– Import up to 20 subscribers for invitations<br>
-		– 20 attendees per webinar<br>
-		– Įrašykite iki 20 minučių kas 20 minučių 480p arba 720p kokybe<br>
-		– Tiesioginės sesijos gali trukti ilgiau nei 20 minučių; apribojimas taikomas tik internetinių seminarų įrašams<br>
-		– Sharing links to recordings is prohibited<br>
-		– Custom branding changes are prohibited<br>
-		– Custom domain option is not available<br>
-		– OBS broadcasting is not available<br>
-		– 1 automated webinar creation<br>
-		– 1 GB of storage space<br><br>
-		Please upgrade to a paid plan to unlock all available features and enhance your live events
+		<strong>Nemokama paskyra</strong><br>
+		<br>
+		– <u>Tik nekomerciniam naudojimui</u><br>
+		– Platformos logotipas rodomas moderatorių internetinėse kamerose<br>
+		– Vienu metu gali būti iki 2 vedėjų (kiti gali kalbėti paeiliui)<br>
+		– Galima importuoti iki 20 prenumeratorių<br>
+		– Iki 20 dalyvių viename internetiniame seminare<br>
+		– Įrašykite iki 20 minučių kas 20 minučių (480p/720p)<br>
+		– Internetiniai seminarai gali trukti ilgiau, tačiau įrašų trukmė yra ribota<br>
+		– Įrašai prieinami tik asmeniniam naudojimui<br>
+		– Prekės ženklo pritaikymas neleidžiamas<br>
+		– Individualus domenas nepasiekiamas<br>
+		– OBS transliacija nepasiekiama<br>
+		– 1 automatizuotas internetinis seminaras<br>
+		– 1 GB saugyklos vietos<br>
+		<br>
+		<strong>Norėdami atrakinti visas funkcijas, atnaujinkite į mokamą planą!</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

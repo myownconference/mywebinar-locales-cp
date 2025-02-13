@@ -4538,21 +4538,23 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Free account<br><br>
-		– <u>Non-commercial use only</u><br>
-		– Our logo will appear on every moderator’s webcam<br>
-		– Up to 2 presenters at once (each participant can speak in turn)<br>
-		– Import up to 20 subscribers for invitations<br>
-		– 20 attendees per webinar<br>
-		– Spela in upp till 20 minuter var 20:e minut i 480p eller 720p kvalitet<br>
-		– Live-sessioner kan vara längre än 20 minuter; begränsningen gäller endast webinarinspelningar<br>
-		– Sharing links to recordings is prohibited<br>
-		– Custom branding changes are prohibited<br>
-		– Custom domain option is not available<br>
-		– OBS broadcasting is not available<br>
-		– 1 automated webinar creation<br>
-		– 1 GB of storage space<br><br>
-		Please upgrade to a paid plan to unlock all available features and enhance your live events
+		<strong>Gratis konto</strong><br>
+		<br>
+		– <u>Endast för icke-kommersiellt bruk</u><br>
+		– Plattformens logotyp på moderatorers webbkameror<br>
+		– Upp till 2 värdar samtidigt (andra kan tala i turordning)<br>
+		– Importera upp till 20 prenumeranter<br>
+		– Upp till 20 deltagare per webbseminarium<br>
+		– Spela in upp till 20 minuter var 20:e minut (480p/720p)<br>
+		– Webbseminarier kan vara längre, men inspelningen är begränsad<br>
+		– Inspelningar är endast tillgängliga för personligt bruk<br>
+		– Anpassning av varumärke är inte tillåtet<br>
+		– Egen domän är inte tillgänglig<br>
+		– OBS-strömning är inte tillgänglig<br>
+		– 1 automatiserat webbseminarium<br>
+		– 1 GB lagring<br>
+		<br>
+		<strong>Uppgradera till en betald plan för att låsa upp alla funktioner</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

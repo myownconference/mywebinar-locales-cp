@@ -4538,21 +4538,23 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Free account<br><br>
-		– <u>Non-commercial use only</u><br>
-		– Our logo will appear on every moderator’s webcam<br>
-		– Up to 2 presenters at once (each participant can speak in turn)<br>
-		– Import up to 20 subscribers for invitations<br>
-		– 20 attendees per webinar<br>
-		– 480p または 720p の品質で 20 分ごとに最大 20 分録画<br>
-		– ライブセッションは 20 分を超えることができます; 制限はウェビナーの録画にのみ適用されます<br>
-		– Sharing links to recordings is prohibited<br>
-		– Custom branding changes are prohibited<br>
-		– Custom domain option is not available<br>
-		– OBS broadcasting is not available<br>
-		– 1 automated webinar creation<br>
-		– 1 GB of storage space<br><br>
-		Please upgrade to a paid plan to unlock all available features and enhance your live events
+		<strong>無料アカウント</strong><br>
+		<br>
+		– <u>非商用利用のみ</u><br>
+		– モデレーターのウェブカメラにプラットフォームのロゴが表示されます<br>
+		– 最大2人のホストが同時に参加可能（他の参加者は順番に発言可能）<br>
+		– 最大20人の登録者をインポート可能<br>
+		– 1回のウェビナーにつき最大20人の参加者<br>
+		– 20分ごとに最大20分間の録画（480p/720p）<br>
+		– ウェビナーの時間制限はありませんが、録画時間には制限があります<br>
+		– 録画は個人利用のみ可能<br>
+		– ブランディングのカスタマイズは不可<br>
+		– 独自ドメインの使用は不可<br>
+		– OBSのストリーミングは利用不可<br>
+		– 1つの自動ウェビナー<br>
+		– 1GBのストレージ<br>
+		<br>
+		<strong>すべての機能を解放するには、有料プランにアップグレードしましょう！</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

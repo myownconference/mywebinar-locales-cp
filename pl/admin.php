@@ -4563,21 +4563,23 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Darmowe konto<br><br>
+		<strong>Darmowe konto</strong><br>
+		<br>
 		– <u>Tylko do użytku niekomercyjnego</u><br>
-		– Nasze logo pojawi się na kamerze internetowej każdego moderatora<br>
-		– Do 2 prezenterów jednocześnie (każdy uczestnik może mówić na zmianę)<br>
-		– Importuj do 20 subskrybentów do zaproszeń<br>
-		– 20 uczestników na webinar<br>
-		– Nagrywaj do 20 minut co 20 minut w jakości 480p lub 720p<br>
-		– Sesje na żywo mogą trwać dłużej niż 20 minut; ograniczenie dotyczy tylko nagrań webinarów<br>
-		– Udostępnianie linków do nagrań webinarów jest zabronione<br>
-		– Zmiany w niestandardowym brandingu są zabronione<br>
-		– Opcja niestandardowej domeny jest niedostępna<br>
-		– Nadawanie przez OBS jest niedostępne<br>
-		– 1 automatyczne tworzenie webinaru<br>
-		– 1 GB przestrzeni dyskowej<br><br>
-		Proszę uaktualnić do płatnego planu, aby odblokować wszystkie dostępne funkcje i poprawić swoje wydarzenia na żywo
+		– Logo platformy widoczne na kamerach moderatorów<br>
+		– Maksymalnie 2 gospodarzy jednocześnie (inni mogą mówić na zmianę)<br>
+		– Import do 20 subskrybentów<br>
+		– Maksymalnie 20 uczestników na webinar<br>
+		– Nagrywanie do 20 minut co 20 minut (480p/720p)<br>
+		– Webinary mogą trwać dłużej, ale nagrania są ograniczone<br>
+		– Nagrania dostępne wyłącznie do użytku osobistego<br>
+		– Personalizacja brandingu niedozwolona<br>
+		– Własna domena niedostępna<br>
+		– Streaming OBS niedostępny<br>
+		– 1 zautomatyzowany webinar<br>
+		– 1 GB przestrzeni dyskowej<br>
+		<br>
+		<strong>Przejdź na płatny plan, aby odblokować wszystkie funkcje!</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

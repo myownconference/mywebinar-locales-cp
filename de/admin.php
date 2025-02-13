@@ -4538,21 +4538,23 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kostenloses Konto<br><br>
-		– <u>Nur für nicht-kommerzielle Nutzung</u><br>
-		– Unser Logo wird auf jeder Webcam des Moderators angezeigt<br>
-		– Bis zu 2 Moderatoren gleichzeitig (jeder Teilnehmer kann abwechselnd sprechen)<br>
-		– Importieren Sie bis zu 20 Abonnenten für Einladungen<br>
-		– 20 Teilnehmer pro Webinar<br>
-		– Bis zu 20 Minuten alle 20 Minuten in 480p oder 720p Qualität aufnehmen<br>
-		– Live-Sitzungen können länger als 20 Minuten dauern; die Begrenzung gilt nur für Webinar-Aufzeichnungen<br>
-		– Teilen von Links zu Webinar-Aufzeichnungen ist verboten<br>
-		– Änderungen am benutzerdefinierten Branding sind verboten<br>
-		– Anpassbare Domain-Option ist nicht verfügbar<br>
-		– OBS-Übertragung ist nicht verfügbar<br>
-		– 1 automatisierte Webinar-Erstellung<br>
-		– 1 GB Speicherplatz<br><br>
-		Bitte upgraden Sie auf einen kostenpflichtigen Plan, um alle verfügbaren Funktionen freizuschalten und Ihre Live-Events zu verbessern
+		<strong>Gratis-Konto</strong><br>
+		<br>
+		– <u>Nur für nichtkommerzielle Nutzung</u><br>
+		– Plattform-Logo auf den Webcams der Moderatoren<br>
+		– Bis zu 2 Gastgeber gleichzeitig (andere können abwechselnd sprechen)<br>
+		– Import von bis zu 20 Abonnenten<br>
+		– Bis zu 20 Teilnehmer pro Webinar<br>
+		– Aufnahme von bis zu 20 Minuten alle 20 Minuten (480p/720p)<br>
+		– Webinare können länger dauern, aber die Aufnahmezeit ist begrenzt<br>
+		– Aufnahmen nur für den persönlichen Gebrauch verfügbar<br>
+		– Anpassung des Brandings nicht erlaubt<br>
+		– Eigene Domain nicht verfügbar<br>
+		– OBS-Streaming nicht verfügbar<br>
+		– 1 automatisiertes Webinar<br>
+		– 1 GB Speicherplatz<br>
+		<br>
+		<strong>Wechseln Sie zu einem kostenpflichtigen Tarif, um alle Funktionen freizuschalten!</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

@@ -4538,21 +4538,23 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Free account<br><br>
-		– <u>Non-commercial use only</u><br>
-		– Our logo will appear on every moderator’s webcam<br>
-		– Up to 2 presenters at once (each participant can speak in turn)<br>
-		– Import up to 20 subscribers for invitations<br>
-		– 20 attendees per webinar<br>
-		– Optag op til 20 minutter hver 20. minut i 480p eller 720p kvalitet<br>
-		– Live-sessioner kan vare længere end 20 minutter; begrænsningen gælder kun webinar-optagelser<br>
-		– Sharing links to recordings is prohibited<br>
-		– Custom branding changes are prohibited<br>
-		– Custom domain option is not available<br>
-		– OBS broadcasting is not available<br>
-		– 1 automated webinar creation<br>
-		– 1 GB of storage space<br><br>
-		Please upgrade to a paid plan to unlock all available features and enhance your live events
+		<strong>Gratis konto</strong><br>
+		<br>
+		– <u>Kun til ikke-kommerciel brug</u><br>
+		– Platformens logo på moderatorernes webcams<br>
+		– Op til 2 værter ad gangen (andre kan tale på skift)<br>
+		– Import af op til 20 abonnenter<br>
+		– Op til 20 deltagere pr. webinar<br>
+		– Optag op til 20 minutter hver 20. minut (480p/720p)<br>
+		– Webinars kan vare længere, men optagelse er begrænset<br>
+		– Optagelser er kun til personlig brug<br>
+		– Brandingtilpasning ikke tilladt<br>
+		– Eget domæne ikke tilgængeligt<br>
+		– OBS-streaming ikke tilgængelig<br>
+		– 1 automatiseret webinar<br>
+		– 1 GB lagerplads<br>
+		<br>
+		<strong>Opgrader til en betalt plan for at låse op for alle funktioner!</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

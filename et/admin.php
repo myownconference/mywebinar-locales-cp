@@ -4538,21 +4538,23 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Free account<br><br>
-		– <u>Non-commercial use only</u><br>
-		– Our logo will appear on every moderator’s webcam<br>
-		– Up to 2 presenters at once (each participant can speak in turn)<br>
-		– Import up to 20 subscribers for invitations<br>
-		– 20 attendees per webinar<br>
-		– Salvestage kuni 20 minutit iga 20 minuti järel kvaliteediga 480p või 720p<br>
-		– Otseülekanded võivad kesta kauem kui 20 minutit; piirang kehtib ainult veebiseminari salvestistele<br>
-		– Sharing links to recordings is prohibited<br>
-		– Custom branding changes are prohibited<br>
-		– Custom domain option is not available<br>
-		– OBS broadcasting is not available<br>
-		– 1 automated webinar creation<br>
-		– 1 GB of storage space<br><br>
-		Please upgrade to a paid plan to unlock all available features and enhance your live events
+		<strong>Tasuta konto</strong><br>
+		<br>
+		– <u>Ainult mitteäriliseks kasutamiseks</u><br>
+		– Platvormi logo moderaatorite veebikaameratel<br>
+		– Kuni 2 võõrustajat korraga (teised saavad rääkida kordamööda)<br>
+		– Kuni 20 tellija importimine<br>
+		– Kuni 20 osalejat veebiseminaril<br>
+		– Salvestamine kuni 20 minutit iga 20 minuti järel (480p/720p)<br>
+		– Veebiseminarid võivad olla pikemad, kuid salvestus on piiratud<br>
+		– Salvestused on saadaval ainult isiklikuks kasutamiseks<br>
+		– Brändingu kohandamine pole lubatud<br>
+		– Kohandatud domeen pole saadaval<br>
+		– OBS voogedastus pole saadaval<br>
+		– 1 automatiseeritud veebiseminar<br>
+		– 1 GB salvestusruumi<br>
+		<br>
+		<strong>Uuenda tasulisele paketile, et avada kõik funktsioonid!</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

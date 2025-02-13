@@ -4538,21 +4538,23 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Free account<br><br>
-		– <u>Non-commercial use only</u><br>
-		– Our logo will appear on every moderator’s webcam<br>
-		– Up to 2 presenters at once (each participant can speak in turn)<br>
-		– Import up to 20 subscribers for invitations<br>
-		– 20 attendees per webinar<br>
-		– Ierakstiet līdz 20 minūtēm ik pēc 20 minūtēm 480p vai 720p kvalitātē<br>
-		– Tiešraides sesijas var būt garākas par 20 minūtēm; ierobežojums attiecas tikai uz tīmekļa semināru ierakstiem<br>
-		– Sharing links to recordings is prohibited<br>
-		– Custom branding changes are prohibited<br>
-		– Custom domain option is not available<br>
-		– OBS broadcasting is not available<br>
-		– 1 automated webinar creation<br>
-		– 1 GB of storage space<br><br>
-		Please upgrade to a paid plan to unlock all available features and enhance your live events
+		<strong>Bezmaksas konts</strong><br>
+		<br>
+		– <u>Tikai nekomerciālai lietošanai</u><br>
+		– Platformas logotips redzams moderatoru tīmekļa kamerās<br>
+		– Vienlaikus var būt līdz 2 vadītājiem (citi var runāt secīgi)<br>
+		– Iespējams importēt līdz 20 abonentiem<br>
+		– Līdz 20 dalībniekiem vienā vebinārā<br>
+		– Ierakstiet līdz 20 minūtēm ik pēc 20 minūtēm (480p/720p)<br>
+		– Vebināri var būt ilgāki, bet ierakstu ilgums ir ierobežots<br>
+		– Ieraksti pieejami tikai personīgai lietošanai<br>
+		– Zīmola pielāgošana nav atļauta<br>
+		– Pielāgots domēns nav pieejams<br>
+		– OBS straumēšana nav pieejama<br>
+		– 1 automatizēts vebinārs<br>
+		– 1 GB krātuves vieta<br>
+		<br>
+		<strong>Atjauniniet uz maksas plānu, lai atbloķētu visas funkcijas!</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

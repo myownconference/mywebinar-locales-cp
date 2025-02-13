@@ -4538,21 +4538,23 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Free account<br><br>
-		– <u>Non-commercial use only</u><br>
-		– Our logo will appear on every moderator’s webcam<br>
-		– Up to 2 presenters at once (each participant can speak in turn)<br>
-		– Import up to 20 subscribers for invitations<br>
-		– 20 attendees per webinar<br>
-		– Запіс да 20 хвілін кожныя 20 хвілін у якасці 480p або 720p<br>
-		– Жывыя сесіі могуць быць даўжэйшымі за 20 хвілін; абмежаванне дзейнічае толькі для запісаў вэбінару<br>
-		– Sharing links to recordings is prohibited<br>
-		– Custom branding changes are prohibited<br>
-		– Custom domain option is not available<br>
-		– OBS broadcasting is not available<br>
-		– 1 automated webinar creation<br>
-		– 1 GB of storage space<br><br>
-		Please upgrade to a paid plan to unlock all available features and enhance your live events
+		<strong>Бясплатны ўліковы запіс</strong><br>
+		<br>
+		– <u>Толькі для некамерцыйнага выкарыстання</u><br>
+		– Лагатып платформы на вэб-камеры мадэратараў<br>
+		– Да 2 вядучых адначасова (іншыя могуць выступаць па чарзе)<br>
+		– Імпарт да 20 падпісчыкаў<br>
+		– Да 20 удзельнікаў на вэбінар<br>
+		– Запіс да 20 хвілін кожныя 20 хвілін (480p/720p)<br>
+		– Вэбінары могуць доўжыцца даўжэй, але працягласць запісу абмежаваная<br>
+		– Доступ да запісаў толькі для асабістага выкарыстання<br>
+		– Наладка брэнда недаступная<br>
+		– Уласны дамен недаступны<br>
+		– Стрымінг праз OBS недаступны<br>
+		– 1 аўтаматызаваны вэбінар<br>
+		– 1 ГБ сховішча<br>
+		<br>
+		<strong>Абнавіцеся да платнага плана, каб атрымаць доступ да ўсіх магчымасцяў!</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

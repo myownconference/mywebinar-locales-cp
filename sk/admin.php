@@ -4538,21 +4538,23 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Free account<br><br>
-		– <u>Non-commercial use only</u><br>
-		– Our logo will appear on every moderator’s webcam<br>
-		– Up to 2 presenters at once (each participant can speak in turn)<br>
-		– Import up to 20 subscribers for invitations<br>
-		– 20 attendees per webinar<br>
-		– Nahrávajte až 20 minút každých 20 minút v kvalite 480p alebo 720p<br>
-		– Živé relácie môžu trvať dlhšie ako 20 minút; obmedzenie platí iba na záznamy webinárov<br>
-		– Sharing links to recordings is prohibited<br>
-		– Custom branding changes are prohibited<br>
-		– Custom domain option is not available<br>
-		– OBS broadcasting is not available<br>
-		– 1 automated webinar creation<br>
-		– 1 GB of storage space<br><br>
-		Please upgrade to a paid plan to unlock all available features and enhance your live events
+		<strong>Bezplatný účet</strong><br>
+		<br>
+		– <u>Len na nekomerčné použitie</u><br>
+		– Logo platformy na webkamerách moderátorov<br>
+		– Maximálne 2 moderátori naraz (ostatní môžu hovoriť postupne)<br>
+		– Import až 20 odberateľov<br>
+		– Maximálne 20 účastníkov na webinár<br>
+		– Nahrávanie až 20 minút každých 20 minút (480p/720p)<br>
+		– Webináre môžu byť dlhšie, ale nahrávanie je obmedzené<br>
+		– Nahrávky sú dostupné len na osobné použitie<br>
+		– Prispôsobenie značky nie je povolené<br>
+		– Vlastná doména nie je dostupná<br>
+		– Streamovanie cez OBS nie je dostupné<br>
+		– 1 automatizovaný webinár<br>
+		– 1 GB úložiska<br>
+		<br>
+		<strong>Prejdite na platený plán a odomknite všetky funkcie</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

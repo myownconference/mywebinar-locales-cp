@@ -4538,21 +4538,23 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Free account<br><br>
-		– <u>Non-commercial use only</u><br>
-		– Our logo will appear on every moderator’s webcam<br>
-		– Up to 2 presenters at once (each participant can speak in turn)<br>
-		– Import up to 20 subscribers for invitations<br>
-		– 20 attendees per webinar<br>
-		– Запис до 20 минути на всеки 20 минути с качество 480p или 720p<br>
-		– На живо сесиите могат да бъдат по-дълги от 20 минути; ограничението важи само за записите на уебинар<br>
-		– Sharing links to recordings is prohibited<br>
-		– Custom branding changes are prohibited<br>
-		– Custom domain option is not available<br>
-		– OBS broadcasting is not available<br>
-		– 1 automated webinar creation<br>
-		– 1 GB of storage space<br><br>
-		Please upgrade to a paid plan to unlock all available features and enhance your live events
+		<strong>Безплатен акаунт</strong><br>
+		<br>
+		– <u>Само за некомерсиална употреба</u><br>
+		– Лого на платформата върху уеб камерата на модераторите<br>
+		– До 2 водещи едновременно (другите могат да говорят на смени)<br>
+		– Импорт на до 20 абонати<br>
+		– До 20 участници на уебинар<br>
+		– Запис до 20 минути на всеки 20 минути (480p/720p)<br>
+		– Уебинарите могат да продължават по-дълго, но записът е ограничен<br>
+		– Достъп до записите само за лично ползване<br>
+		– Персонализиране на бранда не е позволено<br>
+		– Собствен домейн не е наличен<br>
+		– Стрийминг чрез OBS не е наличен<br>
+		– 1 автоматизиран уебинар<br>
+		– 1 ГБ съхранение<br>
+		<br>
+		<strong>Надстройте до платен план, за да отключите всички функции!</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

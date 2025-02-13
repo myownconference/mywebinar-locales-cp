@@ -4556,21 +4556,23 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Compte gratuit<br><br>
-		– <u>Utilisation non commerciale uniquement</u><br>
-		– Notre logo apparaîtra sur la webcam de chaque modérateur<br>
-		– Jusqu‘à 2 présentateurs à la fois (chaque participant peut parler à tour de rôle)<br>
-		– Importez jusqu‘à 20 abonnés pour les invitations<br>
-		– 20 participants par webinaire<br>
-		– Enregistrez jusqu’à 20 minutes toutes les 20 minutes en qualité 480p ou 720p<br>
-		– Les sessions en direct peuvent durer plus de 20 minutes ; la limite ne s’applique qu’aux enregistrements de webinaires<br>
-		– Partage de liens vers les enregistrements de webinaires interdit<br>
-		– Les modifications de la marque personnalisée sont interdites<br>
-		– Option de domaine personnalisé non disponible<br>
-		– Diffusion OBS non disponible<br>
-		– 1 création de webinaire automatisé<br>
-		– 1 Go d‘espace de stockage<br><br>
-		Veuillez passer à un plan payant pour débloquer toutes les fonctionnalités disponibles et améliorer vos événements en direct
+		<strong>Compte gratuit</strong><br>
+		<br>
+		– <u>Uniquement pour un usage non commercial</u><br>
+		– Logo de la plateforme sur les webcams des modérateurs<br>
+		– Jusquʼà 2 animateurs simultanément (les autres peuvent parler à tour de rôle)<br>
+		– Importation de jusquʼà 20 abonnés<br>
+		– Jusquʼà 20 participants par webinaire<br>
+		– Enregistrement jusquʼà 20 minutes toutes les 20 minutes (480p/720p)<br>
+		– Les webinaires peuvent être plus longs, mais lʼenregistrement est limité<br>
+		– Enregistrements disponibles uniquement pour un usage personnel<br>
+		– Personnalisation de la marque non autorisée<br>
+		– Domaine personnalisé non disponible<br>
+		– Diffusion en direct via OBS non disponible<br>
+		– 1 webinaire automatisé<br>
+		– 1 Go de stockage<br>
+		<br>
+		<strong>Passez à une offre payante pour débloquer toutes les fonctionnalités !</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

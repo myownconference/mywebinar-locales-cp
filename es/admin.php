@@ -4549,21 +4549,23 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Cuenta gratuita<br><br>
+		<strong>Cuenta gratuita</strong><br>
+		<br>
 		– <u>Solo para uso no comercial</u><br>
-		– Nuestro logo aparecerá en la cámara web de cada moderador<br>
-		– Hasta 2 presentadores a la vez (cada participante puede hablar por turno)<br>
-		– Importar hasta 20 suscriptores para invitaciones<br>
-		– 20 asistentes por webinario<br>
-		– Graba hasta 20 minutos cada 20 minutos en calidad 480p o 720p<br>
-		– Las sesiones en vivo pueden durar más de 20 minutos; el límite solo se aplica a las grabaciones del seminario web<br>
-		– Compartir enlaces a grabaciones de webinarios está prohibido<br>
-		– Los cambios en la marca personalizada están prohibidos<br>
-		– Opción de dominio personalizado no disponible<br>
-		– Transmisión OBS no disponible<br>
-		– 1 creación de autowebinario<br>
-		– 1 GB de espacio de almacenamiento<br><br>
-		Por favor, actualice a un plan de pago para desbloquear todas las funciones disponibles y mejorar sus eventos en vivo
+		– Logo de la plataforma en las webcams de los moderadores<br>
+		– Hasta 2 anfitriones al mismo tiempo (otros pueden hablar por turnos)<br>
+		– Importación de hasta 20 suscriptores<br>
+		– Hasta 20 asistentes por webinar<br>
+		– Grabación de hasta 20 minutos cada 20 minutos (480p/720p)<br>
+		– Los webinars pueden durar más tiempo, pero la grabación está limitada<br>
+		– Las grabaciones están disponibles solo para uso personal<br>
+		– Personalización de marca no permitida<br>
+		– Dominio personalizado no disponible<br>
+		– Transmisión por OBS no disponible<br>
+		– 1 webinar automatizado<br>
+		– 1 GB de almacenamiento<br>
+		<br>
+		<strong>¡Actualiza a un plan de pago para desbloquear todas las funciones!</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

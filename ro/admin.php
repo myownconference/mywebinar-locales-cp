@@ -4538,21 +4538,23 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Cont gratuit<br><br>
-		– <u>Doar pentru uz necomercial</u><br>
-		– Logo-ul nostru va apărea pe camera web a fiecărui moderator<br>
-		– Până la 2 prezentatori simultan (fiecare participant poate vorbi pe rând)<br>
-		– Importați până la 20 de abonați pentru invitații<br>
-		– 20 de participanți per webinar<br>
-		– Înregistrați până la 20 de minute la fiecare 20 de minute la calitate 480p sau 720p<br>
-		– Sesiunile live pot dura mai mult de 20 de minute; limita se aplică doar înregistrărilor webinarului<br>
-		– Partajarea linkurilor către înregistrările webinarului este interzisă<br>
-		– Modificările de branding personalizat sunt interzise<br>
-		– Opțiunea de domeniu personalizat nu este disponibilă<br>
-		– Transmisiunea OBS nu este disponibilă<br>
-		– 1 creare de webinar automatizat<br>
-		– 1 GB de spațiu de stocare<br><br>
-		Vă rugăm să faceți upgrade la un plan plătit pentru a debloca toate funcțiile disponibile și a vă îmbunătăți evenimentele live
+		<strong>Cont Gratuit</strong><br>
+		<br>
+		– <u>Doar pentru utilizare necomercială</u><br>
+		– Logo-ul platformei pe camerele web ale moderatorilor<br>
+		– Până la 2 gazde simultan (ceilalți pot vorbi pe rând)<br>
+		– Importă până la 20 de abonați<br>
+		– Până la 20 de participanți per webinar<br>
+		– Înregistrare de până la 20 de minute la fiecare 20 de minute (480p/720p)<br>
+		– Webinariile pot dura mai mult, dar înregistrarea este limitată<br>
+		– Înregistrările sunt disponibile doar pentru uz personal<br>
+		– Personalizarea mărcii nu este permisă<br>
+		– Domeniu personalizat indisponibil<br>
+		– Transmiterea prin OBS indisponibilă<br>
+		– 1 webinar automatizat<br>
+		– 1 GB spațiu de stocare<br>
+		<br>
+		<strong>Fă upgrade la un plan plătit pentru a debloca toate funcționalitățile!</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

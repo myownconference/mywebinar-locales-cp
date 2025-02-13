@@ -4538,21 +4538,23 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ingyenes fiók<br><br>
-		– <u>Csak nem kereskedelmi használatra</u><br>
-		– A logónk minden moderátor webkameráján megjelenik<br>
-		– Egyszerre legfeljebb 2 előadó (minden résztvevő felváltva beszélhet)<br>
-		– Legfeljebb 20 feliratkozó meghívása meghívókhoz<br>
-		– Webináriumonként 20 résztvevő<br>
-		– Rögzítsen legfeljebb 20 percet minden 20 percben 480p vagy 720p minőségben<br>
-		– Az élő ülések hosszabbak lehetnek, mint 20 perc; a korlátozás csak a webinárium felvételeire vonatkozik<br>
-		– A webinárium felvételeinek megosztása tilos<br>
-		– A testreszabott márkázási változtatások tilosak<br>
-		– Az egyéni domain opció nem érhető el<br>
-		– OBS közvetítés nem érhető el<br>
-		– 1 automatizált webinárium létrehozása<br>
-		– 1 GB tárhely<br><br>
-		Kérjük, frissítsen egy fizetett csomagra az összes elérhető funkció feloldásához és az élő események javításához
+		<strong>Ingyenes fiók</strong><br>
+		<br>
+		– <u>Csak nem kereskedelmi célú használatra</u><br>
+		– A platform logója megjelenik a moderátorok webkameráján<br>
+		– Legfeljebb 2 házigazda egy időben (a többiek felváltva beszélhetnek)<br>
+		– Legfeljebb 20 feliratkozó importálása<br>
+		– Legfeljebb 20 résztvevő webináriumonként<br>
+		– Legfeljebb 20 perc rögzítés 20 percenként (480p/720p)<br>
+		– A webináriumok hosszabbak lehetnek, de a rögzítés korlátozott<br>
+		– A rögzítések csak személyes használatra érhetők el<br>
+		– Márkaarculat testreszabása nem engedélyezett<br>
+		– Egyéni domain nem érhető el<br>
+		– OBS közvetítés nem támogatott<br>
+		– 1 automatizált webinárium<br>
+		– 1 GB tárhely<br>
+		<br>
+		<strong>Frissíts egy fizetős csomagra az összes funkció feloldásához!</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

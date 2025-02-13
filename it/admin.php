@@ -4538,21 +4538,23 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Account gratuito<br><br>
+		<strong>Account gratuito</strong><br>
+		<br>
 		– <u>Solo per uso non commerciale</u><br>
-		– Il nostro logo apparirà sulla webcam di ogni moderatore<br>
-		– Fino a 2 presentatori contemporaneamente (ogni partecipante può parlare a turno)<br>
-		– Importa fino a 20 iscritti per inviti<br>
-		– 20 partecipanti per webinar<br>
-		– Registra fino a 20 minuti ogni 20 minuti in qualità 480p o 720p<br>
-		– Le sessioni dal vivo possono durare più di 20 minuti; il limite si applica solo alle registrazioni del webinar<br>
-		– Condivisione di link alle registrazioni dei webinar è vietata<br>
-		– Modifiche al branding personalizzato sono vietate<br>
-		– L‘opzione dominio personalizzato non è disponibile<br>
-		– Trasmissione OBS non disponibile<br>
-		– 1 creazione di webinar automatizzato<br>
-		– 1 GB di spazio di archiviazione<br><br>
-		Si prega di passare a un piano a pagamento per sbloccare tutte le funzionalità disponibili e migliorare i vostri eventi dal vivo
+		– Logo della piattaforma sulle webcam dei moderatori<br>
+		– Fino a 2 host contemporaneamente (gli altri possono parlare a turno)<br>
+		– Importazione fino a 20 iscritti<br>
+		– Fino a 20 partecipanti per webinario<br>
+		– Registrazione fino a 20 minuti ogni 20 minuti (480p/720p)<br>
+		– I webinari possono durare di più, ma la registrazione è limitata<br>
+		– Le registrazioni sono disponibili solo per uso personale<br>
+		– Personalizzazione del brand non consentita<br>
+		– Dominio personalizzato non disponibile<br>
+		– Streaming OBS non supportato<br>
+		– 1 webinario automatizzato<br>
+		– 1 GB di spazio di archiviazione<br>
+		<br>
+		<strong>Passa a un piano a pagamento per sbloccare tutte le funzionalità!</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

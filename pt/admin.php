@@ -4538,21 +4538,23 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Free account<br><br>
-		– <u>Non-commercial use only</u><br>
-		– Our logo will appear on every moderator’s webcam<br>
-		– Up to 2 presenters at once (each participant can speak in turn)<br>
-		– Import up to 20 subscribers for invitations<br>
-		– 20 attendees per webinar<br>
-		– Grave até 20 minutos a cada 20 minutos em qualidade 480p ou 720p<br>
-		– As sessões ao vivo podem durar mais de 20 minutos; o limite aplica-se apenas às gravações do webinar<br>
-		– Sharing links to recordings is prohibited<br>
-		– Custom branding changes are prohibited<br>
-		– Custom domain option is not available<br>
-		– OBS broadcasting is not available<br>
-		– 1 automated webinar creation<br>
-		– 1 GB of storage space<br><br>
-		Please upgrade to a paid plan to unlock all available features and enhance your live events
+		<strong>Conta Gratuita</strong><br>
+		<br>
+		– <u>Apenas para uso não comercial</u><br>
+		– Logotipo da plataforma nas webcams dos moderadores<br>
+		– Até 2 anfitriões ao mesmo tempo (outros podem falar alternadamente)<br>
+		– Importação de até 20 inscritos<br>
+		– Até 20 participantes por webinar<br>
+		– Gravação de até 20 minutos a cada 20 minutos (480p/720p)<br>
+		– Os webinars podem durar mais tempo, mas as gravações são limitadas<br>
+		– Gravações disponíveis apenas para uso pessoal<br>
+		– Personalização da marca não permitida<br>
+		– Domínio personalizado indisponível<br>
+		– Transmissão via OBS indisponível<br>
+		– 1 webinar automatizado<br>
+		– 1 GB de armazenamento<br>
+		<br>
+		<strong>Faça upgrade para um plano pago e desbloqueie todos os recursos!</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

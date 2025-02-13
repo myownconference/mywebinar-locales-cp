@@ -4538,21 +4538,23 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Free account<br><br>
-		– <u>Non-commercial use only</u><br>
-		– Our logo will appear on every moderator’s webcam<br>
-		– Up to 2 presenters at once (each participant can speak in turn)<br>
-		– Import up to 20 subscribers for invitations<br>
-		– 20 attendees per webinar<br>
-		– Snemajte do 20 minut vsakih 20 minut v kakovosti 480p ali 720p<br>
-		– Spletne seje so lahko daljše od 20 minut; omejitev velja samo za snemanje spletnih seminarjev<br>
-		– Sharing links to recordings is prohibited<br>
-		– Custom branding changes are prohibited<br>
-		– Custom domain option is not available<br>
-		– OBS broadcasting is not available<br>
-		– 1 automated webinar creation<br>
-		– 1 GB of storage space<br><br>
-		Please upgrade to a paid plan to unlock all available features and enhance your live events
+		<strong>Brezplačni račun</strong><br>
+		<br>
+		– <u>Samo za nekomercialno uporabo</u><br>
+		– Logotip platforme na spletnih kamerah moderatorjev<br>
+		– Do 2 gostitelja hkrati (drugi lahko govorijo izmenično)<br>
+		– Uvoz do 20 naročnikov<br>
+		– Do 20 udeležencev na spletni seminar<br>
+		– Snemanje do 20 minut vsakih 20 minut (480p/720p)<br>
+		– Spletni seminarji so lahko daljši, vendar je snemanje omejeno<br>
+		– Posnetki so na voljo samo za osebno uporabo<br>
+		– Prilagajanje blagovne znamke ni dovoljeno<br>
+		– Lastna domena ni na voljo<br>
+		– Pretočno predvajanje prek OBS ni na voljo<br>
+		– 1 avtomatizirani spletni seminar<br>
+		– 1 GB shrambe<br>
+		<br>
+		<strong>Nadgradite na plačljiv načrt in odklenite vse funkcije</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

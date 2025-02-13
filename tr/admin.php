@@ -4544,21 +4544,23 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ücretsiz Hesap<br><br>
-		– <u>Sadece ticari olmayan kullanım için</u><br>
-		– Logomuz her moderatörün web kamerasında görünecektir<br>
-		– Aynı anda en fazla 2 sunucu (her katılımcı sırayla konuşabilir)<br>
-		– Davetler için en fazla 20 aboneyi içe aktarın<br>
-		– Webinar başına 20 katılımcı<br>
-		– Her 20 dakikada bir 20 dakikaya kadar 480p veya 720p kalitesinde kaydedin<br>
-		– Canlı oturumlar 20 dakikadan uzun sürebilir; bu sınırlama yalnızca webinar kayıtları için geçerlidir<br>
-		– Webinar kayıtlarına bağlantı paylaşımı yasaktır<br>
-		– Özel markalama değişiklikleri yasaktır<br>
-		– Özel alan adı seçeneği mevcut değil<br>
-		– OBS yayını mevcut değil<br>
-		– 1 otomatik webinar oluşturma<br>
-		– 1 GB depolama alanı<br><br>
-		Lütfen mevcut tüm özellikleri açmak ve canlı etkinliklerinizi geliştirmek için ücretli bir plana geçin
+		<strong>Ücretsiz Hesap</strong><br>
+		<br>
+		– <u>Yalnızca ticari olmayan kullanım için</u><br>
+		– Moderatörlerin web kameralarında platform logosu<br>
+		– Aynı anda en fazla 2 sunucu (diğerleri sırayla konuşabilir)<br>
+		– En fazla 20 abone içe aktarın<br>
+		– Web semineri başına en fazla 20 katılımcı<br>
+		– Her 20 dakikada bir 20 dakikaya kadar kayıt yapın (480p/720p)<br>
+		– Web seminerleri daha uzun sürebilir, ancak kayıt süresi sınırlıdır<br>
+		– Kayıtlar yalnızca kişisel kullanım için mevcuttur<br>
+		– Marka özelleştirmesi yapılamaz<br>
+		– Özel alan adı kullanılamaz<br>
+		– OBS ile yayın yapma desteklenmez<br>
+		– 1 otomatik web semineri<br>
+		– 1 GB depolama alanı<br>
+		<br>
+		<strong>Tüm özellikleri açmak için ücretli bir plana geçiş yapın</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

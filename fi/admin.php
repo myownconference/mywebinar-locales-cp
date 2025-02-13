@@ -4538,21 +4538,23 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Free account<br><br>
-		– <u>Non-commercial use only</u><br>
-		– Our logo will appear on every moderator’s webcam<br>
-		– Up to 2 presenters at once (each participant can speak in turn)<br>
-		– Import up to 20 subscribers for invitations<br>
-		– 20 attendees per webinar<br>
-		– Tallenna jopa 20 minuuttia joka 20. minuutti laadulla 480p tai 720p<br>
-		– Live-istunnot voivat kestää yli 20 minuuttia; rajoitus koskee vain webinaaritallenteita<br>
-		– Sharing links to recordings is prohibited<br>
-		– Custom branding changes are prohibited<br>
-		– Custom domain option is not available<br>
-		– OBS broadcasting is not available<br>
-		– 1 automated webinar creation<br>
-		– 1 GB of storage space<br><br>
-		Please upgrade to a paid plan to unlock all available features and enhance your live events
+		<strong>Ilmainen tili</strong><br>
+		<br>
+		– <u>Vain ei-kaupalliseen käyttöön</u><br>
+		– Alustan logo moderaattoreiden verkkokameroissa<br>
+		– Enintään 2 isäntää samanaikaisesti (muut voivat puhua vuorotellen)<br>
+		– Enintään 20 tilaajan tuonti<br>
+		– Enintään 20 osallistujaa per verkkoseminaari<br>
+		– Tallennus enintään 20 minuuttia joka 20. minuutti (480p/720p)<br>
+		– Verkkoseminaarit voivat kestää pidempään, mutta tallennus on rajoitettu<br>
+		– Tallenteet saatavilla vain henkilökohtaiseen käyttöön<br>
+		– Brändäyksen mukauttaminen ei ole sallittua<br>
+		– Mukautettu verkkotunnus ei ole saatavilla<br>
+		– OBS-suoratoisto ei ole saatavilla<br>
+		– 1 automatisoitu verkkoseminaari<br>
+		– 1 GB tallennustilaa<br>
+		<br>
+		<strong>Päivitä maksulliseen pakettiin avataksesi kaikki ominaisuudet!</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

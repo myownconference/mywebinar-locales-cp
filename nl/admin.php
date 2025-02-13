@@ -4538,21 +4538,23 @@ return [
 	'package-free-alert-tooltip' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Free account<br><br>
-		– <u>Non-commercial use only</u><br>
-		– Our logo will appear on every moderator’s webcam<br>
-		– Up to 2 presenters at once (each participant can speak in turn)<br>
-		– Import up to 20 subscribers for invitations<br>
-		– 20 attendees per webinar<br>
-		– Neem maximaal 20 minuten op elke 20 minuten in 480p of 720p kwaliteit<br>
-		– Live sessies kunnen langer duren dan 20 minuten; de limiet geldt alleen voor webinaropnamen<br>
-		– Sharing links to recordings is prohibited<br>
-		– Custom branding changes are prohibited<br>
-		– Custom domain option is not available<br>
-		– OBS broadcasting is not available<br>
-		– 1 automated webinar creation<br>
-		– 1 GB of storage space<br><br>
-		Please upgrade to a paid plan to unlock all available features and enhance your live events
+		<strong>Gratis account</strong><br>
+		<br>
+		– <u>Alleen voor niet-commercieel gebruik</u><br>
+		– Platformlogo zichtbaar op de webcams van moderators<br>
+		– Maximaal 2 hosts tegelijk (anderen kunnen om de beurt spreken)<br>
+		– Importeer tot 20 abonnees<br>
+		– Maximaal 20 deelnemers per webinar<br>
+		– Opname van maximaal 20 minuten elke 20 minuten (480p/720p)<br>
+		– Webinars kunnen langer duren, maar de opname is beperkt<br>
+		– Opnamen alleen beschikbaar voor persoonlijk gebruik<br>
+		– Branding aanpassingen niet toegestaan<br>
+		– Eigen domein niet beschikbaar<br>
+		– OBS-streaming niet beschikbaar<br>
+		– 1 geautomatiseerde webinar<br>
+		– 1 GB opslagruimte<br>
+		<br>
+		<strong>Upgrade naar een betaald abonnement om alle functies te ontgrendelen!</strong>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'buy-oneday-alert-text' => ///////////////////////////////////////////////////////////

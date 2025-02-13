@@ -4545,7 +4545,7 @@ return [
 		– Upp till 2 värdar samtidigt (andra kan tala i turordning)<br>
 		– Importera upp till 20 prenumeranter<br>
 		– Upp till 20 deltagare per webbseminarium<br>
-		– Spela in upp till 20 minuter var 20:e minut (480p/720p)<br>
+		– Spela in upp till 20 minuter var 20:e minut (480p + 720p)<br>
 		– Webbseminarier kan vara längre, men inspelningen är begränsad<br>
 		– Inspelningar är endast tillgängliga för personligt bruk<br>
 		– Anpassning av varumärke är inte tillåtet<br>

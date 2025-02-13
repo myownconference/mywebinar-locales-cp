@@ -4545,7 +4545,7 @@ return [
 		– Enintään 2 isäntää samanaikaisesti (muut voivat puhua vuorotellen)<br>
 		– Enintään 20 tilaajan tuonti<br>
 		– Enintään 20 osallistujaa per verkkoseminaari<br>
-		– Tallennus enintään 20 minuuttia joka 20. minuutti (480p/720p)<br>
+		– Tallennus enintään 20 minuuttia joka 20. minuutti (480p + 720p)<br>
 		– Verkkoseminaarit voivat kestää pidempään, mutta tallennus on rajoitettu<br>
 		– Tallenteet saatavilla vain henkilökohtaiseen käyttöön<br>
 		– Brändäyksen mukauttaminen ei ole sallittua<br>

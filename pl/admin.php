@@ -4570,7 +4570,7 @@ return [
 		– Maksymalnie 2 gospodarzy jednocześnie (inni mogą mówić na zmianę)<br>
 		– Import do 20 subskrybentów<br>
 		– Maksymalnie 20 uczestników na webinar<br>
-		– Nagrywanie do 20 minut co 20 minut (480p/720p)<br>
+		– Nagrywanie do 20 minut co 20 minut (480p + 720p)<br>
 		– Webinary mogą trwać dłużej, ale nagrania są ograniczone<br>
 		– Nagrania dostępne wyłącznie do użytku osobistego<br>
 		– Personalizacja brandingu niedozwolona<br>

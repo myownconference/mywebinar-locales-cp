@@ -4545,7 +4545,7 @@ return [
 		– Kuni 2 võõrustajat korraga (teised saavad rääkida kordamööda)<br>
 		– Kuni 20 tellija importimine<br>
 		– Kuni 20 osalejat veebiseminaril<br>
-		– Salvestamine kuni 20 minutit iga 20 minuti järel (480p/720p)<br>
+		– Salvestamine kuni 20 minutit iga 20 minuti järel (480p + 720p)<br>
 		– Veebiseminarid võivad olla pikemad, kuid salvestus on piiratud<br>
 		– Salvestused on saadaval ainult isiklikuks kasutamiseks<br>
 		– Brändingu kohandamine pole lubatud<br>

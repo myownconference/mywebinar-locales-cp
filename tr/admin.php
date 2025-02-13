@@ -4551,7 +4551,7 @@ return [
 		– Aynı anda en fazla 2 sunucu (diğerleri sırayla konuşabilir)<br>
 		– En fazla 20 abone içe aktarın<br>
 		– Web semineri başına en fazla 20 katılımcı<br>
-		– Her 20 dakikada bir 20 dakikaya kadar kayıt yapın (480p/720p)<br>
+		– Her 20 dakikada bir 20 dakikaya kadar kayıt yapın (480p + 720p)<br>
 		– Web seminerleri daha uzun sürebilir, ancak kayıt süresi sınırlıdır<br>
 		– Kayıtlar yalnızca kişisel kullanım için mevcuttur<br>
 		– Marka özelleştirmesi yapılamaz<br>

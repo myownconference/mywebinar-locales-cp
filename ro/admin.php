@@ -4545,7 +4545,7 @@ return [
 		– Până la 2 gazde simultan (ceilalți pot vorbi pe rând)<br>
 		– Importă până la 20 de abonați<br>
 		– Până la 20 de participanți per webinar<br>
-		– Înregistrare de până la 20 de minute la fiecare 20 de minute (480p/720p)<br>
+		– Înregistrare de până la 20 de minute la fiecare 20 de minute (480p + 720p)<br>
 		– Webinariile pot dura mai mult, dar înregistrarea este limitată<br>
 		– Înregistrările sunt disponibile doar pentru uz personal<br>
 		– Personalizarea mărcii nu este permisă<br>

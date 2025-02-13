@@ -4545,7 +4545,7 @@ return [
 		– Vienu metu gali būti iki 2 vedėjų (kiti gali kalbėti paeiliui)<br>
 		– Galima importuoti iki 20 prenumeratorių<br>
 		– Iki 20 dalyvių viename internetiniame seminare<br>
-		– Įrašykite iki 20 minučių kas 20 minučių (480p/720p)<br>
+		– Įrašykite iki 20 minučių kas 20 minučių (480p + 720p)<br>
 		– Internetiniai seminarai gali trukti ilgiau, tačiau įrašų trukmė yra ribota<br>
 		– Įrašai prieinami tik asmeniniam naudojimui<br>
 		– Prekės ženklo pritaikymas neleidžiamas<br>

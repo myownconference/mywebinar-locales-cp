@@ -4545,7 +4545,7 @@ return [
 		– Až 2 hostitelé současně (ostatní mohou mluvit střídavě)<br>
 		– Import až 20 odběratelů<br>
 		– Až 20 účastníků na webinář<br>
-		– Záznam až 20 minut každých 20 minut (480p/720p)<br>
+		– Záznam až 20 minut každých 20 minut (480p + 720p)<br>
 		– Webináře mohou být delší, ale záznam je omezený<br>
 		– Záznamy jsou dostupné pouze pro osobní použití<br>
 		– Přizpůsobení značky není povoleno<br>

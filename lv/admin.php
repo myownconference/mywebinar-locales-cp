@@ -4545,7 +4545,7 @@ return [
 		– Vienlaikus var būt līdz 2 vadītājiem (citi var runāt secīgi)<br>
 		– Iespējams importēt līdz 20 abonentiem<br>
 		– Līdz 20 dalībniekiem vienā vebinārā<br>
-		– Ierakstiet līdz 20 minūtēm ik pēc 20 minūtēm (480p/720p)<br>
+		– Ierakstiet līdz 20 minūtēm ik pēc 20 minūtēm (480p + 720p)<br>
 		– Vebināri var būt ilgāki, bet ierakstu ilgums ir ierobežots<br>
 		– Ieraksti pieejami tikai personīgai lietošanai<br>
 		– Zīmola pielāgošana nav atļauta<br>

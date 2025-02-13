@@ -4545,7 +4545,7 @@ return [
 		– Up to 2 hosts at a time (others can speak in turns)<br>
 		– Import up to 20 subscribers<br>
 		– Up to 20 attendees per webinar<br>
-		– Record up to 20 minutes every 20 minutes (480p/720p)<br>
+		– Record up to 20 minutes every 20 minutes (480p + 720p)<br>
 		– Webinars can be longer, but recording is limited<br>
 		– Recordings available for personal use only<br>
 		– Branding customization not allowed<br>

@@ -4545,7 +4545,7 @@ return [
 		– Maximálne 2 moderátori naraz (ostatní môžu hovoriť postupne)<br>
 		– Import až 20 odberateľov<br>
 		– Maximálne 20 účastníkov na webinár<br>
-		– Nahrávanie až 20 minút každých 20 minút (480p/720p)<br>
+		– Nahrávanie až 20 minút každých 20 minút (480p + 720p)<br>
 		– Webináre môžu byť dlhšie, ale nahrávanie je obmedzené<br>
 		– Nahrávky sú dostupné len na osobné použitie<br>
 		– Prispôsobenie značky nie je povolené<br>

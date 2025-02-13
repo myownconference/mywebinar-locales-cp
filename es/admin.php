@@ -4556,7 +4556,7 @@ return [
 		– Hasta 2 anfitriones al mismo tiempo (otros pueden hablar por turnos)<br>
 		– Importación de hasta 20 suscriptores<br>
 		– Hasta 20 asistentes por webinar<br>
-		– Grabación de hasta 20 minutos cada 20 minutos (480p/720p)<br>
+		– Grabación de hasta 20 minutos cada 20 minutos (480p + 720p)<br>
 		– Los webinars pueden durar más tiempo, pero la grabación está limitada<br>
 		– Las grabaciones están disponibles solo para uso personal<br>
 		– Personalización de marca no permitida<br>

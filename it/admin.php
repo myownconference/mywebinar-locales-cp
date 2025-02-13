@@ -4545,7 +4545,7 @@ return [
 		– Fino a 2 host contemporaneamente (gli altri possono parlare a turno)<br>
 		– Importazione fino a 20 iscritti<br>
 		– Fino a 20 partecipanti per webinario<br>
-		– Registrazione fino a 20 minuti ogni 20 minuti (480p/720p)<br>
+		– Registrazione fino a 20 minuti ogni 20 minuti (480p + 720p)<br>
 		– I webinari possono durare di più, ma la registrazione è limitata<br>
 		– Le registrazioni sono disponibili solo per uso personale<br>
 		– Personalizzazione del brand non consentita<br>

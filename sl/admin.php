@@ -4545,7 +4545,7 @@ return [
 		– Do 2 gostitelja hkrati (drugi lahko govorijo izmenično)<br>
 		– Uvoz do 20 naročnikov<br>
 		– Do 20 udeležencev na spletni seminar<br>
-		– Snemanje do 20 minut vsakih 20 minut (480p/720p)<br>
+		– Snemanje do 20 minut vsakih 20 minut (480p + 720p)<br>
 		– Spletni seminarji so lahko daljši, vendar je snemanje omejeno<br>
 		– Posnetki so na voljo samo za osebno uporabo<br>
 		– Prilagajanje blagovne znamke ni dovoljeno<br>

@@ -4545,7 +4545,7 @@ return [
 		– Bis zu 2 Gastgeber gleichzeitig (andere können abwechselnd sprechen)<br>
 		– Import von bis zu 20 Abonnenten<br>
 		– Bis zu 20 Teilnehmer pro Webinar<br>
-		– Aufnahme von bis zu 20 Minuten alle 20 Minuten (480p/720p)<br>
+		– Aufnahme von bis zu 20 Minuten alle 20 Minuten (480p + 720p)<br>
 		– Webinare können länger dauern, aber die Aufnahmezeit ist begrenzt<br>
 		– Aufnahmen nur für den persönlichen Gebrauch verfügbar<br>
 		– Anpassung des Brandings nicht erlaubt<br>

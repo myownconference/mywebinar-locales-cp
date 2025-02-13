@@ -4545,7 +4545,7 @@ return [
 		– Op til 2 værter ad gangen (andre kan tale på skift)<br>
 		– Import af op til 20 abonnenter<br>
 		– Op til 20 deltagere pr. webinar<br>
-		– Optag op til 20 minutter hver 20. minut (480p/720p)<br>
+		– Optag op til 20 minutter hver 20. minut (480p + 720p)<br>
 		– Webinars kan vare længere, men optagelse er begrænset<br>
 		– Optagelser er kun til personlig brug<br>
 		– Brandingtilpasning ikke tilladt<br>

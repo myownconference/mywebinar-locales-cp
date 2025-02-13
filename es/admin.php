@@ -4555,7 +4555,8 @@ return [
 		– Hasta 2 presentadores a la vez (cada participante puede hablar por turno)<br>
 		– Importar hasta 20 suscriptores para invitaciones<br>
 		– 20 asistentes por webinario<br>
-		– 20 minutos de grabación cada 20 minutos en calidad 480p y 720p<br>
+		– Graba hasta 20 minutos cada 20 minutos en calidad 480p o 720p<br>
+		– Las sesiones en vivo pueden durar más de 20 minutos; el límite solo se aplica a las grabaciones del seminario web<br>
 		– Compartir enlaces a grabaciones de webinarios está prohibido<br>
 		– Los cambios en la marca personalizada están prohibidos<br>
 		– Opción de dominio personalizado no disponible<br>

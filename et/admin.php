@@ -4544,7 +4544,8 @@ return [
 		– Up to 2 presenters at once (each participant can speak in turn)<br>
 		– Import up to 20 subscribers for invitations<br>
 		– 20 attendees per webinar<br>
-		– 20 minutit salvestust iga 20 minuti järel kvaliteediga 480p ja 720p<br>
+		– Salvestage kuni 20 minutit iga 20 minuti järel kvaliteediga 480p või 720p<br>
+		– Otseülekanded võivad kesta kauem kui 20 minutit; piirang kehtib ainult veebiseminari salvestistele<br>
 		– Sharing links to recordings is prohibited<br>
 		– Custom branding changes are prohibited<br>
 		– Custom domain option is not available<br>

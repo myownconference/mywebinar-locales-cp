@@ -4544,7 +4544,8 @@ return [
 		– Up to 2 presenters at once (each participant can speak in turn)<br>
 		– Import up to 20 subscribers for invitations<br>
 		– 20 attendees per webinar<br>
-		– 20 minūtes ieraksta ik pēc 20 minūtēm ar 480p un 720p kvalitāti<br>
+		– Ierakstiet līdz 20 minūtēm ik pēc 20 minūtēm 480p vai 720p kvalitātē<br>
+		– Tiešraides sesijas var būt garākas par 20 minūtēm; ierobežojums attiecas tikai uz tīmekļa semināru ierakstiem<br>
 		– Sharing links to recordings is prohibited<br>
 		– Custom branding changes are prohibited<br>
 		– Custom domain option is not available<br>

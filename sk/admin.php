@@ -4544,7 +4544,8 @@ return [
 		– Up to 2 presenters at once (each participant can speak in turn)<br>
 		– Import up to 20 subscribers for invitations<br>
 		– 20 attendees per webinar<br>
-		– 20 minút nahrávania každých 20 minút v kvalite 480p a 720p<br>
+		– Nahrávajte až 20 minút každých 20 minút v kvalite 480p alebo 720p<br>
+		– Živé relácie môžu trvať dlhšie ako 20 minút; obmedzenie platí iba na záznamy webinárov<br>
 		– Sharing links to recordings is prohibited<br>
 		– Custom branding changes are prohibited<br>
 		– Custom domain option is not available<br>

@@ -4544,7 +4544,8 @@ return [
 		– Up to 2 presenters at once (each participant can speak in turn)<br>
 		– Import up to 20 subscribers for invitations<br>
 		– 20 attendees per webinar<br>
-		– 20 minutters optagelse hver 20. minut i 480p og 720p kvalitet<br>
+		– Optag op til 20 minutter hver 20. minut i 480p eller 720p kvalitet<br>
+		– Live-sessioner kan vare længere end 20 minutter; begrænsningen gælder kun webinar-optagelser<br>
 		– Sharing links to recordings is prohibited<br>
 		– Custom branding changes are prohibited<br>
 		– Custom domain option is not available<br>

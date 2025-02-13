@@ -4562,7 +4562,8 @@ return [
 		– Jusqu‘à 2 présentateurs à la fois (chaque participant peut parler à tour de rôle)<br>
 		– Importez jusqu‘à 20 abonnés pour les invitations<br>
 		– 20 participants par webinaire<br>
-		– 20 minutes dʼenregistrement toutes les 20 minutes en qualité 480p et 720p<br>
+		– Enregistrez jusqu’à 20 minutes toutes les 20 minutes en qualité 480p ou 720p<br>
+		– Les sessions en direct peuvent durer plus de 20 minutes ; la limite ne s’applique qu’aux enregistrements de webinaires<br>
 		– Partage de liens vers les enregistrements de webinaires interdit<br>
 		– Les modifications de la marque personnalisée sont interdites<br>
 		– Option de domaine personnalisé non disponible<br>

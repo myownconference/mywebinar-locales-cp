@@ -4544,7 +4544,8 @@ return [
 		– Până la 2 prezentatori simultan (fiecare participant poate vorbi pe rând)<br>
 		– Importați până la 20 de abonați pentru invitații<br>
 		– 20 de participanți per webinar<br>
-		– 20 minute de înregistrare la fiecare 20 de minute la calitate 480p și 720p<br>
+		– Înregistrați până la 20 de minute la fiecare 20 de minute la calitate 480p sau 720p<br>
+		– Sesiunile live pot dura mai mult de 20 de minute; limita se aplică doar înregistrărilor webinarului<br>
 		– Partajarea linkurilor către înregistrările webinarului este interzisă<br>
 		– Modificările de branding personalizat sunt interzise<br>
 		– Opțiunea de domeniu personalizat nu este disponibilă<br>

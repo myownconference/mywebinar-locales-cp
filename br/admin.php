@@ -4544,7 +4544,8 @@ return [
 		– Up to 2 presenters at once (each participant can speak in turn)<br>
 		– Import up to 20 subscribers for invitations<br>
 		– 20 attendees per webinar<br>
-		– 20 minutos de gravação a cada 20 minutos em qualidade 480p e 720p<br>
+		– Grave até 20 minutos a cada 20 minutos em qualidade 480p ou 720p<br>
+		– As sessões ao vivo podem durar mais de 20 minutos; o limite se aplica apenas às gravações do webinar<br>
 		– Sharing links to recordings is prohibited<br>
 		– Custom branding changes are prohibited<br>
 		– Custom domain option is not available<br>

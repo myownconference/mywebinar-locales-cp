@@ -4544,7 +4544,8 @@ return [
 		– Fino a 2 presentatori contemporaneamente (ogni partecipante può parlare a turno)<br>
 		– Importa fino a 20 iscritti per inviti<br>
 		– 20 partecipanti per webinar<br>
-		– 20 minuti di registrazione ogni 20 minuti in qualità 480p e 720p<br>
+		– Registra fino a 20 minuti ogni 20 minuti in qualità 480p o 720p<br>
+		– Le sessioni dal vivo possono durare più di 20 minuti; il limite si applica solo alle registrazioni del webinar<br>
 		– Condivisione di link alle registrazioni dei webinar è vietata<br>
 		– Modifiche al branding personalizzato sono vietate<br>
 		– L‘opzione dominio personalizzato non è disponibile<br>

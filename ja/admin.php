@@ -4544,7 +4544,8 @@ return [
 		– Up to 2 presenters at once (each participant can speak in turn)<br>
 		– Import up to 20 subscribers for invitations<br>
 		– 20 attendees per webinar<br>
-		– 20 分ごとに 20 分間録画（480p および 720p 品質）<br>
+		– 480p または 720p の品質で 20 分ごとに最大 20 分録画<br>
+		– ライブセッションは 20 分を超えることができます; 制限はウェビナーの録画にのみ適用されます<br>
 		– Sharing links to recordings is prohibited<br>
 		– Custom branding changes are prohibited<br>
 		– Custom domain option is not available<br>

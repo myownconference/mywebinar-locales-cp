@@ -4544,7 +4544,8 @@ return [
 		– Up to 2 presenters at once (each participant can speak in turn)<br>
 		– Import up to 20 subscribers for invitations<br>
 		– 20 attendees per webinar<br>
-		– 20 minučių įrašas kas 20 minučių 480p ir 720p kokybe<br>
+		– Įrašykite iki 20 minučių kas 20 minučių 480p arba 720p kokybe<br>
+		– Tiesioginės sesijos gali trukti ilgiau nei 20 minučių; apribojimas taikomas tik internetinių seminarų įrašams<br>
 		– Sharing links to recordings is prohibited<br>
 		– Custom branding changes are prohibited<br>
 		– Custom domain option is not available<br>

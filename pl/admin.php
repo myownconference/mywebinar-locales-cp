@@ -4569,7 +4569,8 @@ return [
 		– Do 2 prezenterów jednocześnie (każdy uczestnik może mówić na zmianę)<br>
 		– Importuj do 20 subskrybentów do zaproszeń<br>
 		– 20 uczestników na webinar<br>
-		– 20 minut nagrania co 20 minut w jakości 480p i 720p<br>
+		– Nagrywaj do 20 minut co 20 minut w jakości 480p lub 720p<br>
+		– Sesje na żywo mogą trwać dłużej niż 20 minut; ograniczenie dotyczy tylko nagrań webinarów<br>
 		– Udostępnianie linków do nagrań webinarów jest zabronione<br>
 		– Zmiany w niestandardowym brandingu są zabronione<br>
 		– Opcja niestandardowej domeny jest niedostępna<br>

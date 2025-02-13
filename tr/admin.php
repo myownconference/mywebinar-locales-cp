@@ -4550,7 +4550,8 @@ return [
 		– Aynı anda en fazla 2 sunucu (her katılımcı sırayla konuşabilir)<br>
 		– Davetler için en fazla 20 aboneyi içe aktarın<br>
 		– Webinar başına 20 katılımcı<br>
-		– Her 20 dakikada bir 20 dakika kayıt 480p ve 720p kalitesinde<br>
+		– Her 20 dakikada bir 20 dakikaya kadar 480p veya 720p kalitesinde kaydedin<br>
+		– Canlı oturumlar 20 dakikadan uzun sürebilir; bu sınırlama yalnızca webinar kayıtları için geçerlidir<br>
 		– Webinar kayıtlarına bağlantı paylaşımı yasaktır<br>
 		– Özel markalama değişiklikleri yasaktır<br>
 		– Özel alan adı seçeneği mevcut değil<br>

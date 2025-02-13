@@ -4544,7 +4544,8 @@ return [
 		– Up to 2 presenters at once (each participant can speak in turn)<br>
 		– Import up to 20 subscribers for invitations<br>
 		– 20 attendees per webinar<br>
-		– 20 minuuttia tallennusta joka 20. minuutti 480p- ja 720p-laadulla<br>
+		– Tallenna jopa 20 minuuttia joka 20. minuutti laadulla 480p tai 720p<br>
+		– Live-istunnot voivat kestää yli 20 minuuttia; rajoitus koskee vain webinaaritallenteita<br>
 		– Sharing links to recordings is prohibited<br>
 		– Custom branding changes are prohibited<br>
 		– Custom domain option is not available<br>

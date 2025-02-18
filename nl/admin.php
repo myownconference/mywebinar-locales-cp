@@ -2655,7 +2655,13 @@ return [
 	'import-limit-error' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Je huidige plan ondersteunt maximaal %d deelnemers en stelt je in staat om tot %d uitnodigingen per webinar te versturen (%d× je deelnemerslimiet). Selecteer de %d belangrijkste gasten of verdeel je lijst in kleinere groepen voor een betere organisatie.
+		Je plan ondersteunt maximaal %d deelnemers en staat toe om maximaal %d contacten tegelijk te importeren (%d× je deelnemerslimiet). Selecteer de belangrijkste contacten voor import of upgrade je plan om de limiet te verhogen.
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'invite-limit-error' => //////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Uw plan ondersteunt maximaal %d deelnemers en stelt u in staat om tot %d uitnodigingen per webinar te verzenden (%d× uw deelnemerslimiet). Selecteer de %d belangrijkste gasten om hun deelname te garanderen.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'export' => //////////////////////////////////////////////////////////////////////////

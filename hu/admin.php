@@ -2655,7 +2655,13 @@ return [
 	'import-limit-error' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		A jelenlegi csomagod legfeljebb %d résztvevőt támogat, és lehetővé teszi legfeljebb %d meghívó küldését webináriumonként (%d× a résztvevői korlátod). Kérlek, válaszd ki a %d legfontosabb vendéget, vagy oszd fel a listádat kisebb csoportokra a jobb szervezés érdekében.
+		Az Ön csomagja legfeljebb %d résztvevőt támogat, és lehetővé teszi, hogy egyszerre legfeljebb %d kapcsolatot importáljon (%d× a résztvevői limit). Kérjük, válassza ki a legfontosabb kapcsolatokat az importáláshoz, vagy frissítse a csomagját a korlát növeléséhez.
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'invite-limit-error' => //////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		A csomagod legfeljebb %d résztvevőt támogat, és lehetővé teszi legfeljebb %d meghívó elküldését webináriumonként (%d× a résztvevői korlátod). Kérjük, válaszd ki a %d legfontosabb vendéget a részvételük biztosítása érdekében.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'export' => //////////////////////////////////////////////////////////////////////////

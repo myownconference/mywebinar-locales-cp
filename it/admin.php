@@ -2655,7 +2655,13 @@ return [
 	'import-limit-error' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Il tuo piano attuale supporta fino a %d partecipanti e ti consente di inviare fino a %d inviti per webinar (%d× il tuo limite di partecipanti). Seleziona i %d ospiti più importanti o suddividi la tua lista in gruppi più piccoli per una migliore organizzazione.
+		Il tuo piano supporta fino a %d partecipanti e consente di importare fino a %d contatti alla volta (%d× il tuo limite di partecipanti). Seleziona i contatti più importanti da importare o aggiorna il tuo piano per aumentare il limite.
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'invite-limit-error' => //////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Il tuo piano supporta fino a %d partecipanti e ti consente di inviare fino a %d inviti per webinar (%d× il tuo limite di partecipanti). Seleziona i %d ospiti più importanti per garantirne la partecipazione.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'export' => //////////////////////////////////////////////////////////////////////////

@@ -2655,7 +2655,13 @@ return [
 	'import-limit-error' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ihr aktueller Tarif unterstützt bis zu %d Teilnehmer und ermöglicht das Versenden von bis zu %d Einladungen pro Webinar (%d× Ihr Teilnehmerlimit). Bitte wählen Sie die %d wichtigsten Gäste aus oder teilen Sie Ihre Liste in kleinere Gruppen auf, um eine bessere Organisation zu gewährleisten.
+		Ihr Tarif unterstützt bis zu %d Teilnehmer und erlaubt Ihnen, bis zu %d Kontakte auf einmal zu importieren (%d× Ihr Teilnehmerlimit). Bitte wählen Sie die wichtigsten Kontakte zum Import oder aktualisieren Sie Ihren Tarif, um das Limit zu erhöhen.
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'invite-limit-error' => //////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Ihr Plan unterstützt bis zu %d Teilnehmer und ermöglicht es Ihnen, bis zu %d Einladungen pro Webinar zu senden (%d× Ihr Teilnehmerlimit). Bitte wählen Sie die %d wichtigsten Gäste aus, um deren Teilnahme sicherzustellen.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'export' => //////////////////////////////////////////////////////////////////////////

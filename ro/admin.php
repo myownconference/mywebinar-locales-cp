@@ -2655,7 +2655,13 @@ return [
 	'import-limit-error' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Planul tău actual acceptă până la %d participanți și îți permite să trimiți până la %d invitații per webinar (%d× limita ta de participanți). Te rugăm să selectezi cei %d cei mai importanți invitați sau să împarți lista în grupuri mai mici pentru o organizare mai bună.
+		Planul tău acceptă până la %d participanți și îți permite să imporți până la %d contacte simultan (%d× limita ta de participanți). Selectează cele mai importante contacte pentru import sau actualizează-ți planul pentru a mări limita.
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'invite-limit-error' => //////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Planul tău acceptă până la %d participanți și îți permite să trimiți până la %d invitații per webinar (%d× limita ta de participanți). Selectează cei mai importanți %d invitați pentru a le asigura participarea.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'export' => //////////////////////////////////////////////////////////////////////////

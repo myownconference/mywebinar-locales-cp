@@ -2656,7 +2656,13 @@ return [
 	'import-limit-error' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Votre plan actuel prend en charge jusquʼà %d participants et vous permet dʼenvoyer jusquʼà %d invitations par webinaire (%d× votre limite de participants). Veuillez sélectionner les %d invités les plus importants ou diviser votre liste en petits groupes pour une meilleure organisation.
+		Votre forfait prend en charge jusqu’à %d participants et vous permet d’importer jusqu’à %d contacts à la fois (%d× votre limite de participants). Veuillez sélectionner les contacts les plus importants à importer ou mettre à niveau votre forfait pour augmenter la limite.
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'invite-limit-error' => //////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Votre plan prend en charge jusquʼà %d participants et vous permet dʼenvoyer jusquʼà %d invitations par webinaire (%d× votre limite de participants). Veuillez sélectionner les %d invités les plus importants pour garantir leur participation.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'export' => //////////////////////////////////////////////////////////////////////////

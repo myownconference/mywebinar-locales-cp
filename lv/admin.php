@@ -2655,7 +2655,13 @@ return [
 	'import-limit-error' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Jūsu pašreizējais plāns atbalsta līdz %d dalībniekiem un ļauj nosūtīt līdz %d ielūgumiem uz vienu vebināru (%d× jūsu dalībnieku ierobežojums). Lūdzu, izvēlieties %d svarīgākos viesus vai sadaliet sarakstu mazākās grupās labākai organizēšanai.
+		Jūsu plāns atbalsta līdz %d dalībniekiem un ļauj importēt līdz %d kontaktpersonām vienlaikus (%d× jūsu dalībnieku ierobežojums). Lūdzu, izvēlieties svarīgākos kontaktus importēšanai vai jauniniet savu plānu, lai palielinātu limitu.
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'invite-limit-error' => //////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Jūsu plāns atbalsta līdz %d dalībniekiem un ļauj nosūtīt līdz %d ielūgumiem uz tīmekļa semināru (%d× jūsu dalībnieku limits). Lūdzu, izvēlieties %d vissvarīgākos viesus, lai nodrošinātu viņu dalību.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'export' => //////////////////////////////////////////////////////////////////////////

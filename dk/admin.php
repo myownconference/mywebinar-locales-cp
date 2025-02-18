@@ -2655,7 +2655,13 @@ return [
 	'import-limit-error' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Din nuværende plan understøtter op til %d deltagere og giver dig mulighed for at sende op til %d invitationer pr. webinar (%d× din deltagergrænse). Vælg venligst de %d vigtigste gæster eller opdel din liste i mindre grupper for bedre organisering.
+		Din plan understøtter op til %d deltagere og giver dig mulighed for at importere op til %d kontakter ad gangen (%d× din deltagergrænse). Vælg de vigtigste kontakter til import eller opgrader din plan for at øge grænsen.
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'invite-limit-error' => //////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Din plan understøtter op til %d deltagere og giver dig mulighed for at sende op til %d invitationer pr. webinar (%d× din deltagergrænse). Vælg venligst de %d vigtigste gæster for at sikre deres deltagelse.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'export' => //////////////////////////////////////////////////////////////////////////

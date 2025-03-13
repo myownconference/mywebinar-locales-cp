@@ -6726,7 +6726,7 @@ return [
 	'duplicate-confirm' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>Patvirtinti kopijavimą</b><br><br>Bus sukurta kopija su tais pačiais nustatymais, kuriuos galėsite redaguoti po kopijavimo
+		<span class="bolder">Patvirtinti kopijavimą</span><br><br>Bus sukurta kopija su tais pačiais nustatymais, kuriuos galėsite redaguoti po kopijavimo
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

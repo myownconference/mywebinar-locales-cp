@@ -6726,7 +6726,7 @@ return [
 	'duplicate-confirm' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<b>Conferma duplicazione</b><br><br>Verrà creata una copia con le stesse impostazioni, che potrai modificare dopo la duplicazione
+		<span class="bolder">Conferma duplicazione</span><br><br>Verrà creata una copia con le stesse impostazioni, che potrai modificare dopo la duplicazione
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

@@ -6744,7 +6744,7 @@ return [
 	'stop-registration-by-plan-seats' => /////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Registrierung bei Erreichen des Tariflimits stoppen
+		Registrierung bei Erreichen des Tariflimits stoppen <span class="tooltip" data-tip="Die Registrierung wird automatisch geschlossen, sobald das im Tarif enthaltene Limit erreicht ist. Besucher, die sich danach registrieren möchten, sehen eine Meldung, dass die Registrierung geschlossen ist. Um die Registrierung wieder zu öffnen, deaktiviere diese Einstellung"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

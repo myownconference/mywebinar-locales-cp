@@ -6763,7 +6763,7 @@ return [
 	'stop-registration-by-plan-seats' => /////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Arrêter lʼinscription à la limite du forfait
+		Arrêter lʼinscription à la capacité du forfait <span class="tooltip" data-tip="Lʼinscription se fermera automatiquement une fois la capacité du forfait atteinte. Les visiteurs qui essaient de sʼinscrire après cela verront un message indiquant que lʼinscription est fermée. Pour rouvrir lʼinscription, désactivez ce paramètre"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

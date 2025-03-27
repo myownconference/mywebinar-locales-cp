@@ -6744,7 +6744,7 @@ return [
 	'stop-registration-by-plan-seats' => /////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Zastavit registraci při dosažení limitu tarifu
+		Zastavit registraci při dosažení kapacity tarifu <span class="tooltip" data-tip="Registrace se automaticky uzavře, jakmile bude dosaženo kapacity tarifu. Návštěvníci, kteří se pokusí zaregistrovat poté, uvidí zprávu, že registrace je uzavřena. Pro opětovné otevření registrace tuto možnost deaktivujte"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

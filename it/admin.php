@@ -6744,7 +6744,7 @@ return [
 	'stop-registration-by-plan-seats' => /////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Blocca registrazione al limite del piano
+		Interrompi la registrazione al raggiungimento del limite del piano <span class="tooltip" data-tip="La registrazione si chiuderà automaticamente una volta raggiunto il limite previsto dal piano. I visitatori che proveranno a registrarsi dopo vedranno un messaggio di registrazione chiusa. Per riaprire le registrazioni, disattiva questa impostazione"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

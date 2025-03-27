@@ -6744,7 +6744,7 @@ return [
 	'stop-registration-by-plan-seats' => /////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Stop registration at pricing plan capacity
+		Stop registration at pricing plan capacity <span class="tooltip" data-tip="Registration will close automatically once the pricing plan capacity is reached. Visitors who try to register afterward will see a message that registration is closed. To reopen registration, disable this setting"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

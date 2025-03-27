@@ -6744,7 +6744,7 @@ return [
 	'stop-registration-by-plan-seats' => /////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Oprire înregistrare la atingerea limitei planului
+		Oprește înregistrarea la atingerea capacității planului <span class="tooltip" data-tip="Înregistrarea se va închide automat când capacitatea planului este atinsă. Vizitatorii care încearcă să se înregistreze ulterior vor vedea un mesaj că înregistrarea este închisă. Pentru a redeschide, dezactivează această opțiune"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

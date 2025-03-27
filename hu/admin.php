@@ -6744,7 +6744,7 @@ return [
 	'stop-registration-by-plan-seats' => /////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Regisztráció leállítása a csomagkorlát elérésekor
+		Regisztráció leállítása az előfizetési csomag kapacitásánál <span class="tooltip" data-tip="A regisztráció automatikusan leáll, ha az előfizetési csomag kapacitása elérte a határt. Azok a látogatók, akik ezután próbálkoznak, üzenetet látnak, hogy a regisztráció lezárult. A regisztráció újranyitásához tiltsd le ezt a beállítást"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

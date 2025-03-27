@@ -6744,7 +6744,7 @@ return [
 	'stop-registration-by-plan-seats' => /////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Zastaviť registráciu pri dosiahnutí limitu plánu
+		Zastaviť registráciu po dosiahnutí limitu plánu <span class="tooltip" data-tip="Registrácia sa automaticky uzavrie po dosiahnutí limitu plánu. Návštevníci, ktorí sa pokúsia zaregistrovať neskôr, uvidia správu, že registrácia je uzavretá. Na opätovné otvorenie vypnite toto nastavenie"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

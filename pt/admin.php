@@ -6744,7 +6744,7 @@ return [
 	'stop-registration-by-plan-seats' => /////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Parar inscrição ao atingir o limite do plano
+		Parar o registro ao atingir o limite do plano <span class="tooltip" data-tip="O registro será fechado automaticamente quando o limite do plano for atingido. Visitantes que tentarem se registrar depois verão uma mensagem informando que o registro está fechado. Para reabrir, desative esta configuração"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

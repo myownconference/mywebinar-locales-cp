@@ -6744,7 +6744,7 @@ return [
 	'stop-registration-by-plan-seats' => /////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Registratie stoppen bij bereiken planafhankelijk limiet
+		Registratie stoppen bij het capaciteitslimiet van het abonnement <span class="tooltip" data-tip="De registratie sluit automatisch zodra het limiet van het abonnement is bereikt. Bezoekers die zich daarna proberen te registreren, krijgen een melding te zien dat de registratie gesloten is. Schakel deze instelling uit om registratie opnieuw te openen"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

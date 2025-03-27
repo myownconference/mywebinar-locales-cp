@@ -6744,7 +6744,7 @@ return [
 	'stop-registration-by-plan-seats' => /////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pysäytä rekisteröinti suunnitelmarajan täyttyessä
+		Lopeta rekisteröinti, kun suunnitelman kapasiteetti täyttyy <span class="tooltip" data-tip="Rekisteröinti sulkeutuu automaattisesti, kun suunnitelman kapasiteetti on saavutettu. Myöhemmin rekisteröityvät näkevät viestin rekisteröinnin sulkeutumisesta. Rekisteröinnin avaamiseksi poista tämä asetus käytöstä"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

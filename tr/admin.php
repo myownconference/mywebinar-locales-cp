@@ -6750,7 +6750,7 @@ return [
 	'stop-registration-by-plan-seats' => /////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Plan sınırına ulaşıldığında kaydı durdur
+		Plan sınırına ulaşıldığında kaydı durdur <span class="tooltip" data-tip="Plan kapasitesine ulaşıldığında kayıt otomatik olarak kapanır. Daha sonra kayıt olmaya çalışan ziyaretçiler, kaydın kapalı olduğuna dair bir mesaj görecektir. Kaydı yeniden açmak için bu ayarı devre dışı bırakın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

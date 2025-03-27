@@ -6744,7 +6744,7 @@ return [
 	'stop-registration-by-plan-seats' => /////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sustabdyti registraciją pasiekus plano ribą
+		Sustabdyti registraciją pasiekus plano ribą <span class="tooltip" data-tip="Registracija bus automatiškai sustabdyta, kai pasiekiama plano riba. Vėliau bandantys registruotis lankytojai pamatys pranešimą, kad registracija uždaryta. Norėdami vėl atidaryti registraciją, išjunkite šį nustatymą"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

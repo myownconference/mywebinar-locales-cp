@@ -6765,7 +6765,7 @@ return [
 	'stop-registration-by-plan-seats' => /////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Detener registro al alcanzar el límite del plan
+		Detener registro al alcanzar el límite del plan <span class="tooltip" data-tip="El registro se cerrará automáticamente una vez alcanzado el límite de capacidad del plan. Los visitantes que intenten registrarse después verán un mensaje indicando que el registro está cerrado. Para volver a abrir el registro, desactiva esta opción"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

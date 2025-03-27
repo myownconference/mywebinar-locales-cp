@@ -6744,7 +6744,7 @@ return [
 	'stop-registration-by-plan-seats' => /////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Stop registrering ved planens kapacitetsgrænse
+		Stop registrering ved abonnementsgrænse <span class="tooltip" data-tip="Registreringen lukker automatisk, når grænsen for abonnementet er nået. Besøgende, der forsøger at tilmelde sig derefter, vil se en besked om, at registreringen er lukket. For at åbne igen, deaktiver denne indstilling"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

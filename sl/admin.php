@@ -6744,7 +6744,7 @@ return [
 	'stop-registration-by-plan-seats' => /////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ustavi registracijo pri doseženem omejitvi paketa
+		Ustavi registracijo ob dosegu limita paketa <span class="tooltip" data-tip="Registracija se bo samodejno zaprla, ko bo dosežen limit paketa. Obiskovalci, ki se bodo želeli registrirati kasneje, bodo videli sporočilo, da je registracija zaprta. Če želite znova omogočiti registracijo, onemogočite to nastavitev"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

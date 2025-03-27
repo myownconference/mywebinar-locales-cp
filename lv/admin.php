@@ -6744,7 +6744,7 @@ return [
 	'stop-registration-by-plan-seats' => /////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Apturēt reģistrāciju sasniedzot plāna limitu
+		Apturēt reģistrāciju, sasniedzot plāna limitu <span class="tooltip" data-tip="Reģistrācija automātiski tiks slēgta, kad tiks sasniegta plāna kapacitāte. Vēlāk mēģinot reģistrēties, apmeklētāji redzēs ziņu, ka reģistrācija ir slēgta. Lai to atvērtu no jauna, deaktivizē šo iestatījumu"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

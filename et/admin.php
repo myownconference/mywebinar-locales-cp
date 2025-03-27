@@ -6744,7 +6744,7 @@ return [
 	'stop-registration-by-plan-seats' => /////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Peata registreerimine, kui plaani piir on täis
+		Peata registreerimine paketi piirangu saavutamisel <span class="tooltip" data-tip="Registreerimine suletakse automaatselt, kui paketi maksimaalne maht on saavutatud. Hiljem registreeruda proovivad näevad teadet, et registreerimine on suletud. Avamiseks lülita see seade välja"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

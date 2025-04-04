@@ -477,7 +477,7 @@ return [
 	'end-webinar-confirm' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Webinar sonlandırılsın mı?<strong> Kayıt duracak, katılımcılar bağlantısı kesilecek ve erişim kapatılacak. Bu işlem geri alınamaz. Oturumu sonlandırmak istiyor musunuz?
+		<strong>Webinar sonlandırılsın mı?</strong> Kayıt duracak, katılımcılar bağlantısı kesilecek ve erişim kapatılacak. Bu işlem geri alınamaz. Oturumu sonlandırmak istiyor musunuz?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'schedul-webinar' => /////////////////////////////////////////////////////////////////

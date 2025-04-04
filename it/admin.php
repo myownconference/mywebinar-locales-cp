@@ -477,7 +477,7 @@ return [
 	'end-webinar-confirm' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Terminare il webinar?<strong> La registrazione verrà interrotta, i partecipanti saranno disconnessi e lʼaccesso sarà bloccato. Lʼazione è irreversibile. Terminare la sessione?
+		<strong>Terminare il webinar?</strong> La registrazione verrà interrotta, i partecipanti saranno disconnessi e lʼaccesso sarà bloccato. Lʼazione è irreversibile. Terminare la sessione?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'schedul-webinar' => /////////////////////////////////////////////////////////////////

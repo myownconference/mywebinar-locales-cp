@@ -477,7 +477,7 @@ return [
 	'end-webinar-confirm' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Encerrar o webinar?</strong> A gravação será encerrada, os participantes serão desconectados e o acesso será bloqueado. Esta ação é irreversível. Deseja encerrar a sessão?
+		<strong>Encerrar o webinar?</strong><br><br>A gravação será encerrada, os participantes serão desconectados e o acesso será bloqueado. Esta ação é irreversível. Deseja encerrar a sessão?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'schedul-webinar' => /////////////////////////////////////////////////////////////////

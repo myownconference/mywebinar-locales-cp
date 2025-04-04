@@ -477,7 +477,7 @@ return [
 	'end-webinar-confirm' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Befejezed a webináriumot?</strong> A felvétel leáll, a résztvevők lecsatlakoznak, a hozzáférés letiltásra kerül. Ez a művelet visszafordíthatatlan. Befejezed az ülést?
+		<strong>Befejezed a webináriumot?</strong><br><br>A felvétel leáll, a résztvevők lecsatlakoznak, a hozzáférés letiltásra kerül. Ez a művelet visszafordíthatatlan. Befejezed az ülést?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'schedul-webinar' => /////////////////////////////////////////////////////////////////

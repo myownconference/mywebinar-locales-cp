@@ -477,7 +477,7 @@ return [
 	'end-webinar-confirm' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Afslutte webinaret?</strong> Optagelsen stoppes, deltagerne afbrydes og adgang vil ikke længere være mulig. Denne handling kan ikke fortrydes. Afslutte sessionen?
+		<strong>Afslutte webinaret?</strong><br><br>Optagelsen stoppes, deltagerne afbrydes og adgang vil ikke længere være mulig. Denne handling kan ikke fortrydes. Afslutte sessionen?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'schedul-webinar' => /////////////////////////////////////////////////////////////////

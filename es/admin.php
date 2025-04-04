@@ -477,7 +477,7 @@ return [
 	'end-webinar-confirm' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>¿Finalizar el webinar?</strong> Se detendrá la grabación, se desconectará a los participantes y el acceso será bloqueado. Esta acción no se puede deshacer. ¿Finalizar sesión?
+		<strong>¿Finalizar el webinar?</strong><br><br>Se detendrá la grabación, se desconectará a los participantes y el acceso será bloqueado. Esta acción no se puede deshacer. ¿Finalizar sesión?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'schedul-webinar' => /////////////////////////////////////////////////////////////////

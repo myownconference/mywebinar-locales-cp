@@ -477,7 +477,7 @@ return [
 	'end-webinar-confirm' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Încheiați webinarul?</strong> Înregistrarea se va opri, participanții vor fi deconectați și accesul va fi blocat. Această acțiune este ireversibilă. Încheiați sesiunea?
+		<strong>Încheiați webinarul?</strong><br><br>Înregistrarea se va opri, participanții vor fi deconectați și accesul va fi blocat. Această acțiune este ireversibilă. Încheiați sesiunea?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'schedul-webinar' => /////////////////////////////////////////////////////////////////

@@ -477,7 +477,7 @@ return [
 	'end-webinar-confirm' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Webinar beenden?</strong> Die Aufzeichnung wird gestoppt, Teilnehmer werden getrennt und der Zutritt wird gesperrt. Dieser Vorgang ist nicht umkehrbar. Sitzung beenden?
+		<strong>Webinar beenden?</strong><br><br>Die Aufzeichnung wird gestoppt, Teilnehmer werden getrennt und der Zutritt wird gesperrt. Dieser Vorgang ist nicht umkehrbar. Sitzung beenden?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'schedul-webinar' => /////////////////////////////////////////////////////////////////

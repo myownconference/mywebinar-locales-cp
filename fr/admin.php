@@ -477,7 +477,7 @@ return [
 	'end-webinar-confirm' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Terminer le webinaire?</strong> Lʼenregistrement sʼarrêtera, les participants seront déconnectés et lʼaccès sera bloqué. Cette action est irréversible. Terminer la session?
+		<strong>Terminer le webinaire?</strong><br><br>Lʼenregistrement sʼarrêtera, les participants seront déconnectés et lʼaccès sera bloqué. Cette action est irréversible. Terminer la session?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'schedul-webinar' => /////////////////////////////////////////////////////////////////

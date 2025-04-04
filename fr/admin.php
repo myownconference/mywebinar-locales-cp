@@ -2524,7 +2524,7 @@ return [
 	'invited-moderators' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%d invité <span class="tooltip" data-tip="Nombre de modérateurs invités. Chacun recevra une notification par e-mail avec un lien personnel pour se connecter"></span>
+		%d invité <span class="tooltip" data-mode="bottom" data-tip="Nombre de modérateurs invités. Chacun recevra une notification par e-mail avec un lien personnel pour se connecter"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'amount-attendees' => ////////////////////////////////////////////////////////////////
@@ -5130,7 +5130,7 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S invitations disponibles <span class="tooltip" data-tip="Ce nombre indique le nombre maximum de participants que vous pouvez inviter à un seul webinaire. Il reflète le total des invitations disponibles en fonction de votre plan actuel. Notez que le nombre dʼinvitations peut atteindre jusquʼà 5 fois la limite de participants de votre plan tarifaire. Par exemple, si votre plan permet 60 participants, vous pouvez inviter jusquʼà 300 participants pour garantir flexibilité et engagement"></span>
+		%S invitations disponibles <span class="tooltip" data-mode="bottom" data-tip="Ce nombre indique le nombre maximum de participants que vous pouvez inviter à un seul webinaire. Il reflète le total des invitations disponibles en fonction de votre plan actuel. Notez que le nombre dʼinvitations peut atteindre jusquʼà 5 fois la limite de participants de votre plan tarifaire. Par exemple, si votre plan permet 60 participants, vous pouvez inviter jusquʼà 300 participants pour garantir flexibilité et engagement"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////

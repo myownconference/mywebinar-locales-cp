@@ -2523,7 +2523,7 @@ return [
 	'invited-moderators' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%d inbjuden <span class="tooltip" data-tip="Antal inbjudna moderatorer. Var och en kommer att få ett e-postmeddelande med en personlig länk för att gå med"></span>
+		%d inbjuden <span class="tooltip" data-mode="bottom" data-tip="Antal inbjudna moderatorer. Var och en kommer att få ett e-postmeddelande med en personlig länk för att gå med"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'amount-attendees' => ////////////////////////////////////////////////////////////////
@@ -5112,7 +5112,7 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S inbjudningar tillgängliga <span class="tooltip" data-tip="Detta antal anger det maximala antalet deltagare du kan bjuda in till ett enda webinar. Det återspeglar det totala antalet inbjudningar som är tillgängliga baserat på din nuvarande plan. Observera att antalet inbjudningar kan vara upp till 5 gånger deltagarbegränsningen i din prisplan. Till exempel, om din plan tillåter 60 deltagare, kan du bjuda in upp till 300 deltagare för att säkerställa flexibilitet och engagemang"></span>
+		%S inbjudningar tillgängliga <span class="tooltip" data-mode="bottom" data-tip="Detta antal anger det maximala antalet deltagare du kan bjuda in till ett enda webinar. Det återspeglar det totala antalet inbjudningar som är tillgängliga baserat på din nuvarande plan. Observera att antalet inbjudningar kan vara upp till 5 gånger deltagarbegränsningen i din prisplan. Till exempel, om din plan tillåter 60 deltagare, kan du bjuda in upp till 300 deltagare för att säkerställa flexibilitet och engagemang"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////

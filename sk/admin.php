@@ -2523,7 +2523,7 @@ return [
 	'invited-moderators' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%d pozvaný <span class="tooltip" data-tip="Počet pozvaných moderátorov. Každému bude zaslané e-mailové upozornenie s osobným odkazom na prihlásenie"></span>
+		%d pozvaný <span class="tooltip" data-mode="bottom" data-mode="bottom" data-tip="Počet pozvaných moderátorov. Každému bude zaslané e-mailové upozornenie s osobným odkazom na prihlásenie"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'amount-attendees' => ////////////////////////////////////////////////////////////////
@@ -5112,7 +5112,7 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S pozvánok k dispozícii <span class="tooltip" data-tip="Toto číslo udáva maximálny počet účastníkov, ktorých môžete pozvať na jeden webinár. Odzrkadľuje celkový počet pozvánok dostupných podľa vášho aktuálneho plánu. Všimnite si, že počet pozvánok môže byť až 5-krát väčší ako limit účastníkov vášho cenového plánu. Napríklad, ak váš plán povoľuje 60 účastníkov, môžete pozvať až 300 účastníkov na zabezpečenie flexibility a zapojenia"></span>
+		%S pozvánok k dispozícii <span class="tooltip" data-mode="bottom" data-tip="Toto číslo udáva maximálny počet účastníkov, ktorých môžete pozvať na jeden webinár. Odzrkadľuje celkový počet pozvánok dostupných podľa vášho aktuálneho plánu. Všimnite si, že počet pozvánok môže byť až 5-krát väčší ako limit účastníkov vášho cenového plánu. Napríklad, ak váš plán povoľuje 60 účastníkov, môžete pozvať až 300 účastníkov na zabezpečenie flexibility a zapojenia"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////

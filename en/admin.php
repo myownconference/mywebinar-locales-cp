@@ -2523,7 +2523,7 @@ return [
 	'invited-moderators' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%d invited <span class="tooltip" data-tip="Number of invited moderators. Each will be sent an email notification with a personal link to join"></span>
+		%d invited <span class="tooltip" data-mode="bottom" data-tip="Number of invited moderators. Each will be sent an email notification with a personal link to join"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'amount-attendees' => ////////////////////////////////////////////////////////////////
@@ -5112,7 +5112,7 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S invitations available <span class="tooltip" data-tip="This number indicates the maximum attendees you can invite to a single webinar. It reflects the total invitations available based on your current plan. Note that the number of invitations can be up to 5 times the attendee limit of your pricing plan. For example, if your plan allows 60 attendees, you can invite up to 300 attendees to accommodate flexibility and engagement"></span>
+		%S invitations available <span class="tooltip" data-mode="bottom" data-tip="This number indicates the maximum attendees you can invite to a single webinar. It reflects the total invitations available based on your current plan. Note that the number of invitations can be up to 5 times the attendee limit of your pricing plan. For example, if your plan allows 60 attendees, you can invite up to 300 attendees to accommodate flexibility and engagement"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////

@@ -2523,7 +2523,7 @@ return [
 	'invited-moderators' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%d uzaicināts <span class="tooltip" data-tip="Uzaicināto moderatoru skaits. Katram tiks nosūtīts e-pasta paziņojums ar personīgu saiti ieejai"></span>
+		%d uzaicināts <span class="tooltip" data-mode="bottom" data-tip="Uzaicināto moderatoru skaits. Katram tiks nosūtīts e-pasta paziņojums ar personīgu saiti ieejai"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'amount-attendees' => ////////////////////////////////////////////////////////////////
@@ -5112,7 +5112,7 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S ielūgumu pieejami <span class="tooltip" data-tip="Šis skaitlis norāda maksimālo dalībnieku skaitu, kurus varat uzaicināt uz vienu tīmekļsemināru. Tas atspoguļo jūsu pašreizējā plāna ietvaros pieejamo ielūgumu kopskaitu. Ņemiet vērā, ka ielūgumu skaits var būt līdz 5 reizēm lielāks par jūsu cenas plāna dalībnieku limitu. Piemēram, ja jūsu plāns ļauj 60 dalībniekus, jūs varat uzaicināt līdz 300 dalībniekiem, lai nodrošinātu elastību un iesaisti"></span>
+		%S ielūgumu pieejami <span class="tooltip" data-mode="bottom" data-tip="Šis skaitlis norāda maksimālo dalībnieku skaitu, kurus varat uzaicināt uz vienu tīmekļsemināru. Tas atspoguļo jūsu pašreizējā plāna ietvaros pieejamo ielūgumu kopskaitu. Ņemiet vērā, ka ielūgumu skaits var būt līdz 5 reizēm lielāks par jūsu cenas plāna dalībnieku limitu. Piemēram, ja jūsu plāns ļauj 60 dalībniekus, jūs varat uzaicināt līdz 300 dalībniekiem, lai nodrošinātu elastību un iesaisti"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////

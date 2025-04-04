@@ -2523,7 +2523,7 @@ return [
 	'invited-moderators' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%d pozván <span class="tooltip" data-tip="Počet pozvaných moderátorů. Každému bude zasláno e-mailové oznámení s osobním odkazem pro přihlášení"></span>
+		%d pozván <span class="tooltip" data-mode="bottom" data-tip="Počet pozvaných moderátorů. Každému bude zasláno e-mailové oznámení s osobním odkazem pro přihlášení"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'amount-attendees' => ////////////////////////////////////////////////////////////////
@@ -5112,7 +5112,7 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S pozvánek k dispozici <span class="tooltip" data-tip="Toto číslo udává maximální počet účastníků, které můžete pozvat na jeden webinář. Odráží celkový počet dostupných pozvánek podle vašeho aktuálního plánu. Všimněte si, že počet pozvánek může být až 5krát vyšší než limit účastníků vašeho cenového plánu. Například pokud váš plán umožňuje 60 účastníků, můžete pozvat až 300 účastníků, aby byla zajištěna flexibilita a zapojení"></span>
+		%S pozvánek k dispozici <span class="tooltip" data-mode="bottom" data-tip="Toto číslo udává maximální počet účastníků, které můžete pozvat na jeden webinář. Odráží celkový počet dostupných pozvánek podle vašeho aktuálního plánu. Všimněte si, že počet pozvánek může být až 5krát vyšší než limit účastníků vašeho cenového plánu. Například pokud váš plán umožňuje 60 účastníků, můžete pozvat až 300 účastníků, aby byla zajištěna flexibilita a zapojení"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////

@@ -2523,7 +2523,7 @@ return [
 	'invited-moderators' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%d kutsuttu <span class="tooltip" data-tip="Kutsuttujen moderaattorien määrä. Jokaiselle lähetetään sähköposti-ilmoitus henkilökohtaisella linkillä sisäänkirjautumiseen"></span>
+		%d kutsuttu <span class="tooltip" data-mode="bottom" data-tip="Kutsuttujen moderaattorien määrä. Jokaiselle lähetetään sähköposti-ilmoitus henkilökohtaisella linkillä sisäänkirjautumiseen"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'amount-attendees' => ////////////////////////////////////////////////////////////////
@@ -5112,7 +5112,7 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S kutsua saatavilla <span class="tooltip" data-tip="Tämä numero ilmaisee, kuinka monta osallistujaa voit kutsua yhteen webinaariin. Se heijastaa nykyisen suunnitelmasi perusteella saatavilla olevien kutsujen kokonaismäärää. Huomaa, että kutsujen määrä voi olla jopa 5 kertaa hinnastosuunnitelmasi osallistujarajan verran. Esimerkiksi, jos suunnitelmasi sallii 60 osallistujaa, voit kutsua jopa 300 osallistujaa joustavuuden ja sitoutumisen takaamiseksi"></span>
+		%S kutsua saatavilla <span class="tooltip" data-mode="bottom" data-tip="Tämä numero ilmaisee, kuinka monta osallistujaa voit kutsua yhteen webinaariin. Se heijastaa nykyisen suunnitelmasi perusteella saatavilla olevien kutsujen kokonaismäärää. Huomaa, että kutsujen määrä voi olla jopa 5 kertaa hinnastosuunnitelmasi osallistujarajan verran. Esimerkiksi, jos suunnitelmasi sallii 60 osallistujaa, voit kutsua jopa 300 osallistujaa joustavuuden ja sitoutumisen takaamiseksi"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////

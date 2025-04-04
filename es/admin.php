@@ -2523,7 +2523,7 @@ return [
 	'invited-moderators' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%d invitado <span class="tooltip" data-tip="Número de moderadores invitados. A cada uno se le enviará una notificación por correo electrónico con un enlace personal para unirse"></span>
+		%d invitado <span class="tooltip" data-mode="bottom" data-tip="Número de moderadores invitados. A cada uno se le enviará una notificación por correo electrónico con un enlace personal para unirse"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'amount-attendees' => ////////////////////////////////////////////////////////////////
@@ -5126,7 +5126,7 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S invitaciones disponibles <span class="tooltip" data-tip="Este número indica el máximo de asistentes que puedes invitar a un solo webinar. Refleja el total de invitaciones disponibles según tu plan actual. Ten en cuenta que el número de invitaciones puede ser hasta 5 veces el límite de asistentes de tu plan de precios. Por ejemplo, si tu plan permite 60 asistentes, puedes invitar hasta 300 asistentes para acomodar flexibilidad y participación"></span>
+		%S invitaciones disponibles <span class="tooltip" data-mode="bottom" data-tip="Este número indica el máximo de asistentes que puedes invitar a un solo webinar. Refleja el total de invitaciones disponibles según tu plan actual. Ten en cuenta que el número de invitaciones puede ser hasta 5 veces el límite de asistentes de tu plan de precios. Por ejemplo, si tu plan permite 60 asistentes, puedes invitar hasta 300 asistentes para acomodar flexibilidad y participación"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////

@@ -2523,7 +2523,7 @@ return [
 	'invited-moderators' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%d inviteret <span class="tooltip" data-tip="Antal inviterede moderatorer. Hver vil modtage en e-mail-notifikation med et personligt link til at logge ind"></span>
+		%d inviteret <span class="tooltip" data-mode="bottom" data-tip="Antal inviterede moderatorer. Hver vil modtage en e-mail-notifikation med et personligt link til at logge ind"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'amount-attendees' => ////////////////////////////////////////////////////////////////
@@ -5112,7 +5112,7 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S invitationer tilgængelige <span class="tooltip" data-tip="Dette tal angiver det maksimale antal deltagere, du kan invitere til et enkelt webinar. Det afspejler det samlede antal invitationer, der er tilgængelige baseret på din nuværende plan. Bemærk, at antallet af invitationer kan være op til 5 gange deltagergrænsen for din prismodel. For eksempel, hvis din plan tillader 60 deltagere, kan du invitere op til 300 deltagere for at sikre fleksibilitet og engagement"></span>
+		%S invitationer tilgængelige <span class="tooltip" data-mode="bottom" data-tip="Dette tal angiver det maksimale antal deltagere, du kan invitere til et enkelt webinar. Det afspejler det samlede antal invitationer, der er tilgængelige baseret på din nuværende plan. Bemærk, at antallet af invitationer kan være op til 5 gange deltagergrænsen for din prismodel. For eksempel, hvis din plan tillader 60 deltagere, kan du invitere op til 300 deltagere for at sikre fleksibilitet og engagement"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////

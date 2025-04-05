@@ -11,78 +11,78 @@
 
 
 return [
-	//////////////////////////////////////////////////////////////////////////////////////
-	'paypal-summ' => /////////////////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		Already paid
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'funds-received' => //////////////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		Paid webinars <span class="tooltip" data-tip="Activate this option to charge attendees for webinar access. Read and confirm the agreements before enabling paid webinars in your profile settings. Please note that the feature will not be activated immediately, as we will manually review your profile and webinar topics before activation"></span>
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'hold-title' => //////////////////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		Our fee
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'output-title' => ////////////////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		Processed
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'output-button' => ///////////////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		Withdraw
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'payweb-rules-title' => //////////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		Terms and conditions of payment processing for paid webinars
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'payweb-rules-subtitle' => ///////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		Read the terms and conditions for using the payment processing function carefully please. Incorrect use of this function may result in automatic blocking of your account.
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'payweb-rules-bottom' => /////////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		Sign here if you agree with term and conditions of the payments processing
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'freeze-title' => ////////////////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		On hold
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'service-commission-title' => ////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		Our fee
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'our-bank-commission-title' => ///////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		Bank fee
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'available-title' => /////////////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		Revenue
-	',
+//////////////////////////////////////////////////////////////////////////////////////
+'paypal-summ' => /////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+	Já pago
+',
+//////////////////////////////////////////////////////////////////////////////////////
+'funds-received' => //////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+	Webinars pagos <span class="tooltip" data-tip="Ative esta opção para cobrar dos participantes pelo acesso ao webinar. Leia e confirme os termos de uso antes de ativar os webinars pagos nas configurações do seu perfil. Observe que essa função não será ativada imediatamente, pois faremos uma revisão manual do seu perfil e dos temas dos webinars antes da liberação"></span>
+',
+//////////////////////////////////////////////////////////////////////////////////////
+'hold-title' => //////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+	Nossa taxa
+',
+//////////////////////////////////////////////////////////////////////////////////////
+'output-title' => ////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+	Processado
+',
+//////////////////////////////////////////////////////////////////////////////////////
+'output-button' => ///////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+	Sacar
+',
+//////////////////////////////////////////////////////////////////////////////////////
+'payweb-rules-title' => //////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+	Termos e condições para o processamento de pagamentos em webinars pagos
+',
+//////////////////////////////////////////////////////////////////////////////////////
+'payweb-rules-subtitle' => ///////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+	Leia com atenção os termos e condições para o uso da função de processamento de pagamentos. O uso incorreto pode resultar no bloqueio automático da sua conta.
+',
+//////////////////////////////////////////////////////////////////////////////////////
+'payweb-rules-bottom' => /////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+	Assine aqui se concorda com os termos e condições do processamento de pagamentos
+',
+//////////////////////////////////////////////////////////////////////////////////////
+'freeze-title' => ////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+	Retido
+',
+//////////////////////////////////////////////////////////////////////////////////////
+'service-commission-title' => ////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+	Nossa taxa
+',
+//////////////////////////////////////////////////////////////////////////////////////
+'our-bank-commission-title' => ///////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+	Taxa bancária
+',
+//////////////////////////////////////////////////////////////////////////////////////
+'available-title' => /////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+	Receita
+',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'extend-package-confirm' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
@@ -108,215 +108,215 @@ return [
 	'payweb-rules' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<h3>Handling payments for your paid webinars</h3>
-		<sup style="color:grey">(Last edited: August 24, 2023. Revision: 1.2)</sup>
+		<h3>Gerenciamento de pagamentos para seus webinars pagos</h3>
+		<sup style="color:grey">(Última edição: 24 de agosto de 2023. Revisão: 1.2)</sup>
 		<br><br><br><br>
-		<h3>Terms and definitions</h3>
+		<h3>Termos e definições</h3>
 		<p>
-			– Paid webinars — this encompasses webinars, online lectures, conferences, seminars, courses, lessons, and live broadcasts that require payment for participation. Attendees can access and participate in these webinars only after they‘ve made the necessary payment.
+			– Webinars pagos — abrangem webinars, palestras online, conferências, seminários, cursos, aulas e transmissões ao vivo que exigem pagamento para participação. Os participantes só podem acessar e participar após efetuarem o pagamento necessário.
 			<br><br>
-			– Webinar software MyOwnConference — we are “Akovana, UAB“, a service provider specializing in the organization of both free and paid webinars, live broadcasts, web conferences, and more. Our registered address is 18 Djioyi Street, Vilnius, Lithuania, LT-01128.
+			– Software de webinar MyOwnConference — nós somos “Akovana, UAB“, um provedor de serviços especializado na organização de webinars gratuitos e pagos, transmissões ao vivo, webconferências e similares. Nosso endereço registrado é Rua Djioyi, 18, Vilnius, Lituânia, LT-01128.
 			<br><br>
-			– User — any individual who has agreed to these terms and utilizes the services in accordance with this agreement.
+			– Usuário — qualquer pessoa que aceite estes termos e utilize os serviços de acordo com este contrato.
 			<br><br>
-			– User Agreement — this document, found in the Control Panel, acts as the binding contract between you (the User) and us (the Website), governing the provision of our information services.
+			– Acordo do Usuário — este documento, localizado no Painel de Controle, atua como contrato vinculativo entre você (o Usuário) e nós (o Site), regulando a prestação dos nossos serviços informativos.
 			<br><br>
-			– User Account, Control Panel, or Dashboard — this is a collection of the User‘s personal data crucial for accessing the services offered by the Website. It also contains files the User has stored on the Website‘s server.
+			– Conta do Usuário, Painel de Controle ou Dashboard — conjunto de dados pessoais do Usuário necessários para acessar os serviços oferecidos pelo Site. Também inclui os arquivos armazenados pelo Usuário no servidor do Site.
 			<br><br>
-			– Attendee, Participant or Guest – an individual invited by the User, who compensates the User for access to a paid webinar hosted by the User via the Website.
+			– Participante, Convidado ou Visitante — pessoa convidada pelo Usuário, que realiza um pagamento ao Usuário para acessar um webinar pago hospedado por ele através do Site.
 		</p>
 		<br><br>
-		<h3>General provisions</h3>
+		<h3>Disposições gerais</h3>
 		<p>
-			When arranging paid webinars, the online platform for webinars, live broadcasts, and web conferences, namely “MyOwnConference“, hereinafter referred to as “the Platform“, serves as an intermediary. The platform is entrusted by the User to receive and process payments from attendees participating in the webinar, online lecture, conference, course, or lesson facilitated via the platform‘s services.
+			Na organização de webinars pagos, a plataforma online “MyOwnConference“, doravante denominada “a Plataforma“, atua como intermediária. A Plataforma é autorizada pelo Usuário a receber e processar pagamentos dos participantes de webinars, palestras online, conferências, cursos ou aulas realizadas através dos serviços da plataforma.
 		</p>
 		<br>
 		<p>
-			To formalize an agreement with the Platform, the User isn‘t required to sign a physical (hard copy) contract. Merely accepting the terms of this Agreement, by ticking the respective checkbox within the Platform‘s Control Panel when seeking to activate payment acceptance services, is sufficient.
+			Para formalizar um contrato com a Plataforma, não é necessário assinar fisicamente (cópia impressa). Aceitar os termos deste Acordo, marcando a caixa correspondente no Painel de Controle ao ativar a aceitação de pagamentos, é suficiente.
 		</p>
 		<br>
 		<p>
-			The Platform conscientiously oversees the quality of the User‘s paid webinars, keeps track of any discontented participants, and manages refunds for previously processed payments if warranted. Accordingly, during the preliminary verification of the User‘s account, the Platform holds the discretion to deny the User‘s request to process payments without stating a specific reason.
+			A Plataforma supervisiona de forma diligente a qualidade dos webinars pagos do Usuário, acompanha reclamações de participantes e realiza reembolsos de pagamentos anteriores, quando justificado. Durante a verificação inicial da conta, a Plataforma pode recusar o pedido de ativação dos pagamentos sem necessidade de apresentar justificativa.
 		</p>
 		<br>
 		<p>
-			All payments are exclusively accepted and processed via the international payment system, Paysera.
+			Todos os pagamentos são processados exclusivamente através do sistema internacional de pagamento Paysera.
 		</p>
 		<br>
 		<p>
-			The primary transactional and accepted currency is the Euro (EUR).
+			A moeda principal de transação e aceitação é o Euro (EUR).
 		</p>
 		<br>
 		<p>
-			The Platform directs all received payments to a dedicated account, exclusively designed for managing payments from the User‘s webinar attendees.
+			Todos os pagamentos recebidos são direcionados a uma conta exclusiva, criada especificamente para gerenciar os pagamentos dos participantes dos webinars do Usuário.
 		</p>
 		<br>
 		<p>
-			To maintain a comprehensive history of interactions with the User, all inquiries and claims pertaining to payment acceptance and processing—including refund requests—are to be submitted via the email address registered to the User‘s account.
+			Todas as solicitações e dúvidas sobre pagamentos, incluindo reembolsos, devem ser enviadas a partir do endereço de e-mail cadastrado na conta do Usuário, para manter um histórico completo.
 		</p>
 		<br><br>
-		<h3>Platform fees</h3>
+		<h3>Taxas da plataforma</h3>
 		<p>
-			The website applies a 10% commission to every successful payment made by participants attending a user‘s paid webinar.
+			O site aplica uma comissão de 10% sobre cada pagamento realizado com sucesso pelos participantes dos webinars pagos do usuário.
 		</p>
 		<p>
-			For instance, if you set the entry fee for a webinar at €10 and 10 people attend, generating €10 x 10 = €100 in total payments, you would earn €100 – 10% = €90 after commission.
-		</p>
-		<br><br>
-		<h3>Bank service fee</h3>
-		<p>
-			A service fee of €7 is applied only for bank transfers to the user‘s account. This fee is consistently applied without exceptions.
+			Por exemplo, se você definir o valor de entrada em €10 e 10 pessoas participarem, gerando €10 x 10 = €100, você receberá €90 após a dedução da comissão de 10%.
 		</p>
 		<br><br>
-		<h3>Correspondent bank fees</h3>
+		<h3>Taxa de serviço bancário</h3>
 		<p>
-			These fees are levied by the Correspondent Bank when facilitating the transfer of funds from the website‘s bank account to the user‘s bank account. For IBAN transfers, the fees charged by correspondent banks can range from €10 to €35. There is no fee for SEPA transfers.
+			Uma taxa fixa de €7 é cobrada apenas para transferências bancárias para a conta do usuário. Essa taxa é sempre aplicada, sem exceções.
+		</p>
+		<br><br>
+		<h3>Taxas de bancos intermediários</h3>
+		<p>
+			Essas taxas são cobradas por bancos intermediários ao transferir fundos do banco do site para o banco do usuário. Em transferências IBAN, essas taxas variam entre €10 e €35. Não há cobrança em transferências SEPA.
 		</p>
 		<br>
 		<br><br>
-		<h3>Receiving payouts</h3>
+		<h3>Recebimento dos pagamentos</h3>
 		<p>
-			When a participant makes a successful payment for a webinar, the amount is credited to a dedicated account on our platform. This is then aggregated based on the number of paid webinars and participants. Payments are processed by our platform, but only initiated upon the user‘s request through the Control Panel.
+			Quando um participante realiza um pagamento com sucesso para um webinar, o valor é creditado a uma conta dedicada na nossa plataforma. Os valores são agrupados conforme o número de webinars pagos e participantes. Os pagamentos são processados pela plataforma, mas somente iniciados mediante solicitação do usuário através do Painel de Controle.
 		</p>
 		<br>
 		<p>
-			In accordance with the terms of this Agreement, a 10% commission for our platform, as well as a €7 fee charged by our bank for processing the money transfer, will be deducted from the user‘s payout.
+			Conforme os termos deste Acordo, será deduzida uma comissão de 10% da plataforma, além de uma taxa de €7 cobrada pelo banco para a transferência.
 		</p>
 		<br>
 		<p>
-			The net amount after deductions can either be transferred to the user‘s bank account or be applied as credit towards the cost of using our platform‘s services.
+			O valor líquido, após deduções, poderá ser transferido para a conta bancária do usuário ou usado como crédito para utilização dos serviços da plataforma.
 		</p>
 		<p>
-			All payments are processed no earlier than 7 business days after the webinar and only if there are no refund requests from participants. The minimum payout amount is 300 EUR. For payouts exceeding 600 EUR, our service will send a closing document that must be signed by the recipient of the payment.
-		<br>
+			Todos os pagamentos são processados após no mínimo 7 dias úteis do término do webinar, e somente se não houver solicitações de reembolso. O valor mínimo para saque é de 300 EUR. Para valores acima de 600 EUR, enviaremos um documento de encerramento que deverá ser assinado pelo beneficiário.
+		</p>
 		<br>
 		<p>
-			Please note! When using the IBAN method, some intermediary banks may levy an additional fee ranging from €10 to €35. We have no control over, nor can we waive these fees. They are automatically deducted when funds are transferred to the user‘s bank account.
+			Atenção! Em transferências IBAN, alguns bancos intermediários podem aplicar taxas adicionais de €10 a €35. Essas taxas são cobradas automaticamente e não podem ser controladas ou removidas por nós.
 		</p>
 		<br><br>
-		<h3>Refund request by the User</h3>
+		<h3>Solicitação de reembolso pelo Usuário</h3>
 		<p>
-			Users can request a refund through the Control Panel on our website. This must then be confirmed via the email address associated with the user‘s account.
+			Os usuários podem solicitar um reembolso através do Painel de Controle em nosso site. Essa solicitação deve ser confirmada por meio do endereço de e-mail vinculado à conta do usuário.
 		</p>
 		<br>
 		<p>
-			To maintain high-quality service, all refund requests from attendees of paid webinars are reviewed and processed semi-automatically by our system. The refund processing time can range from 1 to 7 business days, depending primarily on the bank that serves the webinar attendee.
+			Para manter a qualidade do serviço, todas as solicitações de reembolso feitas por participantes de webinars pagos são analisadas e processadas de forma semiautomática por nosso sistema. O tempo de processamento pode variar de 1 a 7 dias úteis, dependendo principalmente do banco do participante do webinar.
 		</p>
 		<br>
 		<p>
-			The service processes refunds immediately upon receiving a request from the user.
+			O serviço realiza o reembolso imediatamente após receber a solicitação do usuário.
 		</p>
 		<br><br>
-		<h3>Participant refund request</h3>
+		<h3>Solicitação de reembolso pelo participante</h3>
 		<p>
-			Our platform processes refund requests from attendees of paid webinars only when they directly contact us through the provided contact form or email address on our website.
+			Nossa plataforma processa solicitações de reembolso feitas por participantes de webinars pagos somente quando eles entram em contato diretamente conosco pelo formulário de contato ou endereço de e-mail disponíveis no site.
 		</p>
 		<br>
 		<p>
-			In such instances, we will issue a refund after thoroughly reviewing the attendee‘s explanation for the request and securing an agreement with the account holder (referred to as “User“). Refunds are initiated based on notifications from the User via their Control Panel.
+			Nesses casos, emitimos o reembolso após uma análise completa da justificativa do participante e após obter um acordo com o titular da conta (denominado “Usuário“). Os reembolsos são iniciados com base nas notificações enviadas pelo Usuário através do Painel de Controle.
 		</p>
 		<br>
 		<p>
-			We issue refunds promptly upon receiving the notification from the User.
+			Emitimos os reembolsos prontamente assim que recebemos a notificação do Usuário.
 		</p>
 		<br>
 		<p>
-			However, if for any reason the User fails to notify us through the Control Panel, our platform reserves the right to process the refund to the attendee independently.
+			No entanto, se por algum motivo o Usuário não nos notificar pelo Painel de Controle, a plataforma reserva-se o direito de processar o reembolso diretamente para o participante.
 		</p>
 		<br><br>
-		<h3>Refund request from the webinar attendee‘s bank</h3>
+		<h3>Solicitação de reembolso pelo banco do participante</h3>
 		<p>
-			Such refund requests arise from the bank that serves the attendee of a paid webinar. All payments made by attendees for paid webinars are fully refundable, adhering to the principle that “The Attendee is Always Right“.
+			Essas solicitações de reembolso são iniciadas pelo banco do participante de um webinar pago. Todos os pagamentos realizados por participantes de webinars pagos são integralmente reembolsáveis, seguindo o princípio de que “O Participante tem Sempre Razão“.
 		</p>
 		<br>
 		<p>
-			Should a refund request be received directly from an attendee‘s bank, the Website will promptly inform the User. The Website then allows the User 3 business days to address the matter with the attendee and subsequently notify the Website of any agreements reached, providing relevant correspondence and documentation. The Website will then forward these documents to the relevant bank for processing.
+			Caso uma solicitação de reembolso seja recebida diretamente do banco do participante, o Site informará o Usuário prontamente. O Site concederá ao Usuário um prazo de 3 dias úteis para resolver o assunto diretamente com o participante e, em seguida, notificar o Site sobre o acordo alcançado, apresentando as respectivas conversas e documentos. O Site então encaminhará esses documentos ao banco responsável para o processamento.
 		</p>
 		<br>
 		<p>
-			Note: Should the Website receive more than 2 refund requests from the bank issuing an attendee‘s card, the Website may exercise its right to disable the User‘s payment acceptance functionality. Additionally, the Website might reverse all previously processed payments and, if deemed necessary, suspend the User‘s account.
+			Observação: Se o Site receber mais de 2 solicitações de reembolso do banco emissor do cartão de um participante, poderá exercer o direito de desativar a funcionalidade de recebimento de pagamentos do Usuário. Além disso, o Site poderá reverter todos os pagamentos processados anteriormente e, se necessário, suspender a conta do Usuário.
 		</p>
 		<br>
 		<p>
-			Furthermore, if there are numerous complaints from attendees regarding the content or quality of webinars, the Website reserves the right to issue refunds to all attendees without exception. In such cases, the User will not receive the contested funds.
+			Além disso, caso haja muitas reclamações sobre o conteúdo ou qualidade dos webinars, o Site reserva-se o direito de reembolsar todos os participantes sem exceções. Nesses casos, o Usuário não receberá os valores contestados.
 		</p>
 		<br>
 		<p>
-			The website strictly adheres to this rule.
+			O site segue rigorosamente essa política.
 		</p>
 		<br><br>
-		<h3>Rights and obligations of the website</h3>
+		<h3>Direitos e obrigações do site</h3>
 		<p>
-			While the Website strives to ensure the highest possible level of service availability and performance, it cannot be held accountable for any failure or delay in meeting its obligations due to unforeseen circumstances beyond its control. Such circumstances include, but are not limited to: subpar internet connection quality experienced by the User or Participants during webinars, live broadcasts, and web conferences; the absence of essential equipment such as microphones or cameras on the user‘s end; insufficient power of the User‘s device; DDoS attacks targeting data centers utilized by the Website; natural disasters; strikes; acts of war; delays or failures in third-party services, and more.
+			Embora o Site se esforce para garantir o mais alto nível possível de disponibilidade e desempenho dos serviços, ele não pode ser responsabilizado por falhas ou atrasos no cumprimento de suas obrigações devido a circunstâncias imprevistas fora do seu controle. Isso inclui, mas não se limita a: má qualidade da conexão de internet do Usuário ou dos Participantes durante webinars, transmissões ao vivo e webconferências; ausência de equipamentos essenciais como microfones ou câmeras; capacidade insuficiente do dispositivo do Usuário; ataques DDoS direcionados aos data centers utilizados pelo Site; desastres naturais; greves; atos de guerra; falhas ou atrasos em serviços de terceiros, entre outros.
 		</p>
 		<br>
 		<p>
-			The Website cannot be held liable for any errors, damages, or other unexpected outcomes that arise from the User‘s or Participant‘s misuse of the provided services.
+			O Site não pode ser responsabilizado por erros, danos ou consequências inesperadas decorrentes do uso incorreto dos serviços por parte do Usuário ou Participante.
 		</p>
 		<br>
 		<p>
-			In line with its <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Return Policy</a>, the Website disclaims responsibility for any complaints from Participants concerning the poor organization of a paid webinar or any technical mishaps attributable to the User.
+			De acordo com a sua <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Política de Reembolso</a>, o Site isenta-se de responsabilidade por quaisquer reclamações de Participantes relacionadas à má organização de um webinar pago ou a falhas técnicas atribuídas ao Usuário.
 		</p>
 		<br>
 		<p>
-			The Website reserves the right to suspend or terminate its services without prior notice to the User. This may also involve retaining all proceeds from paid webinars on the Website‘s account, especially in cases where paid webinars, live broadcasts, or web conferences contain illegal or offensive content.
+			O Site reserva-se o direito de suspender ou encerrar seus serviços sem aviso prévio ao Usuário. Isso pode incluir a retenção de todos os valores arrecadados com webinars pagos na conta do Site, especialmente nos casos em que webinars, transmissões ao vivo ou webconferências contenham conteúdo ilegal ou ofensivo.
 		</p>
 		<br><br>
-		<h3>User‘s rights and obligations</h3>
+		<h3>Direitos e obrigações do Usuário</h3>
 		<p>
-			The User is personally responsible to the attendees of paid webinars for their content, quality, and the timely delivery using the services provided by the Website.
+			O Usuário é pessoalmente responsável perante os participantes de webinars pagos pelo conteúdo, qualidade e entrega pontual dos eventos realizados com os serviços fornecidos pelo Site.
 		</p>
 		<br>
 		<p>
-			The User assumes personal responsibility towards attendees of paid webinars for any technical issues, glitches, delays, or cancellations related to the organization of the paid webinar.
+			O Usuário assume total responsabilidade por quaisquer problemas técnicos, falhas, atrasos ou cancelamentos relacionados à organização do webinar pago.
 		</p>
 		<br>
 		<p>
-			The User agrees not to use the services of the Website for illegal purposes. Breaching this agreement will result in the immediate suspension of the User‘s account, and any funds accrued from paid webinars will be retained by the Website.
+			O Usuário concorda em não utilizar os serviços do Site para fins ilegais. A violação deste acordo resultará na suspensão imediata da conta do Usuário, e quaisquer valores recebidos com webinars pagos serão retidos pelo Site.
 		</p>
 		<br>
 		<p>
-			The User is not permitted to use the Service or its messaging system to send, share, or distribute spam or other unauthorized promotional content. Should attendees file complaints against the User for such unauthorized activities, the Website reserves the right to suspend the User‘s account and retain all funds acquired from paid webinars on the Website.
+			Não é permitido ao Usuário utilizar o Serviço ou seu sistema de mensagens para enviar, compartilhar ou distribuir spam ou conteúdo promocional não autorizado. Caso os participantes registrem reclamações contra o Usuário por essas atividades, o Site reserva-se o direito de suspender a conta do Usuário e reter todos os valores obtidos com webinars pagos.
 		</p>
 		<br><br>
-		<h3>Copyright policy</h3>
+		<h3>Política de direitos autorais</h3>
 		<p>
-			Users are prohibited from posting or reproducing copyrighted materials or trademarks on the Service without obtaining prior permission from the copyright owners.
+			É proibido que os usuários publiquem ou reproduzam materiais protegidos por direitos autorais ou marcas registradas no Serviço sem a devida autorização dos detentores desses direitos.
 		</p>
 		<br>
 		<p>
-			Should a user violate this policy, the Website reserves the right to take actions as detailed in the “Rights and Obligations of the Website“ section of this User Agreement.
+			Caso o usuário viole esta política, o Site reserva-se o direito de tomar as medidas previstas na seção “Direitos e obrigações do Site” deste Contrato de Usuário.
 		</p>
 		<br><br>
-		<h3>Limitation of liability</h3>
+		<h3>Limitação de responsabilidade</h3>
 		<p>
-			The Website shall not be held responsible for any damages, including lost profits incurred by Participants or the User, or loss of Participant data due to the negligence of the User, the Website, the Participant, or third parties.
+			O Site não se responsabiliza por quaisquer danos, incluindo lucros cessantes sofridos por Participantes ou pelo Usuário, nem por perdas de dados de Participantes resultantes de negligência do Usuário, do Site, de Participantes ou de terceiros.
 		</p>
 		<br>
 		<p>
-			The Website‘s liability to the User is restricted solely to the monetary value of the services the Website has rendered to the User.
+			A responsabilidade do Site perante o Usuário limita-se exclusivamente ao valor monetário dos serviços efetivamente prestados ao Usuário.
 		</p>
 		<br>
 		<p>
-			For Participants of paid webinars, the Website‘s liability is confined solely to the monetary sum received by the User.
+			Em relação aos Participantes de webinars pagos, a responsabilidade do Site limita-se ao valor financeiro recebido pelo Usuário.
 		</p>
 		<br>
 		<p>
-			The Website offers no assurances to Participants of paid webinars concerning the accuracy, currentness, or comprehensiveness of the information provided by the User. The User acknowledges that the content or materials they present during paid webinars might have inaccuracies or errors. The Website shall not be accountable for any inaccuracies or for any lost profits of the User or Participants.
+			O Site não garante aos Participantes de webinars pagos a precisão, atualidade ou integridade das informações fornecidas pelo Usuário. O Usuário reconhece que o conteúdo ou materiais apresentados durante os webinars pagos podem conter imprecisões ou erros. O Site não é responsável por tais imprecisões nem por quaisquer perdas financeiras do Usuário ou dos Participantes.
 		</p>
 		<br>
 		<p>
-			The Website does not supply Participants with any ancillary documentation, such as invoices or receipts. It is at the User‘s discretion to address this matter independently if deemed necessary.
+			O Site não fornece aos Participantes nenhum documento complementar, como faturas ou recibos. Cabe ao Usuário, se considerar necessário, tratar esse assunto por conta própria.
 		</p>
 		<br><br>
-		<h3>Disputes</h3>
+		<h3>Conflitos</h3>
 		<p>
-			While the Website strives to address concerns comprehensively, it cannot guarantee a resolution in favor of every User or Participant of paid webinars. However, we commit to taking all necessary actions and making every effort to resolve any situation or problem promptly. Should disputes arise that necessitate the involvement of public authorities, both the User and the Participant agree to be governed by applicable EU law.
+			Embora o Site se esforce para resolver todas as questões de forma abrangente, não pode garantir uma solução favorável para todo Usuário ou Participante de webinars pagos. No entanto, comprometemo-nos a tomar todas as medidas cabíveis e fazer todo o possível para resolver qualquer situação ou problema de forma rápida. Em caso de disputas que exijam a intervenção de autoridades públicas, tanto o Usuário quanto o Participante concordam em submeter-se à legislação aplicável da União Europeia.
 		</p>
 		<br><br>
-		<h3>Notifications</h3>
+		<h3>Notificações</h3>
 		<p>
-			Please direct all notifications and inquiries to paid-webinars@myownconference.com. Be sure to provide a detailed description of your concern or any technical issues you‘ve encountered.
+			Todas as notificações e dúvidas devem ser enviadas para paid-webinars@myownconference.com. Certifique-se de incluir uma descrição detalhada da sua solicitação ou de qualquer problema técnico que tenha ocorrido.
 		</p>
 		<br><br>
 	',

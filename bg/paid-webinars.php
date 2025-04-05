@@ -11,83 +11,83 @@
 
 
 return [
-	//////////////////////////////////////////////////////////////////////////////////////
-	'paypal-summ' => /////////////////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		Already paid
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'funds-received' => //////////////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		Paid webinars <span class="tooltip" data-tip="Activate this option to charge attendees for webinar access. Read and confirm the agreements before enabling paid webinars in your profile settings. Please note that the feature will not be activated immediately, as we will manually review your profile and webinar topics before activation"></span>
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'hold-title' => //////////////////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		Our fee
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'output-title' => ////////////////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		Processed
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'output-button' => ///////////////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		Withdraw
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'payweb-rules-title' => //////////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		Terms and conditions of payment processing for paid webinars
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'payweb-rules-subtitle' => ///////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		Read the terms and conditions for using the payment processing function carefully please. Incorrect use of this function may result in automatic blocking of your account.
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'payweb-rules-bottom' => /////////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		Sign here if you agree with term and conditions of the payments processing
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'freeze-title' => ////////////////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		On hold
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'service-commission-title' => ////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		Our fee
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'our-bank-commission-title' => ///////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		Bank fee
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'available-title' => /////////////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		Revenue
-	',
+//////////////////////////////////////////////////////////////////////////////////////
+'paypal-summ' => /////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+		Платено
+',
+//////////////////////////////////////////////////////////////////////////////////////
+'funds-received' => //////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+		Платени уебинари <span class="tooltip" data-tip="Активирайте тази опция, за да събирате такси от участниците за достъп до уебинара. Прочетете и потвърдете условията преди да активирате платени уебинари в профила си. Имайте предвид, че функцията няма да се активира веднага – профилът и темите ви ще бъдат ръчно прегледани преди одобрение"></span>
+',
+//////////////////////////////////////////////////////////////////////////////////////
+'hold-title' => //////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+		Такса за обслужване
+',
+//////////////////////////////////////////////////////////////////////////////////////
+'output-title' => ////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+		Обработени
+',
+//////////////////////////////////////////////////////////////////////////////////////
+'output-button' => ///////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+		Изтегляне
+',
+//////////////////////////////////////////////////////////////////////////////////////
+'payweb-rules-title' => //////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+		Условия за използване на функцията за плащания
+',
+//////////////////////////////////////////////////////////////////////////////////////
+'payweb-rules-subtitle' => ///////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+		Моля, запознайте се внимателно с условията за използване на функцията за получаване на плащания. Неправилната ѝ употреба може да доведе до автоматично блокиране на профила ви.
+',
+//////////////////////////////////////////////////////////////////////////////////////
+'payweb-rules-bottom' => /////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+		Отбележете тук, ако сте съгласни с условията за използване на функцията за получаване на плащания
+',
+//////////////////////////////////////////////////////////////////////////////////////
+'freeze-title' => ////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+		Резервирани
+',
+//////////////////////////////////////////////////////////////////////////////////////
+'service-commission-title' => ////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+		Такса на платформата
+',
+//////////////////////////////////////////////////////////////////////////////////////
+'our-bank-commission-title' => ///////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+		Банкова такса
+',
+//////////////////////////////////////////////////////////////////////////////////////
+'available-title' => /////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+'
+		Налично
+',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'extend-package-confirm' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-
+		
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'withdraw-request-success' => ////////////////////////////////////////////////////////
@@ -108,215 +108,219 @@ return [
 	'payweb-rules' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<h3>Handling payments for your paid webinars</h3>
-		<sup style="color:grey">(Last edited: August 24, 2023. Revision: 1.2)</sup>
+		<h3>Обработка на плащания за платени уебинари</h3>
+		<sup style="color:grey">(Последна редакция: 30 август 2022 г. Версия: 1.2)</sup>
 		<br><br><br><br>
-		<h3>Terms and definitions</h3>
+		<h3>Термини и определения</h3>
 		<p>
-			– Paid webinars — this encompasses webinars, online lectures, conferences, seminars, courses, lessons, and live broadcasts that require payment for participation. Attendees can access and participate in these webinars only after they‘ve made the necessary payment.
+			– Платени събития — уебинари, онлайн лекции, конференции, семинари, курсове, уроци и излъчвания на живо, за които се изисква платен достъп. Участниците получават достъп до съдържанието и могат да присъстват и слушат събитието само след успешно плащане.
 			<br><br>
-			– Webinar software MyOwnConference — we are “Akovana, UAB“, a service provider specializing in the organization of both free and paid webinars, live broadcasts, web conferences, and more. Our registered address is 18 Djioyi Street, Vilnius, Lithuania, LT-01128.
+			– Сервис, MyOwnConference, ние — компанията “Akovana, UAB“, доставчик на услуги за провеждане на безплатни и платени уебинари, излъчвания на живо и онлайн конференции, регистрирана на ул. Диджёйи 18, Вилнюс, Литва, LT-01128.
 			<br><br>
-			– User — any individual who has agreed to these terms and utilizes the services in accordance with this agreement.
+			– Потребител, Вие — лице, приело това споразумение и използващо предоставяните услуги съгласно сключеното Потребителско споразумение.
 			<br><br>
-			– User Agreement — this document, found in the Control Panel, acts as the binding contract between you (the User) and us (the Website), governing the provision of our information services.
+			– Потребителско споразумение, Споразумение — настоящият документ, публикуван в контролния панел; договор между Потребителя (Вас) и Сервиса (Нас) за предоставяне на информационни услуги, който се сключва чрез приемането му.
 			<br><br>
-			– User Account, Control Panel, or Dashboard — this is a collection of the User‘s personal data crucial for accessing the services offered by the Website. It also contains files the User has stored on the Website‘s server.
+			– Потребителски акаунт, Контролен панел — съвкупност от лични данни, свързани с осигуряване на достъп до услугите на Сервиса, както и файловете, съхранявани от Потребителя на сървъра на Сервиса.
 			<br><br>
-			– Attendee, Participant or Guest – an individual invited by the User, who compensates the User for access to a paid webinar hosted by the User via the Website.
+			– Участник, Гост — лице, поканено от Потребителя, което извършва плащане към Потребителя за участие в платено събитие, провеждано чрез Сервиса.
 		</p>
 		<br><br>
-		<h3>General provisions</h3>
+		<h3>Общи положения</h3>
 		<p>
-			When arranging paid webinars, the online platform for webinars, live broadcasts, and web conferences, namely “MyOwnConference“, hereinafter referred to as “the Platform“, serves as an intermediary. The platform is entrusted by the User to receive and process payments from attendees participating in the webinar, online lecture, conference, course, or lesson facilitated via the platform‘s services.
+			При провеждане на платени събития, платформата за уебинари, излъчвания на живо и онлайн конференции MyOwnConference, наричана по-долу просто Сервисът, действа като Агент, на когото Потребителят възлага приемането и обработката на плащания от Участници, поканени по различни начини на уебинар, онлайн лекция, конференция, курс или урок, организиран чрез услугите на Сервиса.
 		</p>
 		<br>
 		<p>
-			To formalize an agreement with the Platform, the User isn‘t required to sign a physical (hard copy) contract. Merely accepting the terms of this Agreement, by ticking the respective checkbox within the Platform‘s Control Panel when seeking to activate payment acceptance services, is sufficient.
+			За да сключи договор със Сервиса, Потребителят не е задължен да подписва хартиен документ. Достатъчно е да приеме условията на настоящото Споразумение, като постави съответната отметка при заявка за активиране на услугата за прием на плащания в контролния панел.
 		</p>
 		<br>
 		<p>
-			The Platform conscientiously oversees the quality of the User‘s paid webinars, keeps track of any discontented participants, and manages refunds for previously processed payments if warranted. Accordingly, during the preliminary verification of the User‘s account, the Platform holds the discretion to deny the User‘s request to process payments without stating a specific reason.
+			Сервисът следи стриктно качеството на платените събития, провеждани от Потребителя, както и броя на недоволните Участници и заявките за възстановяване на средства. В тази връзка, при първоначалната проверка на потребителския акаунт, Сервисът си запазва правото да откаже предоставянето на услугата за прием на плащания без да посочва причина.
 		</p>
 		<br>
 		<p>
-			All payments are exclusively accepted and processed via the international payment system, Paysera.
+			Сервисът приема и обработва всички плащания само чрез международната платежна система Paysera.
 		</p>
 		<br>
 		<p>
-			The primary transactional and accepted currency is the Euro (EUR).
+			Основната валута за разплащания и приемане на плащания е евро (EUR).
 		</p>
 		<br>
 		<p>
-			The Platform directs all received payments to a dedicated account, exclusively designed for managing payments from the User‘s webinar attendees.
+			Сервисът приема всички плащания по специална сметка, предназначена единствено за получаване и управление на плащания от Участници в уебинари на Потребителя.
 		</p>
 		<br>
 		<p>
-			To maintain a comprehensive history of interactions with the User, all inquiries and claims pertaining to payment acceptance and processing—including refund requests—are to be submitted via the email address registered to the User‘s account.
+			За да бъде запазена пълна история на работата с Потребителя, всички въпроси и искания, свързани с приемането и обработката на плащания — например искане за възстановяване на сума и други — се извършват чрез електронната поща, с която е регистриран потребителският акаунт.
 		</p>
 		<br><br>
-		<h3>Platform fees</h3>
+		<h3>Комисиона на платформата</h3>
 		<p>
-			The website applies a 10% commission to every successful payment made by participants attending a user‘s paid webinar.
+			Сервисът удържа комисиона в размер на 10% от всяко успешно плащане, извършено от Участник за участие в платено събитие, организирано от Потребителя.
 		</p>
 		<p>
-			For instance, if you set the entry fee for a webinar at €10 and 10 people attend, generating €10 x 10 = €100 in total payments, you would earn €100 – 10% = €90 after commission.
-		</p>
-		<br><br>
-		<h3>Bank service fee</h3>
-		<p>
-			A service fee of €7 is applied only for bank transfers to the user‘s account. This fee is consistently applied without exceptions.
+			Например, ако сте задали цена за участие в уебинар от 10 EUR и 10 души са платили, Сервисът ще получи 10 x 10 EUR = 100 EUR. В този случай вашата печалба ще бъде 100 EUR – 10% = 90 EUR.
 		</p>
 		<br><br>
-		<h3>Correspondent bank fees</h3>
+		<h3>Банкова такса на Сервиса</h3>
 		<p>
-			These fees are levied by the Correspondent Bank when facilitating the transfer of funds from the website‘s bank account to the user‘s bank account. For IBAN transfers, the fees charged by correspondent banks can range from €10 to €35. There is no fee for SEPA transfers.
+			Таксата се удържа само при банков превод към сметката на Потребителя и е фиксирана – 7 EUR. Таксата се прилага винаги, без изключение.
+		</p>
+		<br><br>
+		<h3>Такса на кореспондентската банка</h3>
+		<p>
+			Таксата се удържа от кореспондентската банка в случай, че такава бъде използвана при трансфер на средства от банката на Сервиса към банката на Потребителя. При IBAN преводи таксата може да варира от 10 до 35 EUR.
 		</p>
 		<br>
 		<br><br>
-		<h3>Receiving payouts</h3>
+		<h3>Получаване на изплащания</h3>
 		<p>
-			When a participant makes a successful payment for a webinar, the amount is credited to a dedicated account on our platform. This is then aggregated based on the number of paid webinars and participants. Payments are processed by our platform, but only initiated upon the user‘s request through the Control Panel.
+			Успешните плащания от Участници в платени уебинари се начисляват на специална сметка на Сервиса и се сумират според броя на платените събития и платилите участници. Изплащания към Потребителя се извършват само по негово искане от контролния панел и само при сума от поне 100 EUR.
 		</p>
 		<br>
 		<p>
-			In accordance with the terms of this Agreement, a 10% commission for our platform, as well as a €7 fee charged by our bank for processing the money transfer, will be deducted from the user‘s payout.
+			Съгласно описаните по-горе условия, от всяко изплащане към Потребителя се удържат 10% комисиона на Сервиса и банковата такса на Сервиса в размер на 7 EUR за извършване на паричен превод.
 		</p>
 		<br>
 		<p>
-			The net amount after deductions can either be transferred to the user‘s bank account or be applied as credit towards the cost of using our platform‘s services.
+			Крайната сума на изплащането се превежда по банковата сметка на Потребителя или се приспада от стойността на използваните услуги на Сервиса.
 		</p>
 		<p>
-			All payments are processed no earlier than 7 business days after the webinar and only if there are no refund requests from participants. The minimum payout amount is 300 EUR. For payouts exceeding 600 EUR, our service will send a closing document that must be signed by the recipient of the payment.
-		<br>
+			Всички плащания се обработват не по-рано от 7 работни дни след провеждане на уебинара и само ако няма искания за възстановяване на средства от участници. Минималната сума за изплащане е 300 EUR. За суми над 600 EUR, нашият екип ще изпрати финансов документ, който трябва да бъде подписан от получателя на средствата.
+		</p>
 		<br>
 		<p>
-			Please note! When using the IBAN method, some intermediary banks may levy an additional fee ranging from €10 to €35. We have no control over, nor can we waive these fees. They are automatically deducted when funds are transferred to the user‘s bank account.
+			Внимание! Някои кореспондентски банки при използване на IBAN превод могат да удържат допълнителна такса в размер от 10 до 35 EUR. Сервисът няма контрол върху тази такса и не може да я отмени. Таксата се удържа автоматично при извършване на превода.
 		</p>
 		<br><br>
-		<h3>Refund request by the User</h3>
+		<h3>Искане за възстановяване от Потребителя</h3>
 		<p>
-			Users can request a refund through the Control Panel on our website. This must then be confirmed via the email address associated with the user‘s account.
+			Сервисът приема искания за възстановяване от Потребителя само чрез контролния панел, с последващо потвърждение по имейл, посочен при регистрацията.
 		</p>
 		<br>
 		<p>
-			To maintain high-quality service, all refund requests from attendees of paid webinars are reviewed and processed semi-automatically by our system. The refund processing time can range from 1 to 7 business days, depending primarily on the bank that serves the webinar attendee.
+			За да предоставяме качествено обслужване, всички искания на Потребителя за възстановяване на средства на участници в платени уебинари се разглеждат и обработват полуавтоматично от Сервиса. Срокът за връщане на средствата към участника варира от 1 до 7 банкови дни и зависи единствено от обслужващата банка на участника.
 		</p>
 		<br>
 		<p>
-			The service processes refunds immediately upon receiving a request from the user.
+			Сервисът извършва възстановяването веднага след получаване на заявката от Потребителя.
 		</p>
 		<br><br>
-		<h3>Participant refund request</h3>
+		<h3>Искане за възстановяване от Участника</h3>
 		<p>
-			Our platform processes refund requests from attendees of paid webinars only when they directly contact us through the provided contact form or email address on our website.
+			Сервисът приема искания за възстановяване от участници в платени уебинари само при директно обръщение от участника чрез контактната форма или имейла, посочен на уебсайта на Сервиса.
 		</p>
 		<br>
 		<p>
-			In such instances, we will issue a refund after thoroughly reviewing the attendee‘s explanation for the request and securing an agreement with the account holder (referred to as “User“). Refunds are initiated based on notifications from the User via their Control Panel.
+			В този случай Сервисът извършва възстановяване след детайлно изясняване на жалбата от участника и съгласуване с Потребителя. Възстановяването се извършва въз основа на заявка от Потребителя чрез контролния панел.
 		</p>
 		<br>
 		<p>
-			We issue refunds promptly upon receiving the notification from the User.
+			Сервисът извършва възстановяването веднага след получаване на заявката от Потребителя.
 		</p>
 		<br>
 		<p>
-			However, if for any reason the User fails to notify us through the Control Panel, our platform reserves the right to process the refund to the attendee independently.
+			Ако по някаква причина Потребителят не подаде заявка чрез контролния панел, Сервисът си запазва правото сам да извърши възстановяването на участника.
 		</p>
 		<br><br>
-		<h3>Refund request from the webinar attendee‘s bank</h3>
+		<h3>Искане за възстановяване от банката на участника във вашия уебинар</h3>
 		<p>
-			Such refund requests arise from the bank that serves the attendee of a paid webinar. All payments made by attendees for paid webinars are fully refundable, adhering to the principle that “The Attendee is Always Right“.
+			Този тип искане за възстановяване се инициира от банката, обслужваща участника в платения уебинар. Всяко плащане, направено от участник(и) в платено събитие, подлежи на възстановяване по принципа „Участникът винаги е прав“.
 		</p>
 		<br>
 		<p>
-			Should a refund request be received directly from an attendee‘s bank, the Website will promptly inform the User. The Website then allows the User 3 business days to address the matter with the attendee and subsequently notify the Website of any agreements reached, providing relevant correspondence and documentation. The Website will then forward these documents to the relevant bank for processing.
+			При получаване на искане за връщане на средства директно от банката на участника, Сервисът незабавно уведомява Потребителя. Потребителят разполага с 3 работни дни, за да уреди ситуацията с участника и да уведоми Сервиса за постигнатото споразумение, като предостави съответната кореспонденция и документи. Сервисът от своя страна ще предостави тези документи на обслужващата банка.
 		</p>
 		<br>
 		<p>
-			Note: Should the Website receive more than 2 refund requests from the bank issuing an attendee‘s card, the Website may exercise its right to disable the User‘s payment acceptance functionality. Additionally, the Website might reverse all previously processed payments and, if deemed necessary, suspend the User‘s account.
+			Ако в рамките на 3 работни дни Сервисът не получи отговор от Потребителя относно постигнатото споразумение с участника(ите), Сервисът си запазва правото да извърши незабавно възстановяване на средствата на участника(ите).
 		</p>
 		<br>
 		<p>
-			Furthermore, if there are numerous complaints from attendees regarding the content or quality of webinars, the Website reserves the right to issue refunds to all attendees without exception. In such cases, the User will not receive the contested funds.
+			В случай че Сервисът получи повече от 2 искания за възстановяване от банката(ите), издали картата на участника(ите), Сервисът си запазва правото незабавно да деактивира функцията за приемане на плащания за Потребителя, да върне всички предходно обработени плащания и, ако е необходимо, да блокира потребителския акаунт.
 		</p>
 		<br>
 		<p>
-			The website strictly adheres to this rule.
+			Също така, при множество оплаквания от участници относно съдържанието и качеството на уебинарите, Сервисът възстановява сумата за платеното събитие на всички участници без изключение, без възможност за обжалване или изплащане на средствата на Потребителя.
+		</p>
+		<br>
+		<p>
+			Сервисът не прави изключения от това правило.
 		</p>
 		<br><br>
-		<h3>Rights and obligations of the website</h3>
+		<h3>Права и задължения на Сервиса</h3>
 		<p>
-			While the Website strives to ensure the highest possible level of service availability and performance, it cannot be held accountable for any failure or delay in meeting its obligations due to unforeseen circumstances beyond its control. Such circumstances include, but are not limited to: subpar internet connection quality experienced by the User or Participants during webinars, live broadcasts, and web conferences; the absence of essential equipment such as microphones or cameras on the user‘s end; insufficient power of the User‘s device; DDoS attacks targeting data centers utilized by the Website; natural disasters; strikes; acts of war; delays or failures in third-party services, and more.
+			Сервисът се стреми да осигури възможно най-високо ниво на достъпност и производителност на услугите, но не носи отговорност за неизпълнение или забавяне при изпълнение на задължения поради обстоятелства извън неговия контрол (форсмажор), като например лошо интернет-свързване на Потребителя или Участниците по време на уебинари, предавания на живо и видеоконференции, липса на микрофон, камера и друго оборудване при Потребителя, недостатъчна мощност на оборудването на Потребителя, DDoS атаки срещу използваните от Сервиса дейта центрове, пожари, наводнения, стачки, военни действия, липса или забавяне на услуги от трети страни и др.
 		</p>
 		<br>
 		<p>
-			The Website cannot be held liable for any errors, damages, or other unexpected outcomes that arise from the User‘s or Participant‘s misuse of the provided services.
+			Сервисът не носи отговорност за каквито и да било грешки, повреди или други непредвидени ситуации, възникнали в резултат на неправилно използване на предоставените услуги от страна на Потребителя или Участника.
 		</p>
 		<br>
 		<p>
-			In line with its <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Return Policy</a>, the Website disclaims responsibility for any complaints from Participants concerning the poor organization of a paid webinar or any technical mishaps attributable to the User.
+			Съгласно <a href="https://myownconference.com/ru/refund-policy/" target="_blank" rel="noopener noreferrer">Политиката за възстановяване на средства</a>, Сервисът не носи отговорност за претенции от Участници, свързани с неправилна организация на платен уебинар или технически проблеми от страна на Потребителя.
 		</p>
 		<br>
 		<p>
-			The Website reserves the right to suspend or terminate its services without prior notice to the User. This may also involve retaining all proceeds from paid webinars on the Website‘s account, especially in cases where paid webinars, live broadcasts, or web conferences contain illegal or offensive content.
+			Услугите на Сервиса могат да бъдат временно спрени или прекратени с или без предварително уведомление към Потребителя, като също така може да се задържат всички получени средства по време на платени събития, ако съдържанието на платените уебинари, предавания на живо или видеоконференции е незаконно или обидно.
 		</p>
 		<br><br>
-		<h3>User‘s rights and obligations</h3>
+		<h3>Права и задължения на Потребителя</h3>
 		<p>
-			The User is personally responsible to the attendees of paid webinars for their content, quality, and the timely delivery using the services provided by the Website.
+			Потребителят носи лична отговорност пред Участниците на платените събития за съдържанието и качеството им, както и за навременното им провеждане чрез използване на услугите на Сервиса.
 		</p>
 		<br>
 		<p>
-			The User assumes personal responsibility towards attendees of paid webinars for any technical issues, glitches, delays, or cancellations related to the organization of the paid webinar.
+			Потребителят носи лична отговорност пред Участниците на платените събития за всички технически неизправности, проблеми, забавяния или отмяна на платен уебинар.
 		</p>
 		<br>
 		<p>
-			The User agrees not to use the services of the Website for illegal purposes. Breaching this agreement will result in the immediate suspension of the User‘s account, and any funds accrued from paid webinars will be retained by the Website.
+			Потребителят се задължава да не използва услугите на Сервиса за каквито и да било незаконни цели. Нарушението на това условие води до незабавно блокиране на потребителския акаунт и задържане на всички получени средства от платени събития по сметката на Сервиса.
 		</p>
 		<br>
 		<p>
-			The User is not permitted to use the Service or its messaging system to send, share, or distribute spam or other unauthorized promotional content. Should attendees file complaints against the User for such unauthorized activities, the Website reserves the right to suspend the User‘s account and retain all funds acquired from paid webinars on the Website.
+			Потребителят няма право да използва Сервиса и неговата система за изпращане на съобщения с цел изпращане, публикуване или разпространение на спам или друга нерегламентирана рекламна информация. При получаване на жалба от Участници относно такива действия, Сервисът има право да деактивира акаунта на Потребителя и да задържи всички получени средства от платени събития по своя сметка.
 		</p>
 		<br><br>
-		<h3>Copyright policy</h3>
+		<h3>Политика за авторски права</h3>
 		<p>
-			Users are prohibited from posting or reproducing copyrighted materials or trademarks on the Service without obtaining prior permission from the copyright owners.
+			Потребителят няма право да публикува или възпроизвежда чрез използване на Сервиса каквито и да било материали, защитени с авторски права, или търговски марки без предварително съгласие от носителя на правата.
 		</p>
 		<br>
 		<p>
-			Should a user violate this policy, the Website reserves the right to take actions as detailed in the “Rights and Obligations of the Website“ section of this User Agreement.
+			При нарушение на тази точка от страна на Потребителя, Сервисът има право да предприеме действия съгласно раздел „Права и задължения на Сервиса“ от настоящото потребителско споразумение.
 		</p>
 		<br><br>
-		<h3>Limitation of liability</h3>
+		<h3>Ограничаване на отговорността</h3>
 		<p>
-			The Website shall not be held responsible for any damages, including lost profits incurred by Participants or the User, or loss of Participant data due to the negligence of the User, the Website, the Participant, or third parties.
+			Сервисът не носи отговорност за каквито и да било загуби, включително пропуснати ползи от страна на Участници или Потребителя, загуба на данни на Участници по вина на Потребителя, Сервиса, Участника или трети страни.
 		</p>
 		<br>
 		<p>
-			The Website‘s liability to the User is restricted solely to the monetary value of the services the Website has rendered to the User.
+			Отговорността на Сервиса спрямо Потребителя е ограничена до стойността (паричния размер) на предоставените услуги от Сервиса към Потребителя.
 		</p>
 		<br>
 		<p>
-			For Participants of paid webinars, the Website‘s liability is confined solely to the monetary sum received by the User.
+			Отговорността на Сервиса спрямо Участниците в платените събития е ограничена до стойността (паричния размер) на полученото в полза на Потребителя.
 		</p>
 		<br>
 		<p>
-			The Website offers no assurances to Participants of paid webinars concerning the accuracy, currentness, or comprehensiveness of the information provided by the User. The User acknowledges that the content or materials they present during paid webinars might have inaccuracies or errors. The Website shall not be accountable for any inaccuracies or for any lost profits of the User or Participants.
+			Сервисът не дава никакви гаранции на Участниците в платените събития относно точността, актуалността и пълнотата на информацията, предоставяна от Потребителя. От своя страна Потребителят признава, че предоставяната от него информация или материали по време на платени събития могат да съдържат грешки и неточности и в такъв случай Сервисът не носи отговорност за тези неточности или за пропуснати ползи на Потребителя или Участниците.
 		</p>
 		<br>
 		<p>
-			The Website does not supply Participants with any ancillary documentation, such as invoices or receipts. It is at the User‘s discretion to address this matter independently if deemed necessary.
+			Сервисът не издава на Участниците никаква документация – фактури, касови бележки и др. По собствено усмотрение и при нужда, Потребителят сам решава този въпрос.
 		</p>
 		<br><br>
-		<h3>Disputes</h3>
+		<h3>Спорове</h3>
 		<p>
-			While the Website strives to address concerns comprehensively, it cannot guarantee a resolution in favor of every User or Participant of paid webinars. However, we commit to taking all necessary actions and making every effort to resolve any situation or problem promptly. Should disputes arise that necessitate the involvement of public authorities, both the User and the Participant agree to be governed by applicable EU law.
+			Сервисът не гарантира 100% разрешаване на всички въпроси в полза на Потребителя или Участника в платените събития, но полага всички необходими усилия за решаване на възникналите ситуации или проблеми в най-кратък срок. При възникване на правни спорове, изискващи намеса на държавни органи, Потребителят и Участникът се съгласяват, че спорът ще бъде разрешаван съгласно действащото законодателство на ЕС.
 		</p>
 		<br><br>
-		<h3>Notifications</h3>
+		<h3>Уведомления</h3>
 		<p>
-			Please direct all notifications and inquiries to paid-webinars@myownconference.com. Be sure to provide a detailed description of your concern or any technical issues you‘ve encountered.
+			Всички уведомления и въпроси трябва да бъдат изпращани на адрес contact@myownconference.com с подробно описание на възникналия проблем или претенция, включително и технически такива.
 		</p>
 		<br><br>
 	',

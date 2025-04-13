@@ -15,73 +15,73 @@ return [
 	'paypal-summ' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Already paid
+		Již zaplaceno
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'funds-received' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paid webinars <span class="tooltip" data-tip="Activate this option to charge attendees for webinar access. Read and confirm the agreements before enabling paid webinars in your profile settings. Please note that the feature will not be activated immediately, as we will manually review your profile and webinar topics before activation"></span>
+		Placené webinary <span class="tooltip" data-tip="Aktivujte tuto možnost pro účtování přístupu na webinar. Před aktivací této funkce si přečtěte a potvrďte smluvní podmínky ve svém profilu. Upozorňujeme, že aktivace neproběhne okamžitě – nejprve ručně zkontrolujeme váš profil a témata webinarů."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'hold-title' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Our fee
+		Naše provize
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'output-title' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Processed
+		Zpracováno
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'output-button' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Withdraw
+		Vybrat
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-title' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Terms and conditions of payment processing for paid webinars
+		Podmínky zpracování plateb za placené webinary
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-subtitle' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Read the terms and conditions for using the payment processing function carefully please. Incorrect use of this function may result in automatic blocking of your account.
+		Pečlivě si přečtěte podmínky pro používání funkce zpracování plateb. Nesprávné použití této funkce může vést k automatickému zablokování účtu.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-bottom' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sign here if you agree with term and conditions of the payments processing
+		Podepište zde, pokud souhlasíte s podmínkami zpracování plateb
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'freeze-title' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		On hold
+		Podrženo
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'service-commission-title' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Our fee
+		Naše provize
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'our-bank-commission-title' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bank fee
+		Bankovní poplatek
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'available-title' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Revenue
+		Příjem
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'extend-package-confirm' => //////////////////////////////////////////////////////////
@@ -108,215 +108,215 @@ return [
 	'payweb-rules' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<h3>Handling payments for your paid webinars</h3>
-		<sup style="color:grey">(Last edited: August 24, 2023. Revision: 1.2)</sup>
+		<h3>Zpracování plateb za vaše placené webinary</h3>
+		<sup style="color:grey">(Poslední úprava: 24. srpna 2023. Revize: 1.2)</sup>
 		<br><br><br><br>
-		<h3>Terms and definitions</h3>
+		<h3>Podmínky a definice</h3>
 		<p>
-			– Paid webinars — this encompasses webinars, online lectures, conferences, seminars, courses, lessons, and live broadcasts that require payment for participation. Attendees can access and participate in these webinars only after they‘ve made the necessary payment.
+			– Placené webinary — zahrnují webinary, online přednášky, konference, semináře, kurzy, lekce a živé přenosy, za jejichž účast je třeba zaplatit. Účastníci se mohou těchto webinarů zúčastnit pouze po provedení požadované platby.
 			<br><br>
-			– Webinar software MyOwnConference — we are “Akovana, UAB“, a service provider specializing in the organization of both free and paid webinars, live broadcasts, web conferences, and more. Our registered address is 18 Djioyi Street, Vilnius, Lithuania, LT-01128.
+			– Webinar software MyOwnConference — jsme společnost „Akovana, UAB“, poskytovatel služeb specializující se na pořádání bezplatných i placených webinarů, živých přenosů, webových konferencí a dalších. Naše sídlo je Djioyi 18, Vilnius, Litva, LT-01128.
 			<br><br>
-			– User — any individual who has agreed to these terms and utilizes the services in accordance with this agreement.
+			– Uživatel — jakákoliv osoba, která souhlasila s těmito podmínkami a využívá služeb v souladu s touto smlouvou.
 			<br><br>
-			– User Agreement — this document, found in the Control Panel, acts as the binding contract between you (the User) and us (the Website), governing the provision of our information services.
+			– Uživatelská smlouva — tento dokument, který je dostupný v Ovládacím panelu, slouží jako závazná smlouva mezi vámi (Uživatelem) a námi (Webem) a upravuje poskytování našich informačních služeb.
 			<br><br>
-			– User Account, Control Panel, or Dashboard — this is a collection of the User‘s personal data crucial for accessing the services offered by the Website. It also contains files the User has stored on the Website‘s server.
+			– Uživatelský účet, Ovládací panel nebo Nástěnka — soubor osobních údajů Uživatele nezbytných pro přístup ke službám Webu. Zahrnuje také soubory, které si Uživatel uložil na server Webu.
 			<br><br>
-			– Attendee, Participant or Guest – an individual invited by the User, who compensates the User for access to a paid webinar hosted by the User via the Website.
+			– Účastník, Návštěvník nebo Host – osoba pozvaná Uživatelem, která Uživateli zaplatí za přístup k placenému webinaru pořádanému Uživatelem prostřednictvím Webu.
 		</p>
 		<br><br>
-		<h3>General provisions</h3>
+		<h3>Obecná ustanovení</h3>
 		<p>
-			When arranging paid webinars, the online platform for webinars, live broadcasts, and web conferences, namely “MyOwnConference“, hereinafter referred to as “the Platform“, serves as an intermediary. The platform is entrusted by the User to receive and process payments from attendees participating in the webinar, online lecture, conference, course, or lesson facilitated via the platform‘s services.
+			Při pořádání placených webinarů slouží online platforma pro webinary, živé přenosy a webové konference „MyOwnConference“, dále jen „Platforma“, jako zprostředkovatel. Platforma je pověřena Uživatelem k přijímání a zpracování plateb od účastníků, kteří se účastní webinaru, přednášky, konference, kurzu nebo lekce pořádané prostřednictvím služeb Platformy.
 		</p>
 		<br>
 		<p>
-			To formalize an agreement with the Platform, the User isn‘t required to sign a physical (hard copy) contract. Merely accepting the terms of this Agreement, by ticking the respective checkbox within the Platform‘s Control Panel when seeking to activate payment acceptance services, is sufficient.
+			K uzavření dohody s Platformou není nutné podepisovat fyzickou (tištěnou) smlouvu. Stačí přijmout podmínky této Dohody zaškrtnutím příslušného políčka v Ovládacím panelu Platformy při aktivaci služby přijímání plateb.
 		</p>
 		<br>
 		<p>
-			The Platform conscientiously oversees the quality of the User‘s paid webinars, keeps track of any discontented participants, and manages refunds for previously processed payments if warranted. Accordingly, during the preliminary verification of the User‘s account, the Platform holds the discretion to deny the User‘s request to process payments without stating a specific reason.
+			Platforma pečlivě dohlíží na kvalitu placených webinarů Uživatele, sleduje nespokojené účastníky a případně zajišťuje vrácení plateb, pokud je to oprávněné. V rámci předběrného ověření účtu má Platforma právo odmítnout požadavek Uživatele na aktivaci platební funkce bez udání důvodu.
 		</p>
 		<br>
 		<p>
-			All payments are exclusively accepted and processed via the international payment system, Paysera.
+			Všechny platby jsou přijímány a zpracovávány výhradně prostřednictvím mezinárodního platebního systému Paysera.
 		</p>
 		<br>
 		<p>
-			The primary transactional and accepted currency is the Euro (EUR).
+			Primární měnou pro transakce a přijaté platby je euro (EUR).
 		</p>
 		<br>
 		<p>
-			The Platform directs all received payments to a dedicated account, exclusively designed for managing payments from the User‘s webinar attendees.
+			Platforma směřuje všechny přijaté platby na vyhrazený účet určený výhradně pro zpracování plateb od účastníků webinarů Uživatele.
 		</p>
 		<br>
 		<p>
-			To maintain a comprehensive history of interactions with the User, all inquiries and claims pertaining to payment acceptance and processing—including refund requests—are to be submitted via the email address registered to the User‘s account.
+			Pro udržení úplné historie komunikace s Uživatelem je nutné všechny dotazy a reklamace týkající se plateb — včetně žádostí o vrácení peněz — zasílat z e-mailové adresy registrované k Uživatelskému účtu.
 		</p>
 		<br><br>
-		<h3>Platform fees</h3>
+		<h3>Poplatky platformy</h3>
 		<p>
-			The website applies a 10% commission to every successful payment made by participants attending a user‘s paid webinar.
+			Web účtuje 10% provizi z každé úspěšné platby provedené účastníky placeného webinaru Uživatele.
 		</p>
 		<p>
-			For instance, if you set the entry fee for a webinar at €10 and 10 people attend, generating €10 x 10 = €100 in total payments, you would earn €100 – 10% = €90 after commission.
-		</p>
-		<br><br>
-		<h3>Bank service fee</h3>
-		<p>
-			A service fee of €7 is applied only for bank transfers to the user‘s account. This fee is consistently applied without exceptions.
+			Například pokud nastavíte vstupní poplatek za webinar na 10 € a 10 osob se zúčastní, vygeneruje se 10 × 10 € = 100 € v platbách. Po odečtení provize obdržíte 100 € – 10 % = 90 €.
 		</p>
 		<br><br>
-		<h3>Correspondent bank fees</h3>
+		<h3>Poplatek za bankovní službu</h3>
 		<p>
-			These fees are levied by the Correspondent Bank when facilitating the transfer of funds from the website‘s bank account to the user‘s bank account. For IBAN transfers, the fees charged by correspondent banks can range from €10 to €35. There is no fee for SEPA transfers.
+			Poplatek za službu ve výši 7 € se účtuje pouze při převodu na bankovní účet uživatele. Tento poplatek se uplatňuje vždy bez výjimek.
+		</p>
+		<br><br>
+		<h3>Poplatky zprostředkující banky</h3>
+		<p>
+			Tyto poplatky si účtuje zprostředkující banka při převodu finančních prostředků z bankovního účtu webu na bankovní účet uživatele. U převodů pomocí IBAN se mohou poplatky zprostředkujících bank pohybovat mezi 10 a 35 €. U SEPA převodů se poplatek neúčtuje.
 		</p>
 		<br>
 		<br><br>
-		<h3>Receiving payouts</h3>
+		<h3>Přijímání výplat</h3>
 		<p>
-			When a participant makes a successful payment for a webinar, the amount is credited to a dedicated account on our platform. This is then aggregated based on the number of paid webinars and participants. Payments are processed by our platform, but only initiated upon the user‘s request through the Control Panel.
+			Když účastník úspěšně zaplatí za webinar, částka je připsána na vyhrazený účet naší platformy. Následně se suma agreguje dle počtu placených webinarů a účastníků. Platby jsou zpracovávány naší platformou, ale pouze po žádosti uživatele prostřednictvím Ovládacího panelu.
 		</p>
 		<br>
 		<p>
-			In accordance with the terms of this Agreement, a 10% commission for our platform, as well as a €7 fee charged by our bank for processing the money transfer, will be deducted from the user‘s payout.
+			V souladu s podmínkami této Smlouvy bude z výplaty uživatele odečtena 10% provize pro naši platformu a dále poplatek 7 € účtovaný naší bankou za zpracování převodu.
 		</p>
 		<br>
 		<p>
-			The net amount after deductions can either be transferred to the user‘s bank account or be applied as credit towards the cost of using our platform‘s services.
+			Čistá částka po odečtení poplatků může být převedena na bankovní účet uživatele nebo použita jako kredit na úhradu služeb naší platformy.
 		</p>
 		<p>
-			All payments are processed no earlier than 7 business days after the webinar and only if there are no refund requests from participants. The minimum payout amount is 300 EUR. For payouts exceeding 600 EUR, our service will send a closing document that must be signed by the recipient of the payment.
+			Výplaty jsou zpracovávány nejdříve 7 pracovních dnů po skončení webinaru a pouze pokud nebyla podána žádost o vrácení platby. Minimální výplatní částka je 300 EUR. Pokud výplata přesáhne 600 EUR, zašle naše služba uzavírací dokument, který musí příjemce platby podepsat.
 		<br>
 		<br>
 		<p>
-			Please note! When using the IBAN method, some intermediary banks may levy an additional fee ranging from €10 to €35. We have no control over, nor can we waive these fees. They are automatically deducted when funds are transferred to the user‘s bank account.
+			Poznámka! Při použití metody IBAN si mohou některé zprostředkující banky účtovat další poplatek ve výši 10 až 35 €. Nad těmito poplatky nemáme žádnou kontrolu a nelze je z naší strany odpustit. Jsou automaticky odečteny při převodu prostředků na bankovní účet uživatele.
 		</p>
 		<br><br>
-		<h3>Refund request by the User</h3>
+		<h3>Žádost o vrácení platby ze strany Uživatele</h3>
 		<p>
-			Users can request a refund through the Control Panel on our website. This must then be confirmed via the email address associated with the user‘s account.
+			Uživatelé mohou požádat o vrácení platby prostřednictvím Ovládacího panelu na našem webu. Tato žádost musí být následně potvrzena přes e-mailovou adresu přidruženou k účtu uživatele.
 		</p>
 		<br>
 		<p>
-			To maintain high-quality service, all refund requests from attendees of paid webinars are reviewed and processed semi-automatically by our system. The refund processing time can range from 1 to 7 business days, depending primarily on the bank that serves the webinar attendee.
+			Pro zachování kvality služeb jsou žádosti o vrácení plateb od účastníků placených webinarů zpracovávány poloautomaticky naším systémem. Doba zpracování žádosti o vrácení platby se může pohybovat mezi 1 až 7 pracovními dny, přičemž záleží zejména na bance, kterou účastník používá.
 		</p>
 		<br>
 		<p>
-			The service processes refunds immediately upon receiving a request from the user.
+			Služba zpracuje vrácení ihned po obdržení žádosti od uživatele.
 		</p>
 		<br><br>
-		<h3>Participant refund request</h3>
+		<h3>Žádost o vrácení platby ze strany účastníka</h3>
 		<p>
-			Our platform processes refund requests from attendees of paid webinars only when they directly contact us through the provided contact form or email address on our website.
+			Naše platforma zpracovává žádosti o vrácení plateb od účastníků placených webinarů pouze tehdy, pokud nás kontaktují přímo prostřednictvím kontaktního formuláře nebo e-mailové adresy uvedené na našem webu.
 		</p>
 		<br>
 		<p>
-			In such instances, we will issue a refund after thoroughly reviewing the attendee‘s explanation for the request and securing an agreement with the account holder (referred to as “User“). Refunds are initiated based on notifications from the User via their Control Panel.
+			V takových případech vrátíme platbu až po důkladném posouzení důvodu žádosti účastníka a po dosažení dohody s držitelem účtu (dále jen „Uživatel“). Vrácení platby je zahájeno na základě oznámení od Uživatele prostřednictvím jeho Ovládacího panelu.
 		</p>
 		<br>
 		<p>
-			We issue refunds promptly upon receiving the notification from the User.
+			Vrácení provedeme bez prodlení po obdržení oznámení od Uživatele.
 		</p>
 		<br>
 		<p>
-			However, if for any reason the User fails to notify us through the Control Panel, our platform reserves the right to process the refund to the attendee independently.
+			Pokud nás však Uživatel z jakéhokoli důvodu neinformuje prostřednictvím Ovládacího panelu, vyhrazuje si naše platforma právo provést vrácení účastníkovi samostatně.
 		</p>
 		<br><br>
-		<h3>Refund request from the webinar attendee‘s bank</h3>
+		<h3>Žádost o vrácení platby ze strany banky účastníka webinaru</h3>
 		<p>
-			Such refund requests arise from the bank that serves the attendee of a paid webinar. All payments made by attendees for paid webinars are fully refundable, adhering to the principle that “The Attendee is Always Right“.
+			Tyto žádosti pocházejí z banky, která spravuje účet účastníka placeného webinaru. Všechny platby od účastníků za placené webinary jsou plně vratné, v souladu se zásadou „Účastník má vždy pravdu“.
 		</p>
 		<br>
 		<p>
-			Should a refund request be received directly from an attendee‘s bank, the Website will promptly inform the User. The Website then allows the User 3 business days to address the matter with the attendee and subsequently notify the Website of any agreements reached, providing relevant correspondence and documentation. The Website will then forward these documents to the relevant bank for processing.
+			Pokud obdržíme žádost o vrácení přímo od banky účastníka, Web neprodleně informuje Uživatele. Uživatel má následně 3 pracovní dny na vyřešení situace s účastníkem a na oznámení výsledku zpět Webu spolu s relevantní korespondencí a dokumentací. Web následně tyto dokumenty předá příslušné bance k dalšímu zpracování.
 		</p>
 		<br>
 		<p>
-			Note: Should the Website receive more than 2 refund requests from the bank issuing an attendee‘s card, the Website may exercise its right to disable the User‘s payment acceptance functionality. Additionally, the Website might reverse all previously processed payments and, if deemed necessary, suspend the User‘s account.
+			Poznámka: Pokud Web obdrží více než 2 žádosti o vrácení plateb od banky, která vydala kartu účastníka, může Web deaktivovat možnost Uživatele přijímat platby. Web si také vyhrazuje právo zvrátit již zpracované platby a v případě potřeby pozastavit účet Uživatele.
 		</p>
 		<br>
 		<p>
-			Furthermore, if there are numerous complaints from attendees regarding the content or quality of webinars, the Website reserves the right to issue refunds to all attendees without exception. In such cases, the User will not receive the contested funds.
+			Pokud se navíc vyskytne větší množství stížností od účastníků na obsah nebo kvalitu webinarů, vyhrazuje si Web právo vrátit platby všem účastníkům bez výjimky. V takových případech Uživatel nedostane zpochybněné prostředky.
 		</p>
 		<br>
 		<p>
-			The website strictly adheres to this rule.
+			Web se tímto pravidlem striktně řídí.
 		</p>
 		<br><br>
-		<h3>Rights and obligations of the website</h3>
+		<h3>Práva a povinnosti Webu</h3>
 		<p>
-			While the Website strives to ensure the highest possible level of service availability and performance, it cannot be held accountable for any failure or delay in meeting its obligations due to unforeseen circumstances beyond its control. Such circumstances include, but are not limited to: subpar internet connection quality experienced by the User or Participants during webinars, live broadcasts, and web conferences; the absence of essential equipment such as microphones or cameras on the user‘s end; insufficient power of the User‘s device; DDoS attacks targeting data centers utilized by the Website; natural disasters; strikes; acts of war; delays or failures in third-party services, and more.
+			Ačkoli se Web snaží zajistit co nejvyšší úroveň dostupnosti a výkonu svých služeb, nenese odpovědnost za žádné selhání nebo zpoždění při plnění svých povinností z důvodu nepředvídaných okolností mimo jeho kontrolu. Mezi tyto okolnosti patří například: špatná kvalita internetového připojení na straně Uživatele nebo účastníků během webinarů, živých přenosů nebo webových konferencí; absence nezbytného vybavení, jako jsou mikrofony či kamery; nedostatečný výkon zařízení Uživatele; DDoS útoky na datová centra využívaná Webem; přírodní katastrofy; stávky; válečné konflikty; zpoždění nebo selhání služeb třetích stran a další.
 		</p>
 		<br>
 		<p>
-			The Website cannot be held liable for any errors, damages, or other unexpected outcomes that arise from the User‘s or Participant‘s misuse of the provided services.
+			Web nenese odpovědnost za chyby, škody nebo jiné nepředvídané důsledky způsobené nesprávným používáním poskytovaných služeb ze strany Uživatele nebo účastníků.
 		</p>
 		<br>
 		<p>
-			In line with its <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Return Policy</a>, the Website disclaims responsibility for any complaints from Participants concerning the poor organization of a paid webinar or any technical mishaps attributable to the User.
+			V souladu se svými <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Zásadami vracení plateb</a> Web neodpovídá za stížnosti účastníků týkající se špatné organizace placeného webinaru nebo technických problémů způsobených Uživatelem.
 		</p>
 		<br>
 		<p>
-			The Website reserves the right to suspend or terminate its services without prior notice to the User. This may also involve retaining all proceeds from paid webinars on the Website‘s account, especially in cases where paid webinars, live broadcasts, or web conferences contain illegal or offensive content.
+			Web si vyhrazuje právo pozastavit nebo ukončit své služby bez předchozího upozornění Uživatele. To může zahrnovat i zadržení veškerých výnosů z placených webinarů na účtu Webu, zejména v případech, kdy placené webinary, živé přenosy nebo webové konference obsahují nezákonný nebo urážlivý obsah.
 		</p>
 		<br><br>
-		<h3>User‘s rights and obligations</h3>
+		<h3>Práva a povinnosti Uživatele</h3>
 		<p>
-			The User is personally responsible to the attendees of paid webinars for their content, quality, and the timely delivery using the services provided by the Website.
+			Uživatel nese osobní odpovědnost vůči účastníkům placených webinarů za jejich obsah, kvalitu a včasné doručení prostřednictvím služeb poskytovaných Webem.
 		</p>
 		<br>
 		<p>
-			The User assumes personal responsibility towards attendees of paid webinars for any technical issues, glitches, delays, or cancellations related to the organization of the paid webinar.
+			Uživatel přebírá osobní odpovědnost vůči účastníkům placených webinarů za jakékoli technické problémy, chyby, zpoždění nebo zrušení související s organizací placeného webinaru.
 		</p>
 		<br>
 		<p>
-			The User agrees not to use the services of the Website for illegal purposes. Breaching this agreement will result in the immediate suspension of the User‘s account, and any funds accrued from paid webinars will be retained by the Website.
+			Uživatel se zavazuje nepoužívat služby Webu k nelegálním účelům. Porušení této dohody povede k okamžitému pozastavení účtu Uživatele a veškeré prostředky získané z placených webinarů budou Webem zadrženy.
 		</p>
 		<br>
 		<p>
-			The User is not permitted to use the Service or its messaging system to send, share, or distribute spam or other unauthorized promotional content. Should attendees file complaints against the User for such unauthorized activities, the Website reserves the right to suspend the User‘s account and retain all funds acquired from paid webinars on the Website.
+			Uživatel nesmí používat Službu ani její komunikační systém k odesílání, sdílení nebo šíření spamu či jiného neoprávněného propagačního obsahu. Pokud účastníci podají stížnost na takové neoprávněné aktivity Uživatele, vyhrazuje si Web právo pozastavit účet Uživatele a zadržet veškeré prostředky získané z placených webinarů.
 		</p>
 		<br><br>
-		<h3>Copyright policy</h3>
+		<h3>Zásady autorských práv</h3>
 		<p>
-			Users are prohibited from posting or reproducing copyrighted materials or trademarks on the Service without obtaining prior permission from the copyright owners.
+			Uživatelům je zakázáno zveřejňovat nebo reprodukovat materiály chráněné autorským právem nebo ochranné známky ve Službě bez předchozího souhlasu držitelů těchto práv.
 		</p>
 		<br>
 		<p>
-			Should a user violate this policy, the Website reserves the right to take actions as detailed in the “Rights and Obligations of the Website“ section of this User Agreement.
+			Pokud uživatel poruší tuto zásadu, vyhrazuje si Web právo podniknout kroky uvedené v části „Práva a povinnosti Webu“ této Uživatelské smlouvy.
 		</p>
 		<br><br>
-		<h3>Limitation of liability</h3>
+		<h3>Omezení odpovědnosti</h3>
 		<p>
-			The Website shall not be held responsible for any damages, including lost profits incurred by Participants or the User, or loss of Participant data due to the negligence of the User, the Website, the Participant, or third parties.
+			Web nenese odpovědnost za žádné škody, včetně ušlého zisku, které vznikly Účastníkům nebo Uživateli, ani za ztrátu údajů účastníků v důsledku nedbalosti Uživatele, Webu, účastníka nebo třetích stran.
 		</p>
 		<br>
 		<p>
-			The Website‘s liability to the User is restricted solely to the monetary value of the services the Website has rendered to the User.
+			Odpovědnost Webu vůči Uživateli je omezena výhradně na peněžní hodnotu služeb, které Web Uživateli poskytl.
 		</p>
 		<br>
 		<p>
-			For Participants of paid webinars, the Website‘s liability is confined solely to the monetary sum received by the User.
+			Pro Účastníky placených webinarů je odpovědnost Webu omezena výhradně na částku, kterou Uživatel obdržel.
 		</p>
 		<br>
 		<p>
-			The Website offers no assurances to Participants of paid webinars concerning the accuracy, currentness, or comprehensiveness of the information provided by the User. The User acknowledges that the content or materials they present during paid webinars might have inaccuracies or errors. The Website shall not be accountable for any inaccuracies or for any lost profits of the User or Participants.
+			Web neposkytuje Účastníkům placených webinarů žádné záruky ohledně přesnosti, aktuálnosti nebo úplnosti informací poskytnutých Uživatelem. Uživatel bere na vědomí, že obsah nebo materiály, které během placených webinarů prezentuje, mohou obsahovat nepřesnosti nebo chyby. Web nenese odpovědnost za žádné nepřesnosti ani za jakékoli ušlé zisky Uživatele či Účastníků.
 		</p>
 		<br>
 		<p>
-			The Website does not supply Participants with any ancillary documentation, such as invoices or receipts. It is at the User‘s discretion to address this matter independently if deemed necessary.
+			Web neposkytuje Účastníkům žádné doplňkové dokumenty, jako jsou faktury nebo potvrzení o zaplacení. Je na uvážení Uživatele, zda a jak tuto záležitost řeší samostatně.
 		</p>
 		<br><br>
-		<h3>Disputes</h3>
+		<h3>Sporová řízení</h3>
 		<p>
-			While the Website strives to address concerns comprehensively, it cannot guarantee a resolution in favor of every User or Participant of paid webinars. However, we commit to taking all necessary actions and making every effort to resolve any situation or problem promptly. Should disputes arise that necessitate the involvement of public authorities, both the User and the Participant agree to be governed by applicable EU law.
+			Ačkoli se Web snaží řešit podněty co nejkomplexněji, nemůže zaručit vyřešení ve prospěch každého Uživatele nebo Účastníka placených webinarů. Zavazujeme se však podniknout veškeré nezbytné kroky a vynaložit maximální úsilí k rychlému vyřešení jakékoli situace či problému. Pokud dojde ke sporu, který vyžaduje zapojení veřejných orgánů, souhlasí jak Uživatel, tak Účastník s tím, že se budou řídit platným právem EU.
 		</p>
 		<br><br>
-		<h3>Notifications</h3>
+		<h3>Oznámení</h3>
 		<p>
-			Please direct all notifications and inquiries to paid-webinars@myownconference.com. Be sure to provide a detailed description of your concern or any technical issues you‘ve encountered.
+			Veškerá oznámení a dotazy prosím zasílejte na e-mailovou adresu paid-webinars@myownconference.com. Nezapomeňte uvést podrobný popis svého problému nebo technických potíží, se kterými jste se setkali.
 		</p>
 		<br><br>
 	',

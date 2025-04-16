@@ -2176,7 +2176,7 @@ return [
 	'room-options-language' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Langue <span class="tooltip" data-tip="Personnalisez la langue de la salle de webinaire pour améliorer l‘expérience des participants. Que vous cibliez une région spécifique ou un public mondial, assurez une communication fluide en sélectionnant la langue préférée. Rendez vos webinaires plus accessibles et conviviaux pour tous, peu importe d‘où ils se connectent"></span>
+		Langue de la salle et des e-mails <span class="tooltip" data-tip="Définissez la langue de la salle et des e-mails pour que les participants voient tout dans leur langue familière"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-group' => //////////////////////////////////////////////////////////////

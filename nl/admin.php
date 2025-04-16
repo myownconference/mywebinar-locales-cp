@@ -2175,7 +2175,7 @@ return [
 	'room-options-language' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Language <span class="tooltip" data-tip="Customize the webinar room‘s language to improve the attendee experience. Whether targeting a specific region or a global audience, ensure smooth communication by selecting the preferred language. Make your webinars more accessible and user-friendly for everyone, no matter where they’re joining from"></span>
+		Taal van kamer en e-mails <span class="tooltip" data-tip="Stel de taal van de kamer en e-mails in zodat deelnemers alles in hun vertrouwde taal zien"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-group' => //////////////////////////////////////////////////////////////

@@ -2175,7 +2175,7 @@ return [
 	'room-options-language' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nyelv <span class="tooltip" data-tip="Testreszabhatja a webinárium szobájának nyelvét a résztvevők élményének javítása érdekében. Akár egy adott régiót, akár egy globális közönséget céloz meg, válassza ki a kívánt nyelvet a zökkenőmentes kommunikáció biztosítása érdekében. Tegye webináriumait mindenki számára elérhetőbbé és felhasználóbarátabbá, bárhonnan is csatlakoznak"></span>
+		A terem és az e-mailek nyelve <span class="tooltip" data-tip="Állítsd be a terem és az e-mailek nyelvét, hogy a résztvevők mindent a megszokott nyelvükön lássanak"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-group' => //////////////////////////////////////////////////////////////

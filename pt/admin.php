@@ -2175,7 +2175,7 @@ return [
 	'room-options-language' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Idioma <span class="tooltip" data-tip="Personalize o idioma da sala de webinar para melhorar a experiência do participante. Isso facilita a comunicação e torna o evento mais acessível para pessoas de diferentes regiões"></span>
+		Idioma da sala e dos e-mails <span class="tooltip" data-tip="Defina o idioma da sala e dos e-mails para que os participantes vejam tudo no seu idioma familiar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-group' => //////////////////////////////////////////////////////////////

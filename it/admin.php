@@ -2175,7 +2175,7 @@ return [
 	'room-options-language' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Lingua <span class="tooltip" data-tip="Personalizza la lingua della sala del webinar per migliorare l‘esperienza dei partecipanti. Che tu stia mirando a una regione specifica o a un pubblico globale, assicurati una comunicazione fluida selezionando la lingua preferita. Rendi i tuoi webinar più accessibili e facili da usare per tutti, indipendentemente da dove si uniscano"></span>
+		Lingua della sala e delle email <span class="tooltip" data-tip="Imposta la lingua della sala e delle email per consentire ai partecipanti di vedere tutto nella propria lingua"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-group' => //////////////////////////////////////////////////////////////

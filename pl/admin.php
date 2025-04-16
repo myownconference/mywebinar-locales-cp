@@ -2176,7 +2176,7 @@ return [
 	'room-options-language' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Język <span class="tooltip" data-tip="Dostosuj język pokoju webinarowego, aby poprawić wrażenia uczestników. Niezależnie od tego, czy kierujesz ofertę do konkretnego regionu, czy do globalnej publiczności, zapewnij płynną komunikację, wybierając preferowany język. Uczyń swoje webinary bardziej dostępnymi i przyjaznymi dla użytkowników dla wszystkich, bez względu na to, skąd dołączają"></span>
+		Język pokoju i e-maili <span class="tooltip" data-tip="Ustaw język pokoju i wiadomości, aby uczestnicy widzieli wszystko w znanym im języku"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-group' => //////////////////////////////////////////////////////////////

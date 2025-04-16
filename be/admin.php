@@ -2175,7 +2175,7 @@ return [
 	'room-options-language' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Language <span class="tooltip" data-tip="Customize the webinar room‘s language to improve the attendee experience. Whether targeting a specific region or a global audience, ensure smooth communication by selecting the preferred language. Make your webinars more accessible and user-friendly for everyone, no matter where they’re joining from"></span>
+		Мова пакоя і лістоў <span class="tooltip" data-tip="Наладзьце мову пакоя і лістоў, каб удзельнікі бачылі ўсё на звыклай для іх мове"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-group' => //////////////////////////////////////////////////////////////

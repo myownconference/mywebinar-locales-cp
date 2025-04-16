@@ -2175,7 +2175,7 @@ return [
 	'room-options-language' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Dil <span class="tooltip" data-tip="Katılımcı deneyimini iyileştirmek için webinar odasının dilini özelleştirin. Belirli bir bölgeyi veya küresel bir izleyici kitlesini hedefliyor olun, tercih edilen dili seçerek sorunsuz iletişimi sağlayın. Webinarlarınızı herkes için daha erişilebilir ve kullanıcı dostu hale getirin, nereden katıldıklarına bakılmaksızın"></span>
+		Oda ve e-posta dili <span class="tooltip" data-tip="Katılımcıların her şeyi kendi dillerinde görebilmeleri için oda ve e-posta dilini ayarlayın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-group' => //////////////////////////////////////////////////////////////

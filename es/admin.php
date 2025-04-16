@@ -2175,7 +2175,7 @@ return [
 	'room-options-language' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Idioma <span class="tooltip" data-tip="Personaliza el idioma de la sala del webinario para mejorar la experiencia de los asistentes. Ya sea que te dirijas a una región específica o a una audiencia global, asegúrate de una comunicación fluida seleccionando el idioma preferido. Haz que tus webinarios sean más accesibles y fáciles de usar para todos, sin importar desde dónde se unan"></span>
+		Idioma de la sala y de los correos <span class="tooltip" data-tip="Configura el idioma de la sala y los correos para que los participantes vean todo en su idioma habitual"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-group' => //////////////////////////////////////////////////////////////

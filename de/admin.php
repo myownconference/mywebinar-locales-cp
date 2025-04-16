@@ -2175,7 +2175,7 @@ return [
 	'room-options-language' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sprache <span class="tooltip" data-tip="Passen Sie die Sprache des Webinarraums an, um das Erlebnis der Teilnehmer zu verbessern. Ob Sie eine bestimmte Region oder ein globales Publikum ansprechen, wählen Sie die bevorzugte Sprache für eine reibungslose Kommunikation. Machen Sie Ihre Webinare für alle zugänglicher und benutzerfreundlicher, egal von wo sie teilnehmen"></span>
+		Sprache des Raums und der E-Mails <span class="tooltip" data-tip="Legen Sie die Sprache des Raums und der E-Mails fest, damit Teilnehmende alles in ihrer gewohnten Sprache sehen"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-group' => //////////////////////////////////////////////////////////////

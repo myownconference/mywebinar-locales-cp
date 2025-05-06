@@ -6060,7 +6060,13 @@ return [
 	'mails-statistic' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Statistiken <span class="tooltip" data-tip="Zugriff auf Statistiken zur Webinar-Teilnahme, Teilnehmerengagement, geografischen Daten und E-Mail-Leistung, wenn Sie unser Mailsystem verwenden"></span>
+		Statistiken <span class="tooltip" data-tip="Die Statistik zeigt die Anzahl der versendeten Einladungen sowie erfolgreiche und fehlgeschlagene Zustellversuche. Bitte beachten Sie, dass Daten und Grafiken nicht sofort aktualisiert werden, da der Versand der E-Mails einige Zeit in Anspruch nimmt. Bitte warten Sie einen Moment, die Informationen werden automatisch aktualisiert"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'mails-statistic-hint' => ////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Genaue Statistiken sind verfügbar, sobald alle Mailings und das Webinar abgeschlossen sind
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////

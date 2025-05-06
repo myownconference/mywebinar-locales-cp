@@ -6081,7 +6081,13 @@ return [
 	'mails-statistic' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Estadísticas <span class="tooltip" data-tip="Accede a estadísticas sobre la participación en el webinar, el compromiso de los asistentes, los datos geográficos y el rendimiento del correo electrónico si estás utilizando nuestro sistema de mailing"></span>
+		Estadísticas <span class="tooltip" data-tip="Las estadísticas muestran el número de invitaciones enviadas, los intentos exitosos y fallidos de entrega. Tenga en cuenta que los datos y gráficos no se actualizan de inmediato, ya que el envío de correos electrónicos lleva algo de tiempo. Espere un momento y la información se actualizará automáticamente"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'mails-statistic-hint' => ////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Las estadísticas precisas estarán disponibles después de completar todos los envíos y finalizar el webinar
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////

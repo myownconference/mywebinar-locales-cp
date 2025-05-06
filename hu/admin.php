@@ -6060,7 +6060,13 @@ return [
 	'mails-statistic' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Statisztikák <span class="tooltip" data-tip="Hozzáférés a webináriumi részvételi, résztvevői elkötelezettségi, földrajzi adatokhoz és az e-mail teljesítményhez, ha a levelezőrendszerünket használja"></span>
+		Statisztikák <span class="tooltip" data-tip="A statisztika megmutatja az elküldött meghívók számát, a sikeres és sikertelen kézbesítési próbálkozásokat. Kérjük, vegye figyelembe, hogy az adatok és a grafikonok nem frissülnek azonnal, mivel az e-mailek kiküldése némi időt vesz igénybe. Kérjük, várjon egy kicsit, és az információk automatikusan frissülnek"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'mails-statistic-hint' => ////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		A pontos statisztika az összes levél kiküldése és a webinárium befejezése után lesz elérhető
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////

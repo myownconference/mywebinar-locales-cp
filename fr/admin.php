@@ -6079,7 +6079,13 @@ return [
 	'mails-statistic' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Statistiques <span class="tooltip" data-tip="Accédez aux statistiques sur la participation au webinaire, l‘engagement des participants, les données géographiques et les performances des e-mails si vous utilisez notre système de mailing"></span>
+		Statistiques <span class="tooltip" data-tip="Les statistiques affichent le nombre dʼinvitations envoyées, ainsi que les tentatives de livraison réussies et échouées. Veuillez noter que les données et les graphiques ne sont pas mis à jour immédiatement, car lʼenvoi des e-mails prend un certain temps. Patientez un peu et les informations seront mises à jour automatiquement"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'mails-statistic-hint' => ////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Les statistiques précises seront disponibles après lʼenvoi de tous les e-mails et la fin du webinaire
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////

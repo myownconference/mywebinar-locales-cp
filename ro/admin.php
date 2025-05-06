@@ -6060,7 +6060,13 @@ return [
 	'mails-statistic' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Statistici <span class="tooltip" data-tip="Accesează statistici despre participarea la webinar, implicarea participanților, date geografice și performanța e-mailurilor dacă utilizezi sistemul nostru de mailing"></span>
+		Statistici <span class="tooltip" data-tip="Statisticile arată numărul de invitații trimise, încercările reușite și eșuate de livrare. Rețineți că datele și graficele nu se actualizează imediat, deoarece trimiterea e-mailurilor durează puțin. Vă rugăm să așteptați puțin și informațiile vor fi actualizate automat"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'mails-statistic-hint' => ////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Statisticile exacte vor fi disponibile după finalizarea tuturor trimiterilor și a webinarului
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////

@@ -3549,7 +3549,7 @@ return [
 	'webinar-link-for-all' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vispārējā saite <span class="tooltip" data-tip="Šī universālā saite ļauj visiem dalībniekiem pievienoties notikumam. Kopīgojiet to pa e-pastu, sociālajos tīklos vai savā vietnē, lai uzaicinātu dalībniekus"></span>
+		Vispārīgā viesu saite <span class="tooltip" data-tip="Šī universālā saite ļauj visiem dalībniekiem pievienoties notikumam. Kopīgojiet to pa e-pastu, sociālajos tīklos vai savā vietnē, lai uzaicinātu dalībniekus"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-link' => ////////////////////////////////////////////////////////////////////

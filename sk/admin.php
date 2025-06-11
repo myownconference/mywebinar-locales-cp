@@ -3549,7 +3549,7 @@ return [
 	'webinar-link-for-all' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Všeobecný odkaz <span class="tooltip" data-tip="Tento univerzálny odkaz umožňuje všetkým účastníkom pripojiť sa k udalosti. Zdieľajte ho e-mailom, na sociálnych sieťach alebo na svojom webe, aby ste pozvali účastníkov"></span>
+		Všeobecný odkaz pre hostí <span class="tooltip" data-tip="Tento univerzálny odkaz umožňuje všetkým účastníkom pripojiť sa k udalosti. Zdieľajte ho e-mailom, na sociálnych sieťach alebo na svojom webe, aby ste pozvali účastníkov"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-link' => ////////////////////////////////////////////////////////////////////

@@ -3549,7 +3549,7 @@ return [
 	'webinar-link-for-all' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link general <span class="tooltip" data-tip="Acest link universal permite tuturor participanților să se alăture evenimentului. Distribuie-l prin e-mail, rețele sociale sau pe site-ul tău pentru a invita participanți"></span>
+		Link general pentru invitați <span class="tooltip" data-tip="Acest link universal permite tuturor participanților să se alăture evenimentului. Distribuie-l prin e-mail, rețele sociale sau pe site-ul tău pentru a invita participanți"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-link' => ////////////////////////////////////////////////////////////////////

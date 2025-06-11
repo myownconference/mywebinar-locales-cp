@@ -3549,7 +3549,7 @@ return [
 	'webinar-link-for-all' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Általános hivatkozás <span class="tooltip" data-tip="Ez az univerzális link lehetővé teszi minden résztvevő számára az eseményhez való csatlakozást. Oszd meg e-mailben, közösségi médiában vagy weboldaladon a résztvevők meghívására"></span>
+		Általános vendéglink <span class="tooltip" data-tip="Ez az univerzális link lehetővé teszi minden résztvevő számára az eseményhez való csatlakozást. Oszd meg e-mailben, közösségi médiában vagy weboldaladon a résztvevők meghívására"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-link' => ////////////////////////////////////////////////////////////////////

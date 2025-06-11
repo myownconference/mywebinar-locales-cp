@@ -3555,7 +3555,7 @@ return [
 	'webinar-link-for-all' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Genel bağlantı <span class="tooltip" data-tip="Bu evrensel bağlantı, tüm katılımcıların etkinliğe katılmasını sağlar. Katılımcıları davet etmek için e-posta, sosyal medya veya web siteniz aracılığıyla paylaşın"></span>
+		Genel misafir bağlantısı <span class="tooltip" data-tip="Bu evrensel bağlantı, tüm katılımcıların etkinliğe katılmasını sağlar. Katılımcıları davet etmek için e-posta, sosyal medya veya web siteniz aracılığıyla paylaşın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-link' => ////////////////////////////////////////////////////////////////////

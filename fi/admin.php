@@ -3549,7 +3549,7 @@ return [
 	'webinar-link-for-all' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Yleinen linkki <span class="tooltip" data-tip="Tämä yleinen linkki mahdollistaa kaikkien osallistujien liittymisen tapahtumaan. Jaa se sähköpostitse, sosiaalisessa mediassa tai verkkosivustollasi kutsuaksesi osallistujia"></span>
+		Yleinen vieraslinkki <span class="tooltip" data-tip="Tämä yleinen linkki mahdollistaa kaikkien osallistujien liittymisen tapahtumaan. Jaa se sähköpostitse, sosiaalisessa mediassa tai verkkosivustollasi kutsuaksesi osallistujia"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-link' => ////////////////////////////////////////////////////////////////////

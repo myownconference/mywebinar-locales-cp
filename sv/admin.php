@@ -3549,7 +3549,7 @@ return [
 	'webinar-link-for-all' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Allmän länk <span class="tooltip" data-tip="Den här universella länken låter alla deltagare gå med i evenemanget. Dela den via e-post, sociala medier eller din webbplats för att bjuda in deltagare"></span>
+		Allmän gästlänk <span class="tooltip" data-tip="Den här universella länken låter alla deltagare gå med i evenemanget. Dela den via e-post, sociala medier eller din webbplats för att bjuda in deltagare"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-link' => ////////////////////////////////////////////////////////////////////

@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Klona webbinar?</strong><br><br>Du kan kopiera webbinariet och välja om du vill överföra deltagarlistan till den nya kopian
+		<strong>Klona webbinariet?</strong><br><br>Länken till det nya webbinariet kommer att behållas, eftersom hela händelsecykeln automatiskt blir en serie webbinarier.<br><br>Välj om du vill överföra deltagarlistan till det nya webbinariet
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-with-attendee' => /////////////////////////////////////////////////////////////

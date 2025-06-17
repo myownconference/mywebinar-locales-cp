@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Klon webinaret?</strong><br><br>Du kan kopiere webinaret og vælge, om deltagerlisten skal overføres til den nye kopi
+		<strong>Klon webinar?</strong><br><br>Linket til det nye webinar vil blive bevaret, da hele arrangementscyklussen automatisk bliver til en række webinars.<br><br>Vælg, om du vil overføre deltagerlisten til det nye webinar
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-with-attendee' => /////////////////////////////////////////////////////////////

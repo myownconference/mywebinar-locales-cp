@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Klonirati webinar?</strong><br><br>Lahko kopirate spletni seminar in izberete, ali želite seznam udeležencev prenesti v novo kopijo
+		<strong>Kloniraj spletinar?</strong><br><br>Povezava do ustvarjenega spletinarja bo ostala enaka, saj bo celoten cikel dogodkov samodejno postal serija spletinarjev.<br><br>Izberite, ali želite seznam udeležencev prenesti v novi spletinar
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-with-attendee' => /////////////////////////////////////////////////////////////

@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Webinari kopyala?</strong><br><br>Web seminerini kopyalayabilir ve katılımcı listesini yeni kopyaya taşımayı seçebilirsiniz
+		<strong>Web seminerini klonla?</strong><br><br>Yeni oluşturulan web semineri bağlantısı korunur çünkü tüm etkinlik döngüsü otomatik olarak bir web semineri serisine dönüşür.<br><br>Katılımcı listesini yeni web seminerine taşımak isteyip istemediğinizi seçin
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-with-attendee' => /////////////////////////////////////////////////////////////

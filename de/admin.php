@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Webinar duplizieren?</strong><br><br>Sie können das Webinar kopieren und wählen, ob die Teilnehmerliste in die neue Kopie übernommen werden soll
+		<strong>Webinar klonen?</strong><br><br>Der Link zum neuen Webinar bleibt erhalten, da der gesamte Veranstaltungszyklus automatisch zu einer Webinarreihe wird.<br><br>Wählen Sie aus, ob Sie die Teilnehmerliste in das neue Webinar übertragen möchten
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-with-attendee' => /////////////////////////////////////////////////////////////

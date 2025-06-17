@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Kopijuoti webinarą?</strong><br><br>Galite nukopijuoti internetinį seminarą ir pasirinkti, ar perkelti dalyvių sąrašą į naują kopiją
+		<strong>Klonavimo internetinį seminarą?</strong><br><br>Naujo internetinio seminaro nuoroda bus išsaugota, nes visas renginių ciklas automatiškai tampa internetinių seminarų serija.<br><br>Pasirinkite, ar norite perkelti dalyvių sąrašą į naują internetinį seminarą
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-with-attendee' => /////////////////////////////////////////////////////////////

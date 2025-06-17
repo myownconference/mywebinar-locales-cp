@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Klonēt vebināru?</strong><br><br>Jūs varat nokopēt vebināru un izvēlēties, vai pārvietot dalībnieku sarakstu uz jauno kopiju
+		<strong>Klonēt vebināru?</strong><br><br>Jaunā vebināra saite tiks saglabāta, jo viss pasākumu cikls automātiski kļūst par vebināru sēriju.<br><br>Izvēlieties, vai vēlaties pārsūtīt dalībnieku sarakstu uz jauno vebināru
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-with-attendee' => /////////////////////////////////////////////////////////////

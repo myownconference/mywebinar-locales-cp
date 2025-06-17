@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Webinár klónozása?</strong><br><br>Lemásolhatja a webináriumot, és kiválaszthatja, hogy a résztvevők listája átkerüljön-e az új másolatba
+		<strong>Webinárium klónozása?</strong><br><br>Az új webinárium linkje megmarad, mivel az eseménysorozat automatikusan webinárium-sorozattá válik.<br><br>Válassza ki, hogy szeretné-e áthelyezni a résztvevők listáját az új webináriumba
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-with-attendee' => /////////////////////////////////////////////////////////////

@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Klonovať webinár?</strong><br><br>Môžete skopírovať webinár a vybrať, či chcete preniesť zoznam účastníkov do novej kópie
+		<strong>Klonovať webinár?</strong><br><br>Odkaz na vytváraný webinár zostane zachovaný, pretože celý cyklus udalostí sa automaticky zmení na sériu webinárov.<br><br>Vyberte, či chcete preniesť zoznam účastníkov do nového webinára
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-with-attendee' => /////////////////////////////////////////////////////////////

@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Kloonida veebiseminar?</strong><br><br>Saate veebinari kopeerida ja valida, kas osalejate nimekiri kantakse uude koopiasse
+		<strong>Kloonida veebiseminar?</strong><br><br>Uue veebiseminari link säilitatakse, kuna kogu sündmuste tsükkel muutub automaatselt veebiseminaride seeriaks.<br><br>Valige, kas soovite osalejate nimekirja uude veebiseminari üle kanda
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-with-attendee' => /////////////////////////////////////////////////////////////

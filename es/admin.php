@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>¿Clonar el webinar?</strong><br><br>Puedes copiar el seminario web y elegir si deseas transferir la lista de asistentes a la nueva copia
+		<strong>¿Clonar el seminario web?</strong><br><br>El enlace al nuevo seminario web se conservará, ya que todo el ciclo de eventos se convierte automáticamente en una serie de seminarios web.<br><br>Elija si desea transferir la lista de participantes al nuevo seminario web
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-with-attendee' => /////////////////////////////////////////////////////////////

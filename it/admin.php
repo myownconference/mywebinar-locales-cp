@@ -5202,13 +5202,13 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S inviti disponibili <span class="tooltip" data-mode="bottom" data-tip="Questo numero indica il numero massimo di partecipanti che puoi invitare a un singolo webinar. Riflette il totale degli inviti disponibili in base al tuo piano attuale. Nota che il numero di inviti può essere fino a 5 volte il limite di partecipanti del tuo piano tariffario. Ad esempio, se il tuo piano consente 60 partecipanti, puoi invitare fino a 300 partecipanti per garantire flessibilità e coinvolgimento"></span>
+		%S inviti rimanenti <span class="tooltip" data-mode="bottom" data-tip="Questo numero indica il numero massimo di partecipanti che puoi invitare a un singolo webinar. Riflette il totale degli inviti disponibili in base al tuo piano attuale. Nota che il numero di inviti può essere fino a 5 volte il limite di partecipanti del tuo piano tariffario. Ad esempio, se il tuo piano consente 60 partecipanti, puoi invitare fino a 300 partecipanti per garantire flessibilità e coinvolgimento"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		0 inviti disponibili • <a>Aggiorna</a>
+		0 inviti rimanenti • <a>Aggiorna</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'saved-success' => ///////////////////////////////////////////////////////////////////

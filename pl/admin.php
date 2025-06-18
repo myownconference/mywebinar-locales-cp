@@ -5228,13 +5228,13 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S zaproszeń dostępnych <span class="tooltip" data-mode="bottom" data-tip="Ta liczba wskazuje maksymalną liczbę uczestników, których możesz zaprosić na jedno webinarium. Odzwierciedla ona całkowitą liczbę dostępnych zaproszeń w oparciu o Twój aktualny plan. Zwróć uwagę, że liczba zaproszeń może wynosić nawet 5-krotność limitu uczestników Twojego planu cenowego. Na przykład, jeśli Twój plan pozwala na 60 uczestników, możesz zaprosić do 300 uczestników, aby zapewnić elastyczność i zaangażowanie"></span>
+		Pozostało %S zaproszeń <span class="tooltip" data-mode="bottom" data-tip="Ta liczba wskazuje maksymalną liczbę uczestników, których możesz zaprosić na jedno webinarium. Odzwierciedla ona całkowitą liczbę dostępnych zaproszeń w oparciu o Twój aktualny plan. Zwróć uwagę, że liczba zaproszeń może wynosić nawet 5-krotność limitu uczestników Twojego planu cenowego. Na przykład, jeśli Twój plan pozwala na 60 uczestników, możesz zaprosić do 300 uczestników, aby zapewnić elastyczność i zaangażowanie"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		0 dostępnych zaproszeń • <a>Uaktualnij</a>
+		0 zaproszeń pozostało • <a>Uaktualnij</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'saved-success' => ///////////////////////////////////////////////////////////////////

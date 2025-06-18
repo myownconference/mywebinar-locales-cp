@@ -5202,13 +5202,13 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S povabil na voljo <span class="tooltip" data-mode="bottom" data-tip="Ta številka označuje največje število udeležencev, ki jih lahko povabite na en webinar. Odraža skupno število razpoložljivih povabil glede na vaš trenutni načrt. Upoštevajte, da je število povabil lahko do 5-krat večje od omejitve udeležencev vašega cenovnega načrta. Na primer, če vaš načrt dovoljuje 60 udeležencev, lahko povabite do 300 udeležencev za zagotavljanje prilagodljivosti in sodelovanja"></span>
+		%S povabil je še na voljo <span class="tooltip" data-mode="bottom" data-tip="Ta številka označuje največje število udeležencev, ki jih lahko povabite na en webinar. Odraža skupno število razpoložljivih povabil glede na vaš trenutni načrt. Upoštevajte, da je število povabil lahko do 5-krat večje od omejitve udeležencev vašega cenovnega načrta. Na primer, če vaš načrt dovoljuje 60 udeležencev, lahko povabite do 300 udeležencev za zagotavljanje prilagodljivosti in sodelovanja"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		0 invitations available • <a>Upgrade</a>
+		0 povabil je še na voljo • <a>Upgrade</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'saved-success' => ///////////////////////////////////////////////////////////////////

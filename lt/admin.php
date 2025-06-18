@@ -5202,13 +5202,13 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S kvietimų pasiekiama <span class="tooltip" data-mode="bottom" data-tip="Šis skaičius nurodo maksimalų dalyvių skaičių, kuriuos galite pakviesti į vieną internetinį seminarą. Jis atspindi bendrą pagal jūsų dabartinį planą pasiekiamų kvietimų skaičių. Atkreipkite dėmesį, kad kvietimų skaičius gali būti iki 5 kartų didesnis už jūsų kainų plano dalyvių limitą. Pavyzdžiui, jei jūsų planas leidžia 60 dalyvių, galite pakviesti iki 300 dalyvių, užtikrinant lankstumą ir įsitraukimą"></span>
+		Liko %S kvietimų <span class="tooltip" data-mode="bottom" data-tip="Šis skaičius nurodo maksimalų dalyvių skaičių, kuriuos galite pakviesti į vieną internetinį seminarą. Jis atspindi bendrą pagal jūsų dabartinį planą pasiekiamų kvietimų skaičių. Atkreipkite dėmesį, kad kvietimų skaičius gali būti iki 5 kartų didesnis už jūsų kainų plano dalyvių limitą. Pavyzdžiui, jei jūsų planas leidžia 60 dalyvių, galite pakviesti iki 300 dalyvių, užtikrinant lankstumą ir įsitraukimą"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		0 invitations available • <a>Upgrade</a>
+		0 kvietimų liko • <a>Upgrade</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'saved-success' => ///////////////////////////////////////////////////////////////////

@@ -5202,13 +5202,13 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S pozvánok k dispozícii <span class="tooltip" data-mode="bottom" data-tip="Toto číslo udáva maximálny počet účastníkov, ktorých môžete pozvať na jeden webinár. Odzrkadľuje celkový počet pozvánok dostupných podľa vášho aktuálneho plánu. Všimnite si, že počet pozvánok môže byť až 5-krát väčší ako limit účastníkov vášho cenového plánu. Napríklad, ak váš plán povoľuje 60 účastníkov, môžete pozvať až 300 účastníkov na zabezpečenie flexibility a zapojenia"></span>
+		Zostáva %S pozvánok <span class="tooltip" data-mode="bottom" data-tip="Toto číslo udáva maximálny počet účastníkov, ktorých môžete pozvať na jeden webinár. Odzrkadľuje celkový počet pozvánok dostupných podľa vášho aktuálneho plánu. Všimnite si, že počet pozvánok môže byť až 5-krát väčší ako limit účastníkov vášho cenového plánu. Napríklad, ak váš plán povoľuje 60 účastníkov, môžete pozvať až 300 účastníkov na zabezpečenie flexibility a zapojenia"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		0 invitations available • <a>Upgrade</a>
+		0 pozvánok zostáva • <a>Upgrade</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'saved-success' => ///////////////////////////////////////////////////////////////////

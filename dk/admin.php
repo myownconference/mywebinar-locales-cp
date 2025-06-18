@@ -5202,13 +5202,13 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S invitationer tilgængelige <span class="tooltip" data-mode="bottom" data-tip="Dette tal angiver det maksimale antal deltagere, du kan invitere til et enkelt webinar. Det afspejler det samlede antal invitationer, der er tilgængelige baseret på din nuværende plan. Bemærk, at antallet af invitationer kan være op til 5 gange deltagergrænsen for din prismodel. For eksempel, hvis din plan tillader 60 deltagere, kan du invitere op til 300 deltagere for at sikre fleksibilitet og engagement"></span>
+		%S invitationer tilbage <span class="tooltip" data-mode="bottom" data-tip="Dette tal angiver det maksimale antal deltagere, du kan invitere til et enkelt webinar. Det afspejler det samlede antal invitationer, der er tilgængelige baseret på din nuværende plan. Bemærk, at antallet af invitationer kan være op til 5 gange deltagergrænsen for din prismodel. For eksempel, hvis din plan tillader 60 deltagere, kan du invitere op til 300 deltagere for at sikre fleksibilitet og engagement"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		0 invitations available • <a>Upgrade</a>
+		0 invitationer tilbage • <a>Upgrade</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'saved-success' => ///////////////////////////////////////////////////////////////////

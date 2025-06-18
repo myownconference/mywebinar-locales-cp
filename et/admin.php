@@ -5202,13 +5202,13 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S kutseid saadaval <span class="tooltip" data-mode="bottom" data-tip="See number näitab maksimaalset osalejate arvu, keda saate kutsuda ühele veebiseminarile. See kajastab teie praeguse plaani põhjal saadaolevate kutsete koguarvu. Pange tähele, et kutsete arv võib olla kuni 5 korda suurem kui teie hinnaplaani osalejate piirang. Näiteks kui teie plaan lubab 60 osalejat, saate kutsuda kuni 300 osalejat, et tagada paindlikkus ja osalus"></span>
+		%S kutseid on alles <span class="tooltip" data-mode="bottom" data-tip="See number näitab maksimaalset osalejate arvu, keda saate kutsuda ühele veebiseminarile. See kajastab teie praeguse plaani põhjal saadaolevate kutsete koguarvu. Pange tähele, et kutsete arv võib olla kuni 5 korda suurem kui teie hinnaplaani osalejate piirang. Näiteks kui teie plaan lubab 60 osalejat, saate kutsuda kuni 300 osalejat, et tagada paindlikkus ja osalus"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		0 invitations available • <a>Upgrade</a>
+		0 kutset alles • <a>Upgrade</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'saved-success' => ///////////////////////////////////////////////////////////////////

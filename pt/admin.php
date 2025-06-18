@@ -5202,13 +5202,13 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S convites disponíveis <span class="tooltip" data-mode="bottom" data-tip="Este número indica o total de participantes que você pode convidar para um único webinar. Ele reflete o limite de convites do seu plano atual. Você pode convidar até 5 vezes mais do que o limite de participantes permitido pelo seu plano. Por exemplo, se o plano permite 60 participantes, você poderá convidar até 300"></span>
+		Restam %S convites <span class="tooltip" data-mode="bottom" data-tip="Este número indica o total de participantes que você pode convidar para um único webinar. Ele reflete o limite de convites do seu plano atual. Você pode convidar até 5 vezes mais do que o limite de participantes permitido pelo seu plano. Por exemplo, se o plano permite 60 participantes, você poderá convidar até 300"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		0 convites disponíveis • <a>Fazer upgrade</a>
+		0 convites restantes • <a>Fazer upgrade</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'saved-success' => ///////////////////////////////////////////////////////////////////

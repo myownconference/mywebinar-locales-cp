@@ -5202,13 +5202,13 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S uitnodigingen beschikbaar <span class="tooltip" data-mode="bottom" data-tip="Dit aantal geeft het maximale aantal deelnemers aan dat je kunt uitnodigen voor één webinar. Het weerspiegelt het totale aantal beschikbare uitnodigingen op basis van je huidige plan. Merk op dat het aantal uitnodigingen tot 5 keer het deelnemerslimiet van je prijsplan kan zijn. Bijvoorbeeld, als je plan 60 deelnemers toestaat, kun je tot 300 deelnemers uitnodigen om flexibiliteit en betrokkenheid te garanderen"></span>
+		%S uitnodigingen over <span class="tooltip" data-mode="bottom" data-tip="Dit aantal geeft het maximale aantal deelnemers aan dat je kunt uitnodigen voor één webinar. Het weerspiegelt het totale aantal beschikbare uitnodigingen op basis van je huidige plan. Merk op dat het aantal uitnodigingen tot 5 keer het deelnemerslimiet van je prijsplan kan zijn. Bijvoorbeeld, als je plan 60 deelnemers toestaat, kun je tot 300 deelnemers uitnodigen om flexibiliteit en betrokkenheid te garanderen"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		0 invitations available • <a>Upgrade</a>
+		0 uitnodigingen over • <a>Upgrade</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'saved-success' => ///////////////////////////////////////////////////////////////////

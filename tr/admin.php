@@ -5208,13 +5208,13 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		%S davetiye mevcut <span class="tooltip" data-mode="bottom" data-tip="Bu sayı, tek bir web seminerine davet edebileceğiniz maksimum katılımcı sayısını gösterir. Mevcut planınıza göre toplam kullanılabilir davetiye sayısını yansıtır. Davetiye sayısının, fiyatlandırma planınızın katılımcı limitinin 5 katına kadar çıkabileceğini unutmayın. Örneğin, planınız 60 katılımcıya izin veriyorsa, esneklik ve katılım sağlamak için 300 katılımcıya kadar davet gönderebilirsiniz"></span>
+		%S davetiye kaldı <span class="tooltip" data-mode="bottom" data-tip="Bu sayı, tek bir web seminerine davet edebileceğiniz maksimum katılımcı sayısını gösterir. Mevcut planınıza göre toplam kullanılabilir davetiye sayısını yansıtır. Davetiye sayısının, fiyatlandırma planınızın katılımcı limitinin 5 katına kadar çıkabileceğini unutmayın. Örneğin, planınız 60 katılımcıya izin veriyorsa, esneklik ve katılım sağlamak için 300 katılımcıya kadar davet gönderebilirsiniz"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		0 davetiye mevcut • <a>Yükselt</a>
+		0 davetiye kaldı • <a>Yükselt</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'saved-success' => ///////////////////////////////////////////////////////////////////

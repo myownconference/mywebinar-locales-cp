@@ -6930,7 +6930,7 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vain merkityt moderaattorit kutsutaan webinaariin
+		Vain merkityt moderaattorit kutsutaan webinaariin <span class="tooltip" data-tip="Tässä luettelossa näet kaikki yleisosiossa koskaan luomasi aktiiviset moderaattorit. Valitse vain ne moderaattorit, jotka osallistuvat tähän tapahtumaan. Vain valitut moderaattorit saavat linkin ja pääsyn tähän tapahtumaan"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////

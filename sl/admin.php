@@ -6930,7 +6930,7 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Samo označeni moderatorji bodo povabljeni na spletni seminar
+		Samo označeni moderatorji bodo povabljeni na spletni seminar <span class="tooltip" data-tip="Na tem seznamu vidiš vse aktivne moderatorje, ki so bili kdajkoli ustvarjeni v splošnem razdelku. Prosimo, izberi samo tiste moderatorje, ki bodo sodelovali na tem dogodku. Samo izbrani moderatorji bodo prejeli povezavo in dostop do dogodka"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////

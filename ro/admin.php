@@ -6930,7 +6930,7 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Doar moderatorii selectați vor fi invitați la webinar
+		Doar moderatorii selectați vor fi invitați la webinar <span class="tooltip" data-tip="În această listă vezi toți moderatorii activi creați vreodată în secțiunea generală. Te rugăm să selectezi doar moderatorii care vor participa la acest eveniment. Doar moderatorii selectați vor primi linkul și accesul la acest eveniment"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////

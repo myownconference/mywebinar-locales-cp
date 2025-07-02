@@ -6949,7 +6949,7 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Seuls les modérateurs sélectionnés seront invités au webinaire
+		Seuls les modérateurs sélectionnés seront invités au webinaire <span class="tooltip" data-tip="Dans cette liste, vous voyez tous vos modérateurs actifs créés dans la section générale. Veuillez sélectionner uniquement les modérateurs qui participeront à cet événement. Seuls les modérateurs sélectionnés recevront le lien et lʼaccès à cet événement"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////

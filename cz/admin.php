@@ -6930,7 +6930,7 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pouze označení moderátoři budou pozváni na webinář
+		Pouze označení moderátoři budou pozváni na webinář <span class="tooltip" data-tip="V tomto seznamu vidíte všechny aktivní moderátory, které jste kdy vytvořili v obecném oddílu. Vyberte prosím pouze ty moderátory, kteří se zúčastní této události. Pouze vybraní moderátoři obdrží odkaz a přístup k této události"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////

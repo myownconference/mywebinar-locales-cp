@@ -6930,7 +6930,7 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Only marked moderators will be invited to the webinar
+		Only marked moderators will be invited to the webinar <span class="tooltip" data-tip="In this list, you see all your active moderators ever created in the general section. Please select only the moderators who will participate in this event. Only the selected moderators will receive the link and access to this event"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////

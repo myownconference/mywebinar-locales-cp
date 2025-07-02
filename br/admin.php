@@ -6930,7 +6930,7 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Apenas os moderadores marcados serão convidados para o webinar
+		Apenas os moderadores marcados serão convidados para o webinar <span class="tooltip" data-tip="Nesta lista, você vê todos os moderadores ativos já criados na seção geral. Por favor, selecione apenas os moderadores que participarão deste evento. Apenas os moderadores selecionados receberão o link e o acesso a este evento"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////

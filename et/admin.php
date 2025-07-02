@@ -6930,7 +6930,7 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ainult märgistatud moderaatorid kutsutakse veebiseminarile
+		Ainult märgistatud moderaatorid kutsutakse veebiseminarile <span class="tooltip" data-tip="Selles loendis näed kõiki oma aktiivseid moderaatoreid, kes on kunagi loodud üldosas. Palun vali ainult need moderaatorid, kes osalevad sellel üritusel. Ainult valitud moderaatorid saavad selle ürituse lingi ja juurdepääsu"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////

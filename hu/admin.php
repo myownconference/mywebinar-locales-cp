@@ -6930,7 +6930,7 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Csak a megjelölt moderátorokat hívjuk meg a webinárra
+		Csak a megjelölt moderátorokat hívjuk meg a webinárra <span class="tooltip" data-tip="Ebben a listában az összes aktív moderátorodat látod, akiket valaha létrehoztál az általános szekcióban. Kérlek, csak azokat a moderátorokat válaszd ki, akik részt vesznek ezen az eseményen. Csak a kiválasztott moderátorok kapják meg a linket és a hozzáférést az eseményhez"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////

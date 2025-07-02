@@ -6930,7 +6930,7 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Alleen gemarkeerde moderators worden uitgenodigd voor het webinar
+		Alleen gemarkeerde moderators worden uitgenodigd voor het webinar <span class="tooltip" data-tip="In deze lijst zie je al je actieve moderators die ooit in het algemene gedeelte zijn aangemaakt. Selecteer alleen de moderators die aan dit evenement zullen deelnemen. Alleen de geselecteerde moderators ontvangen de link en toegang tot dit evenement"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////

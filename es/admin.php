@@ -6945,7 +6945,7 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Solo los moderadores marcados serán invitados al seminario web
+		Solo los moderadores marcados serán invitados al seminario web <span class="tooltip" data-tip="En esta lista, ves todos tus moderadores activos que se han creado en la sección general. Selecciona solo a los moderadores que participarán en este evento. Solo los moderadores seleccionados recibirán el enlace y el acceso a este evento"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////

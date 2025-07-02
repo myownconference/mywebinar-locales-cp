@@ -6958,7 +6958,7 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tylko zaznaczeni moderatorzy zostaną zaproszeni na webinar
+		Tylko zaznaczeni moderatorzy zostaną zaproszeni na webinar <span class="tooltip" data-tip="Na tej liście widzisz wszystkich aktywnych moderatorów, którzy kiedykolwiek zostali utworzeni w sekcji ogólnej. Wybierz tylko tych moderatorów, którzy będą uczestniczyć w tym wydarzeniu. Tylko wybrani moderatorzy otrzymają link i dostęp do wydarzenia"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////

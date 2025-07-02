@@ -6930,7 +6930,7 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tik pažymėti moderatoriai bus pakviesti į internetinį seminarą
+		Tik pažymėti moderatoriai bus pakviesti į internetinį seminarą <span class="tooltip" data-tip="Šiame sąraše matote visus aktyvius moderatorius, sukurtus bendroje skiltyje. Pasirinkite tik tuos moderatorius, kurie dalyvaus šiame renginyje. Tik pasirinkti moderatoriai gaus nuorodą ir prieigą prie šio renginio"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////

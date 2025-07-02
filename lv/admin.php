@@ -6930,7 +6930,7 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tikai atzīmētie moderatori tiks uzaicināti uz vebināru
+		Tikai atzīmētie moderatori tiks uzaicināti uz vebināru <span class="tooltip" data-tip="Šajā sarakstā redzami visi aktīvie moderatorii, kas jebkad izveidoti vispārīgajā sadaļā. Lūdzu, izvēlieties tikai tos moderatorus, kuri piedalīsies šajā pasākumā. Tikai izvēlētie moderatori saņems saiti un piekļuvi šim pasākumam"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////

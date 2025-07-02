@@ -6930,7 +6930,7 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Endast markerade moderatorer kommer att bjudas in till webbinariet
+		Endast markerade moderatorer kommer att bjudas in till webbinariet <span class="tooltip" data-tip="I den här listan ser du alla dina aktiva moderatorer som någonsin skapats i den allmänna sektionen. Välj endast de moderatorer som ska delta i det här evenemanget. Endast de valda moderatorerna kommer att få länken och tillgång till evenemanget"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////

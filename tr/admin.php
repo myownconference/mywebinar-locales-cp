@@ -6936,7 +6936,7 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Yalnızca işaretlenen moderatörler web seminerine davet edilecektir
+		Yalnızca işaretlenen moderatörler web seminerine davet edilecektir <span class="tooltip" data-tip="Bu listede genel bölümde oluşturduğunuz tüm aktif moderatörleri görüyorsunuz. Lütfen sadece bu etkinliğe katılacak olan moderatörleri seçin. Yalnızca seçilen moderatörler bu etkinliğe ait bağlantı ve erişimi alacaktır"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////

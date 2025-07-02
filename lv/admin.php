@@ -2793,7 +2793,7 @@ return [
 	'import-limit-error' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Jūsu plāns atbalsta līdz %d dalībniekiem un ļauj importēt līdz %d kontaktpersonām vienlaikus (%d× jūsu dalībnieku ierobežojums). Lūdzu, izvēlieties svarīgākos kontaktus importēšanai vai jauniniet savu plānu, lai palielinātu limitu.
+		Vienlaikus var importēt līdz 5000 dalībniekiem. Lūdzu, sadaliet failu mazākās daļās
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'free-account-import-limit-reached' => ///////////////////////////////////////////////

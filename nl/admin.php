@@ -2793,7 +2793,7 @@ return [
 	'import-limit-error' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Je plan ondersteunt maximaal %d deelnemers en staat toe om maximaal %d contacten tegelijk te importeren (%d× je deelnemerslimiet). Selecteer de belangrijkste contacten voor import of upgrade je plan om de limiet te verhogen.
+		Je kunt maximaal 5.000 deelnemers tegelijk importeren. Splits je bestand in kleinere batches
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'free-account-import-limit-reached' => ///////////////////////////////////////////////

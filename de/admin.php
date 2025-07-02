@@ -2793,7 +2793,7 @@ return [
 	'import-limit-error' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ihr Tarif unterstützt bis zu %d Teilnehmer und erlaubt Ihnen, bis zu %d Kontakte auf einmal zu importieren (%d× Ihr Teilnehmerlimit). Bitte wählen Sie die wichtigsten Kontakte zum Import oder aktualisieren Sie Ihren Tarif, um das Limit zu erhöhen.
+		Sie können bis zu 5.000 Teilnehmer gleichzeitig importieren. Bitte teilen Sie Ihre Datei in kleinere Chargen auf
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'free-account-import-limit-reached' => ///////////////////////////////////////////////

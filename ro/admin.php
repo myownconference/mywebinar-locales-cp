@@ -2793,7 +2793,7 @@ return [
 	'import-limit-error' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Planul tău acceptă până la %d participanți și îți permite să imporți până la %d contacte simultan (%d× limita ta de participanți). Selectează cele mai importante contacte pentru import sau actualizează-ți planul pentru a mări limita.
+		Puteți importa până la 5.000 de participanți odată. Vă rugăm să împărțiți fișierul în loturi mai mici
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'free-account-import-limit-reached' => ///////////////////////////////////////////////

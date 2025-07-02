@@ -2793,7 +2793,7 @@ return [
 	'import-limit-error' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Az Ön csomagja legfeljebb %d résztvevőt támogat, és lehetővé teszi, hogy egyszerre legfeljebb %d kapcsolatot importáljon (%d× a résztvevői limit). Kérjük, válassza ki a legfontosabb kapcsolatokat az importáláshoz, vagy frissítse a csomagját a korlát növeléséhez.
+		Egyszerre legfeljebb 5000 résztvevőt importálhat. Kérjük, ossza fel a fájlt kisebb csomagokra
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'free-account-import-limit-reached' => ///////////////////////////////////////////////

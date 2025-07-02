@@ -2793,7 +2793,7 @@ return [
 	'import-limit-error' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Seu plano suporta até %d participantes e permite importar até %d contatos por vez (%d× seu limite de participantes). Selecione os contatos mais importantes para importação ou faça um upgrade no seu plano para aumentar o limite.
+		Você pode importar até 5.000 participantes por vez. Divida seu arquivo em lotes menores
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'free-account-import-limit-reached' => ///////////////////////////////////////////////

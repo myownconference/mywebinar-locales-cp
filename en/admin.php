@@ -2793,7 +2793,7 @@ return [
 	'import-limit-error' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Your plan supports up to %d attendees and allows you to import up to %d contacts at a time (%d× your attendee limit). Please select the most important contacts for import or upgrade your plan to increase the limit.
+		You can import up to 5,000 attendees at a time. Please split your file into smaller batches
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'free-account-import-limit-reached' => ///////////////////////////////////////////////

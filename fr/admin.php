@@ -2794,7 +2794,7 @@ return [
 	'import-limit-error' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Votre forfait prend en charge jusqu’à %d participants et vous permet d’importer jusqu’à %d contacts à la fois (%d× votre limite de participants). Veuillez sélectionner les contacts les plus importants à importer ou mettre à niveau votre forfait pour augmenter la limite.
+		Vous pouvez importer jusquʼà 5 000 participants à la fois. Veuillez diviser votre fichier en lots plus petits
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'free-account-import-limit-reached' => ///////////////////////////////////////////////

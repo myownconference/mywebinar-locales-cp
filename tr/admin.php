@@ -2793,7 +2793,7 @@ return [
 	'import-limit-error' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Planınız en fazla %d katılımcıyı destekler ve aynı anda %d kişiyi içe aktarmanıza izin verir (%d× katılımcı sınırınız). İçeri aktarmak için en önemli kişileri seçin veya sınırı artırmak için planınızı yükseltin.
+		Aynı anda en fazla 5000 katılımcı içe aktarabilirsiniz. Lütfen dosyanızı daha küçük partilere ayırın
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'free-account-import-limit-reached' => ///////////////////////////////////////////////

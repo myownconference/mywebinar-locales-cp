@@ -2793,7 +2793,7 @@ return [
 	'import-limit-error' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Din plan understøtter op til %d deltagere og giver dig mulighed for at importere op til %d kontakter ad gangen (%d× din deltagergrænse). Vælg de vigtigste kontakter til import eller opgrader din plan for at øge grænsen.
+		Du kan importere op til 5.000 deltagere ad gangen. Opdel venligst filen i mindre batches
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'free-account-import-limit-reached' => ///////////////////////////////////////////////

@@ -2793,7 +2793,7 @@ return [
 	'import-limit-error' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tu plan admite hasta %d asistentes y te permite importar hasta %d contactos a la vez (%d× tu límite de asistentes). Selecciona los contactos más importantes para importar o actualiza tu plan para aumentar el límite.
+		Puedes importar hasta 5.000 asistentes a la vez. Divide el archivo en lotes más pequeños
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'free-account-import-limit-reached' => ///////////////////////////////////////////////

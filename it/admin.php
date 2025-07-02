@@ -6936,7 +6936,7 @@ return [
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Solo i partecipanti selezionati saranno invitati al webinar
+		Solo i partecipanti selezionati saranno invitati al webinar <span class="tooltip" data-tip="Puoi invitare fino a cinque volte più persone rispetto alla capienza del tuo piano. Questo aiuta ad attirare partecipanti davvero interessati, mentre garantiamo una forte protezione contro lo spam"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

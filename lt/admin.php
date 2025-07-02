@@ -6936,7 +6936,7 @@ return [
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tik pažymėti dalyviai bus pakviesti į internetinį seminarą
+		Tik pažymėti dalyviai bus pakviesti į internetinį seminarą <span class="tooltip" data-tip="Galite pakviesti iki penkių kartų daugiau žmonių nei jūsų plano talpa. Tai padeda pritraukti tikrai susidomėjusius dalyvius, o mes užtikriname stiprią apsaugą nuo šlamšto"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

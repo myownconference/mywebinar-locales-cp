@@ -6936,7 +6936,7 @@ return [
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Alleen gemarkeerde deelnemers worden uitgenodigd voor het webinar
+		Alleen gemarkeerde deelnemers worden uitgenodigd voor het webinar <span class="tooltip" data-tip="Je kunt tot vijf keer zoveel mensen uitnodigen als de capaciteit van je abonnement. Zo trek je echt geïnteresseerde deelnemers aan, terwijl wij zorgen voor een sterke bescherming tegen spam"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

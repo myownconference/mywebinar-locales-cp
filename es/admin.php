@@ -6951,7 +6951,7 @@ return [
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Solo los participantes marcados serán invitados al seminario web
+		Solo los participantes marcados serán invitados al seminario web <span class="tooltip" data-tip="Puedes invitar hasta cinco veces más personas que la capacidad de tu plan. Esto ayuda a atraer asistentes realmente interesados, mientras aseguramos una fuerte protección contra el spam"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

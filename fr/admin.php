@@ -6955,7 +6955,7 @@ return [
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Seuls les participants sélectionnés seront invités au webinaire
+		Seuls les participants sélectionnés seront invités au webinaire <span class="tooltip" data-tip="Vous pouvez inviter jusquʼà cinq fois plus de personnes que la capacité prévue dans votre forfait. Cela permet dʼattirer des participants vraiment intéressés, tout en garantissant une protection forte contre le spam"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

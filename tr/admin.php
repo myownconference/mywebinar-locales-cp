@@ -6942,7 +6942,7 @@ return [
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Yalnızca işaretlenen katılımcılar web seminerine davet edilecektir
+		Yalnızca işaretlenen katılımcılar web seminerine davet edilecektir <span class="tooltip" data-tip="Plan kapasitenizin beş katı kadar kişiyi davet edebilirsiniz. Bu, gerçekten ilgili katılımcıları çekmeye yardımcı olurken güçlü bir spam koruması sağlarız"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

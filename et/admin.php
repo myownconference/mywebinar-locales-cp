@@ -6936,7 +6936,7 @@ return [
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ainult märgistatud osalejad kutsutakse veebiseminarile
+		Ainult märgistatud osalejad kutsutakse veebiseminarile <span class="tooltip" data-tip="Saate kutsuda kuni viis korda rohkem inimesi kui teie paketi mahutavus. See aitab ligi meelitada tõeliselt huvitatud osalejaid, samal ajal kui tagame tugeva kaitse rämpsposti vastu"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

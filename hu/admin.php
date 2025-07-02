@@ -6936,7 +6936,7 @@ return [
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Csak a megjelölt résztvevők lesznek meghívva a webinárra
+		Csak a megjelölt résztvevők lesznek meghívva a webinárra <span class="tooltip" data-tip="Az előfizetési csomagod kapacitásának ötszöröséig hívhatsz meg résztvevőket. Ez segít valóban érdeklődő résztvevőket bevonzani, miközben erős védelmet biztosítunk a spam ellen"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

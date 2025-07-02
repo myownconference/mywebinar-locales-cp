@@ -6756,7 +6756,7 @@ return [
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Na webinár budú pozvaní iba označení účastníci
+		Na webinár budú pozvaní iba označení účastníci <span class="tooltip" data-tip="Môžete pozvať až päťkrát viac ľudí, než je kapacita vášho plánu. Pomáha to prilákať skutočne zainteresovaných účastníkov, pričom zabezpečujeme silnú ochranu proti spamu"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

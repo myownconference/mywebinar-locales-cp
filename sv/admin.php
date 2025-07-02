@@ -6936,7 +6936,7 @@ return [
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Endast markerade deltagare kommer att bjudas in till webbinariet
+		Endast markerade deltagare kommer att bjudas in till webbinariet <span class="tooltip" data-tip="Du kan bjuda in upp till fem gånger fler personer än vad din plan tillåter. Detta hjälper dig att locka verkligt intresserade deltagare, samtidigt som vi säkerställer starkt skydd mot skräppost"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

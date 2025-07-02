@@ -6936,7 +6936,7 @@ return [
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tikai atzīmētie dalībnieki tiks uzaicināti uz vebināru
+		Tikai atzīmētie dalībnieki tiks uzaicināti uz vebināru <span class="tooltip" data-tip="Jūs varat uzaicināt līdz pat piecām reizēm vairāk cilvēku nekā paredzēts jūsu plānā. Tas palīdz piesaistīt patiesi ieinteresētus dalībniekus, vienlaikus nodrošinot spēcīgu aizsardzību pret surogātpastu"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

@@ -6964,7 +6964,7 @@ return [
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tylko zaznaczeni uczestnicy zostaną zaproszeni na webinar
+		Tylko zaznaczeni uczestnicy zostaną zaproszeni na webinar <span class="tooltip" data-tip="Możesz zaprosić nawet pięć razy więcej osób niż wynosi limit planu. To pomaga przyciągnąć naprawdę zainteresowanych uczestników, a my zapewniamy solidną ochronę przed spamem"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

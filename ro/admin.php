@@ -6936,7 +6936,7 @@ return [
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Doar participanții selectați vor fi invitați la webinar
+		Doar participanții selectați vor fi invitați la webinar <span class="tooltip" data-tip="Poți invita de până la cinci ori mai multe persoane decât capacitatea planului tău. Acest lucru ajută la atragerea participanților cu adevărat interesați, în timp ce noi asigurăm o protecție puternică împotriva spamului"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

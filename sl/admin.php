@@ -6936,7 +6936,7 @@ return [
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Samo označeni udeleženci bodo povabljeni na spletni seminar
+		Samo označeni udeleženci bodo povabljeni na spletni seminar <span class="tooltip" data-tip="Povabite lahko do petkrat več ljudi, kot je zmogljivost vašega paketa. Tako privabite resnično zainteresirane udeležence, hkrati pa zagotavljamo močno zaščito pred neželeno pošto"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

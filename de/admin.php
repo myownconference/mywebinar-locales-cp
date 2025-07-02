@@ -6936,7 +6936,7 @@ return [
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nur markierte Teilnehmer werden zum Webinar eingeladen
+		Nur markierte Teilnehmer werden zum Webinar eingeladen <span class="tooltip" data-tip="Sie können bis zu fünfmal mehr Personen einladen, als Ihr Tarif erlaubt. So erreichen Sie wirklich interessierte Teilnehmer, während wir für starken Spam-Schutz sorgen"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

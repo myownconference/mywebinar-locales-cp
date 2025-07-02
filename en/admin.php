@@ -6936,7 +6936,7 @@ return [
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Only marked attendees will be invited to the webinar
+		Only marked attendees will be invited to the webinar <span class="tooltip" data-tip="You can invite up to five times more people than your plan’s capacity. This helps attract truly interested attendees, while we ensure strong protection against spam"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

@@ -6936,7 +6936,7 @@ return [
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kun markerede deltagere bliver inviteret til webinaret
+		Kun markerede deltagere bliver inviteret til webinaret <span class="tooltip" data-tip="Du kan invitere op til fem gange flere personer end kapaciteten på din plan. Det hjælper med at tiltrække virkelig interesserede deltagere, mens vi sikrer stærk beskyttelse mod spam"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

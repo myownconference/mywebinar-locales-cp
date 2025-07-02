@@ -6936,7 +6936,7 @@ return [
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pouze označení účastníci budou pozváni na webinář
+		Pouze označení účastníci budou pozváni na webinář <span class="tooltip" data-tip="Můžete pozvat až pětkrát více lidí, než je kapacita vašeho tarifu. To pomáhá přilákat skutečně zainteresované účastníky, zatímco zajistíme silnou ochranu proti spamu"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

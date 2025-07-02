@@ -6936,7 +6936,7 @@ return [
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vain merkityt osallistujat kutsutaan webinaariin
+		Vain merkityt osallistujat kutsutaan webinaariin <span class="tooltip" data-tip="Voit kutsua jopa viisi kertaa enemmän osallistujia kuin suunnitelmasi kapasiteetti sallii. Tämä auttaa houkuttelemaan aidosti kiinnostuneita osallistujia, samalla kun takaamme vahvan roskapostisuojan"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

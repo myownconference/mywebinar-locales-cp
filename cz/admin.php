@@ -6930,13 +6930,13 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pouze označení moderátoři budou pozváni na webinář <span class="tooltip" data-tip="V tomto seznamu vidíte všechny aktivní moderátory, které jste kdy vytvořili v obecném oddílu. Vyberte prosím pouze ty moderátory, kteří se zúčastní této události. Pouze vybraní moderátoři obdrží odkaz a přístup k této události"></span>
+		Pouze označení moderátoři budou pozváni na webinář <span class="tooltip" data-tip="Tento seznam ukazuje všechny vaše aktivní moderátory vytvořené v obecném oddílu. Vyberte pouze ty moderátory, kteří se zúčastní této události. Jen vybraní moderátoři obdrží odkaz a přístup k této události"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pouze označení účastníci budou pozváni na webinář <span class="tooltip" data-tip="Můžete pozvat až pětkrát více lidí, než je kapacita vašeho tarifu. To pomáhá přilákat skutečně zainteresované účastníky, zatímco zajistíme silnou ochranu proti spamu"></span>
+		Pouze označení účastníci budou pozváni na webinář <span class="tooltip" data-tip="Tento seznam zobrazuje všechny vaše aktivní účastníky, kteří byli kdy přidáni do obecné sekce. Vyberte prosím pouze ty, které chcete pozvat na tuto událost. Pouze vybraní účastníci obdrží přístupový odkaz a budou se moci připojit. Všimněte si, že počet pozvaných může být až pětkrát vyšší než kapacita vašeho tarifu"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

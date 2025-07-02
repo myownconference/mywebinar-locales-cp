@@ -6936,13 +6936,13 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Yalnızca işaretlenen moderatörler web seminerine davet edilecektir <span class="tooltip" data-tip="Bu listede genel bölümde oluşturduğunuz tüm aktif moderatörleri görüyorsunuz. Lütfen sadece bu etkinliğe katılacak olan moderatörleri seçin. Yalnızca seçilen moderatörler bu etkinliğe ait bağlantı ve erişimi alacaktır"></span>
+		Yalnızca işaretlenen moderatörler web seminerine davet edilecektir <span class="tooltip" data-tip="Bu liste, genel bölümde oluşturduğunuz tüm aktif moderatörleri gösterir. Lütfen sadece bu etkinliğe katılacak moderatörleri seçin. Sadece seçilen moderatörler bu etkinliğe erişim ve bağlantı alacak"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Yalnızca işaretlenen katılımcılar web seminerine davet edilecektir <span class="tooltip" data-tip="Plan kapasitenizin beş katı kadar kişiyi davet edebilirsiniz. Bu, gerçekten ilgili katılımcıları çekmeye yardımcı olurken güçlü bir spam koruması sağlarız"></span>
+		Yalnızca işaretlenen katılımcılar web seminerine davet edilecektir <span class="tooltip" data-tip="Bu liste, genel bölüme eklenmiş tüm aktif katılımcılarınızı gösterir. Lütfen yalnızca bu etkinliğe davet etmek istediklerinizi seçin. Yalnızca seçilen katılımcılar erişim bağlantısını alacak ve katılabilecek. Davet edilen katılımcı sayısının plan kapasitenizin beş katına kadar çıkabileceğini unutmayın"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

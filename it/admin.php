@@ -6930,13 +6930,13 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Solo i moderatori selezionati saranno invitati al webinar <span class="tooltip" data-tip="In questo elenco vedi tutti i moderatori attivi mai creati nella sezione generale. Seleziona solo i moderatori che parteciperanno a questo evento. Solo i moderatori selezionati riceveranno il link e lʼaccesso a questo evento"></span>
+		Solo i moderatori selezionati saranno invitati al webinar <span class="tooltip" data-tip="Questo elenco mostra tutti i moderatori attivi che hai creato nella sezione generale. Seleziona solo i moderatori che parteciperanno a questo evento. Solo i moderatori selezionati riceveranno il link e lʼaccesso a questo evento"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Solo i partecipanti selezionati saranno invitati al webinar <span class="tooltip" data-tip="Puoi invitare fino a cinque volte più persone rispetto alla capienza del tuo piano. Questo aiuta ad attirare partecipanti davvero interessati, mentre garantiamo una forte protezione contro lo spam"></span>
+		Solo i partecipanti selezionati saranno invitati al webinar <span class="tooltip" data-tip="Questo elenco mostra tutti i partecipanti attivi aggiunti alla sezione generale. Seleziona solo coloro che desideri invitare a questo evento. Solo i partecipanti selezionati riceveranno il link di accesso e potranno partecipare. Nota che il numero di invitati può essere fino a cinque volte superiore alla capacità del tuo piano"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

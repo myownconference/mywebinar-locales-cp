@@ -6930,13 +6930,13 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Csak a megjelölt moderátorokat hívjuk meg a webinárra <span class="tooltip" data-tip="Ebben a listában az összes aktív moderátorodat látod, akiket valaha létrehoztál az általános szekcióban. Kérlek, csak azokat a moderátorokat válaszd ki, akik részt vesznek ezen az eseményen. Csak a kiválasztott moderátorok kapják meg a linket és a hozzáférést az eseményhez"></span>
+		Csak a megjelölt moderátorokat hívjuk meg a webinárra <span class="tooltip" data-tip="Ez a lista megjeleníti az összes aktív moderátort, amelyeket valaha létrehoztál az általános szekcióban. Kérlek, csak azokat a moderátorokat válaszd ki, akik részt vesznek ezen az eseményen. Csak a kiválasztott moderátorok kapják meg a linket és a hozzáférést az eseményhez"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Csak a megjelölt résztvevők lesznek meghívva a webinárra <span class="tooltip" data-tip="Az előfizetési csomagod kapacitásának ötszöröséig hívhatsz meg résztvevőket. Ez segít valóban érdeklődő résztvevőket bevonzani, miközben erős védelmet biztosítunk a spam ellen"></span>
+		Csak a megjelölt résztvevők lesznek meghívva a webinárra <span class="tooltip" data-tip="Ez a lista megjeleníti az összes aktív résztvevőt, akiket valaha hozzáadtak az általános szekcióhoz. Kérjük, csak azokat válassza ki, akiket meg szeretne hívni erre az eseményre. Csak a kiválasztott résztvevők kapják meg a hozzáférési linket, és tudnak csatlakozni. Vegye figyelembe, hogy a meghívottak száma akár ötszöröse is lehet a csomagkapacitásának"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

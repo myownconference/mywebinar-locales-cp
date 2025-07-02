@@ -6930,13 +6930,13 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Alleen gemarkeerde moderators worden uitgenodigd voor het webinar <span class="tooltip" data-tip="In deze lijst zie je al je actieve moderators die ooit in het algemene gedeelte zijn aangemaakt. Selecteer alleen de moderators die aan dit evenement zullen deelnemen. Alleen de geselecteerde moderators ontvangen de link en toegang tot dit evenement"></span>
+		Alleen gemarkeerde moderators worden uitgenodigd voor het webinar <span class="tooltip" data-tip="Deze lijst toont alle actieve moderatoren die ooit in de algemene sectie zijn aangemaakt. Selecteer alleen de moderatoren die aan dit evenement zullen deelnemen. Alleen de geselecteerde moderatoren ontvangen de link en toegang tot het evenement"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Alleen gemarkeerde deelnemers worden uitgenodigd voor het webinar <span class="tooltip" data-tip="Je kunt tot vijf keer zoveel mensen uitnodigen als de capaciteit van je abonnement. Zo trek je echt geïnteresseerde deelnemers aan, terwijl wij zorgen voor een sterke bescherming tegen spam"></span>
+		Alleen gemarkeerde deelnemers worden uitgenodigd voor het webinar <span class="tooltip" data-tip="Deze lijst toont al je actieve deelnemers die ooit aan de algemene sectie zijn toegevoegd. Selecteer alleen degenen die je voor dit evenement wilt uitnodigen. Alleen de geselecteerde deelnemers ontvangen de toegangslink en kunnen deelnemen. Houd er rekening mee dat het aantal genodigden tot vijf keer hoger kan zijn dan de capaciteit van je abonnement"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

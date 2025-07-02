@@ -6930,13 +6930,13 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kun markerede moderatorer bliver inviteret til webinaret <span class="tooltip" data-tip="I denne liste ser du alle dine aktive moderatorer, der nogensinde er oprettet i den generelle sektion. Vælg kun de moderatorer, der skal deltage i denne begivenhed. Kun de valgte moderatorer vil modtage linket og adgang til begivenheden"></span>
+		Kun markerede moderatorer bliver inviteret til webinaret <span class="tooltip" data-tip="Denne liste viser alle dine aktive moderatorer, som nogensinde er oprettet i den generelle sektion. Vælg kun de moderatorer, der skal deltage i dette arrangement. Kun de valgte moderatorer modtager linket og adgang til arrangementet"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kun markerede deltagere bliver inviteret til webinaret <span class="tooltip" data-tip="Du kan invitere op til fem gange flere personer end kapaciteten på din plan. Det hjælper med at tiltrække virkelig interesserede deltagere, mens vi sikrer stærk beskyttelse mod spam"></span>
+		Kun markerede deltagere bliver inviteret til webinaret <span class="tooltip" data-tip="Denne liste viser alle dine aktive deltagere, der nogensinde er tilføjet til den generelle sektion. Vælg venligst kun dem, du vil invitere til dette arrangement. Kun de valgte deltagere vil modtage adgangslinket og kunne deltage. Bemærk, at antallet af inviterede kan være op til fem gange højere end kapaciteten i din plan"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

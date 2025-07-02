@@ -6930,13 +6930,13 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tik pažymėti moderatoriai bus pakviesti į internetinį seminarą <span class="tooltip" data-tip="Šiame sąraše matote visus aktyvius moderatorius, sukurtus bendroje skiltyje. Pasirinkite tik tuos moderatorius, kurie dalyvaus šiame renginyje. Tik pasirinkti moderatoriai gaus nuorodą ir prieigą prie šio renginio"></span>
+		Tik pažymėti moderatoriai bus pakviesti į internetinį seminarą <span class="tooltip" data-tip="Šiame sąraše rodomi visi jūsų aktyvūs moderatoriai, sukurti bendroje skiltyje. Pasirinkite tik tuos moderatorius, kurie dalyvaus šiame renginyje. Tik pasirinkti moderatoriai gaus nuorodą ir prieigą prie šio renginio"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tik pažymėti dalyviai bus pakviesti į internetinį seminarą <span class="tooltip" data-tip="Galite pakviesti iki penkių kartų daugiau žmonių nei jūsų plano talpa. Tai padeda pritraukti tikrai susidomėjusius dalyvius, o mes užtikriname stiprią apsaugą nuo šlamšto"></span>
+		Tik pažymėti dalyviai bus pakviesti į internetinį seminarą <span class="tooltip" data-tip="Šiame sąraše rodomi visi jūsų aktyvūs dalyviai, kurie kada nors buvo pridėti prie bendrosios sekcijos. Pasirinkite tik tuos, kuriuos norite pakviesti į šį renginį. Tik pasirinkti dalyviai gaus prieigos nuorodą ir galės prisijungti. Atkreipkite dėmesį, kad pakviestų dalyvių skaičius gali būti iki penkių kartų didesnis nei jūsų plano talpa"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

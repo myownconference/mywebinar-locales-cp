@@ -6930,13 +6930,13 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vain merkityt moderaattorit kutsutaan webinaariin <span class="tooltip" data-tip="Tässä luettelossa näet kaikki yleisosiossa koskaan luomasi aktiiviset moderaattorit. Valitse vain ne moderaattorit, jotka osallistuvat tähän tapahtumaan. Vain valitut moderaattorit saavat linkin ja pääsyn tähän tapahtumaan"></span>
+		Vain merkityt moderaattorit kutsutaan webinaariin <span class="tooltip" data-tip="Tämä lista näyttää kaikki aktiiviset moderaattorisi, jotka on koskaan luotu yleisosioon. Valitse vain ne moderaattorit, jotka osallistuvat tähän tapahtumaan. Vain valitut moderaattorit saavat linkin ja pääsyn tähän tapahtumaan"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vain merkityt osallistujat kutsutaan webinaariin <span class="tooltip" data-tip="Voit kutsua jopa viisi kertaa enemmän osallistujia kuin suunnitelmasi kapasiteetti sallii. Tämä auttaa houkuttelemaan aidosti kiinnostuneita osallistujia, samalla kun takaamme vahvan roskapostisuojan"></span>
+		Vain merkityt osallistujat kutsutaan webinaariin <span class="tooltip" data-tip="Tämä luettelo näyttää kaikki aktiiviset osallistujat, jotka on joskus lisätty yleiseen osioon. Valitse vain ne, jotka haluat kutsua tähän tapahtumaan. Vain valitut osallistujat saavat pääsylinkin ja voivat liittyä. Huomaa, että kutsuttujen määrä voi olla jopa viisinkertainen suunnitelmasi kapasiteettiin verrattuna"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

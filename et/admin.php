@@ -6930,13 +6930,13 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ainult märgistatud moderaatorid kutsutakse veebiseminarile <span class="tooltip" data-tip="Selles loendis näed kõiki oma aktiivseid moderaatoreid, kes on kunagi loodud üldosas. Palun vali ainult need moderaatorid, kes osalevad sellel üritusel. Ainult valitud moderaatorid saavad selle ürituse lingi ja juurdepääsu"></span>
+		Ainult märgistatud moderaatorid kutsutakse veebiseminarile <span class="tooltip" data-tip="See loend näitab kõiki aktiivseid moderaatoreid, kes on kunagi loodud üldises jaotises. Palun vali ainult need moderaatorid, kes osalevad selles sündmuses. Ainult valitud moderaatorid saavad lingi ja pääsu sellele sündmusele"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ainult märgistatud osalejad kutsutakse veebiseminarile <span class="tooltip" data-tip="Saate kutsuda kuni viis korda rohkem inimesi kui teie paketi mahutavus. See aitab ligi meelitada tõeliselt huvitatud osalejaid, samal ajal kui tagame tugeva kaitse rämpsposti vastu"></span>
+		Ainult märgistatud osalejad kutsutakse veebiseminarile <span class="tooltip" data-tip="See loend kuvab kõiki teie aktiivseid osalejaid, kes on kunagi lisatud üldisesse jaotisesse. Palun valige ainult need, keda soovite sellele sündmusele kutsuda. Ainult valitud osalejad saavad juurdepääsulingi ja saavad liituda. Pange tähele, et kutsutud osalejate arv võib olla kuni viis korda suurem kui teie paketi maht"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

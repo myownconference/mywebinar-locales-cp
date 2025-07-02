@@ -6930,13 +6930,13 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Endast markerade moderatorer kommer att bjudas in till webbinariet <span class="tooltip" data-tip="I den här listan ser du alla dina aktiva moderatorer som någonsin skapats i den allmänna sektionen. Välj endast de moderatorer som ska delta i det här evenemanget. Endast de valda moderatorerna kommer att få länken och tillgång till evenemanget"></span>
+		Endast markerade moderatorer kommer att bjudas in till webbinariet <span class="tooltip" data-tip="Den här listan visar alla dina aktiva moderatorer som någonsin skapats i den allmänna sektionen. Välj endast de moderatorer som ska delta i detta evenemang. Endast de valda moderatorerna får länken och åtkomst till evenemanget"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Endast markerade deltagare kommer att bjudas in till webbinariet <span class="tooltip" data-tip="Du kan bjuda in upp till fem gånger fler personer än vad din plan tillåter. Detta hjälper dig att locka verkligt intresserade deltagare, samtidigt som vi säkerställer starkt skydd mot skräppost"></span>
+		Endast markerade deltagare kommer att bjudas in till webbinariet <span class="tooltip" data-tip="Den här listan visar alla dina aktiva deltagare som någonsin lagts till i den allmänna sektionen. Välj endast de du vill bjuda in till detta evenemang. Endast de valda deltagarna kommer att få åtkomstlänken och kunna delta. Observera att antalet inbjudna deltagare kan vara upp till fem gånger fler än kapaciteten i din plan"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

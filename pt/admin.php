@@ -6930,13 +6930,13 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Apenas os moderadores marcados serão convidados para o webinar <span class="tooltip" data-tip="Nesta lista, você vê todos os moderadores ativos já criados na seção geral. Selecione apenas os moderadores que participarão deste evento. Apenas os moderadores selecionados receberão o link e acesso a este evento"></span>
+		Apenas os moderadores marcados serão convidados para o webinar <span class="tooltip" data-tip="Esta lista mostra todos os moderadores ativos que você já criou na seção geral. Selecione apenas os moderadores que participarão deste evento. Somente os moderadores selecionados receberão o link e o acesso a este evento"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Apenas os participantes marcados serão convidados para o webinar <span class="tooltip" data-tip="Você pode convidar até cinco vezes mais pessoas do que a capacidade do seu plano. Isso ajuda a atrair participantes realmente interessados, enquanto garantimos forte proteção contra spam"></span>
+		Apenas os participantes marcados serão convidados para o webinar <span class="tooltip" data-tip="Esta lista mostra todos os participantes ativos que já foram adicionados à seção geral. Selecione apenas aqueles que deseja convidar para este evento. Somente os participantes selecionados receberão o link de acesso e poderão entrar. Observe que o número de convidados pode ser até cinco vezes maior que a capacidade do seu plano"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

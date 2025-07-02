@@ -6930,13 +6930,13 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nur markierte Moderatoren werden zum Webinar eingeladen <span class="tooltip" data-tip="In dieser Liste sehen Sie alle Ihre aktiven Moderatoren, die jemals im allgemeinen Bereich erstellt wurden. Bitte wählen Sie nur die Moderatoren aus, die an dieser Veranstaltung teilnehmen werden. Nur die ausgewählten Moderatoren erhalten den Link und Zugang zu dieser Veranstaltung"></span>
+		Nur markierte Moderatoren werden zum Webinar eingeladen <span class="tooltip" data-tip="Diese Liste zeigt alle aktiven Moderatoren, die jemals im allgemeinen Bereich erstellt wurden. Bitte wählen Sie nur die Moderatoren aus, die an dieser Veranstaltung teilnehmen werden. Nur die ausgewählten Moderatoren erhalten den Link und Zugriff auf diese Veranstaltung"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nur markierte Teilnehmer werden zum Webinar eingeladen <span class="tooltip" data-tip="Sie können bis zu fünfmal mehr Personen einladen, als Ihr Tarif erlaubt. So erreichen Sie wirklich interessierte Teilnehmer, während wir für starken Spam-Schutz sorgen"></span>
+		Nur markierte Teilnehmer werden zum Webinar eingeladen <span class="tooltip" data-tip="Diese Liste zeigt alle aktiven Teilnehmer, die jemals dem allgemeinen Bereich hinzugefügt wurden. Bitte wählen Sie nur diejenigen aus, die Sie zu dieser Veranstaltung einladen möchten. Nur die ausgewählten Teilnehmer erhalten den Zugangslink und können teilnehmen. Beachten Sie, dass die Anzahl der eingeladenen Teilnehmer bis zum Fünffachen Ihrer Tarifkapazität betragen kann"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

@@ -6930,13 +6930,13 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Samo označeni moderatorji bodo povabljeni na spletni seminar <span class="tooltip" data-tip="Na tem seznamu vidiš vse aktivne moderatorje, ki so bili kdajkoli ustvarjeni v splošnem razdelku. Prosimo, izberi samo tiste moderatorje, ki bodo sodelovali na tem dogodku. Samo izbrani moderatorji bodo prejeli povezavo in dostop do dogodka"></span>
+		Samo označeni moderatorji bodo povabljeni na spletni seminar <span class="tooltip" data-tip="Ta seznam prikazuje vse vaše aktivne moderatorje, ki so bili kdaj koli ustvarjeni v splošnem razdelku. Izberite le tiste moderatorje, ki bodo sodelovali na tem dogodku. Samo izbrani moderatorji bodo prejeli povezavo in dostop do dogodka"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Samo označeni udeleženci bodo povabljeni na spletni seminar <span class="tooltip" data-tip="Povabite lahko do petkrat več ljudi, kot je zmogljivost vašega paketa. Tako privabite resnično zainteresirane udeležence, hkrati pa zagotavljamo močno zaščito pred neželeno pošto"></span>
+		Samo označeni udeleženci bodo povabljeni na spletni seminar <span class="tooltip" data-tip="Ta seznam prikazuje vse vaše aktivne udeležence, ki so bili kadarkoli dodani v splošni razdelek. Prosimo, izberite samo tiste, ki jih želite povabiti na ta dogodek. Samo izbrani udeleženci bodo prejeli povezavo za dostop in se bodo lahko pridružili. Upoštevajte, da je lahko število povabljenih tudi do petkrat večje od zmogljivosti vašega paketa"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

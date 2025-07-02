@@ -6930,13 +6930,13 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tikai atzīmētie moderatori tiks uzaicināti uz vebināru <span class="tooltip" data-tip="Šajā sarakstā redzami visi aktīvie moderatorii, kas jebkad izveidoti vispārīgajā sadaļā. Lūdzu, izvēlieties tikai tos moderatorus, kuri piedalīsies šajā pasākumā. Tikai izvēlētie moderatori saņems saiti un piekļuvi šim pasākumam"></span>
+		Tikai atzīmētie moderatori tiks uzaicināti uz vebināru <span class="tooltip" data-tip="Šajā sarakstā redzami visi jūsu aktīvie moderatori, kas jebkad izveidoti vispārīgajā sadaļā. Lūdzu, izvēlieties tikai tos moderatorus, kas piedalīsies šajā notikumā. Tikai izvēlētie moderatori saņems saiti un piekļuvi notikumam"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tikai atzīmētie dalībnieki tiks uzaicināti uz vebināru <span class="tooltip" data-tip="Jūs varat uzaicināt līdz pat piecām reizēm vairāk cilvēku nekā paredzēts jūsu plānā. Tas palīdz piesaistīt patiesi ieinteresētus dalībniekus, vienlaikus nodrošinot spēcīgu aizsardzību pret surogātpastu"></span>
+		Tikai atzīmētie dalībnieki tiks uzaicināti uz vebināru <span class="tooltip" data-tip="Šajā sarakstā redzami visi jūsu aktīvie dalībnieki, kas jebkad pievienoti vispārējai sadaļai. Lūdzu, izvēlieties tikai tos, kurus vēlaties uzaicināt uz šo notikumu. Tikai izvēlētie dalībnieki saņems piekļuves saiti un varēs pievienoties. Ņemiet vērā, ka uzaicināto dalībnieku skaits var būt līdz piecām reizēm lielāks par jūsu plāna ietilpību"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

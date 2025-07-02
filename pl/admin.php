@@ -6958,13 +6958,13 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tylko zaznaczeni moderatorzy zostaną zaproszeni na webinar <span class="tooltip" data-tip="Na tej liście widzisz wszystkich aktywnych moderatorów, którzy kiedykolwiek zostali utworzeni w sekcji ogólnej. Wybierz tylko tych moderatorów, którzy będą uczestniczyć w tym wydarzeniu. Tylko wybrani moderatorzy otrzymają link i dostęp do wydarzenia"></span>
+		Tylko zaznaczeni moderatorzy zostaną zaproszeni na webinar <span class="tooltip" data-tip="Ta lista pokazuje wszystkich aktywnych moderatorów utworzonych w sekcji ogólnej. Wybierz tylko tych moderatorów, którzy wezmą udział w tym wydarzeniu. Tylko wybrani moderatorzy otrzymają link i dostęp do wydarzenia"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tylko zaznaczeni uczestnicy zostaną zaproszeni na webinar <span class="tooltip" data-tip="Możesz zaprosić nawet pięć razy więcej osób niż wynosi limit planu. To pomaga przyciągnąć naprawdę zainteresowanych uczestników, a my zapewniamy solidną ochronę przed spamem"></span>
+		Tylko zaznaczeni uczestnicy zostaną zaproszeni na webinar <span class="tooltip" data-tip="Ta lista pokazuje wszystkich aktywnych uczestników, którzy kiedykolwiek zostali dodani do sekcji ogólnej. Wybierz tylko tych, których chcesz zaprosić na to wydarzenie. Tylko wybrani uczestnicy otrzymają link dostępu i będą mogli dołączyć. Zwróć uwagę, że liczba zaproszonych może być nawet pięć razy większa niż pojemność Twojego planu"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

@@ -6930,13 +6930,13 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Doar moderatorii selectați vor fi invitați la webinar <span class="tooltip" data-tip="În această listă vezi toți moderatorii activi creați vreodată în secțiunea generală. Te rugăm să selectezi doar moderatorii care vor participa la acest eveniment. Doar moderatorii selectați vor primi linkul și accesul la acest eveniment"></span>
+		Doar moderatorii selectați vor fi invitați la webinar <span class="tooltip" data-tip="Această listă arată toți moderatorii activi creați vreodată în secțiunea generală. Vă rugăm să selectați doar moderatorii care vor participa la acest eveniment. Doar moderatorii selectați vor primi linkul și accesul la acest eveniment"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Doar participanții selectați vor fi invitați la webinar <span class="tooltip" data-tip="Poți invita de până la cinci ori mai multe persoane decât capacitatea planului tău. Acest lucru ajută la atragerea participanților cu adevărat interesați, în timp ce noi asigurăm o protecție puternică împotriva spamului"></span>
+		Doar participanții selectați vor fi invitați la webinar <span class="tooltip" data-tip="Această listă afișează toți participanții activi adăugați vreodată în secțiunea generală. Vă rugăm să selectați doar pe cei pe care doriți să îi invitați la acest eveniment. Doar participanții selectați vor primi linkul de acces și vor putea să se alăture. Rețineți că numărul participanților invitați poate fi de până la cinci ori mai mare decât capacitatea planului dumneavoastră"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

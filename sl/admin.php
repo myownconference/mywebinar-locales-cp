@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Kloniraj spletinar?</strong><br><br>Ko klonirate spletni seminar, ta samodejno postane del serije z isto povezavo. Če želite, da je kopija ločen dogodek, preprosto izklopite to možnost. Seznam udeležencev se privzeto tudi kopira, vendar ga lahko izključite
+		<strong>Kloniraj spletinar?</strong><br><br>Ko klonirate spletni seminar, ta samodejno postane del serije z isto povezavo<br><br><small>Če želite, da je kopija ločen dogodek, preprosto izklopite to možnost. Seznam udeležencev se privzeto tudi kopira, vendar ga lahko izključite</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-as-series' => /////////////////////////////////////////////////////////////////

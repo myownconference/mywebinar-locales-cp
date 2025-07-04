@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Klónovat webinář?</strong><br><br>Při klonování webináře se automaticky stane součástí série se stejným odkazem. Pokud chcete, aby kopie byla samostatnou událostí, jednoduše tuto možnost vypněte. Seznam účastníků je také standardně zkopírován, ale můžete ho vyloučit
+		<strong>Klónovat webinář?</strong><br><br>Při klonování webináře se automaticky stane součástí série se stejným odkazem<br><br><small>Pokud chcete, aby kopie byla samostatnou událostí, jednoduše tuto možnost vypněte. Seznam účastníků je také standardně zkopírován, ale můžete ho vyloučit</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-as-series' => /////////////////////////////////////////////////////////////////

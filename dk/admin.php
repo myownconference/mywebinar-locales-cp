@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Klon webinar?</strong><br><br>Når du kloner et webinar, bliver det automatisk en del af en serie med samme link. Hvis du ønsker, at kopien skal være et separat arrangement, skal du blot slå den indstilling fra. Deltagerlisten kopieres også som standard, men du kan vælge at udelade den
+		<strong>Klon webinar?</strong><br><br>Når du kloner et webinar, bliver det automatisk en del af en serie med samme link<br><br><small>Hvis du ønsker, at kopien skal være et separat arrangement, skal du blot slå den indstilling fra. Deltagerlisten kopieres også som standard, men du kan vælge at udelade den</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-as-series' => /////////////////////////////////////////////////////////////////

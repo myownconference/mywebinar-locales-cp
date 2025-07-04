@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>¿Clonar el seminario web?</strong><br><br>Al clonar un seminario web, este se convierte automáticamente en parte de una serie con el mismo enlace. Si deseas que la copia sea un evento separado, simplemente desactiva esa opción. La lista de asistentes también se copia por defecto, pero puedes excluirla
+		<strong>¿Clonar el seminario web?</strong><br><br>Al clonar un seminario web, este se convierte automáticamente en parte de una serie con el mismo enlace<br><br><small>Si deseas que la copia sea un evento separado, simplemente desactiva esa opción. La lista de asistentes también se copia por defecto, pero puedes excluirla</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-as-series' => /////////////////////////////////////////////////////////////////

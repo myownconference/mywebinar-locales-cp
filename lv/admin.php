@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Klonēt vebināru?</strong><br><br>Klonējot vebināru, tas automātiski kļūst par daļu no sērijas ar to pašu saiti. Ja vēlaties, lai kopija būtu atsevišķs notikums, vienkārši izslēdziet šo opciju. Dalībnieku saraksts arī tiek kopēts pēc noklusējuma, bet jūs varat izvēlēties to izslēgt
+		<strong>Klonēt vebināru?</strong><br><br>Klonējot vebināru, tas automātiski kļūst par daļu no sērijas ar to pašu saiti<br><br><small>Ja vēlaties, lai kopija būtu atsevišķs notikums, vienkārši izslēdziet šo opciju. Dalībnieku saraksts arī tiek kopēts pēc noklusējuma, bet jūs varat izvēlēties to izslēgt</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-as-series' => /////////////////////////////////////////////////////////////////

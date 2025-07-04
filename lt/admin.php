@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Klonavimo internetinį seminarą?</strong><br><br>Kai klonuojate internetinį seminarą, jis automatiškai tampa serijos dalimi tuo pačiu nuoroda. Jei norite, kad kopija būtų atskiras renginys, tiesiog išjunkite šią parinktį. Dalyvių sąrašas taip pat kopijuojamas pagal numatytuosius nustatymus, bet galite jį neįtraukti
+		<strong>Klonavimo internetinį seminarą?</strong><br><br>Kai klonuojate internetinį seminarą, jis automatiškai tampa serijos dalimi tuo pačiu nuoroda<br><br><small>Jei norite, kad kopija būtų atskiras renginys, tiesiog išjunkite šią parinktį. Dalyvių sąrašas taip pat kopijuojamas pagal numatytuosius nustatymus, bet galite jį neįtraukti</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-as-series' => /////////////////////////////////////////////////////////////////

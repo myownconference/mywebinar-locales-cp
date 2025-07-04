@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Kloonaa webinaari?</strong><br><br>Kun kloonaat webinaarin, siitä tulee automaattisesti osa sarjaa samalla linkillä. Jos haluat kopion olevan erillinen tapahtuma, poista tämä valinta käytöstä. Osallistujaluettelo kopioidaan myös oletusarvoisesti, mutta voit halutessasi jättää sen pois
+		<strong>Kloonaa webinaari?</strong><br><br>Kun kloonaat webinaarin, siitä tulee automaattisesti osa sarjaa samalla linkillä<br><br><small>Jos haluat kopion olevan erillinen tapahtuma, poista tämä valinta käytöstä. Osallistujaluettelo kopioidaan myös oletusarvoisesti, mutta voit halutessasi jättää sen pois</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-as-series' => /////////////////////////////////////////////////////////////////

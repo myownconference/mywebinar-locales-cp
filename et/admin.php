@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Kloonida veebiseminar?</strong><br><br>Kui kloonid veebiseminari, lisatakse see automaatselt samal lingil põhinevasse seeriasse. Kui soovid, et koopia oleks eraldi sündmus, lülita see valik välja. Osalejate nimekiri kopeeritakse vaikimisi samuti, kuid saad selle välja jätta
+		<strong>Kloonida veebiseminar?</strong><br><br>Kui kloonid veebiseminari, lisatakse see automaatselt samal lingil põhinevasse seeriasse<br><br><small>Kui soovid, et koopia oleks eraldi sündmus, lülita see valik välja. Osalejate nimekiri kopeeritakse vaikimisi samuti, kuid saad selle välja jätta</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-as-series' => /////////////////////////////////////////////////////////////////

@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Skopiować webinar?</strong><br><br>Po sklonowaniu webinaru staje się on automatycznie częścią serii z tym samym linkiem. Jeśli chcesz, aby kopia była osobnym wydarzeniem, po prostu wyłącz tę opcję. Lista uczestników również jest kopiowana domyślnie, ale możesz ją wykluczyć
+		<strong>Skopiować webinar?</strong><br><br>Po sklonowaniu webinaru staje się on automatycznie częścią serii z tym samym linkiem<br><br><small>Jeśli chcesz, aby kopia była osobnym wydarzeniem, po prostu wyłącz tę opcję. Lista uczestników również jest kopiowana domyślnie, ale możesz ją wykluczyć</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-as-series' => /////////////////////////////////////////////////////////////////

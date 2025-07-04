@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Clone webinar?</strong><br><br>When you clone a webinar, it automatically becomes part of a series using the same link. If you’d like the copy to be a separate event, just turn off that option. The attendee list is also copied by default, but you can choose to exclude it
+		<strong>Clone webinar?</strong><br><br>When you clone a webinar, it automatically becomes part of a series using the same link<br><br><small>If you’d like the copy to be a separate event, just turn off that option. The attendee list is also copied by default, but you can choose to exclude it</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-as-series' => /////////////////////////////////////////////////////////////////

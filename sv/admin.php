@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Klona webbinariet?</strong><br><br>När du klonar ett webbseminarium blir det automatiskt en del av en serie med samma länk. Om du vill att kopian ska vara ett separat evenemang, stäng bara av det alternativet. Deltagarlistan kopieras också som standard, men du kan välja att utesluta den
+		<strong>Klona webbinariet?</strong><br><br>När du klonar ett webbseminarium blir det automatiskt en del av en serie med samma länk<br><br><small>Om du vill att kopian ska vara ett separat evenemang, stäng bara av det alternativet. Deltagarlistan kopieras också som standard, men du kan välja att utesluta den</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-as-series' => /////////////////////////////////////////////////////////////////

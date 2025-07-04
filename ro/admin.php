@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Clonați webinarul?</strong><br><br>Când clonați un webinar, acesta devine automat parte a unei serii cu același link. Dacă doriți ca copia să fie un eveniment separat, trebuie doar să dezactivați această opțiune. Lista participanților este de asemenea copiată implicit, dar puteți alege să o excludeți
+		<strong>Clonați webinarul?</strong><br><br>Când clonați un webinar, acesta devine automat parte a unei serii cu același link<br><br><small>Dacă doriți ca copia să fie un eveniment separat, trebuie doar să dezactivați această opțiune. Lista participanților este de asemenea copiată implicit, dar puteți alege să o excludeți</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-as-series' => /////////////////////////////////////////////////////////////////

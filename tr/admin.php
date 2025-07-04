@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Web seminerini klonla?</strong><br><br>Bir web seminerini klonladığınızda, otomatik olarak aynı bağlantıyı kullanan bir serinin parçası olur. Kopyanın ayrı bir etkinlik olmasını istiyorsanız bu seçeneği kapatmanız yeterlidir. Katılımcı listesi de varsayılan olarak kopyalanır, ancak hariç tutmayı seçebilirsiniz
+		<strong>Web seminerini klonla?</strong><br><br>Bir web seminerini klonladığınızda, otomatik olarak aynı bağlantıyı kullanan bir serinin parçası olur<br><br><small>Kopyanın ayrı bir etkinlik olmasını istiyorsanız bu seçeneği kapatmanız yeterlidir. Katılımcı listesi de varsayılan olarak kopyalanır, ancak hariç tutmayı seçebilirsiniz</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-as-series' => /////////////////////////////////////////////////////////////////

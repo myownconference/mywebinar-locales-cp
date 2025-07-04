@@ -879,7 +879,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Webinárium klónozása?</strong><br><br>Ha egy webináriumot klónoz, az automatikusan ugyanazzal a linkkel rendelkező sorozat részévé válik. Ha azt szeretné, hogy a másolat külön esemény legyen, kapcsolja ki ezt az opciót. Az előadók listája is alapértelmezés szerint másolódik, de kiválaszthatja, hogy kihagyja
+		<strong>Webinárium klónozása?</strong><br><br>Ha egy webináriumot klónoz, az automatikusan ugyanazzal a linkkel rendelkező sorozat részévé válik<br><br><small>Ha azt szeretné, hogy a másolat külön esemény legyen, kapcsolja ki ezt az opciót. Az előadók listája is alapértelmezés szerint másolódik, de kiválaszthatja, hogy kihagyja</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-as-series' => /////////////////////////////////////////////////////////////////

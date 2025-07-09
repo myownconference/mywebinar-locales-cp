@@ -15,73 +15,73 @@ return [
 	'paypal-summ' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Already paid
+		Juba tasutud
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'funds-received' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paid webinars <span class="tooltip" data-tip="Activate this option to charge attendees for webinar access. Read and confirm the agreements before enabling paid webinars in your profile settings. Please note that the feature will not be activated immediately, as we will manually review your profile and webinar topics before activation"></span>
+		Tasulised veebiseminarid <span class="tooltip" data-tip="Luba see valik, kui soovid küsida osalejatelt veebiseminari eest tasu. Enne funktsiooni aktiveerimist loe läbi ja kinnita tingimused oma profiili seadetes. Pane tähele, et tasulised veebiseminarid ei aktiveeru koheselt – enne aktiveerimist vaatame sinu profiili ja veebiseminaride teema käsitsi üle"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'hold-title' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Our fee
+		Meie teenustasu
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'output-title' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Processed
+		Töödeldud
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'output-button' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Withdraw
+		Väljamakse
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-title' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Terms and conditions of payment processing for paid webinars
+		Tasuliste veebiseminaride maksetöötluse tingimused
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-subtitle' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Read the terms and conditions for using the payment processing function carefully please. Incorrect use of this function may result in automatic blocking of your account.
+		Tutvu hoolikalt maksetöötluse funktsiooni kasutustingimustega. Funktsiooni ebaõige kasutamine võib viia sinu konto automaatse blokeerimiseni.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-bottom' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sign here if you agree with term and conditions of the payments processing
+		Allkirjasta siin, kui oled nõus maksetöötluse tingimustega
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'freeze-title' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		On hold
+		Ootel
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'service-commission-title' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Our fee
+		Meie teenustasu
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'our-bank-commission-title' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bank fee
+		Panga teenustasu
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'available-title' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Revenue
+		Tulu
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'extend-package-confirm' => //////////////////////////////////////////////////////////
@@ -108,215 +108,215 @@ return [
 	'payweb-rules' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<h3>Handling payments for your paid webinars</h3>
-		<sup style="color:grey">(Last edited: August 24, 2023. Revision: 1.2)</sup>
+		<h3>Tasuliste veebiseminaride maksete haldamine</h3>
+		<sup style="color:grey">(Viimati muudetud: 24. august 2023. Versioon: 1.2)</sup>
 		<br><br><br><br>
-		<h3>Terms and definitions</h3>
+		<h3>Mõisted ja terminid</h3>
 		<p>
-			– Paid webinars — this encompasses webinars, online lectures, conferences, seminars, courses, lessons, and live broadcasts that require payment for participation. Attendees can access and participate in these webinars only after they‘ve made the necessary payment.
+			– Tasulised veebiseminarid — siia kuuluvad veebiseminarid, veebiloengud, konverentsid, seminarid, kursused, tunnid ja otseülekanded, millel osalemiseks on vaja tasuda. Osalejad pääsevad neile juurde ja saavad osaleda alles pärast makse sooritamist.
 			<br><br>
-			– Webinar software MyOwnConference — we are “Akovana, UAB“, a service provider specializing in the organization of both free and paid webinars, live broadcasts, web conferences, and more. Our registered address is 18 Djioyi Street, Vilnius, Lithuania, LT-01128.
+			– Veebiseminaritarkvara MyOwnConference — meie oleme “Akovana, UAB“, teenusepakkuja, kes spetsialiseerub tasuta ja tasuliste veebiseminaride, otseülekannete, veebikonverentside ja muu sarnase korraldamisele. Meie registreeritud aadress on Djioyi tn 18, Vilnius, Leedu, LT-01128.
 			<br><br>
-			– User — any individual who has agreed to these terms and utilizes the services in accordance with this agreement.
+			– Kasutaja — isik, kes on nõustunud käesolevate tingimustega ja kasutab teenust vastavalt sellele lepingule.
 			<br><br>
-			– User Agreement — this document, found in the Control Panel, acts as the binding contract between you (the User) and us (the Website), governing the provision of our information services.
+			– Kasutajalepe — see dokument, mis asub Juhtpaneelis, toimib siduva lepinguna sinu (Kasutaja) ja meie (Veebilehe) vahel ning reguleerib meie teabeteenuste osutamist.
 			<br><br>
-			– User Account, Control Panel, or Dashboard — this is a collection of the User‘s personal data crucial for accessing the services offered by the Website. It also contains files the User has stored on the Website‘s server.
+			– Kasutajakonto, Juhtpaneel või Töölaua vaade — Kasutaja isikuandmete kogum, mis on vajalik veebilehe teenustele juurdepääsuks. Samuti sisaldab see Kasutaja poolt veebilehe serverisse salvestatud faile.
 			<br><br>
-			– Attendee, Participant or Guest – an individual invited by the User, who compensates the User for access to a paid webinar hosted by the User via the Website.
+			– Osaleja, Külaline või Kutsutu – isik, kelle Kasutaja on kutsunud ja kes tasub Kasutajale osalemise eest tema korraldatud tasulisel veebiseminaril veebilehe kaudu.
 		</p>
 		<br><br>
-		<h3>General provisions</h3>
+		<h3>Üldsätted</h3>
 		<p>
-			When arranging paid webinars, the online platform for webinars, live broadcasts, and web conferences, namely “MyOwnConference“, hereinafter referred to as “the Platform“, serves as an intermediary. The platform is entrusted by the User to receive and process payments from attendees participating in the webinar, online lecture, conference, course, or lesson facilitated via the platform‘s services.
+			Tasuliste veebiseminaride korraldamisel tegutseb veebiplatvorm „MyOwnConference“ (edaspidi „Platvorm“) vahendajana. Kasutaja annab platvormile volituse osalejatelt maksete vastuvõtmiseks ja töötlemiseks seoses veebiseminari, veebiloengute, konverentside, kursuste või tundide korraldamisega platvormi kaudu.
 		</p>
 		<br>
 		<p>
-			To formalize an agreement with the Platform, the User isn‘t required to sign a physical (hard copy) contract. Merely accepting the terms of this Agreement, by ticking the respective checkbox within the Platform‘s Control Panel when seeking to activate payment acceptance services, is sufficient.
+			Lepingu sõlmimiseks Platvormiga ei ole vaja paberkandjal lepingut. Piisab sellest, kui Kasutaja nõustub käesoleva lepinguga, märkides vastava linnukese Juhtpaneelis tasulise ligipääsu aktiveerimise käigus.
 		</p>
 		<br>
 		<p>
-			The Platform conscientiously oversees the quality of the User‘s paid webinars, keeps track of any discontented participants, and manages refunds for previously processed payments if warranted. Accordingly, during the preliminary verification of the User‘s account, the Platform holds the discretion to deny the User‘s request to process payments without stating a specific reason.
+			Platvorm jälgib hoolikalt Kasutaja korraldatavate tasuliste veebiseminaride kvaliteeti, registreerib osalejate rahulolematuse ning vajadusel korraldab tagasimaksed. Seetõttu jätab Platvorm endale õiguse Kasutaja maksetaotluse eelneval kontrollimisel põhjendust esitamata tagasi lükata.
 		</p>
 		<br>
 		<p>
-			All payments are exclusively accepted and processed via the international payment system, Paysera.
+			Kõik maksed võetakse vastu ja töödeldakse ainult rahvusvahelise maksesüsteemi Paysera kaudu.
 		</p>
 		<br>
 		<p>
-			The primary transactional and accepted currency is the Euro (EUR).
+			Peamine tehinguvaluuta ja aktsepteeritud valuuta on euro (EUR).
 		</p>
 		<br>
 		<p>
-			The Platform directs all received payments to a dedicated account, exclusively designed for managing payments from the User‘s webinar attendees.
+			Platvorm suunab kõik laekunud maksed spetsiaalsele kontole, mis on loodud ainult Kasutaja veebiseminari osalejatelt saadud maksete haldamiseks.
 		</p>
 		<br>
 		<p>
-			To maintain a comprehensive history of interactions with the User, all inquiries and claims pertaining to payment acceptance and processing—including refund requests—are to be submitted via the email address registered to the User‘s account.
+			Täieliku suhtluse ajaloo säilitamiseks tuleb kõik maksete vastuvõtmise ja töötlemisega seotud küsimused, sealhulgas tagasimakse taotlused, saata e-posti aadressilt, mis on seotud Kasutaja kontoga.
 		</p>
 		<br><br>
-		<h3>Platform fees</h3>
+		<h3>Platvormi teenustasud</h3>
 		<p>
-			The website applies a 10% commission to every successful payment made by participants attending a user‘s paid webinar.
+			Iga eduka osalejamakse eest tasulisel veebiseminaril rakendab veebileht 10% suurust teenustasu.
 		</p>
 		<p>
-			For instance, if you set the entry fee for a webinar at €10 and 10 people attend, generating €10 x 10 = €100 in total payments, you would earn €100 – 10% = €90 after commission.
-		</p>
-		<br><br>
-		<h3>Bank service fee</h3>
-		<p>
-			A service fee of €7 is applied only for bank transfers to the user‘s account. This fee is consistently applied without exceptions.
+			Näiteks, kui sead osalemistasuks €10 ja osaleb 10 inimest, on kogumakse €10 × 10 = €100. Pärast komisjonitasu arvestamist saad kätte €100 – 10% = €90.
 		</p>
 		<br><br>
-		<h3>Correspondent bank fees</h3>
+		<h3>Panga teenustasu</h3>
 		<p>
-			These fees are levied by the Correspondent Bank when facilitating the transfer of funds from the website‘s bank account to the user‘s bank account. For IBAN transfers, the fees charged by correspondent banks can range from €10 to €35. There is no fee for SEPA transfers.
+			€7 suurune teenustasu rakendub ainult siis, kui raha kantakse Kasutaja pangakontole. See tasu kehtib alati ja ilma eranditeta.
+		</p>
+		<br><br>
+		<h3>Korrespondentpanga teenustasud</h3>
+		<p>
+			Need tasud rakenduvad siis, kui vahenduspank teostab rahaülekande veebilehe kontolt Kasutaja kontole. IBAN-ülekannete puhul võib see tasu olla €10 kuni €35. SEPA ülekannetele tasu ei rakendu.
 		</p>
 		<br>
 		<br><br>
-		<h3>Receiving payouts</h3>
+		<h3>Väljamaksete vastuvõtmine</h3>
 		<p>
-			When a participant makes a successful payment for a webinar, the amount is credited to a dedicated account on our platform. This is then aggregated based on the number of paid webinars and participants. Payments are processed by our platform, but only initiated upon the user‘s request through the Control Panel.
+			Kui osaleja teeb eduka makse veebiseminari eest, laekub summa platvormi spetsiaalsele kontole. Seejärel liidetakse see kokku kõigi tasuliste veebiseminaride ja osalejate põhjal. Väljamakset töödeldakse ainult Kasutaja taotluse alusel Juhtpaneelis.
 		</p>
 		<br>
 		<p>
-			In accordance with the terms of this Agreement, a 10% commission for our platform, as well as a €7 fee charged by our bank for processing the money transfer, will be deducted from the user‘s payout.
+			Käesoleva lepingu alusel arvestatakse väljamaksest maha 10% suurune platvormi teenustasu ning €7 suurune panga teenustasu ülekande töötlemise eest.
 		</p>
 		<br>
 		<p>
-			The net amount after deductions can either be transferred to the user‘s bank account or be applied as credit towards the cost of using our platform‘s services.
+			Neto summa pärast mahaarvamisi kantakse kas Kasutaja pangakontole või kasutatakse platvormi teenuste eest tasumiseks.
 		</p>
 		<p>
-			All payments are processed no earlier than 7 business days after the webinar and only if there are no refund requests from participants. The minimum payout amount is 300 EUR. For payouts exceeding 600 EUR, our service will send a closing document that must be signed by the recipient of the payment.
+			Kõik väljamaksed tehakse mitte varem kui 7 tööpäeva pärast veebiseminari toimumist ning ainult siis, kui ei ole esitatud osalejate tagasimakse taotlusi. Minimaalne väljamakse summa on 300 EUR. Kui väljamakse ületab 600 EUR, saadab meie teenus väljamakse saajale kinnitusdokumendi allkirjastamiseks.
 		<br>
 		<br>
 		<p>
-			Please note! When using the IBAN method, some intermediary banks may levy an additional fee ranging from €10 to €35. We have no control over, nor can we waive these fees. They are automatically deducted when funds are transferred to the user‘s bank account.
+			Palun pane tähele! IBAN-meetodi kasutamisel võivad vahenduspangad kehtestada lisatasu vahemikus €10 kuni €35. Meil ei ole nende üle kontrolli ega võimalust neid tühistada — need arvestatakse automaatselt maha ülekandega.
 		</p>
 		<br><br>
-		<h3>Refund request by the User</h3>
+		<h3>Kasutaja tagasimakse taotlus</h3>
 		<p>
-			Users can request a refund through the Control Panel on our website. This must then be confirmed via the email address associated with the user‘s account.
+			Kasutaja saab esitada tagasimakse taotluse meie veebilehe Juhtpaneelis. Seejärel tuleb taotlus kinnitada Kasutaja konto e-posti aadressi kaudu.
 		</p>
 		<br>
 		<p>
-			To maintain high-quality service, all refund requests from attendees of paid webinars are reviewed and processed semi-automatically by our system. The refund processing time can range from 1 to 7 business days, depending primarily on the bank that serves the webinar attendee.
+			Tasuliste veebiseminaride osalejatelt laekunud tagasimakse taotlusi töötleb meie süsteem poolautomaatselt kvaliteedi tagamiseks. Töötlemise aeg võib olla 1 kuni 7 tööpäeva, sõltuvalt eelkõige osalejat teenindava panga tööajast.
 		</p>
 		<br>
 		<p>
-			The service processes refunds immediately upon receiving a request from the user.
+			Teenus alustab tagasimakse töötlemist kohe pärast Kasutaja taotluse saamist.
 		</p>
 		<br><br>
-		<h3>Participant refund request</h3>
+		<h3>Osaleja tagasimakse taotlus</h3>
 		<p>
-			Our platform processes refund requests from attendees of paid webinars only when they directly contact us through the provided contact form or email address on our website.
+			Meie platvorm töötleb tasuliste veebiseminaride osalejate tagasimakse taotlusi ainult siis, kui nad võtavad meiega otse ühendust meie veebilehel oleva kontaktivormi või e-posti aadressi kaudu.
 		</p>
 		<br>
 		<p>
-			In such instances, we will issue a refund after thoroughly reviewing the attendee‘s explanation for the request and securing an agreement with the account holder (referred to as “User“). Refunds are initiated based on notifications from the User via their Control Panel.
+			Sellistel juhtudel tagastame makse pärast seda, kui oleme hoolikalt läbi vaadanud osaleja selgituse ning saanud kokkuleppe konto omanikuga (edaspidi „Kasutaja“). Tagasimakse algatatakse Kasutaja teavituse põhjal läbi tema Juhtpaneeli.
 		</p>
 		<br>
 		<p>
-			We issue refunds promptly upon receiving the notification from the User.
+			Me töötleme tagasimakseid viivitamata pärast Kasutaja teavituse saamist.
 		</p>
 		<br>
 		<p>
-			However, if for any reason the User fails to notify us through the Control Panel, our platform reserves the right to process the refund to the attendee independently.
+			Kui aga Kasutaja mingil põhjusel ei teavita meid Juhtpaneeli kaudu, jätab platvorm endale õiguse töötleda tagasimakse otse osalejale iseseisvalt.
 		</p>
 		<br><br>
-		<h3>Refund request from the webinar attendee‘s bank</h3>
+		<h3>Veebiseminari osaleja panga tagasimakse taotlus</h3>
 		<p>
-			Such refund requests arise from the bank that serves the attendee of a paid webinar. All payments made by attendees for paid webinars are fully refundable, adhering to the principle that “The Attendee is Always Right“.
+			Need tagasimakse taotlused pärinevad osalejat teenindavalt pangalt. Kõik tasuliste veebiseminaride osalustasud on tagastatavad vastavalt põhimõttele „Osalejal on alati õigus“.
 		</p>
 		<br>
 		<p>
-			Should a refund request be received directly from an attendee‘s bank, the Website will promptly inform the User. The Website then allows the User 3 business days to address the matter with the attendee and subsequently notify the Website of any agreements reached, providing relevant correspondence and documentation. The Website will then forward these documents to the relevant bank for processing.
+			Juhul kui saame tagasimakse taotluse otse osaleja pangalt, teavitab veebileht sellest koheselt Kasutajat. Kasutajale antakse 3 tööpäeva, et olukord osalejaga lahendada ning teavitada veebilehte saavutatud kokkuleppest koos asjakohase kirjavahetuse ja dokumentidega. Seejärel edastab veebileht dokumendid asjaomasele pangale edasiseks töötlemiseks.
 		</p>
 		<br>
 		<p>
-			Note: Should the Website receive more than 2 refund requests from the bank issuing an attendee‘s card, the Website may exercise its right to disable the User‘s payment acceptance functionality. Additionally, the Website might reverse all previously processed payments and, if deemed necessary, suspend the User‘s account.
+			Märkus: kui sama osalejakaardi väljastanud pangast saabub rohkem kui 2 tagasimakse taotlust, võib veebileht kasutada õigust keelata Kasutajal maksete vastuvõtmine. Samuti võib veebileht tühistada kõik varem töödeldud maksed ja vajadusel peatada Kasutaja konto.
 		</p>
 		<br>
 		<p>
-			Furthermore, if there are numerous complaints from attendees regarding the content or quality of webinars, the Website reserves the right to issue refunds to all attendees without exception. In such cases, the User will not receive the contested funds.
+			Lisaks, kui osalejatelt saabub arvukalt kaebusi veebiseminaride sisu või kvaliteedi kohta, jätab veebileht endale õiguse tagastada maksed kõikidele osalejatele ilma eranditeta. Sellisel juhul ei kuulu vaidlustatud summad Kasutajale väljamaksmisele.
 		</p>
 		<br>
 		<p>
-			The website strictly adheres to this rule.
+			Veebileht järgib seda reeglit rangelt.
 		</p>
 		<br><br>
-		<h3>Rights and obligations of the website</h3>
+		<h3>Veebilehe õigused ja kohustused</h3>
 		<p>
-			While the Website strives to ensure the highest possible level of service availability and performance, it cannot be held accountable for any failure or delay in meeting its obligations due to unforeseen circumstances beyond its control. Such circumstances include, but are not limited to: subpar internet connection quality experienced by the User or Participants during webinars, live broadcasts, and web conferences; the absence of essential equipment such as microphones or cameras on the user‘s end; insufficient power of the User‘s device; DDoS attacks targeting data centers utilized by the Website; natural disasters; strikes; acts of war; delays or failures in third-party services, and more.
+			Kuigi veebileht teeb kõik endast oleneva, et tagada teenuste maksimaalne kättesaadavus ja toimivus, ei vastuta ta kohustuste täitmata jätmise või viivituste eest, mis tulenevad ettenägematutest ja temast mittesõltuvatest asjaoludest. Nendeks võivad olla näiteks: Kasutaja või Osalejate kehv internetiühendus veebiseminaride, otseülekannete või veebikonverentside ajal; kasutaja varustuse puudulikkus (mikrofon, kaamera); seadme ebapiisav jõudlus; DDoS-rünnakud veebilehe kasutatavate andmekeskuste vastu; loodusõnnetused; streigid; sõjategevus; viivitused või tõrked kolmandate osapoolte teenustes jms.
 		</p>
 		<br>
 		<p>
-			The Website cannot be held liable for any errors, damages, or other unexpected outcomes that arise from the User‘s or Participant‘s misuse of the provided services.
+			Veebileht ei vastuta ühegi vea, kahju ega muu ootamatu tulemuse eest, mis tuleneb Kasutaja või Osaleja teenuste väärkasutusest.
 		</p>
 		<br>
 		<p>
-			In line with its <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Return Policy</a>, the Website disclaims responsibility for any complaints from Participants concerning the poor organization of a paid webinar or any technical mishaps attributable to the User.
+			Vastavalt oma <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">tagastuspoliitikale</a> ei vastuta veebileht osalejate kaebuste eest, mis puudutavad tasulise veebiseminari halba korraldust või Kasutajast tingitud tehnilisi vigu.
 		</p>
 		<br>
 		<p>
-			The Website reserves the right to suspend or terminate its services without prior notice to the User. This may also involve retaining all proceeds from paid webinars on the Website‘s account, especially in cases where paid webinars, live broadcasts, or web conferences contain illegal or offensive content.
+			Veebileht jätab endale õiguse peatada või lõpetada oma teenused ette teatamata. Vajadusel võidakse kõik tasuliste veebiseminaridega seotud tulud jätta veebilehe kontole, eriti juhtudel, kus veebiseminari, otseülekande või konverentsi sisu on ebaseaduslik või solvav.
 		</p>
 		<br><br>
-		<h3>User‘s rights and obligations</h3>
+		<h3>Kasutaja õigused ja kohustused</h3>
 		<p>
-			The User is personally responsible to the attendees of paid webinars for their content, quality, and the timely delivery using the services provided by the Website.
+			Kasutaja vastutab isiklikult tasuliste veebiseminaride osalejate ees sisu, kvaliteedi ja teenuse õigeaegse kohaletoimetamise eest, kasutades veebilehe pakutavaid teenuseid.
 		</p>
 		<br>
 		<p>
-			The User assumes personal responsibility towards attendees of paid webinars for any technical issues, glitches, delays, or cancellations related to the organization of the paid webinar.
+			Kasutaja vastutab isiklikult osalejate ees võimalike tehniliste probleemide, tõrgete, viivituste või tühistamiste eest, mis on seotud tasulise veebiseminari korraldamisega.
 		</p>
 		<br>
 		<p>
-			The User agrees not to use the services of the Website for illegal purposes. Breaching this agreement will result in the immediate suspension of the User‘s account, and any funds accrued from paid webinars will be retained by the Website.
+			Kasutaja nõustub, et ei kasuta veebilehe teenuseid ebaseaduslikel eesmärkidel. Selle lepingu rikkumine toob kaasa konto viivitamatu peatamise ning kõik tasulistelt veebiseminaridelt teenitud vahendid jäävad veebilehe käsutusse.
 		</p>
 		<br>
 		<p>
-			The User is not permitted to use the Service or its messaging system to send, share, or distribute spam or other unauthorized promotional content. Should attendees file complaints against the User for such unauthorized activities, the Website reserves the right to suspend the User‘s account and retain all funds acquired from paid webinars on the Website.
+			Kasutajal ei ole lubatud kasutada teenust ega selle sõnumsüsteemi spämmimiseks ega volitamata reklaamsisu jagamiseks. Kui osalejad esitavad Kasutaja kohta kaebusi sellise tegevuse tõttu, on veebilehel õigus peatada Kasutaja konto ja jätta kõik veebiseminaridelt teenitud vahendid oma valdusesse.
 		</p>
 		<br><br>
-		<h3>Copyright policy</h3>
+		<h3>Autoriõiguste poliitika</h3>
 		<p>
-			Users are prohibited from posting or reproducing copyrighted materials or trademarks on the Service without obtaining prior permission from the copyright owners.
+			Kasutajatel on keelatud teenusesse postitada või reprodutseerida autoriõigustega kaitstud materjale või kaubamärke ilma eelneva loata nende õiguste omanikelt.
 		</p>
 		<br>
 		<p>
-			Should a user violate this policy, the Website reserves the right to take actions as detailed in the “Rights and Obligations of the Website“ section of this User Agreement.
+			Juhul kui Kasutaja rikub seda poliitikat, jätab Veebileht endale õiguse rakendada meetmeid, mis on kirjeldatud käesoleva Kasutajaleppe jaotises „Veebilehe õigused ja kohustused“.
 		</p>
 		<br><br>
-		<h3>Limitation of liability</h3>
+		<h3>Vastutuse piirang</h3>
 		<p>
-			The Website shall not be held responsible for any damages, including lost profits incurred by Participants or the User, or loss of Participant data due to the negligence of the User, the Website, the Participant, or third parties.
+			Veebileht ei vastuta ühegi kahju eest, sealhulgas saamata jäänud kasumi või Osalejate andmete kadumise eest, mis on põhjustatud Kasutaja, Veebilehe, Osaleja või kolmandate osapoolte hooletusest.
 		</p>
 		<br>
 		<p>
-			The Website‘s liability to the User is restricted solely to the monetary value of the services the Website has rendered to the User.
+			Veebilehe vastutus Kasutaja ees on piiratud üksnes teenuste rahalise väärtusega, mille Veebileht on Kasutajale osutanud.
 		</p>
 		<br>
 		<p>
-			For Participants of paid webinars, the Website‘s liability is confined solely to the monetary sum received by the User.
+			Tasuliste veebiseminaride Osalejate puhul on Veebilehe vastutus piiratud ainult selle rahasummaga, mille Kasutaja on saanud.
 		</p>
 		<br>
 		<p>
-			The Website offers no assurances to Participants of paid webinars concerning the accuracy, currentness, or comprehensiveness of the information provided by the User. The User acknowledges that the content or materials they present during paid webinars might have inaccuracies or errors. The Website shall not be accountable for any inaccuracies or for any lost profits of the User or Participants.
+			Veebileht ei anna Osalejatele mingeid garantiisid Kasutaja esitatud teabe täpsuse, ajakohasuse ega täielikkuse kohta. Kasutaja tunnistab, et tema poolt tasulise veebiseminari käigus esitatud sisu või materjalid võivad sisaldada ebatäpsusi või vigu. Veebileht ei vastuta nende ebatäpsuste ega Kasutaja või Osalejate saamata jäänud kasumi eest.
 		</p>
 		<br>
 		<p>
-			The Website does not supply Participants with any ancillary documentation, such as invoices or receipts. It is at the User‘s discretion to address this matter independently if deemed necessary.
+			Veebileht ei esita Osalejatele ühtegi täiendavat dokumenti, nagu arved või kviitungid. Vajadusel tuleb Kasutajal see küsimus iseseisvalt lahendada.
 		</p>
 		<br><br>
-		<h3>Disputes</h3>
+		<h3>Vaidlused</h3>
 		<p>
-			While the Website strives to address concerns comprehensively, it cannot guarantee a resolution in favor of every User or Participant of paid webinars. However, we commit to taking all necessary actions and making every effort to resolve any situation or problem promptly. Should disputes arise that necessitate the involvement of public authorities, both the User and the Participant agree to be governed by applicable EU law.
+			Kuigi Veebileht teeb kõik endast oleneva probleemide lahendamiseks, ei saa ta tagada lahendust iga Kasutaja või tasulise veebiseminari Osaleja kasuks. Samas kohustume rakendama kõik vajalikud meetmed ja pingutused, et lahendada igasugused olukorrad kiiresti ja tõhusalt. Kui vaidlus nõuab avalike asutuste sekkumist, nõustuvad nii Kasutaja kui ka Osaleja, et kohaldatakse Euroopa Liidu õigust.
 		</p>
 		<br><br>
-		<h3>Notifications</h3>
+		<h3>Teavitused</h3>
 		<p>
-			Please direct all notifications and inquiries to paid-webinars@myownconference.com. Be sure to provide a detailed description of your concern or any technical issues you‘ve encountered.
+			Palun saatke kõik teavitused ja päringud e-posti aadressile paid-webinars@myownconference.com. Kirjelda kindlasti oma muret või ilmnenud tehnilist probleemi võimalikult täpselt.
 		</p>
 		<br><br>
 	',

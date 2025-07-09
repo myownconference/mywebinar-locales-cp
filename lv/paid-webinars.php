@@ -15,308 +15,312 @@ return [
 	'paypal-summ' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Already paid
+		Samaksāts
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'funds-received' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paid webinars <span class="tooltip" data-tip="Activate this option to charge attendees for webinar access. Read and confirm the agreements before enabling paid webinars in your profile settings. Please note that the feature will not be activated immediately, as we will manually review your profile and webinar topics before activation"></span>
+		Maksas vebināri <span class="tooltip" data-tip="Aktivizējiet šo iespēju, lai iekasētu maksu no dalībniekiem par piekļuvi vebināram. Pirms maksas vebināru iespējošanas savā profilā, lūdzu, izlasiet un apstipriniet lietošanas noteikumus. Ņemiet vērā, ka funkcija netiks aktivizēta uzreiz — mēs manuāli pārbaudīsim jūsu profilu un vebināru tēmas pirms apstiprināšanas"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'hold-title' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Our fee
+		Pakalpojuma komisija
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'output-title' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Processed
+		Apstrādāts
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'output-button' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Withdraw
+		Izmaksāt
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-title' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Terms and conditions of payment processing for paid webinars
+		Maksājumu pieņemšanas funkcijas lietošanas noteikumi
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-subtitle' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Read the terms and conditions for using the payment processing function carefully please. Incorrect use of this function may result in automatic blocking of your account.
+		Lūdzu, rūpīgi iepazīstieties ar maksājumu pieņemšanas funkcijas lietošanas noteikumiem. Nepareiza šīs funkcijas izmantošana var novest pie automātiskas jūsu konta bloķēšanas.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-bottom' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sign here if you agree with term and conditions of the payments processing
+		Atzīmējiet šo, ja piekrītat maksājumu pieņemšanas funkcijas lietošanas noteikumiem
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'freeze-title' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		On hold
+		Rezervēts
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'service-commission-title' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Our fee
+		Platformas komisija
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'our-bank-commission-title' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bank fee
+		Bankas komisija
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'available-title' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Revenue
+		Pieejams
 	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'extend-package-confirm' => //////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
+		//////////////////////////////////////////////////////////////////////////////////////
+		'extend-package-confirm' => //////////////////////////////////////////////////////////
+		//////////////////////////////////////////////////////////////////////////////////////
+		'
+			
+		',
+		//////////////////////////////////////////////////////////////////////////////////////
+		'withdraw-request-success' => ////////////////////////////////////////////////////////
+		//////////////////////////////////////////////////////////////////////////////////////
+		'
+			
+		',
+		//////////////////////////////////////////////////////////////////////////////////////
+		'withdraw-request-error' => //////////////////////////////////////////////////////////
+		//////////////////////////////////////////////////////////////////////////////////////
+		'
+			
+		',
+		//////////////////////////////////////////////////////////////////////////////////////
 
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'withdraw-request-success' => ////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
-	'withdraw-request-error' => //////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		
-	',
-	//////////////////////////////////////////////////////////////////////////////////////
 
-
-	//////////////////////////////////////////////////////////////////////////////////////
-	'payweb-rules' => ////////////////////////////////////////////////////////////////////
-	//////////////////////////////////////////////////////////////////////////////////////
-	'
-		<h3>Handling payments for your paid webinars</h3>
-		<sup style="color:grey">(Last edited: August 24, 2023. Revision: 1.2)</sup>
+		//////////////////////////////////////////////////////////////////////////////////////
+		'payweb-rules' => ////////////////////////////////////////////////////////////////////
+		//////////////////////////////////////////////////////////////////////////////////////
+		'
+		<h3>Maksājumu apstrāde maksas vebināriem</h3>
+		<sup style="color:grey">(Pēdējās izmaiņas: 2022. gada 30. augustā. Redakcija: 1.2)</sup>
 		<br><br><br><br>
-		<h3>Terms and definitions</h3>
+		<h3>Termini un definīcijas</h3>
 		<p>
-			– Paid webinars — this encompasses webinars, online lectures, conferences, seminars, courses, lessons, and live broadcasts that require payment for participation. Attendees can access and participate in these webinars only after they‘ve made the necessary payment.
+			– Maksas pasākumi — vebināri, tiešsaistes lekcijas, konferences, semināri, kursi, nodarbības un tiešraides, kuru apmeklēšana ir maksas. Šādos gadījumos dalībnieki iegūst piekļuvi pasākuma saturam un var to skatīties tikai pēc veiksmīgas apmaksas.
 			<br><br>
-			– Webinar software MyOwnConference — we are “Akovana, UAB“, a service provider specializing in the organization of both free and paid webinars, live broadcasts, web conferences, and more. Our registered address is 18 Djioyi Street, Vilnius, Lithuania, LT-01128.
+			– Serviss, MyOwnConference, mēs — uzņēmums “Akovana, UAB“, kas ir bezmaksas un maksas vebināru, tiešraižu un vebkonferenču organizēšanas platformas pakalpojumu sniedzējs, reģistrēts Didižioji ielā 18, Viļņā, Lietuvā, LT-01128.
 			<br><br>
-			– User — any individual who has agreed to these terms and utilizes the services in accordance with this agreement.
+			– Lietotājs, Jūs — persona, kas ir pieņēmusi šo līgumu un izmanto sniegtos pakalpojumus atbilstoši Lietotāja līgumam.
 			<br><br>
-			– User Agreement — this document, found in the Control Panel, acts as the binding contract between you (the User) and us (the Website), governing the provision of our information services.
+			– Lietotāja līgums, Līgums — šis dokuments, kas publicēts vadības panelī; līgums starp Lietotāju (Jums) un Servisu (Mums) par informācijas pakalpojumu sniegšanu, kas tiek noslēgts, pieņemot šo līgumu.
 			<br><br>
-			– User Account, Control Panel, or Dashboard — this is a collection of the User‘s personal data crucial for accessing the services offered by the Website. It also contains files the User has stored on the Website‘s server.
+			– Lietotāja konts, Vadības panelis — lietotāja personas datu kopums, kas nodrošina piekļuvi Servisa pakalpojumiem, kā arī lietotāja augšupielādētie faili Servisa serverī.
 			<br><br>
-			– Attendee, Participant or Guest – an individual invited by the User, who compensates the User for access to a paid webinar hosted by the User via the Website.
+			– Dalībnieks, Viesis – persona, kuru uzaicinājis Lietotājs un kura veic maksājumu par maksas pasākuma apmeklējumu, kuru rīko Lietotājs, izmantojot Servisu.
 		</p>
 		<br><br>
-		<h3>General provisions</h3>
+		<h3>Vispārīgie noteikumi</h3>
 		<p>
-			When arranging paid webinars, the online platform for webinars, live broadcasts, and web conferences, namely “MyOwnConference“, hereinafter referred to as “the Platform“, serves as an intermediary. The platform is entrusted by the User to receive and process payments from attendees participating in the webinar, online lecture, conference, course, or lesson facilitated via the platform‘s services.
+			Rīkojot maksas pasākumus, vebināru, tiešraižu un vebkonferenču platforma MyOwnConference (turpmāk — Serviss) darbojas kā Aģents, kuram Lietotājs uztic maksājumu pieņemšanu un apstrādi no Dalībniekiem, kas uzaicināti dažādos veidos uz pasākumiem, ko rīko Lietotājs, izmantojot Servisu.
 		</p>
 		<br>
 		<p>
-			To formalize an agreement with the Platform, the User isn‘t required to sign a physical (hard copy) contract. Merely accepting the terms of this Agreement, by ticking the respective checkbox within the Platform‘s Control Panel when seeking to activate payment acceptance services, is sufficient.
+			Lai noslēgtu līgumu ar Servisu, Lietotājam nav jāparaksta drukāta versija. Pietiek ar to, ka Lietotājs piekrīt šī Līguma noteikumiem, atzīmējot attiecīgo izvēles rūtiņu, kad Vadības panelī tiek pieprasīta maksājumu pieņemšanas funkcijas aktivizācija.
 		</p>
 		<br>
 		<p>
-			The Platform conscientiously oversees the quality of the User‘s paid webinars, keeps track of any discontented participants, and manages refunds for previously processed payments if warranted. Accordingly, during the preliminary verification of the User‘s account, the Platform holds the discretion to deny the User‘s request to process payments without stating a specific reason.
+			Serviss rūpīgi uzrauga Lietotāja rīkoto maksas pasākumu kvalitāti, kā arī neapmierināto Dalībnieku skaitu un ar to saistītos maksājumu atgriešanas pieprasījumus. Tādēļ, sākotnējās konta pārbaudes laikā, Serviss patur tiesības atteikt maksājumu pieņemšanas funkcijas sniegšanu bez paskaidrojuma.
 		</p>
 		<br>
 		<p>
-			All payments are exclusively accepted and processed via the international payment system, Paysera.
+			Serviss pieņem un apstrādā visus maksājumus tikai caur starptautisko maksājumu sistēmu Paysera.
 		</p>
 		<br>
 		<p>
-			The primary transactional and accepted currency is the Euro (EUR).
+			Galvenā norēķinu un maksājumu valūta ir eiro (EUR).
 		</p>
 		<br>
 		<p>
-			The Platform directs all received payments to a dedicated account, exclusively designed for managing payments from the User‘s webinar attendees.
+			Visi maksājumi tiek ieskaitīti īpašā kontā, kas paredzēts tikai Lietotāja vebināru dalībnieku maksājumu pieņemšanai un apkalpošanai.
 		</p>
 		<br>
 		<p>
-			To maintain a comprehensive history of interactions with the User, all inquiries and claims pertaining to payment acceptance and processing—including refund requests—are to be submitted via the email address registered to the User‘s account.
+			Lai saglabātu pilnīgu sadarbības vēsturi ar Lietotāju, visi jautājumi un pretenzijas saistībā ar maksājumu pieņemšanu un apstrādi, piemēram, atmaksas pieprasījumi u.c., tiek risināti tikai caur e-pasta adresi, uz kuru reģistrēts Lietotāja konts.
 		</p>
 		<br><br>
-		<h3>Platform fees</h3>
+		<h3>Platformas komisija</h3>
 		<p>
-			The website applies a 10% commission to every successful payment made by participants attending a user‘s paid webinar.
+			Serviss ietur 10% komisiju no katra veiksmīga maksājuma, ko Dalībnieks veic par maksas pasākuma apmeklējumu, kuru organizē Lietotājs.
 		</p>
 		<p>
-			For instance, if you set the entry fee for a webinar at €10 and 10 people attend, generating €10 x 10 = €100 in total payments, you would earn €100 – 10% = €90 after commission.
-		</p>
-		<br><br>
-		<h3>Bank service fee</h3>
-		<p>
-			A service fee of €7 is applied only for bank transfers to the user‘s account. This fee is consistently applied without exceptions.
+			Piemēram, Jūs norādījāt vebināra cenu 10 EUR. Uz vebināru ieradās 10 cilvēki, kas katrs samaksāja 10 x 10 EUR = 100 EUR. Tādā gadījumā Jūs nopelnījāt 100 EUR – 10% = 90 EUR.
 		</p>
 		<br><br>
-		<h3>Correspondent bank fees</h3>
+		<h3>Servisa bankas komisija</h3>
 		<p>
-			These fees are levied by the Correspondent Bank when facilitating the transfer of funds from the website‘s bank account to the user‘s bank account. For IBAN transfers, the fees charged by correspondent banks can range from €10 to €35. There is no fee for SEPA transfers.
+			Komisija tiek ieturēta tikai tad, kad līdzekļi tiek pārskaitīti uz Lietotāja bankas kontu, un tā ir fiksēta — 7 EUR. Komisija tiek piemērota vienmēr un bez izņēmumiem.
+		</p>
+		<br><br>
+		<h3>Korespondentbankas komisija</h3>
+		<p>
+			Korespondentbankas komisija tiek ieturēta gadījumā, ja šāda banka tiek izmantota, pārskaitot naudu no Servisa bankas uz Lietotāja banku. IBAN pārskaitījumos šī komisija var būt no 10 līdz 35 EUR.
 		</p>
 		<br>
 		<br><br>
-		<h3>Receiving payouts</h3>
+		<h3>Maksājumu saņemšana</h3>
 		<p>
-			When a participant makes a successful payment for a webinar, the amount is credited to a dedicated account on our platform. This is then aggregated based on the number of paid webinars and participants. Payments are processed by our platform, but only initiated upon the user‘s request through the Control Panel.
+			Veiksmīgi maksājumi no maksas vebināru dalībniekiem tiek ieskaitīti Lietotāja speciālajā Sava pakalpojuma kontā un tiek summēti atbilstoši maksas vebināru un maksājošo dalībnieku skaitam. Izmaksas Lietotājam tiek veiktas tikai pēc Lietotāja personiska pieprasījuma vadības panelī, ja summa ir vismaz 100 EUR.
 		</p>
 		<br>
 		<p>
-			In accordance with the terms of this Agreement, a 10% commission for our platform, as well as a €7 fee charged by our bank for processing the money transfer, will be deducted from the user‘s payout.
+			Saskaņā ar šī Līguma iepriekš minētajiem punktiem, no summas, kas izmaksājama Lietotājam, vienmēr tiek ieturēta 10% komisija par Pakalpojumu, kā arī Pakalpojuma bankas komisija par pārskaitījumu uz Lietotāja bankas kontu — 7 EUR.
 		</p>
 		<br>
 		<p>
-			The net amount after deductions can either be transferred to the user‘s bank account or be applied as credit towards the cost of using our platform‘s services.
+			Galīgā izmaksas summa tiek pārskaitīta uz Lietotāja norādīto bankas kontu vai ieskaitīta Pakalpojuma izmantošanas vērtībā.
 		</p>
 		<p>
-			All payments are processed no earlier than 7 business days after the webinar and only if there are no refund requests from participants. The minimum payout amount is 300 EUR. For payouts exceeding 600 EUR, our service will send a closing document that must be signed by the recipient of the payment.
-		<br>
+			Visi maksājumi tiek apstrādāti ne agrāk kā 7 darba dienas pēc vebināra un tikai tad, ja nav saņemts neviens dalībnieka naudas atgriešanas pieprasījums. Minimālā izmaksas summa ir 300 EUR. Ja izmaksas summa pārsniedz 600 EUR, mūsu komanda nosūtīs jums slēgšanas dokumentu, kas būs jāparaksta saņēmējam.
+		</p>
 		<br>
 		<p>
-			Please note! When using the IBAN method, some intermediary banks may levy an additional fee ranging from €10 to €35. We have no control over, nor can we waive these fees. They are automatically deducted when funds are transferred to the user‘s bank account.
+			Uzmanību! Dažas korespondentbankas, izmantojot IBAN metodi, var piemērot papildu komisiju no 10 līdz 35 EUR. Šādos gadījumos Pakalpojums nevar ietekmēt vai atcelt šo komisiju — tā tiek automātiski ieturēta pārskaitījuma laikā.
 		</p>
 		<br><br>
-		<h3>Refund request by the User</h3>
+		<h3>Atmaksas pieprasījums no Lietotāja</h3>
 		<p>
-			Users can request a refund through the Control Panel on our website. This must then be confirmed via the email address associated with the user‘s account.
+			Pakalpojums pieņem atgriešanas pieprasījumu no Lietotāja tikai no vadības paneļa ar turpmāku apstiprinājumu uz e-pasta adresi, kas norādīta Lietotāja reģistrācijas datos.
 		</p>
 		<br>
 		<p>
-			To maintain high-quality service, all refund requests from attendees of paid webinars are reviewed and processed semi-automatically by our system. The refund processing time can range from 1 to 7 business days, depending primarily on the bank that serves the webinar attendee.
+			Lai uzlabotu pakalpojumu kvalitāti, visi Lietotāja pieprasījumi par maksas vebināru dalībnieku atmaksu tiek izskatīti un apstrādāti pusautomātiskā režīmā. Naudas atmaksa Dalībniekam tiek veikta 1 līdz 7 bankas dienu laikā un ir atkarīga tikai no Dalībnieka apkalpojošās bankas.
 		</p>
 		<br>
 		<p>
-			The service processes refunds immediately upon receiving a request from the user.
+			Pakalpojums veic atmaksu uzreiz pēc Lietotāja pieprasījuma saņemšanas.
 		</p>
 		<br><br>
-		<h3>Participant refund request</h3>
+		<h3>Atmaksas pieprasījums no Dalībnieka</h3>
 		<p>
-			Our platform processes refund requests from attendees of paid webinars only when they directly contact us through the provided contact form or email address on our website.
+			Pakalpojums pieņem atmaksas pieprasījumus no maksas vebināru Dalībniekiem tikai tiešas saziņas gadījumā, izmantojot kontaktformu vai e-pasta adresi, kas norādīta Pakalpojuma mājaslapā.
 		</p>
 		<br>
 		<p>
-			In such instances, we will issue a refund after thoroughly reviewing the attendee‘s explanation for the request and securing an agreement with the account holder (referred to as “User“). Refunds are initiated based on notifications from the User via their Control Panel.
+			Šādā gadījumā Pakalpojums veic atmaksu pēc detalizētas sūdzības izskatīšanas un saskaņošanas ar Lietotāju. Atmaksa tiek veikta, pamatojoties uz Lietotāja pieprasījumu vadības panelī.
 		</p>
 		<br>
 		<p>
-			We issue refunds promptly upon receiving the notification from the User.
+			Pakalpojums veic atmaksu uzreiz pēc Lietotāja pieprasījuma saņemšanas.
 		</p>
 		<br>
 		<p>
-			However, if for any reason the User fails to notify us through the Control Panel, our platform reserves the right to process the refund to the attendee independently.
+			Ja kāda iemesla dēļ Lietotājs neveic pieprasījumu caur vadības paneli, Pakalpojums patur tiesības veikt atmaksu Dalībniekam patstāvīgi.
 		</p>
 		<br><br>
-		<h3>Refund request from the webinar attendee‘s bank</h3>
+		<h3>Atmaksas pieprasījums no jūsu vebināra Dalībnieka bankas</h3>
 		<p>
-			Such refund requests arise from the bank that serves the attendee of a paid webinar. All payments made by attendees for paid webinars are fully refundable, adhering to the principle that “The Attendee is Always Right“.
+			Šādu pieprasījumu veic Dalībnieka apkalpojošā banka. Jebkurš maksājums no maksas pasākuma dalībnieka vienmēr var tikt atgriezts pēc principa “Dalībniekam vienmēr ir taisnība“.
 		</p>
 		<br>
 		<p>
-			Should a refund request be received directly from an attendee‘s bank, the Website will promptly inform the User. The Website then allows the User 3 business days to address the matter with the attendee and subsequently notify the Website of any agreements reached, providing relevant correspondence and documentation. The Website will then forward these documents to the relevant bank for processing.
+			Gadījumā, ja tiek saņemts atgriešanas pieprasījums tieši no Dalībnieka bankas, Pakalpojums nekavējoties informē Lietotāju. Lietotājam tiek dots 3 darba dienu termiņš, lai atrisinātu jautājumu ar Dalībnieku un sniegtu Pakalpojumam informāciju par panākto vienošanos, pievienojot atbilstošu saraksti un dokumentus. Šie dokumenti tiks iesniegti bankai.
 		</p>
 		<br>
 		<p>
-			Note: Should the Website receive more than 2 refund requests from the bank issuing an attendee‘s card, the Website may exercise its right to disable the User‘s payment acceptance functionality. Additionally, the Website might reverse all previously processed payments and, if deemed necessary, suspend the User‘s account.
+			Ja Pakalpojums 3 darba dienu laikā nesaņem atbildi no Lietotāja par vienošanos ar Dalībnieku(-iem), Pakalpojums patur tiesības nekavējoties atgriezt maksājumu Dalībniekam(-iem).
 		</p>
 		<br>
 		<p>
-			Furthermore, if there are numerous complaints from attendees regarding the content or quality of webinars, the Website reserves the right to issue refunds to all attendees without exception. In such cases, the User will not receive the contested funds.
+			Ja Pakalpojums saņem vairāk nekā 2 atmaksas pieprasījumus no Dalībnieka(-u) kartes izdevējbankas, Pakalpojums patur tiesības nekavējoties atspējot maksājumu pieņemšanu Lietotājam, atgriezt visus iepriekš saņemtos maksājumus un, ja nepieciešams, bloķēt Lietotāja kontu.
 		</p>
 		<br>
 		<p>
-			The website strictly adheres to this rule.
+			Tāpat, ja tiek saņemtas vairākas sūdzības par vebināru saturu vai kvalitāti, Pakalpojums veic atmaksu visiem maksas pasākuma dalībniekiem bez izņēmuma, bez iespējas apstrīdēt vai saņemt izmaksas Lietotājam.
+		</p>
+		<br>
+		<p>
+			Pakalpojums neparedz izņēmumus šim noteikumam.
 		</p>
 		<br><br>
-		<h3>Rights and obligations of the website</h3>
+		<h3>Pakalpojuma tiesības un pienākumi</h3>
 		<p>
-			While the Website strives to ensure the highest possible level of service availability and performance, it cannot be held accountable for any failure or delay in meeting its obligations due to unforeseen circumstances beyond its control. Such circumstances include, but are not limited to: subpar internet connection quality experienced by the User or Participants during webinars, live broadcasts, and web conferences; the absence of essential equipment such as microphones or cameras on the user‘s end; insufficient power of the User‘s device; DDoS attacks targeting data centers utilized by the Website; natural disasters; strikes; acts of war; delays or failures in third-party services, and more.
+			Pakalpojums cenšas nodrošināt maksimāli stabilu pieejamību un veiktspēju, taču neuzņemas atbildību par neizpildi vai kavēšanos saistībā ar apstākļiem, kas nav atkarīgi no Pakalpojuma (force majeure), piemēram, Lietotāja vai Dalībnieku nestabils interneta savienojums vebināru, tiešraižu vai tīmekļa konferenču laikā, Lietotāja mikrofona, kameras vai cita aprīkojuma trūkums, Lietotāja ierīču nepietiekama jauda, DDoS uzbrukumi datu centriem, ugunsgrēki, plūdi, streiki, militārie konflikti, trešo pušu pakalpojumu nepieejamība vai aizkavēšanās u. tml.
 		</p>
 		<br>
 		<p>
-			The Website cannot be held liable for any errors, damages, or other unexpected outcomes that arise from the User‘s or Participant‘s misuse of the provided services.
+			Pakalpojums nav atbildīgs par kļūdām, bojājumiem vai citām neparedzētām situācijām, kas radušās Lietotāja vai Dalībnieka kļūdainas Pakalpojuma izmantošanas rezultātā.
 		</p>
 		<br>
 		<p>
-			In line with its <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Return Policy</a>, the Website disclaims responsibility for any complaints from Participants concerning the poor organization of a paid webinar or any technical mishaps attributable to the User.
+			Saskaņā ar <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Atmaksas politiku</a>, Pakalpojums neuzņemas atbildību par Dalībnieku pretenzijām saistībā ar maksas vebināru neatbilstošu organizēšanu vai tehniskām kļūmēm Lietotāja pusē.
 		</p>
 		<br>
 		<p>
-			The Website reserves the right to suspend or terminate its services without prior notice to the User. This may also involve retaining all proceeds from paid webinars on the Website‘s account, especially in cases where paid webinars, live broadcasts, or web conferences contain illegal or offensive content.
+			Pakalpojuma sniegšana var tikt apturēta vai pārtraukta ar vai bez Lietotāja brīdinājuma, un visi maksas pasākumu laikā saņemtie līdzekļi var tikt iesaldēti Pakalpojuma kontā, ja tiek konstatēts nelegāls vai aizskarošs saturs maksas vebināros, tiešraidēs vai tīmekļa konferencēs.
 		</p>
 		<br><br>
-		<h3>User‘s rights and obligations</h3>
+		<h3>Lietotāja tiesības un pienākumi</h3>
 		<p>
-			The User is personally responsible to the attendees of paid webinars for their content, quality, and the timely delivery using the services provided by the Website.
+			Lietotājs personīgi atbild Dalībnieku priekšā par maksas pasākumu saturu un kvalitāti, kā arī par to savlaicīgu norisi, izmantojot Pakalpojumu.
 		</p>
 		<br>
 		<p>
-			The User assumes personal responsibility towards attendees of paid webinars for any technical issues, glitches, delays, or cancellations related to the organization of the paid webinar.
+			Lietotājs ir atbildīgs par jebkādām tehniskām kļūmēm, bojājumiem, aizkavēšanos vai maksas vebināra atcelšanu.
 		</p>
 		<br>
 		<p>
-			The User agrees not to use the services of the Website for illegal purposes. Breaching this agreement will result in the immediate suspension of the User‘s account, and any funds accrued from paid webinars will be retained by the Website.
+			Lietotājs apņemas neizmantot Pakalpojumu nelikumīgiem nolūkiem. Šādu pārkāpumu gadījumā Lietotāja konts tiks nekavējoties bloķēts, un visi maksas pasākumu laikā saņemtie līdzekļi tiks aizturēti Pakalpojuma kontā.
 		</p>
 		<br>
 		<p>
-			The User is not permitted to use the Service or its messaging system to send, share, or distribute spam or other unauthorized promotional content. Should attendees file complaints against the User for such unauthorized activities, the Website reserves the right to suspend the User‘s account and retain all funds acquired from paid webinars on the Website.
+			Lietotājam ir aizliegts izmantot Pakalpojumu un izsūtīšanas sistēmu spama vai neatļautas reklāmas izplatīšanai. Ja tiek saņemta sūdzība par šādām darbībām, Pakalpojumam ir tiesības deaktivizēt Lietotāja kontu, aizturot visus maksas pasākumu laikā saņemtos līdzekļus.
 		</p>
 		<br><br>
-		<h3>Copyright policy</h3>
+		<h3>Autortiesību politika</h3>
 		<p>
-			Users are prohibited from posting or reproducing copyrighted materials or trademarks on the Service without obtaining prior permission from the copyright owners.
+			Lietotājam nav tiesību augšupielādēt vai reproducēt Pakalpojumā ar autortiesībām aizsargātu saturu vai preču zīmes bez iepriekšējas tiesību īpašnieku atļaujas.
 		</p>
 		<br>
 		<p>
-			Should a user violate this policy, the Website reserves the right to take actions as detailed in the “Rights and Obligations of the Website“ section of this User Agreement.
+			Ja Lietotājs pārkāpj šo noteikumu, Pakalpojumam ir tiesības piemērot pasākumus saskaņā ar sadaļu “Pakalpojuma tiesības un pienākumi” šajā Lietošanas līgumā.
 		</p>
 		<br><br>
-		<h3>Limitation of liability</h3>
+		<h3>Atbildības ierobežojums</h3>
 		<p>
-			The Website shall not be held responsible for any damages, including lost profits incurred by Participants or the User, or loss of Participant data due to the negligence of the User, the Website, the Participant, or third parties.
+			Pakalpojums nav atbildīgs par jebkādiem zaudējumiem, tostarp Lietotāja vai Dalībnieku negūto peļņu, datu zudumu Lietotāja vainas dēļ, vai trešo pušu darbības rezultātā.
 		</p>
 		<br>
 		<p>
-			The Website‘s liability to the User is restricted solely to the monetary value of the services the Website has rendered to the User.
+			Pakalpojuma atbildība Lietotāja priekšā ir ierobežota ar sniegto pakalpojumu vērtību (naudas izteiksmē).
 		</p>
 		<br>
 		<p>
-			For Participants of paid webinars, the Website‘s liability is confined solely to the monetary sum received by the User.
+			Pakalpojuma atbildība Dalībnieku priekšā ir ierobežota ar summu, kas saņemta Lietotāja labā.
 		</p>
 		<br>
 		<p>
-			The Website offers no assurances to Participants of paid webinars concerning the accuracy, currentness, or comprehensiveness of the information provided by the User. The User acknowledges that the content or materials they present during paid webinars might have inaccuracies or errors. The Website shall not be accountable for any inaccuracies or for any lost profits of the User or Participants.
+			Pakalpojums nesniedz garantijas Dalībniekiem par informācijas precizitāti, aktualitāti un pilnīgumu, kas tiek nodrošināta no Lietotāja puses. Lietotājs atzīst, ka viņa sniegtā informācija var saturēt kļūdas, un Pakalpojums par to nenes nekādu atbildību.
 		</p>
 		<br>
 		<p>
-			The Website does not supply Participants with any ancillary documentation, such as invoices or receipts. It is at the User‘s discretion to address this matter independently if deemed necessary.
+			Pakalpojums neizsniedz Dalībniekiem slēdzošos dokumentus, piemēram, rēķinus, čekus u. c. Vajadzības gadījumā Lietotājs pats var lemt par šāda jautājuma risināšanu.
 		</p>
 		<br><br>
-		<h3>Disputes</h3>
+		<h3>Strīdi</h3>
 		<p>
-			While the Website strives to address concerns comprehensively, it cannot guarantee a resolution in favor of every User or Participant of paid webinars. However, we commit to taking all necessary actions and making every effort to resolve any situation or problem promptly. Should disputes arise that necessitate the involvement of public authorities, both the User and the Participant agree to be governed by applicable EU law.
+			Pakalpojums negarantē 100% jautājumu atrisināšanu par labu Lietotājam vai Dalībniekam, taču pieliek visas pūles, lai problēmas tiktu atrisinātas pēc iespējas ātrāk. Strīdu gadījumā, kur nepieciešama valsts iestāžu iesaiste, Lietotājs un Dalībnieks piekrīt, ka jautājums tiks risināts saskaņā ar spēkā esošajiem ES tiesību aktiem.
 		</p>
 		<br><br>
-		<h3>Notifications</h3>
+		<h3>Paziņojumi</h3>
 		<p>
-			Please direct all notifications and inquiries to paid-webinars@myownconference.com. Be sure to provide a detailed description of your concern or any technical issues you‘ve encountered.
+			Visi paziņojumi un jautājumi nosūtāmi uz e-pastu: contact@myownconference.com ar detalizētu sūdzības vai problēmas aprakstu, tostarp tehniskām niansēm.
 		</p>
 		<br><br>
 	',

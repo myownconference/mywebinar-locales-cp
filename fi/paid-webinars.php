@@ -15,73 +15,73 @@ return [
 	'paypal-summ' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Already paid
+		Jo maksettu
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'funds-received' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paid webinars <span class="tooltip" data-tip="Activate this option to charge attendees for webinar access. Read and confirm the agreements before enabling paid webinars in your profile settings. Please note that the feature will not be activated immediately, as we will manually review your profile and webinar topics before activation"></span>
+		Maksulliset webinaarit <span class="tooltip" data-tip="Ota tämä asetus käyttöön, jos haluat veloittaa osallistujilta pääsyn webinaariin. Lue ja hyväksy ehdot ennen kuin aktivoit maksulliset webinaarit profiiliasetuksissasi. Huomaa, että ominaisuus ei aktivoidu heti, sillä tarkistamme ensin manuaalisesti profiilisi ja webinaarien aiheet."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'hold-title' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Our fee
+		Palvelumaksumme
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'output-title' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Processed
+		Käsitelty
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'output-button' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Withdraw
+		Nosta varat
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-title' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Terms and conditions of payment processing for paid webinars
+		Ehdot maksujen käsittelylle maksullisissa webinaareissa
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-subtitle' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Read the terms and conditions for using the payment processing function carefully please. Incorrect use of this function may result in automatic blocking of your account.
+		Lue huolellisesti maksujen käsittelyyn liittyvät käyttöehdot. Väärinkäyttö voi johtaa tilisi automaattiseen estoon.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-bottom' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sign here if you agree with term and conditions of the payments processing
+		Allekirjoita tähän, jos hyväksyt maksujen käsittelyn ehdot
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'freeze-title' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		On hold
+		Odottaa käsittelyä
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'service-commission-title' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Our fee
+		Palvelumaksumme
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'our-bank-commission-title' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bank fee
+		Pankin kulu
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'available-title' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Revenue
+		Tulot
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'extend-package-confirm' => //////////////////////////////////////////////////////////
@@ -102,223 +102,219 @@ return [
 		
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
-
-
-	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<h3>Handling payments for your paid webinars</h3>
-		<sup style="color:grey">(Last edited: August 24, 2023. Revision: 1.2)</sup>
+		<h3>Maksujen käsittely maksullisista webinaareistasi</h3>
+		<sup style="color:grey">(Viimeksi muokattu: 24. elokuuta 2023. Versio: 1.2)</sup>
 		<br><br><br><br>
-		<h3>Terms and definitions</h3>
+		<h3>Termit ja määritelmät</h3>
 		<p>
-			– Paid webinars — this encompasses webinars, online lectures, conferences, seminars, courses, lessons, and live broadcasts that require payment for participation. Attendees can access and participate in these webinars only after they‘ve made the necessary payment.
+			– Maksulliset webinaarit – kattavat kaikki webinaarit, verkkoluennot, seminaarit, kurssit ja lähetykset, joihin osallistuminen edellyttää maksua. Osallistujat pääsevät mukaan vasta maksun suoritettuaan.
 			<br><br>
-			– Webinar software MyOwnConference — we are “Akovana, UAB“, a service provider specializing in the organization of both free and paid webinars, live broadcasts, web conferences, and more. Our registered address is 18 Djioyi Street, Vilnius, Lithuania, LT-01128.
+			– Webinaarialusta MyOwnConference – me olemme “Akovana, UAB”, palveluntarjoaja, joka järjestää sekä maksuttomia että maksullisia webinaareja, lähetyksiä ja verkkotapaamisia. Osoitteemme: Djioyi-katu 18, Vilna, Liettua, LT-01128.
 			<br><br>
-			– User — any individual who has agreed to these terms and utilizes the services in accordance with this agreement.
+			– Käyttäjä – kuka tahansa, joka hyväksyy nämä ehdot ja käyttää palvelua sopimuksen mukaisesti.
 			<br><br>
-			– User Agreement — this document, found in the Control Panel, acts as the binding contract between you (the User) and us (the Website), governing the provision of our information services.
+			– Käyttösopimus – tämä asiakirja ohjauspaneelissa, joka toimii sitovana sopimuksena sinun (Käyttäjän) ja meidän (Sivuston) välillä koskien tiedontarjontaa.
 			<br><br>
-			– User Account, Control Panel, or Dashboard — this is a collection of the User‘s personal data crucial for accessing the services offered by the Website. It also contains files the User has stored on the Website‘s server.
+			– Käyttäjätili, Ohjauspaneeli tai Hallintapaneeli – käyttäjän henkilökohtaiset tiedot sisältävä osio, jonka avulla palveluun pääsee. Se sisältää myös käyttäjän tallentamat tiedostot.
 			<br><br>
-			– Attendee, Participant or Guest – an individual invited by the User, who compensates the User for access to a paid webinar hosted by the User via the Website.
+			– Osallistuja, Vieras – henkilö, jonka käyttäjä on kutsunut ja joka maksaa pääsystä maksulliseen webinaariin.
 		</p>
-		<br><br>
-		<h3>General provisions</h3>
-		<p>
-			When arranging paid webinars, the online platform for webinars, live broadcasts, and web conferences, namely “MyOwnConference“, hereinafter referred to as “the Platform“, serves as an intermediary. The platform is entrusted by the User to receive and process payments from attendees participating in the webinar, online lecture, conference, course, or lesson facilitated via the platform‘s services.
-		</p>
-		<br>
-		<p>
-			To formalize an agreement with the Platform, the User isn‘t required to sign a physical (hard copy) contract. Merely accepting the terms of this Agreement, by ticking the respective checkbox within the Platform‘s Control Panel when seeking to activate payment acceptance services, is sufficient.
-		</p>
-		<br>
-		<p>
-			The Platform conscientiously oversees the quality of the User‘s paid webinars, keeps track of any discontented participants, and manages refunds for previously processed payments if warranted. Accordingly, during the preliminary verification of the User‘s account, the Platform holds the discretion to deny the User‘s request to process payments without stating a specific reason.
-		</p>
-		<br>
-		<p>
-			All payments are exclusively accepted and processed via the international payment system, Paysera.
-		</p>
-		<br>
-		<p>
-			The primary transactional and accepted currency is the Euro (EUR).
-		</p>
-		<br>
-		<p>
-			The Platform directs all received payments to a dedicated account, exclusively designed for managing payments from the User‘s webinar attendees.
-		</p>
-		<br>
-		<p>
-			To maintain a comprehensive history of interactions with the User, all inquiries and claims pertaining to payment acceptance and processing—including refund requests—are to be submitted via the email address registered to the User‘s account.
-		</p>
-		<br><br>
-		<h3>Platform fees</h3>
-		<p>
-			The website applies a 10% commission to every successful payment made by participants attending a user‘s paid webinar.
-		</p>
-		<p>
-			For instance, if you set the entry fee for a webinar at €10 and 10 people attend, generating €10 x 10 = €100 in total payments, you would earn €100 – 10% = €90 after commission.
-		</p>
-		<br><br>
-		<h3>Bank service fee</h3>
-		<p>
-			A service fee of €7 is applied only for bank transfers to the user‘s account. This fee is consistently applied without exceptions.
-		</p>
-		<br><br>
-		<h3>Correspondent bank fees</h3>
-		<p>
-			These fees are levied by the Correspondent Bank when facilitating the transfer of funds from the website‘s bank account to the user‘s bank account. For IBAN transfers, the fees charged by correspondent banks can range from €10 to €35. There is no fee for SEPA transfers.
-		</p>
-		<br>
-		<br><br>
-		<h3>Receiving payouts</h3>
-		<p>
-			When a participant makes a successful payment for a webinar, the amount is credited to a dedicated account on our platform. This is then aggregated based on the number of paid webinars and participants. Payments are processed by our platform, but only initiated upon the user‘s request through the Control Panel.
-		</p>
-		<br>
-		<p>
-			In accordance with the terms of this Agreement, a 10% commission for our platform, as well as a €7 fee charged by our bank for processing the money transfer, will be deducted from the user‘s payout.
-		</p>
-		<br>
-		<p>
-			The net amount after deductions can either be transferred to the user‘s bank account or be applied as credit towards the cost of using our platform‘s services.
-		</p>
-		<p>
-			All payments are processed no earlier than 7 business days after the webinar and only if there are no refund requests from participants. The minimum payout amount is 300 EUR. For payouts exceeding 600 EUR, our service will send a closing document that must be signed by the recipient of the payment.
-		<br>
-		<br>
-		<p>
-			Please note! When using the IBAN method, some intermediary banks may levy an additional fee ranging from €10 to €35. We have no control over, nor can we waive these fees. They are automatically deducted when funds are transferred to the user‘s bank account.
-		</p>
-		<br><br>
-		<h3>Refund request by the User</h3>
-		<p>
-			Users can request a refund through the Control Panel on our website. This must then be confirmed via the email address associated with the user‘s account.
-		</p>
-		<br>
-		<p>
-			To maintain high-quality service, all refund requests from attendees of paid webinars are reviewed and processed semi-automatically by our system. The refund processing time can range from 1 to 7 business days, depending primarily on the bank that serves the webinar attendee.
-		</p>
-		<br>
-		<p>
-			The service processes refunds immediately upon receiving a request from the user.
-		</p>
-		<br><br>
-		<h3>Participant refund request</h3>
-		<p>
-			Our platform processes refund requests from attendees of paid webinars only when they directly contact us through the provided contact form or email address on our website.
-		</p>
-		<br>
-		<p>
-			In such instances, we will issue a refund after thoroughly reviewing the attendee‘s explanation for the request and securing an agreement with the account holder (referred to as “User“). Refunds are initiated based on notifications from the User via their Control Panel.
-		</p>
-		<br>
-		<p>
-			We issue refunds promptly upon receiving the notification from the User.
-		</p>
-		<br>
-		<p>
-			However, if for any reason the User fails to notify us through the Control Panel, our platform reserves the right to process the refund to the attendee independently.
-		</p>
-		<br><br>
-		<h3>Refund request from the webinar attendee‘s bank</h3>
-		<p>
-			Such refund requests arise from the bank that serves the attendee of a paid webinar. All payments made by attendees for paid webinars are fully refundable, adhering to the principle that “The Attendee is Always Right“.
-		</p>
-		<br>
-		<p>
-			Should a refund request be received directly from an attendee‘s bank, the Website will promptly inform the User. The Website then allows the User 3 business days to address the matter with the attendee and subsequently notify the Website of any agreements reached, providing relevant correspondence and documentation. The Website will then forward these documents to the relevant bank for processing.
-		</p>
-		<br>
-		<p>
-			Note: Should the Website receive more than 2 refund requests from the bank issuing an attendee‘s card, the Website may exercise its right to disable the User‘s payment acceptance functionality. Additionally, the Website might reverse all previously processed payments and, if deemed necessary, suspend the User‘s account.
-		</p>
-		<br>
-		<p>
-			Furthermore, if there are numerous complaints from attendees regarding the content or quality of webinars, the Website reserves the right to issue refunds to all attendees without exception. In such cases, the User will not receive the contested funds.
-		</p>
-		<br>
-		<p>
-			The website strictly adheres to this rule.
-		</p>
-		<br><br>
-		<h3>Rights and obligations of the website</h3>
-		<p>
-			While the Website strives to ensure the highest possible level of service availability and performance, it cannot be held accountable for any failure or delay in meeting its obligations due to unforeseen circumstances beyond its control. Such circumstances include, but are not limited to: subpar internet connection quality experienced by the User or Participants during webinars, live broadcasts, and web conferences; the absence of essential equipment such as microphones or cameras on the user‘s end; insufficient power of the User‘s device; DDoS attacks targeting data centers utilized by the Website; natural disasters; strikes; acts of war; delays or failures in third-party services, and more.
-		</p>
-		<br>
-		<p>
-			The Website cannot be held liable for any errors, damages, or other unexpected outcomes that arise from the User‘s or Participant‘s misuse of the provided services.
-		</p>
-		<br>
-		<p>
-			In line with its <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Return Policy</a>, the Website disclaims responsibility for any complaints from Participants concerning the poor organization of a paid webinar or any technical mishaps attributable to the User.
-		</p>
-		<br>
-		<p>
-			The Website reserves the right to suspend or terminate its services without prior notice to the User. This may also involve retaining all proceeds from paid webinars on the Website‘s account, especially in cases where paid webinars, live broadcasts, or web conferences contain illegal or offensive content.
-		</p>
-		<br><br>
-		<h3>User‘s rights and obligations</h3>
-		<p>
-			The User is personally responsible to the attendees of paid webinars for their content, quality, and the timely delivery using the services provided by the Website.
-		</p>
-		<br>
-		<p>
-			The User assumes personal responsibility towards attendees of paid webinars for any technical issues, glitches, delays, or cancellations related to the organization of the paid webinar.
-		</p>
-		<br>
-		<p>
-			The User agrees not to use the services of the Website for illegal purposes. Breaching this agreement will result in the immediate suspension of the User‘s account, and any funds accrued from paid webinars will be retained by the Website.
-		</p>
-		<br>
-		<p>
-			The User is not permitted to use the Service or its messaging system to send, share, or distribute spam or other unauthorized promotional content. Should attendees file complaints against the User for such unauthorized activities, the Website reserves the right to suspend the User‘s account and retain all funds acquired from paid webinars on the Website.
-		</p>
-		<br><br>
-		<h3>Copyright policy</h3>
-		<p>
-			Users are prohibited from posting or reproducing copyrighted materials or trademarks on the Service without obtaining prior permission from the copyright owners.
-		</p>
-		<br>
-		<p>
-			Should a user violate this policy, the Website reserves the right to take actions as detailed in the “Rights and Obligations of the Website“ section of this User Agreement.
-		</p>
-		<br><br>
-		<h3>Limitation of liability</h3>
-		<p>
-			The Website shall not be held responsible for any damages, including lost profits incurred by Participants or the User, or loss of Participant data due to the negligence of the User, the Website, the Participant, or third parties.
-		</p>
-		<br>
-		<p>
-			The Website‘s liability to the User is restricted solely to the monetary value of the services the Website has rendered to the User.
-		</p>
-		<br>
-		<p>
-			For Participants of paid webinars, the Website‘s liability is confined solely to the monetary sum received by the User.
-		</p>
-		<br>
-		<p>
-			The Website offers no assurances to Participants of paid webinars concerning the accuracy, currentness, or comprehensiveness of the information provided by the User. The User acknowledges that the content or materials they present during paid webinars might have inaccuracies or errors. The Website shall not be accountable for any inaccuracies or for any lost profits of the User or Participants.
-		</p>
-		<br>
-		<p>
-			The Website does not supply Participants with any ancillary documentation, such as invoices or receipts. It is at the User‘s discretion to address this matter independently if deemed necessary.
-		</p>
-		<br><br>
-		<h3>Disputes</h3>
-		<p>
-			While the Website strives to address concerns comprehensively, it cannot guarantee a resolution in favor of every User or Participant of paid webinars. However, we commit to taking all necessary actions and making every effort to resolve any situation or problem promptly. Should disputes arise that necessitate the involvement of public authorities, both the User and the Participant agree to be governed by applicable EU law.
-		</p>
-		<br><br>
-		<h3>Notifications</h3>
-		<p>
-			Please direct all notifications and inquiries to paid-webinars@myownconference.com. Be sure to provide a detailed description of your concern or any technical issues you‘ve encountered.
-		</p>
-		<br><br>
+	<br><br>
+	<h3>Yleiset ehdot</h3>
+	<p>
+		Järjestäessäsi maksullisia webinaareja toimii “MyOwnConference” (jäljempänä “Alusta”) välittäjänä maksujen käsittelyssä. Käyttäjä valtuuttaa Alustan vastaanottamaan ja käsittelemään osallistujien maksut.
+	</p>
+	<br>
+	<p>
+		Sopimuksen tekeminen Alustan kanssa ei vaadi paperisen sopimuksen allekirjoittamista. Riittää, että Käyttäjä hyväksyy ehdot rastittamalla valintaruudun ohjauspaneelissa aktivoidessaan maksutoiminnon.
+	</p>
+	<br>
+	<p>
+		Alusta seuraa maksullisten webinaarien laatua, käsittelee mahdolliset valitukset ja palauttaa maksuja tarvittaessa. Tilin alustava tarkistus voi johtaa maksutoiminnon hylkäämiseen ilman erillistä syytä.
+	</p>
+	<br>
+	<p>
+		Kaikki maksut käsitellään yksinomaan kansainvälisen maksujärjestelmän Payseran kautta.
+	</p>
+	<br>
+	<p>
+		Tapahtumien päävaluutta on euro (EUR).
+	</p>
+	<br>
+	<p>
+		Kaikki vastaanotetut maksut siirretään erityiselle tilille, joka on tarkoitettu yksinomaan käyttäjän webinaariosallistujien maksujen hallintaan.
+	</p>
+	<br>
+	<p>
+		Kaikki maksuihin liittyvät kysymykset ja palautuspyynnöt tulee lähettää sähköpostitse osoitteesta, joka on liitetty käyttäjän tiliin.
+	</p>
+	<br><br>
+	<h3>Alustan provisiot</h3>
+	<p>
+		Sivusto perii 10 % provision jokaisesta onnistuneesta maksusta, jonka osallistuja suorittaa maksullisesta webinaarista.
+	</p>
+	<p>
+		Esimerkiksi: jos webinaarimaksu on 10 € ja 10 osallistujaa maksaa sen, kertyy yhteensä 100 €. Tästä vähennetään 10 % eli käyttäjälle jää 90 €.
+	</p>
+	<br><br>
+	<h3>Pankkikustannukset</h3>
+	<p>
+		Pankkisiirroista käyttäjän tilille veloitetaan 7 € palvelumaksu. Tämä maksu on kiinteä eikä siihen tehdä poikkeuksia.
+	</p>
+	<br><br>
+	<h3>Välittävän pankin kulut</h3>
+	<p>
+		Pankkikulut, joita perivät välittävät pankit siirrettäessä varoja Sivuston tililtä käyttäjän tilille. IBAN-siirroissa kulut voivat olla 10–35 €. SEPA-siirrot ovat kuluttomia.
+	</p>
+	<br><br>
+	<h3>Varojen nostaminen</h3>
+	<p>
+		Maksun yhteydessä osallistujan suoritus hyvitetään alustan tilille, josta se kootaan yhteen ja käyttäjä voi pyytää varojen nostoa ohjauspaneelista.
+	</p>
+	<br>
+	<p>
+		Alustan 10 % provisio ja 7 € pankkikustannus vähennetään ennen kuin varat siirretään käyttäjälle.
+	</p>
+	<br>
+	<p>
+		Jäljelle jäävä summa voidaan joko siirtää pankkitilille tai käyttää alustan palveluiden maksamiseen.
+	</p>
+	<p>
+		Varat käsitellään aikaisintaan 7 arkipäivän kuluttua webinaarista ja vain, jos osallistujilta ei ole saatu palautuspyyntöjä. Vähimmäissumma varojen nostoon on 300 €. Yli 600 € maksuista lähetämme allekirjoitettavan kuitin.
+	</p>
+	<br>
+	<p>
+		Huomio! IBAN-siirtoihin saattaa liittyä lisäkuluja 10–35 €, jotka perivät välipankit. Emme voi vaikuttaa näihin kuluihin.
+	</p>
+	<br><br>
+	<h3>Käyttäjän palautuspyyntö</h3>
+	<p>
+		Käyttäjä voi pyytää palautusta ohjauspaneelista ja vahvistaa sen tilinsä sähköpostiosoitteella.
+	</p>
+	<br>
+	<p>
+		Järjestelmä käsittelee palautuspyynnöt automaattisesti ja ne kestävät 1–7 arkipäivää riippuen osallistujan pankista.
+	</p>
+	<br>
+	<p>
+		Palautukset käsitellään heti pyynnön vastaanottamisen jälkeen.
+	</p>
+	<br><br>
+	<h3>Osallistujan palautuspyyntö</h3>
+	<p>
+		Alusta käsittelee osallistujien palautuspyynnöt vain, jos ne saapuvat suoraan verkkosivun yhteydenottolomakkeen tai sähköpostin kautta.
+	</p>
+	<br>
+	<p>
+		Tällöin palautus tehdään, kun osallistujan perustelut on tarkistettu ja käyttäjän hyväksyntä on saatu ohjauspaneelin kautta.
+	</p>
+	<br>
+	<p>
+		Käsittelemme palautukset viipymättä ilmoituksen saatuamme.
+	</p>
+	<br>
+	<p>
+		Jos käyttäjä ei kuitenkaan ilmoita palautuksesta ohjauspaneelissa, Alustalla on oikeus käsitellä palautus itsenäisesti.
+	</p>
+	<br><br>
+	<h3>Osallistujan pankin palautuspyyntö</h3>
+	<p>
+		Tällaiset pyynnöt tulevat osallistujan pankilta. Kaikki maksullisten webinaarien maksut voidaan palauttaa periaatteella “Osallistujalla on aina oikeus”.
+	</p>
+	<br>
+	<p>
+		Mikäli palautuspyyntö saapuu suoraan osallistujan pankilta, ilmoitamme asiasta välittömästi käyttäjälle. Käyttäjällä on tällöin 3 arkipäivää aikaa sopia asiasta osallistujan kanssa ja toimittaa dokumentaatio, jonka me toimitamme edelleen pankille.
+	</p>
+	<br>
+	<p>
+		Huomautus: Jos vastaanotamme yli kaksi pankkiperusteista palautuspyyntöä, saatamme estää käyttäjän maksujen vastaanoton ja palauttaa aiemmin käsitellyt maksut. Tarvittaessa voimme myös keskeyttää käyttäjätilin.
+	</p>
+	<br>
+	<p>
+		Jos osallistujilta tulee useita valituksia sisällöstä tai webinaarien laadusta, pidätämme oikeuden palauttaa maksut kaikille osallistujille. Tällöin käyttäjä ei saa maksuja.
+	</p>
+	<br>
+	<p>
+		Sivusto noudattaa tätä sääntöä tiukasti.
+	</p>
+	<br><br>
+	<h3>Sivuston oikeudet ja velvollisuudet</h3>
+	<p>
+		Sivusto pyrkii tarjoamaan mahdollisimman hyvän saatavuuden ja toimivuuden, mutta ei vastaa viivästyksistä tai häiriöistä, jotka johtuvat ennalta arvaamattomista olosuhteista. Näitä voivat olla mm. heikko internet-yhteys, käyttäjän laitteiston puutteet, DDoS-hyökkäykset, luonnonkatastrofit, lakot, kolmannen osapuolen palveluiden viat jne.
+	</p>
+	<br>
+	<p>
+		Sivusto ei ole vastuussa virheistä tai vahingoista, jotka johtuvat palveluiden väärinkäytöstä käyttäjän tai osallistujan toimesta.
+	</p>
+	<br>
+	<p>
+		Sivusto ei vastaa osallistujien valituksista huonosti järjestetystä maksullisesta webinaarista tai teknisistä ongelmista käyttäjän puolella, kuten määritellään <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Palautuskäytännössä</a>.
+	</p>
+	<br>
+	<p>
+		Sivustolla on oikeus keskeyttää tai lopettaa palvelu ilman ennakkoilmoitusta käyttäjälle ja pidättää kaikki maksullisten webinaarien tulot, erityisesti jos sisältö on laitonta tai loukkaavaa.
+	</p>
+	<br><br>
+	<h3>Käyttäjän oikeudet ja velvollisuudet</h3>
+	<p>
+		Käyttäjä vastaa henkilökohtaisesti maksullisten webinaarien sisällöstä, laadusta ja toimituksesta osallistujille.
+	</p>
+	<br>
+	<p>
+		Käyttäjä vastaa teknisistä ongelmista, viiveistä tai peruutuksista maksullisten webinaarien yhteydessä.
+	</p>
+	<br>
+	<p>
+		Käyttäjä sitoutuu olemaan käyttämättä palvelua laittomiin tarkoituksiin. Sopimuksen rikkominen johtaa tilin välittömään keskeyttämiseen ja maksujen pidättämiseen.
+	</p>
+	<br>
+	<p>
+		Käyttäjä ei saa käyttää palvelua roskapostin tai luvattoman mainonnan jakamiseen. Jos osallistujat valittavat tällaisesta toiminnasta, Sivusto voi keskeyttää tilin ja pidättää maksut.
+	</p>
+	<br><br>
+	<h3>Tekijänoikeudet</h3>
+	<p>
+		Käyttäjät eivät saa julkaista tai kopioida tekijänoikeuksin suojattua materiaalia ilman oikeudenhaltijan lupaa.
+	</p>
+	<br>
+	<p>
+		Rikkomustapauksessa Sivustolla on oikeus ryhtyä toimenpiteisiin “Sivuston oikeudet ja velvollisuudet” -kohdan mukaisesti.
+	</p>
+	<br><br>
+	<h3>Vastuunrajoitus</h3>
+	<p>
+		Sivusto ei vastaa osallistujien tai käyttäjän menetyksistä, mukaan lukien voitonmenetykset tai tietojen katoaminen, jotka johtuvat käyttäjän, osallistujan tai kolmansien osapuolien huolimattomuudesta.
+	</p>
+	<br>
+	<p>
+		Sivuston vastuu käyttäjää kohtaan rajoittuu palveluiden arvoon.
+	</p>
+	<br>
+	<p>
+		Osallistujien osalta vastuu rajoittuu maksettuun summaan.
+	</p>
+	<br>
+	<p>
+		Sivusto ei takaa, että käyttäjän tarjoama sisältö on oikeellista, ajankohtaista tai virheetöntä. Käyttäjä hyväksyy, että sisällössä voi olla virheitä, joista Sivusto ei ole vastuussa.
+	</p>
+	<br>
+	<p>
+		Sivusto ei toimita osallistujille kuitteja tai muita asiakirjoja. Käyttäjän tulee huolehtia niistä itse.
+	</p>
+	<br><br>
+	<h3>Riitatilanteet</h3>
+	<p>
+		Sivusto pyrkii ratkaisemaan riitatilanteet nopeasti ja oikeudenmukaisesti, mutta ei voi taata lopputulosta käyttäjän tai osallistujan eduksi. Mahdolliset riidat ratkaistaan soveltuvan EU-lainsäädännön mukaisesti.
+	</p>
+	<br><br>
+	<h3>Ilmoitukset</h3>
+	<p>
+		Kaikki ilmoitukset ja yhteydenotot tulee lähettää osoitteeseen paid-webinars@myownconference.com. Kuvaile viestissäsi yksityiskohtaisesti ongelmasi tai kysymyksesi.
+	</p>
+	<br><br>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 ];

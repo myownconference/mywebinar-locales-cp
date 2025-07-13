@@ -15,73 +15,73 @@ return [
 	'paypal-summ' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Already paid
+		Reeds betaald
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'funds-received' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paid webinars <span class="tooltip" data-tip="Activate this option to charge attendees for webinar access. Read and confirm the agreements before enabling paid webinars in your profile settings. Please note that the feature will not be activated immediately, as we will manually review your profile and webinar topics before activation"></span>
+		Betaalde webinars <span class="tooltip" data-tip="Activeer deze optie om deelnemers te laten betalen voor toegang tot het webinar. Lees en bevestig de overeenkomsten in je profielinstellingen voordat je betaalde webinars inschakelt. Let op: deze functie wordt niet direct geactiveerd, want wij beoordelen eerst handmatig je profiel en webinarthemaʼs"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'hold-title' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Our fee
+		Onze vergoeding
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'output-title' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Processed
+		Verwerkt
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'output-button' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Withdraw
+		Opnemen
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-title' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Terms and conditions of payment processing for paid webinars
+		Algemene voorwaarden voor betalingsverwerking bij betaalde webinars
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-subtitle' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Read the terms and conditions for using the payment processing function carefully please. Incorrect use of this function may result in automatic blocking of your account.
+		Lees de voorwaarden voor het gebruik van de betalingsfunctie zorgvuldig. Onjuist gebruik kan leiden tot automatische blokkering van je account.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-bottom' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sign here if you agree with term and conditions of the payments processing
+		Zet hier je handtekening als je akkoord gaat met de voorwaarden voor betalingsverwerking
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'freeze-title' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		On hold
+		In behandeling
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'service-commission-title' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Our fee
+		Onze vergoeding
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'our-bank-commission-title' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bank fee
+		Bankkosten
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'available-title' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Revenue
+		Inkomsten
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'extend-package-confirm' => //////////////////////////////////////////////////////////
@@ -108,215 +108,224 @@ return [
 	'payweb-rules' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<h3>Handling payments for your paid webinars</h3>
-		<sup style="color:grey">(Last edited: August 24, 2023. Revision: 1.2)</sup>
+		<h3>Betalingen verwerken voor je betaalde webinars</h3>
+		<sup style="color:grey">(Laatst bijgewerkt: 24 augustus 2023. Revisie: 1.2)</sup>
 		<br><br><br><br>
-		<h3>Terms and definitions</h3>
+		<h3>Begrippen en definities</h3>
 		<p>
-			– Paid webinars — this encompasses webinars, online lectures, conferences, seminars, courses, lessons, and live broadcasts that require payment for participation. Attendees can access and participate in these webinars only after they‘ve made the necessary payment.
-			<br><br>
-			– Webinar software MyOwnConference — we are “Akovana, UAB“, a service provider specializing in the organization of both free and paid webinars, live broadcasts, web conferences, and more. Our registered address is 18 Djioyi Street, Vilnius, Lithuania, LT-01128.
-			<br><br>
-			– User — any individual who has agreed to these terms and utilizes the services in accordance with this agreement.
-			<br><br>
-			– User Agreement — this document, found in the Control Panel, acts as the binding contract between you (the User) and us (the Website), governing the provision of our information services.
-			<br><br>
-			– User Account, Control Panel, or Dashboard — this is a collection of the User‘s personal data crucial for accessing the services offered by the Website. It also contains files the User has stored on the Website‘s server.
-			<br><br>
-			– Attendee, Participant or Guest – an individual invited by the User, who compensates the User for access to a paid webinar hosted by the User via the Website.
+		– Betaalde webinars — dit omvat webinars, online lezingen, conferenties, seminars, cursussen, lessen en live-uitzendingen waarvoor betaling vereist is om deel te nemen. Deelnemers krijgen pas toegang nadat zij de vereiste betaling hebben voldaan.
+		<br><br>
+		– Webinarsoftware MyOwnConference — wij zijn “Akovana, UAB“, een dienstverlener gespecialiseerd in het organiseren van zowel gratis als betaalde webinars, live-uitzendingen, webconferenties en meer. Ons geregistreerde adres is Djioyi Straat 18, Vilnius, Litouwen, LT-01128.
+		<br><br>
+		– Gebruiker — iedere persoon die akkoord is gegaan met deze voorwaarden en gebruikmaakt van de diensten volgens deze overeenkomst.
+		<br><br>
+		– Gebruikersovereenkomst — dit document, te vinden in het Controlepaneel, vormt de bindende overeenkomst tussen jou (de Gebruiker) en ons (de Website) en regelt het leveren van onze informatiediensten.
+		<br><br>
+		– Gebruikersaccount, Controlepaneel of Dashboard — dit is een verzameling persoonlijke gegevens van de gebruiker die nodig zijn voor toegang tot de aangeboden diensten van de Website. Hierin bevinden zich ook bestanden die de gebruiker op de server van de Website heeft opgeslagen.
+		<br><br>
+		– Deelnemer of Gast – een persoon die door de gebruiker is uitgenodigd en die betaalt aan de gebruiker om deel te nemen aan een betaald webinar dat door de gebruiker via de Website wordt georganiseerd.
 		</p>
 		<br><br>
-		<h3>General provisions</h3>
+		<h3>Algemene bepalingen</h3>
 		<p>
-			When arranging paid webinars, the online platform for webinars, live broadcasts, and web conferences, namely “MyOwnConference“, hereinafter referred to as “the Platform“, serves as an intermediary. The platform is entrusted by the User to receive and process payments from attendees participating in the webinar, online lecture, conference, course, or lesson facilitated via the platform‘s services.
+		Bij het organiseren van betaalde webinars fungeert het online platform voor webinars, live-uitzendingen en webconferenties, namelijk “MyOwnConference“, hierna “het Platform“ genoemd, als tussenpersoon. De gebruiker machtigt het Platform om betalingen van deelnemers aan het webinar, de online lezing, conferentie, cursus of les in ontvangst te nemen en te verwerken via de diensten van het Platform.
 		</p>
 		<br>
 		<p>
-			To formalize an agreement with the Platform, the User isn‘t required to sign a physical (hard copy) contract. Merely accepting the terms of this Agreement, by ticking the respective checkbox within the Platform‘s Control Panel when seeking to activate payment acceptance services, is sufficient.
+		Voor het aangaan van een overeenkomst met het Platform is het niet nodig een papieren (fysiek) contract te ondertekenen. Het accepteren van deze voorwaarden door het aanvinken van het bijbehorende vakje in het Controlepaneel van het Platform bij het activeren van de betalingsfunctie is voldoende.
 		</p>
 		<br>
 		<p>
-			The Platform conscientiously oversees the quality of the User‘s paid webinars, keeps track of any discontented participants, and manages refunds for previously processed payments if warranted. Accordingly, during the preliminary verification of the User‘s account, the Platform holds the discretion to deny the User‘s request to process payments without stating a specific reason.
+		Het Platform houdt actief toezicht op de kwaliteit van de betaalde webinars van de gebruiker, monitort klachten van deelnemers en behandelt indien nodig terugbetalingen voor eerder verwerkte betalingen. Daarom behoudt het Platform zich het recht voor om tijdens de controle van het gebruikersaccount de aanvraag tot betalingsverwerking te weigeren zonder opgaaf van reden.
 		</p>
 		<br>
 		<p>
-			All payments are exclusively accepted and processed via the international payment system, Paysera.
+		Alle betalingen worden uitsluitend geaccepteerd en verwerkt via het internationale betalingssysteem Paysera.
 		</p>
 		<br>
 		<p>
-			The primary transactional and accepted currency is the Euro (EUR).
+		De primaire valuta voor transacties is de euro (EUR).
 		</p>
 		<br>
 		<p>
-			The Platform directs all received payments to a dedicated account, exclusively designed for managing payments from the User‘s webinar attendees.
+		Het Platform stuurt alle ontvangen betalingen door naar een speciale rekening die uitsluitend bedoeld is voor het verwerken van betalingen van deelnemers aan het webinar van de gebruiker.
 		</p>
 		<br>
 		<p>
-			To maintain a comprehensive history of interactions with the User, all inquiries and claims pertaining to payment acceptance and processing—including refund requests—are to be submitted via the email address registered to the User‘s account.
+		Om een volledige interactiegeschiedenis met de gebruiker te behouden, moeten alle vragen en verzoeken met betrekking tot betalingen — inclusief terugbetalingen — worden ingediend via het e-mailadres dat is geregistreerd in het gebruikersaccount.
 		</p>
 		<br><br>
-		<h3>Platform fees</h3>
+		<h3>Vergoeding van het Platform</h3>
 		<p>
-			The website applies a 10% commission to every successful payment made by participants attending a user‘s paid webinar.
+		De website brengt 10% commissie in rekening op elke succesvolle betaling van een deelnemer aan een betaald webinar van de gebruiker.
 		</p>
 		<p>
-			For instance, if you set the entry fee for a webinar at €10 and 10 people attend, generating €10 x 10 = €100 in total payments, you would earn €100 – 10% = €90 after commission.
-		</p>
-		<br><br>
-		<h3>Bank service fee</h3>
-		<p>
-			A service fee of €7 is applied only for bank transfers to the user‘s account. This fee is consistently applied without exceptions.
+		Als je bijvoorbeeld €10 toegang vraagt en 10 personen deelnemen, ontvang je €10 x 10 = €100, waarvan je na aftrek van 10% commissie €90 overhoudt.
 		</p>
 		<br><br>
-		<h3>Correspondent bank fees</h3>
+		<h3>Kosten van de bankdienst</h3>
 		<p>
-			These fees are levied by the Correspondent Bank when facilitating the transfer of funds from the website‘s bank account to the user‘s bank account. For IBAN transfers, the fees charged by correspondent banks can range from €10 to €35. There is no fee for SEPA transfers.
+		Een vaste vergoeding van €7 wordt uitsluitend in rekening gebracht bij bankoverschrijvingen naar de rekening van de gebruiker. Deze vergoeding is altijd van toepassing, zonder uitzonderingen.
+		</p>
+		<br><br>
+		<h3>Kosten van correspondentbanken</h3>
+		<p>
+		Deze kosten worden in rekening gebracht door de correspondentbank bij het overmaken van geld van de bankrekening van de Website naar de bankrekening van de gebruiker. Voor IBAN-overboekingen variëren deze kosten tussen €10 en €35. Er worden geen kosten gerekend voor SEPA-overboekingen.
 		</p>
 		<br>
 		<br><br>
-		<h3>Receiving payouts</h3>
+		<h3>Uitbetalingen ontvangen</h3>
 		<p>
-			When a participant makes a successful payment for a webinar, the amount is credited to a dedicated account on our platform. This is then aggregated based on the number of paid webinars and participants. Payments are processed by our platform, but only initiated upon the user‘s request through the Control Panel.
+		Wanneer een deelnemer met succes betaalt voor een webinar, wordt het bedrag bijgeschreven op een speciaal account binnen ons platform. Deze bedragen worden verzameld op basis van het aantal betaalde webinars en deelnemers. Betalingen worden verwerkt door ons platform, maar alleen gestart op verzoek van de gebruiker via het Configuratiescherm.
 		</p>
 		<br>
 		<p>
-			In accordance with the terms of this Agreement, a 10% commission for our platform, as well as a €7 fee charged by our bank for processing the money transfer, will be deducted from the user‘s payout.
+		Volgens de voorwaarden van deze overeenkomst wordt een commissie van 10% voor ons platform en €7 aan bankkosten voor de geldoverschrijving in mindering gebracht op het uit te betalen bedrag aan de gebruiker.
 		</p>
 		<br>
 		<p>
-			The net amount after deductions can either be transferred to the user‘s bank account or be applied as credit towards the cost of using our platform‘s services.
+		Het nettobedrag na aftrek kan worden overgemaakt naar de bankrekening van de gebruiker of worden gebruikt als tegoed voor het afnemen van diensten op ons platform.
 		</p>
 		<p>
-			All payments are processed no earlier than 7 business days after the webinar and only if there are no refund requests from participants. The minimum payout amount is 300 EUR. For payouts exceeding 600 EUR, our service will send a closing document that must be signed by the recipient of the payment.
+		Alle betalingen worden verwerkt uiterlijk 7 werkdagen na het webinar, en alleen als er geen terugbetalingsverzoeken van deelnemers zijn. Het minimumbedrag voor uitbetaling is 300 EUR. Voor bedragen hoger dan 600 EUR stuurt onze dienst een afsluitend document dat ondertekend moet worden door de ontvanger van de betaling.
+		</p>
 		<br>
 		<br>
 		<p>
-			Please note! When using the IBAN method, some intermediary banks may levy an additional fee ranging from €10 to €35. We have no control over, nor can we waive these fees. They are automatically deducted when funds are transferred to the user‘s bank account.
+		Let op! Bij gebruik van de IBAN-methode kunnen sommige tussenliggende banken extra kosten in rekening brengen, variërend van €10 tot €35. Wij hebben hier geen invloed op en kunnen deze kosten niet annuleren. Ze worden automatisch afgetrokken bij de overboeking naar de bankrekening van de gebruiker.
 		</p>
 		<br><br>
-		<h3>Refund request by the User</h3>
+
+		<h3>Terugbetalingsverzoek door de gebruiker</h3>
 		<p>
-			Users can request a refund through the Control Panel on our website. This must then be confirmed via the email address associated with the user‘s account.
+		Gebruikers kunnen een terugbetaling aanvragen via het Configuratiescherm op onze website. Dit verzoek moet vervolgens worden bevestigd via het e-mailadres dat gekoppeld is aan het account van de gebruiker.
 		</p>
 		<br>
 		<p>
-			To maintain high-quality service, all refund requests from attendees of paid webinars are reviewed and processed semi-automatically by our system. The refund processing time can range from 1 to 7 business days, depending primarily on the bank that serves the webinar attendee.
+		Om een hoge servicekwaliteit te behouden, worden terugbetalingsverzoeken van deelnemers aan betaalde webinars halfautomatisch beoordeeld en verwerkt door ons systeem. De verwerkingstijd varieert van 1 tot 7 werkdagen, afhankelijk van de bank van de deelnemer.
 		</p>
 		<br>
 		<p>
-			The service processes refunds immediately upon receiving a request from the user.
+		De dienst verwerkt terugbetalingen direct na ontvangst van het verzoek van de gebruiker.
 		</p>
 		<br><br>
-		<h3>Participant refund request</h3>
+
+		<h3>Terugbetalingsverzoek door een deelnemer</h3>
 		<p>
-			Our platform processes refund requests from attendees of paid webinars only when they directly contact us through the provided contact form or email address on our website.
+		Ons platform verwerkt terugbetalingsverzoeken van deelnemers aan betaalde webinars alleen als zij rechtstreeks contact met ons opnemen via het contactformulier of het e-mailadres dat op onze website staat vermeld.
 		</p>
 		<br>
 		<p>
-			In such instances, we will issue a refund after thoroughly reviewing the attendee‘s explanation for the request and securing an agreement with the account holder (referred to as “User“). Refunds are initiated based on notifications from the User via their Control Panel.
+		In dergelijke gevallen geven wij de terugbetaling pas nadat wij de toelichting van de deelnemer grondig hebben beoordeeld en overeenstemming hebben bereikt met de accounthouder (de “Gebruiker“). Terugbetalingen worden gestart op basis van meldingen van de Gebruiker via hun Configuratiescherm.
 		</p>
 		<br>
 		<p>
-			We issue refunds promptly upon receiving the notification from the User.
+		Wij voeren terugbetalingen onmiddellijk uit zodra wij de melding van de Gebruiker hebben ontvangen.
 		</p>
 		<br>
 		<p>
-			However, if for any reason the User fails to notify us through the Control Panel, our platform reserves the right to process the refund to the attendee independently.
+		Als de Gebruiker ons echter om welke reden dan ook niet via het Configuratiescherm informeert, behoudt ons platform zich het recht voor om de terugbetaling zelfstandig aan de deelnemer uit te voeren.
 		</p>
 		<br><br>
-		<h3>Refund request from the webinar attendee‘s bank</h3>
+
+		<h3>Terugbetalingsverzoek via de bank van de deelnemer</h3>
 		<p>
-			Such refund requests arise from the bank that serves the attendee of a paid webinar. All payments made by attendees for paid webinars are fully refundable, adhering to the principle that “The Attendee is Always Right“.
+		Dergelijke verzoeken worden gedaan door de bank van een deelnemer aan een betaald webinar. Alle betalingen van deelnemers voor betaalde webinars zijn volledig restitueerbaar volgens het principe “De deelnemer heeft altijd gelijk“.
 		</p>
 		<br>
 		<p>
-			Should a refund request be received directly from an attendee‘s bank, the Website will promptly inform the User. The Website then allows the User 3 business days to address the matter with the attendee and subsequently notify the Website of any agreements reached, providing relevant correspondence and documentation. The Website will then forward these documents to the relevant bank for processing.
+		Als een terugbetalingsverzoek rechtstreeks van de bank van de deelnemer komt, zal de Website de Gebruiker hiervan onmiddellijk op de hoogte stellen. De Website geeft de Gebruiker vervolgens 3 werkdagen de tijd om de kwestie met de deelnemer op te lossen en de Website te informeren over de uitkomst, inclusief relevante correspondentie en documenten. Deze informatie wordt vervolgens doorgestuurd naar de betreffende bank.
 		</p>
 		<br>
 		<p>
-			Note: Should the Website receive more than 2 refund requests from the bank issuing an attendee‘s card, the Website may exercise its right to disable the User‘s payment acceptance functionality. Additionally, the Website might reverse all previously processed payments and, if deemed necessary, suspend the User‘s account.
+		Let op: Als de Website meer dan 2 terugbetalingsverzoeken ontvangt van de bank die de kaart van de deelnemer heeft uitgegeven, kan de Website besluiten om de betalingsfunctie van de Gebruiker uit te schakelen. Ook kunnen eerder verwerkte betalingen worden teruggedraaid en, indien nodig, het account van de Gebruiker worden opgeschort.
 		</p>
 		<br>
 		<p>
-			Furthermore, if there are numerous complaints from attendees regarding the content or quality of webinars, the Website reserves the right to issue refunds to all attendees without exception. In such cases, the User will not receive the contested funds.
+		Bovendien, als er meerdere klachten van deelnemers zijn over de inhoud of kwaliteit van het webinar, behoudt de Website zich het recht voor om aan alle deelnemers zonder uitzondering een terugbetaling te doen. In dat geval ontvangt de Gebruiker het betwiste bedrag niet.
 		</p>
 		<br>
 		<p>
-			The website strictly adheres to this rule.
+		De Website houdt zich strikt aan deze regel.
 		</p>
 		<br><br>
-		<h3>Rights and obligations of the website</h3>
+		<h3>Rechten en plichten van de website</h3>
 		<p>
-			While the Website strives to ensure the highest possible level of service availability and performance, it cannot be held accountable for any failure or delay in meeting its obligations due to unforeseen circumstances beyond its control. Such circumstances include, but are not limited to: subpar internet connection quality experienced by the User or Participants during webinars, live broadcasts, and web conferences; the absence of essential equipment such as microphones or cameras on the user‘s end; insufficient power of the User‘s device; DDoS attacks targeting data centers utilized by the Website; natural disasters; strikes; acts of war; delays or failures in third-party services, and more.
+		Hoewel de Website zich inzet voor een zo hoog mogelijke beschikbaarheid en prestatie van de dienstverlening, kan zij niet aansprakelijk worden gesteld voor vertragingen of het niet nakomen van verplichtingen als gevolg van onvoorziene omstandigheden buiten haar controle. Deze omstandigheden omvatten, maar zijn niet beperkt tot: slechte internetverbinding bij de Gebruiker of Deelnemers tijdens webinars, live-uitzendingen of webconferenties; ontbrekende apparatuur zoals microfoons of cameraʼs bij de gebruiker; onvoldoende prestaties van het apparaat van de gebruiker; DDoS-aanvallen op datacenters van de Website; natuurrampen; stakingen; oorlogssituaties; vertragingen of storingen bij externe diensten, enzovoort.
 		</p>
 		<br>
 		<p>
-			The Website cannot be held liable for any errors, damages, or other unexpected outcomes that arise from the User‘s or Participant‘s misuse of the provided services.
+		De Website is niet aansprakelijk voor fouten, schade of andere onverwachte gevolgen die voortkomen uit onjuist gebruik van de aangeboden diensten door de Gebruiker of Deelnemer.
 		</p>
 		<br>
 		<p>
-			In line with its <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Return Policy</a>, the Website disclaims responsibility for any complaints from Participants concerning the poor organization of a paid webinar or any technical mishaps attributable to the User.
+		In overeenstemming met het <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Retourbeleid</a> wijst de Website elke verantwoordelijkheid af voor klachten van Deelnemers over gebrekkige organisatie van een betaald webinar of technische problemen veroorzaakt door de Gebruiker.
 		</p>
 		<br>
 		<p>
-			The Website reserves the right to suspend or terminate its services without prior notice to the User. This may also involve retaining all proceeds from paid webinars on the Website‘s account, especially in cases where paid webinars, live broadcasts, or web conferences contain illegal or offensive content.
+		De Website behoudt zich het recht voor om haar diensten zonder voorafgaande kennisgeving aan de Gebruiker op te schorten of stop te zetten. Dit kan ook inhouden dat alle opbrengsten van betaalde webinars op het account van de Website worden vastgehouden, vooral in gevallen waarin betaalde webinars, live-uitzendingen of webconferenties illegale of beledigende inhoud bevatten.
 		</p>
 		<br><br>
-		<h3>User‘s rights and obligations</h3>
+
+		<h3>Rechten en plichten van de gebruiker</h3>
 		<p>
-			The User is personally responsible to the attendees of paid webinars for their content, quality, and the timely delivery using the services provided by the Website.
+		De Gebruiker is persoonlijk verantwoordelijk tegenover de deelnemers van betaalde webinars voor de inhoud, kwaliteit en tijdige uitvoering via de diensten van de Website.
 		</p>
 		<br>
 		<p>
-			The User assumes personal responsibility towards attendees of paid webinars for any technical issues, glitches, delays, or cancellations related to the organization of the paid webinar.
+		De Gebruiker neemt persoonlijke verantwoordelijkheid voor technische problemen, storingen, vertragingen of annuleringen die verband houden met de organisatie van het betaalde webinar.
 		</p>
 		<br>
 		<p>
-			The User agrees not to use the services of the Website for illegal purposes. Breaching this agreement will result in the immediate suspension of the User‘s account, and any funds accrued from paid webinars will be retained by the Website.
+		De Gebruiker stemt ermee in de diensten van de Website niet te gebruiken voor illegale doeleinden. Overtreding van deze overeenkomst leidt tot onmiddellijke opschorting van het account van de Gebruiker en inbeslagname van de inkomsten uit betaalde webinars door de Website.
 		</p>
 		<br>
 		<p>
-			The User is not permitted to use the Service or its messaging system to send, share, or distribute spam or other unauthorized promotional content. Should attendees file complaints against the User for such unauthorized activities, the Website reserves the right to suspend the User‘s account and retain all funds acquired from paid webinars on the Website.
+		Het is de Gebruiker niet toegestaan om de dienst of het berichtensysteem te gebruiken voor het verzenden, delen of verspreiden van spam of andere ongeautoriseerde promotionele inhoud. Als deelnemers hierover klachten indienen, behoudt de Website zich het recht voor om het account van de Gebruiker te blokkeren en alle verworven inkomsten uit betaalde webinars in te houden.
 		</p>
 		<br><br>
-		<h3>Copyright policy</h3>
+
+		<h3>Auteursrechtenbeleid</h3>
 		<p>
-			Users are prohibited from posting or reproducing copyrighted materials or trademarks on the Service without obtaining prior permission from the copyright owners.
+		Gebruikers mogen geen auteursrechtelijk beschermd materiaal of handelsmerken plaatsen of reproduceren op de Dienst zonder voorafgaande toestemming van de rechthebbenden.
 		</p>
 		<br>
 		<p>
-			Should a user violate this policy, the Website reserves the right to take actions as detailed in the “Rights and Obligations of the Website“ section of this User Agreement.
+		Bij overtreding van dit beleid behoudt de Website zich het recht voor om maatregelen te nemen zoals beschreven in het gedeelte “Rechten en plichten van de website” van deze Gebruikersovereenkomst.
 		</p>
 		<br><br>
-		<h3>Limitation of liability</h3>
+
+		<h3>Beperking van aansprakelijkheid</h3>
 		<p>
-			The Website shall not be held responsible for any damages, including lost profits incurred by Participants or the User, or loss of Participant data due to the negligence of the User, the Website, the Participant, or third parties.
+		De Website is niet verantwoordelijk voor enige schade, waaronder verlies van winst door Deelnemers of de Gebruiker, of verlies van gegevens van Deelnemers als gevolg van nalatigheid van de Gebruiker, de Website, de Deelnemer of derden.
 		</p>
 		<br>
 		<p>
-			The Website‘s liability to the User is restricted solely to the monetary value of the services the Website has rendered to the User.
+		De aansprakelijkheid van de Website tegenover de Gebruiker is beperkt tot het geldbedrag van de diensten die daadwerkelijk door de Website zijn geleverd.
 		</p>
 		<br>
 		<p>
-			For Participants of paid webinars, the Website‘s liability is confined solely to the monetary sum received by the User.
+		Ten aanzien van Deelnemers van betaalde webinars is de aansprakelijkheid van de Website beperkt tot het geldbedrag dat door de Gebruiker is ontvangen.
 		</p>
 		<br>
 		<p>
-			The Website offers no assurances to Participants of paid webinars concerning the accuracy, currentness, or comprehensiveness of the information provided by the User. The User acknowledges that the content or materials they present during paid webinars might have inaccuracies or errors. The Website shall not be accountable for any inaccuracies or for any lost profits of the User or Participants.
+		De Website geeft geen garanties aan Deelnemers van betaalde webinars over de juistheid, actualiteit of volledigheid van de informatie die door de Gebruiker wordt verstrekt. De Gebruiker erkent dat de inhoud of het materiaal dat tijdens betaalde webinars wordt gepresenteerd onnauwkeurigheden of fouten kan bevatten. De Website is niet verantwoordelijk voor dergelijke onjuistheden of voor winstverlies van Gebruikers of Deelnemers.
 		</p>
 		<br>
 		<p>
-			The Website does not supply Participants with any ancillary documentation, such as invoices or receipts. It is at the User‘s discretion to address this matter independently if deemed necessary.
+		De Website verstrekt geen aanvullende documenten aan Deelnemers, zoals facturen of ontvangstbewijzen. De Gebruiker dient dit zelf te regelen indien nodig.
 		</p>
 		<br><br>
-		<h3>Disputes</h3>
+
+		<h3>Geschillen</h3>
 		<p>
-			While the Website strives to address concerns comprehensively, it cannot guarantee a resolution in favor of every User or Participant of paid webinars. However, we commit to taking all necessary actions and making every effort to resolve any situation or problem promptly. Should disputes arise that necessitate the involvement of public authorities, both the User and the Participant agree to be governed by applicable EU law.
+		Hoewel de Website streeft naar volledige en eerlijke afhandeling van problemen, kan zij niet garanderen dat elk geschil in het voordeel van de Gebruiker of Deelnemer wordt opgelost. Wij verbinden ons er echter toe om alle nodige stappen te ondernemen en alles in het werk te stellen om elke situatie zo snel mogelijk op te lossen. Bij geschillen die overheidsbemoeienis vereisen, verklaren zowel de Gebruiker als de Deelnemer zich akkoord met de toepassing van het relevante EU-recht.
 		</p>
 		<br><br>
-		<h3>Notifications</h3>
+
+		<h3>Kennisgevingen</h3>
 		<p>
-			Please direct all notifications and inquiries to paid-webinars@myownconference.com. Be sure to provide a detailed description of your concern or any technical issues you‘ve encountered.
+		Stuur alle kennisgevingen en vragen naar paid-webinars@myownconference.com. Vergeet niet om een duidelijke beschrijving van je vraag of van technische problemen te vermelden.
 		</p>
 		<br><br>
 	',

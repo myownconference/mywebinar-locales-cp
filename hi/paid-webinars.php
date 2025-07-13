@@ -15,73 +15,73 @@ return [
 	'paypal-summ' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Already paid
+		पहले ही भुगतान हो चुका है
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'funds-received' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		भुगतान वाले वेबिनार <span class="tooltip" data-tip="वेबिनार पहुंच के लिए उपस्थित लोगों से शुल्क लेने के लिए इस विकल्प को सक्रिय करें। अपनी प्रोफ़ाइल सेटिंग में सशुल्क वेबिनार सक्षम करने से पहले समझौतों को पढ़ें और पुष्टि करें। कृपया ध्यान दें कि यह सुविधा तुरंत सक्रिय नहीं होगी, क्योंकि हम सक्रियण से पहले आपके प्रोफ़ाइल और वेबिनार विषयों की मैन्युअल समीक्षा करेंगे"></span>
+		पेड वेबिनार <span class="tooltip" data-tip="प्रतिभागियों से वेबिनार में शामिल होने के लिए शुल्क लेने के लिए इस विकल्प को सक्रिय करें। कृपया इसे प्रोफ़ाइल सेटिंग्स में सक्रिय करने से पहले सभी शर्तों को पढ़ें और स्वीकार करें। ध्यान दें: यह सुविधा तुरंत सक्रिय नहीं होगी — हम पहले आपके प्रोफ़ाइल और वेबिनार विषयों की मैन्युअल समीक्षा करेंगे।"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'hold-title' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Our fee
+		हमारा कमीशन
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'output-title' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		प्रसंस्कृत
+		प्रोसेस किया गया
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'output-button' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Withdraw
+		निकालें
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-title' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Terms and conditions of payment processing for paid webinars
+		पेड वेबिनार के लिए भुगतान प्रोसेसिंग की शर्तें और नियम
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-subtitle' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Read the terms and conditions for using the payment processing function carefully please. Incorrect use of this function may result in automatic blocking of your account.
+		कृपया भुगतान प्रोसेसिंग सुविधा का उपयोग करने से पहले इसकी सभी शर्तों और नियमों को ध्यान से पढ़ें। इस सुविधा का गलत उपयोग आपके खाते के स्वतः ब्लॉक होने का कारण बन सकता है।
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-bottom' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sign here if you agree with term and conditions of the payments processing
+		यदि आप भुगतान प्रोसेसिंग की शर्तों से सहमत हैं, तो कृपया यहाँ हस्ताक्षर करें
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'freeze-title' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		On hold
+		रोक पर
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'service-commission-title' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Our fee
+		हमारा शुल्क
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'our-bank-commission-title' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bank fee
+		बैंक शुल्क
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'available-title' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Revenue
+		राजस्व
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'extend-package-confirm' => //////////////////////////////////////////////////////////
@@ -108,215 +108,214 @@ return [
 	'payweb-rules' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<h3>Handling payments for your paid webinars</h3>
-		<sup style="color:grey">(Last edited: August 24, 2023. Revision: 1.2)</sup>
+		<h3>आपके पेड वेबिनार के लिए भुगतान प्रोसेसिंग</h3>
+		<sup style="color:grey">(अंतिम अपडेट: 24 अगस्त 2023. संस्करण: 1.2)</sup>
 		<br><br><br><br>
-		<h3>Terms and definitions</h3>
+		<h3>परिभाषाएँ और शब्दावली</h3>
 		<p>
-			– Paid webinars — this encompasses webinars, online lectures, conferences, seminars, courses, lessons, and live broadcasts that require payment for participation. Attendees can access and participate in these webinars only after they‘ve made the necessary payment.
+			– पेड वेबिनार — इसमें ऐसे सभी वेबिनार, ऑनलाइन व्याख्यान, कॉन्फ्रेंस, सेमिनार, कोर्स, पाठ और लाइव प्रसारण शामिल हैं जिनमें भाग लेने के लिए भुगतान करना होता है। प्रतिभागी केवल आवश्यक भुगतान करने के बाद ही इनमें भाग ले सकते हैं।
 			<br><br>
-			– Webinar software MyOwnConference — we are “Akovana, UAB“, a service provider specializing in the organization of both free and paid webinars, live broadcasts, web conferences, and more. Our registered address is 18 Djioyi Street, Vilnius, Lithuania, LT-01128.
+			– वेबिनार सॉफ़्टवेयर MyOwnConference — हम “Akovana, UAB” हैं, एक सेवा प्रदाता जो मुफ्त और पेड दोनों प्रकार के वेबिनार, लाइव प्रसारण, वेब कॉन्फ्रेंस आदि के आयोजन में विशेषज्ञता रखता है। हमारा पंजीकृत पता है: 18 Djioyi Street, Vilnius, Lithuania, LT-01128।
 			<br><br>
-			– User — any individual who has agreed to these terms and utilizes the services in accordance with this agreement.
+			– उपयोगकर्ता — कोई भी व्यक्ति जो इन शर्तों से सहमत है और इस समझौते के अनुसार सेवाओं का उपयोग करता है।
 			<br><br>
-			– User Agreement — this document, found in the Control Panel, acts as the binding contract between you (the User) and us (the Website), governing the provision of our information services.
+			– उपयोगकर्ता अनुबंध — यह दस्तावेज़, जिसे कंट्रोल पैनल में पाया जा सकता है, आपके (उपयोगकर्ता) और हमारी (वेबसाइट) के बीच एक बाध्यकारी अनुबंध है, जो हमारी सूचना सेवाओं के प्रावधान को नियंत्रित करता है।
 			<br><br>
-			– User Account, Control Panel, or Dashboard — this is a collection of the User‘s personal data crucial for accessing the services offered by the Website. It also contains files the User has stored on the Website‘s server.
+			– उपयोगकर्ता खाता, कंट्रोल पैनल या डैशबोर्ड — यह उपयोगकर्ता का व्यक्तिगत डेटा संग्रह होता है, जो वेबसाइट द्वारा दी गई सेवाओं तक पहुँचने के लिए आवश्यक होता है। इसमें वे फ़ाइलें भी शामिल होती हैं जो उपयोगकर्ता ने वेबसाइट के सर्वर पर संग्रहित की होती हैं।
 			<br><br>
-			– Attendee, Participant or Guest – an individual invited by the User, who compensates the User for access to a paid webinar hosted by the User via the Website.
+			– प्रतिभागी, अतिथि या विज़िटर — वह व्यक्ति जिसे उपयोगकर्ता ने आमंत्रित किया है और जिसने उपयोगकर्ता द्वारा आयोजित पेड वेबिनार तक पहुँच के लिए भुगतान किया है।
 		</p>
 		<br><br>
-		<h3>General provisions</h3>
+		<h3>सामान्य प्रावधान</h3>
 		<p>
-			When arranging paid webinars, the online platform for webinars, live broadcasts, and web conferences, namely “MyOwnConference“, hereinafter referred to as “the Platform“, serves as an intermediary. The platform is entrusted by the User to receive and process payments from attendees participating in the webinar, online lecture, conference, course, or lesson facilitated via the platform‘s services.
+			जब उपयोगकर्ता पेड वेबिनार आयोजित करता है, तो “MyOwnConference” नामक ऑनलाइन प्लेटफ़ॉर्म (आगे “प्लेटफ़ॉर्म” कहा जाएगा) एक मध्यस्थ के रूप में कार्य करता है। यह प्लेटफ़ॉर्म उपयोगकर्ता की ओर से वेबिनार, व्याख्यान, कॉन्फ्रेंस, कोर्स या पाठ में भाग लेने वाले प्रतिभागियों से भुगतान प्राप्त करता है और प्रोसेस करता है।
 		</p>
 		<br>
 		<p>
-			To formalize an agreement with the Platform, the User isn‘t required to sign a physical (hard copy) contract. Merely accepting the terms of this Agreement, by ticking the respective checkbox within the Platform‘s Control Panel when seeking to activate payment acceptance services, is sufficient.
+			प्लेटफ़ॉर्म के साथ समझौता औपचारिक रूप से करने के लिए उपयोगकर्ता को कोई भौतिक अनुबंध साइन करने की आवश्यकता नहीं है। जब उपयोगकर्ता कंट्रोल पैनल में भुगतान स्वीकार करने की सेवा को सक्रिय करना चाहता है, तो सहमति बॉक्स पर क्लिक करना पर्याप्त होता है।
 		</p>
 		<br>
 		<p>
-			The Platform conscientiously oversees the quality of the User‘s paid webinars, keeps track of any discontented participants, and manages refunds for previously processed payments if warranted. Accordingly, during the preliminary verification of the User‘s account, the Platform holds the discretion to deny the User‘s request to process payments without stating a specific reason.
+			प्लेटफ़ॉर्म उपयोगकर्ता द्वारा आयोजित पेड वेबिनार की गुणवत्ता की निगरानी करता है, असंतुष्ट प्रतिभागियों को ट्रैक करता है और आवश्यक होने पर पहले से प्रोसेस किए गए भुगतानों की वापसी की प्रक्रिया करता है। तदनुसार, उपयोगकर्ता खाते की प्रारंभिक जाँच के दौरान, प्लेटफ़ॉर्म बिना कोई कारण बताए भुगतान प्रोसेसिंग अनुरोध को अस्वीकार कर सकता है।
 		</p>
 		<br>
 		<p>
-			All payments are exclusively accepted and processed via the international payment system, Paysera.
+			सभी भुगतान केवल अंतरराष्ट्रीय भुगतान प्रणाली Paysera के माध्यम से स्वीकार और प्रोसेस किए जाते हैं।
 		</p>
 		<br>
 		<p>
-			The primary transactional and accepted currency is the Euro (EUR).
+			मुख्य लेन-देन मुद्रा यूरो (EUR) है।
 		</p>
 		<br>
 		<p>
-			The Platform directs all received payments to a dedicated account, exclusively designed for managing payments from the User‘s webinar attendees.
+			प्लेटफ़ॉर्म द्वारा प्राप्त सभी भुगतान एक समर्पित खाते में भेजे जाते हैं, जिसे विशेष रूप से उपयोगकर्ता के वेबिनार प्रतिभागियों के भुगतान प्रबंधन के लिए डिज़ाइन किया गया है।
 		</p>
 		<br>
 		<p>
-			To maintain a comprehensive history of interactions with the User, all inquiries and claims pertaining to payment acceptance and processing—including refund requests—are to be submitted via the email address registered to the User‘s account.
+			उपयोगकर्ता के साथ बातचीत का पूरा रिकॉर्ड बनाए रखने के लिए, भुगतान प्रोसेसिंग से संबंधित सभी अनुरोध और दावे (रिफंड सहित) उस ईमेल पते के माध्यम से प्रस्तुत किए जाने चाहिए जो उपयोगकर्ता के खाते से जुड़ा है।
 		</p>
 		<br><br>
-		<h3>Platform fees</h3>
+		<h3>प्लेटफ़ॉर्म शुल्क</h3>
 		<p>
-			The website applies a 10% commission to every successful payment made by participants attending a user‘s paid webinar.
+			वेबसाइट उपयोगकर्ता द्वारा आयोजित प्रत्येक पेड वेबिनार के लिए प्रतिभागियों द्वारा किए गए सफल भुगतान पर 10% का कमीशन लागू करती है।
 		</p>
 		<p>
-			For instance, if you set the entry fee for a webinar at €10 and 10 people attend, generating €10 x 10 = €100 in total payments, you would earn €100 – 10% = €90 after commission.
-		</p>
-		<br><br>
-		<h3>Bank service fee</h3>
-		<p>
-			A service fee of €7 is applied only for bank transfers to the user‘s account. This fee is consistently applied without exceptions.
+			उदाहरण के लिए, यदि आप वेबिनार के लिए एंट्री शुल्क €10 तय करते हैं और 10 लोग भाग लेते हैं, तो कुल भुगतान €10 x 10 = €100 होगा। कमीशन कटौती के बाद आपकी कमाई होगी €100 – 10% = €90।
 		</p>
 		<br><br>
-		<h3>Correspondent bank fees</h3>
+		<h3>बैंक सेवा शुल्क</h3>
 		<p>
-			These fees are levied by the Correspondent Bank when facilitating the transfer of funds from the website‘s bank account to the user‘s bank account. For IBAN transfers, the fees charged by correspondent banks can range from €10 to €35. There is no fee for SEPA transfers.
-		</p>
-		<br>
-		<br><br>
-		<h3>Receiving payouts</h3>
-		<p>
-			When a participant makes a successful payment for a webinar, the amount is credited to a dedicated account on our platform. This is then aggregated based on the number of paid webinars and participants. Payments are processed by our platform, but only initiated upon the user‘s request through the Control Panel.
-		</p>
-		<br>
-		<p>
-			In accordance with the terms of this Agreement, a 10% commission for our platform, as well as a €7 fee charged by our bank for processing the money transfer, will be deducted from the user‘s payout.
-		</p>
-		<br>
-		<p>
-			The net amount after deductions can either be transferred to the user‘s bank account or be applied as credit towards the cost of using our platform‘s services.
-		</p>
-		<p>
-			All payments are processed no earlier than 7 business days after the webinar and only if there are no refund requests from participants. The minimum payout amount is 300 EUR. For payouts exceeding 600 EUR, our service will send a closing document that must be signed by the recipient of the payment.
-		<br>
-		<br>
-		<p>
-			Please note! When using the IBAN method, some intermediary banks may levy an additional fee ranging from €10 to €35. We have no control over, nor can we waive these fees. They are automatically deducted when funds are transferred to the user‘s bank account.
+			उपयोगकर्ता के खाते में बैंक ट्रांसफर के लिए €7 की सेवा शुल्क ली जाती है। यह शुल्क सभी मामलों में समान रूप से लागू होता है।
 		</p>
 		<br><br>
-		<h3>Refund request by the User</h3>
+		<h3>कोरस्पॉन्डेंट बैंक शुल्क</h3>
 		<p>
-			Users can request a refund through the Control Panel on our website. This must then be confirmed via the email address associated with the user‘s account.
-		</p>
-		<br>
-		<p>
-			To maintain high-quality service, all refund requests from attendees of paid webinars are reviewed and processed semi-automatically by our system. The refund processing time can range from 1 to 7 business days, depending primarily on the bank that serves the webinar attendee.
-		</p>
-		<br>
-		<p>
-			The service processes refunds immediately upon receiving a request from the user.
+			जब वेबसाइट के बैंक खाते से उपयोगकर्ता के बैंक खाते में ट्रांसफर किया जाता है, तो कोरस्पॉन्डेंट बैंक द्वारा अतिरिक्त शुल्क लिया जा सकता है। IBAN ट्रांसफर के लिए यह शुल्क €10 से €35 तक हो सकता है। SEPA ट्रांसफर के लिए कोई शुल्क नहीं है।
 		</p>
 		<br><br>
-		<h3>Participant refund request</h3>
+		<h3>भुगतान प्राप्त करना</h3>
 		<p>
-			Our platform processes refund requests from attendees of paid webinars only when they directly contact us through the provided contact form or email address on our website.
+			जब कोई प्रतिभागी वेबिनार के लिए सफलतापूर्वक भुगतान करता है, तो वह राशि हमारे प्लेटफ़ॉर्म पर एक समर्पित खाते में जमा होती है। यह पेड वेबिनार और प्रतिभागियों की संख्या के आधार पर जोड़ी जाती है। भुगतान हमारे प्लेटफ़ॉर्म द्वारा प्रोसेस किए जाते हैं, लेकिन केवल उपयोगकर्ता के कंट्रोल पैनल से अनुरोध किए जाने पर शुरू होते हैं।
 		</p>
 		<br>
 		<p>
-			In such instances, we will issue a refund after thoroughly reviewing the attendee‘s explanation for the request and securing an agreement with the account holder (referred to as “User“). Refunds are initiated based on notifications from the User via their Control Panel.
+			इस समझौते की शर्तों के अनुसार, हमारे प्लेटफ़ॉर्म का 10% कमीशन और बैंक द्वारा लिया गया €7 शुल्क उपयोगकर्ता की भुगतान राशि से काट लिया जाएगा।
 		</p>
 		<br>
 		<p>
-			We issue refunds promptly upon receiving the notification from the User.
+			कटौती के बाद शेष राशि उपयोगकर्ता के बैंक खाते में ट्रांसफर की जा सकती है या प्लेटफ़ॉर्म सेवाओं के भुगतान में उपयोग की जा सकती है।
+		</p>
+		<p>
+			सभी भुगतान वेबिनार के 7 कार्यदिवस बाद ही प्रोसेस किए जाते हैं, बशर्ते कोई रिफंड अनुरोध न हो। न्यूनतम भुगतान राशि 300 यूरो है। यदि राशि 600 यूरो से अधिक है, तो सेवा एक समापन दस्तावेज़ भेजेगी, जिसे भुगतान प्राप्तकर्ता को हस्ताक्षरित रूप में लौटाना होगा।
 		</p>
 		<br>
 		<p>
-			However, if for any reason the User fails to notify us through the Control Panel, our platform reserves the right to process the refund to the attendee independently.
+			कृपया ध्यान दें! IBAN ट्रांसफर के दौरान कुछ मध्यवर्ती बैंक €10 से €35 तक का अतिरिक्त शुल्क लगा सकते हैं। हम इन शुल्कों को नियंत्रित नहीं कर सकते और न ही उन्हें माफ कर सकते हैं। ये शुल्क स्वचालित रूप से कट जाते हैं।
 		</p>
 		<br><br>
-		<h3>Refund request from the webinar attendee‘s bank</h3>
+		<h3>उपयोगकर्ता द्वारा रिफंड अनुरोध</h3>
 		<p>
-			Such refund requests arise from the bank that serves the attendee of a paid webinar. All payments made by attendees for paid webinars are fully refundable, adhering to the principle that “The Attendee is Always Right“.
+			उपयोगकर्ता हमारी वेबसाइट के कंट्रोल पैनल से रिफंड का अनुरोध कर सकते हैं। इसके बाद उस अनुरोध की पुष्टि उपयोगकर्ता के पंजीकृत ईमेल पते से करनी होगी।
 		</p>
 		<br>
 		<p>
-			Should a refund request be received directly from an attendee‘s bank, the Website will promptly inform the User. The Website then allows the User 3 business days to address the matter with the attendee and subsequently notify the Website of any agreements reached, providing relevant correspondence and documentation. The Website will then forward these documents to the relevant bank for processing.
+			उच्च गुणवत्ता वाली सेवा बनाए रखने के लिए, पेड वेबिनार प्रतिभागियों से प्राप्त सभी रिफंड अनुरोध हमारी प्रणाली द्वारा अर्ध-स्वचालित रूप से जाँचे और प्रोसेस किए जाते हैं। प्रोसेसिंग का समय 1 से 7 कार्यदिवस हो सकता है, जो प्रतिभागी के बैंक पर निर्भर करता है।
 		</p>
 		<br>
 		<p>
-			Note: Should the Website receive more than 2 refund requests from the bank issuing an attendee‘s card, the Website may exercise its right to disable the User‘s payment acceptance functionality. Additionally, the Website might reverse all previously processed payments and, if deemed necessary, suspend the User‘s account.
-		</p>
-		<br>
-		<p>
-			Furthermore, if there are numerous complaints from attendees regarding the content or quality of webinars, the Website reserves the right to issue refunds to all attendees without exception. In such cases, the User will not receive the contested funds.
-		</p>
-		<br>
-		<p>
-			The website strictly adheres to this rule.
+			हमारी सेवा उपयोगकर्ता से अनुरोध प्राप्त होने पर तुरंत रिफंड प्रोसेस करती है।
 		</p>
 		<br><br>
-		<h3>Rights and obligations of the website</h3>
+		<h3>प्रतिभागी द्वारा रिफंड अनुरोध</h3>
 		<p>
-			While the Website strives to ensure the highest possible level of service availability and performance, it cannot be held accountable for any failure or delay in meeting its obligations due to unforeseen circumstances beyond its control. Such circumstances include, but are not limited to: subpar internet connection quality experienced by the User or Participants during webinars, live broadcasts, and web conferences; the absence of essential equipment such as microphones or cameras on the user‘s end; insufficient power of the User‘s device; DDoS attacks targeting data centers utilized by the Website; natural disasters; strikes; acts of war; delays or failures in third-party services, and more.
+			हमारा प्लेटफ़ॉर्म केवल उन्हीं रिफंड अनुरोधों को प्रोसेस करता है जो प्रतिभागी हमारे वेबसाइट पर उपलब्ध संपर्क फॉर्म या ईमेल पते के माध्यम से भेजते हैं।
 		</p>
 		<br>
 		<p>
-			The Website cannot be held liable for any errors, damages, or other unexpected outcomes that arise from the User‘s or Participant‘s misuse of the provided services.
+			ऐसे मामलों में, हम प्रतिभागी द्वारा दी गई व्याख्या की समीक्षा करने के बाद और उपयोगकर्ता (खाता धारक) से सहमति प्राप्त करने पर रिफंड जारी करते हैं। यह रिफंड उपयोगकर्ता द्वारा कंट्रोल पैनल में की गई अधिसूचना के आधार पर किया जाता है।
 		</p>
 		<br>
 		<p>
-			In line with its <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Return Policy</a>, the Website disclaims responsibility for any complaints from Participants concerning the poor organization of a paid webinar or any technical mishaps attributable to the User.
+			हमें उपयोगकर्ता की अधिसूचना प्राप्त होते ही हम तुरंत रिफंड जारी करते हैं।
 		</p>
 		<br>
 		<p>
-			The Website reserves the right to suspend or terminate its services without prior notice to the User. This may also involve retaining all proceeds from paid webinars on the Website‘s account, especially in cases where paid webinars, live broadcasts, or web conferences contain illegal or offensive content.
+			हालांकि, यदि किसी कारणवश उपयोगकर्ता हमें कंट्रोल पैनल के माध्यम से अधिसूचित नहीं करता है, तो हमारा प्लेटफ़ॉर्म रिफंड को स्वतंत्र रूप से प्रोसेस करने का अधिकार सुरक्षित रखता है।
 		</p>
 		<br><br>
-		<h3>User‘s rights and obligations</h3>
+		<h3>प्रतिभागी के बैंक से रिफंड अनुरोध</h3>
 		<p>
-			The User is personally responsible to the attendees of paid webinars for their content, quality, and the timely delivery using the services provided by the Website.
+			ये रिफंड अनुरोध उस बैंक से आते हैं जो प्रतिभागी को सेवाएं देता है। पेड वेबिनार के लिए प्रतिभागियों द्वारा किए गए सभी भुगतान पूरी तरह से रिफंड योग्य हैं — हमारे प्लेटफ़ॉर्म का सिद्धांत है “प्रतिभागी हमेशा सही होता है”।
 		</p>
 		<br>
 		<p>
-			The User assumes personal responsibility towards attendees of paid webinars for any technical issues, glitches, delays, or cancellations related to the organization of the paid webinar.
+			यदि प्रतिभागी के बैंक से कोई रिफंड अनुरोध प्राप्त होता है, तो वेबसाइट तुरंत उपयोगकर्ता को सूचित करती है। इसके बाद उपयोगकर्ता को प्रतिभागी से संपर्क कर समाधान निकालने और सहमति की जानकारी वेबसाइट को देने के लिए 3 कार्यदिवस का समय मिलता है, साथ ही दस्तावेज़ और पत्राचार की प्रतियाँ भी प्रदान करनी होती हैं। वेबसाइट तब संबंधित बैंक को यह दस्तावेज़ भेजती है।
 		</p>
 		<br>
 		<p>
-			The User agrees not to use the services of the Website for illegal purposes. Breaching this agreement will result in the immediate suspension of the User‘s account, and any funds accrued from paid webinars will be retained by the Website.
+			नोट: यदि किसी प्रतिभागी के बैंक से 2 से अधिक रिफंड अनुरोध प्राप्त होते हैं, तो वेबसाइट उपयोगकर्ता की भुगतान स्वीकार करने की सुविधा को बंद कर सकती है। इसके अलावा, पूर्व में प्रोसेस किए गए सभी भुगतानों को भी रद्द किया जा सकता है और यदि आवश्यक समझा जाए, तो उपयोगकर्ता का खाता निलंबित किया जा सकता है।
 		</p>
 		<br>
 		<p>
-			The User is not permitted to use the Service or its messaging system to send, share, or distribute spam or other unauthorized promotional content. Should attendees file complaints against the User for such unauthorized activities, the Website reserves the right to suspend the User‘s account and retain all funds acquired from paid webinars on the Website.
+			यदि वेबिनार की सामग्री या गुणवत्ता को लेकर प्रतिभागियों से कई शिकायतें मिलती हैं, तो वेबसाइट सभी प्रतिभागियों को रिफंड जारी करने का अधिकार सुरक्षित रखती है। इस स्थिति में उपयोगकर्ता को संबंधित राशि नहीं मिलेगी।
+		</p>
+		<br>
+		<p>
+			वेबसाइट इस नियम का कड़ाई से पालन करती है।
 		</p>
 		<br><br>
-		<h3>Copyright policy</h3>
+		<h3>वेबसाइट के अधिकार और दायित्व</h3>
 		<p>
-			Users are prohibited from posting or reproducing copyrighted materials or trademarks on the Service without obtaining prior permission from the copyright owners.
+			हालाँकि वेबसाइट सेवा की अधिकतम उपलब्धता और प्रदर्शन सुनिश्चित करने का हरसंभव प्रयास करती है, लेकिन अप्रत्याशित परिस्थितियों के कारण अपनी जिम्मेदारियों को पूरा करने में किसी भी विफलता या देरी के लिए उत्तरदायी नहीं ठहराई जा सकती। ऐसी परिस्थितियों में शामिल हैं, लेकिन इन्हीं तक सीमित नहीं हैं: वेबिनार, लाइव प्रसारण और वेब कॉन्फ्रेंस के दौरान उपयोगकर्ता या प्रतिभागियों द्वारा अनुभव की गई कमजोर इंटरनेट कनेक्शन गुणवत्ता; उपयोगकर्ता की ओर से आवश्यक उपकरण जैसे माइक्रोफोन या कैमरे की अनुपस्थिति; उपयोगकर्ता के डिवाइस की अपर्याप्त शक्ति; वेबसाइट द्वारा उपयोग किए जा रहे डेटा सेंटर्स पर DDoS हमले; प्राकृतिक आपदाएँ; हड़तालें; युद्ध संबंधी कार्यवाहियाँ; तृतीय-पक्ष सेवाओं में देरी या विफलताएँ आदि।
 		</p>
 		<br>
 		<p>
-			Should a user violate this policy, the Website reserves the right to take actions as detailed in the “Rights and Obligations of the Website“ section of this User Agreement.
+			वेबसाइट उपयोगकर्ता या प्रतिभागी द्वारा सेवा के अनुचित उपयोग से उत्पन्न किसी भी त्रुटि, क्षति या अन्य अप्रत्याशित परिणामों के लिए उत्तरदायी नहीं है।
+		</p>
+		<br>
+		<p>
+			अपनी <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">रिफंड नीति</a> के अनुसार, वेबसाइट प्रतिभागियों द्वारा पेड वेबिनार के खराब आयोजन या उपयोगकर्ता के कारण हुई तकनीकी समस्याओं से संबंधित किसी भी शिकायत के लिए जिम्मेदार नहीं मानी जाएगी।
+		</p>
+		<br>
+		<p>
+			वेबसाइट को बिना पूर्व सूचना के अपनी सेवाओं को निलंबित या समाप्त करने का अधिकार है। इसमें पेड वेबिनार से प्राप्त सभी आय को वेबसाइट के खाते में रोक कर रखना भी शामिल हो सकता है, विशेषकर तब जब वेबिनार, लाइव प्रसारण या वेब कॉन्फ्रेंस में कोई अवैध या आपत्तिजनक सामग्री शामिल हो।
 		</p>
 		<br><br>
-		<h3>Limitation of liability</h3>
+		<h3>उपयोगकर्ता के अधिकार और दायित्व</h3>
 		<p>
-			The Website shall not be held responsible for any damages, including lost profits incurred by Participants or the User, or loss of Participant data due to the negligence of the User, the Website, the Participant, or third parties.
+			पेड वेबिनार की सामग्री, गुणवत्ता और समय पर डिलीवरी के लिए उपयोगकर्ता व्यक्तिगत रूप से प्रतिभागियों के प्रति उत्तरदायी होता है, जब वह वेबसाइट की सेवाओं का उपयोग करता है।
 		</p>
 		<br>
 		<p>
-			The Website‘s liability to the User is restricted solely to the monetary value of the services the Website has rendered to the User.
+			पेड वेबिनार के आयोजन से संबंधित किसी भी तकनीकी समस्या, गड़बड़ी, देरी या रद्दीकरण के लिए उपयोगकर्ता व्यक्तिगत रूप से जिम्मेदार होता है।
 		</p>
 		<br>
 		<p>
-			For Participants of paid webinars, the Website‘s liability is confined solely to the monetary sum received by the User.
+			उपयोगकर्ता सहमत होता है कि वह वेबसाइट की सेवाओं का उपयोग किसी भी अवैध उद्देश्य के लिए नहीं करेगा। इस समझौते का उल्लंघन उपयोगकर्ता के खाते के तत्काल निलंबन का कारण बनेगा और पेड वेबिनार से एकत्रित की गई सभी धनराशि वेबसाइट द्वारा रखी जाएगी।
 		</p>
 		<br>
 		<p>
-			The Website offers no assurances to Participants of paid webinars concerning the accuracy, currentness, or comprehensiveness of the information provided by the User. The User acknowledges that the content or materials they present during paid webinars might have inaccuracies or errors. The Website shall not be accountable for any inaccuracies or for any lost profits of the User or Participants.
-		</p>
-		<br>
-		<p>
-			The Website does not supply Participants with any ancillary documentation, such as invoices or receipts. It is at the User‘s discretion to address this matter independently if deemed necessary.
+			उपयोगकर्ता को सेवा या इसके मैसेजिंग सिस्टम का उपयोग स्पैम या किसी भी अनधिकृत प्रचार सामग्री भेजने, साझा करने या वितरित करने के लिए करने की अनुमति नहीं है। यदि प्रतिभागी उपयोगकर्ता के खिलाफ ऐसी गतिविधियों की शिकायत करते हैं, तो वेबसाइट उपयोगकर्ता का खाता निलंबित कर सकती है और पेड वेबिनार से अर्जित सभी धनराशि रख सकती है।
 		</p>
 		<br><br>
-		<h3>Disputes</h3>
+		<h3>कॉपीराइट नीति</h3>
 		<p>
-			While the Website strives to address concerns comprehensively, it cannot guarantee a resolution in favor of every User or Participant of paid webinars. However, we commit to taking all necessary actions and making every effort to resolve any situation or problem promptly. Should disputes arise that necessitate the involvement of public authorities, both the User and the Participant agree to be governed by applicable EU law.
+			उपयोगकर्ताओं को सेवा पर किसी भी कॉपीराइटयुक्त सामग्री या ट्रेडमार्क को बिना अधिकार धारक की पूर्व अनुमति के प्रकाशित या पुन: प्रस्तुत करने की अनुमति नहीं है।
+		</p>
+		<br>
+		<p>
+			यदि कोई उपयोगकर्ता इस नीति का उल्लंघन करता है, तो वेबसाइट को इस उपयोगकर्ता समझौते के “वेबसाइट के अधिकार और दायित्व” अनुभाग में वर्णित उपायों को लागू करने का अधिकार है।
 		</p>
 		<br><br>
-		<h3>Notifications</h3>
+		<h3>दायित्व की सीमा</h3>
 		<p>
-			Please direct all notifications and inquiries to paid-webinars@myownconference.com. Be sure to provide a detailed description of your concern or any technical issues you‘ve encountered.
+			वेबसाइट किसी भी नुकसान के लिए उत्तरदायी नहीं होगी, जिसमें प्रतिभागियों या उपयोगकर्ता को हुए मुनाफे की हानि या प्रतिभागियों का डेटा खो जाना शामिल है, चाहे वह उपयोगकर्ता, वेबसाइट, प्रतिभागी या किसी तीसरे पक्ष की लापरवाही के कारण हो।
+		</p>
+		<br>
+		<p>
+			वेबसाइट की उपयोगकर्ता के प्रति जिम्मेदारी केवल उन्हीं सेवाओं के मौद्रिक मूल्य तक सीमित है, जो वेबसाइट ने उपयोगकर्ता को प्रदान की हैं।
+		</p>
+		<br>
+		<p>
+			पेड वेबिनार के प्रतिभागियों के लिए, वेबसाइट की जिम्मेदारी केवल उस राशि तक सीमित है जो उपयोगकर्ता को प्राप्त हुई है।
+		</p>
+		<br>
+		<p>
+			वेबसाइट पेड वेबिनार प्रतिभागियों को उपयोगकर्ता द्वारा प्रदान की गई जानकारी की सटीकता, अद्यतनता या पूर्णता के संबंध में कोई गारंटी नहीं देती। उपयोगकर्ता स्वीकार करता है कि वेबिनार के दौरान प्रस्तुत की गई सामग्री में त्रुटियाँ या गलतियाँ हो सकती हैं। वेबसाइट ऐसी त्रुटियों या उपयोगकर्ता और प्रतिभागियों के संभावित मुनाफे की हानि के लिए उत्तरदायी नहीं है।
+		</p>
+		<br>
+		<p>
+			वेबसाइट प्रतिभागियों को कोई अतिरिक्त दस्तावेज़ जैसे चालान या रसीदें प्रदान नहीं करती। यदि आवश्यक हो, तो यह उपयोगकर्ता की जिम्मेदारी है कि वह इसे स्वयं संभाले।
+		</p>
+		<br><br>
+		<h3>विवाद</h3>
+		<p>
+			हालाँकि वेबसाइट हर समस्या का व्यापक समाधान देने का प्रयास करती है, फिर भी वह हर उपयोगकर्ता या पेड वेबिनार प्रतिभागी के पक्ष में समाधान की गारंटी नहीं दे सकती। हालांकि, हम हर स्थिति को जल्द से जल्द हल करने के लिए आवश्यक सभी उपाय करेंगे। यदि कोई विवाद सार्वजनिक प्राधिकरणों की भागीदारी की आवश्यकता उत्पन्न करता है, तो उपयोगकर्ता और प्रतिभागी दोनों सहमत होते हैं कि विवाद का समाधान लागू यूरोपीय संघ के कानूनों के अनुसार किया जाएगा।
+		</p>
+		<br><br>
+		<h3>सूचनाएँ</h3>
+		<p>
+			कृपया सभी सूचनाएँ और अनुरोध paid-webinars@myownconference.com पर भेजें। अपनी समस्या या किसी भी तकनीकी कठिनाई का विवरण स्पष्ट रूप से शामिल करना न भूलें।
 		</p>
 		<br><br>
 	',

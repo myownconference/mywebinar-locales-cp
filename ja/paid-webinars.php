@@ -15,73 +15,73 @@ return [
 	'paypal-summ' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Already paid
+		すでに支払い済み
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'funds-received' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paid webinars <span class="tooltip" data-tip="Activate this option to charge attendees for webinar access. Read and confirm the agreements before enabling paid webinars in your profile settings. Please note that the feature will not be activated immediately, as we will manually review your profile and webinar topics before activation"></span>
+		有料ウェビナー <span class="tooltip" data-tip="このオプションを有効にすると、参加者にウェビナーへのアクセス料金を請求できます。有料ウェビナーを有効にする前に、プロフィール設定で規約をよく読み、同意してください。なお、この機能は即時に有効化されるわけではなく、当社がプロフィールとウェビナーテーマを手動で審査します"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'hold-title' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Our fee
+		当社の手数料
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'output-title' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Processed
+		処理済み
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'output-button' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Withdraw
+		出金
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-title' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Terms and conditions of payment processing for paid webinars
+		有料ウェビナーの支払い処理に関する利用規約
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-subtitle' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Read the terms and conditions for using the payment processing function carefully please. Incorrect use of this function may result in automatic blocking of your account.
+		支払い処理機能の利用規約を必ずお読みください。不適切な使用は、アカウントの自動停止につながる場合があります。
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-bottom' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sign here if you agree with term and conditions of the payments processing
+		支払い処理に関する利用規約に同意する場合、ここに署名してください
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'freeze-title' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		On hold
+		保留中
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'service-commission-title' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Our fee
+		当社の手数料
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'our-bank-commission-title' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bank fee
+		銀行手数料
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'available-title' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Revenue
+		収益
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'extend-package-confirm' => //////////////////////////////////////////////////////////
@@ -108,215 +108,216 @@ return [
 	'payweb-rules' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<h3>Handling payments for your paid webinars</h3>
-		<sup style="color:grey">(Last edited: August 24, 2023. Revision: 1.2)</sup>
+		<h3>有料ウェビナーの支払い処理について</h3>
+		<sup style="color:grey">(最終更新日：2023年8月24日。改訂：1.2)</sup>
 		<br><br><br><br>
-		<h3>Terms and definitions</h3>
+		<h3>用語と定義</h3>
 		<p>
-			– Paid webinars — this encompasses webinars, online lectures, conferences, seminars, courses, lessons, and live broadcasts that require payment for participation. Attendees can access and participate in these webinars only after they‘ve made the necessary payment.
+			– 有料ウェビナー：これは、参加に対して支払いが必要なウェビナー、オンライン講義、会議、セミナー、コース、レッスン、ライブ配信を含みます。参加者は、必要な支払いを完了した後にのみアクセスし、参加できます。
 			<br><br>
-			– Webinar software MyOwnConference — we are “Akovana, UAB“, a service provider specializing in the organization of both free and paid webinars, live broadcasts, web conferences, and more. Our registered address is 18 Djioyi Street, Vilnius, Lithuania, LT-01128.
+			– ウェビナーソフトウェア MyOwnConference：私たちは「Akovana, UAB」という名称で、無料および有料のウェビナー、ライブ配信、ウェブ会議などの開催を専門とするサービス提供者です。登録住所はリトアニア共和国ヴィリニュス市ディオヨイ通り18番地、LT-01128です。
 			<br><br>
-			– User — any individual who has agreed to these terms and utilizes the services in accordance with this agreement.
+			– ユーザー：本規約に同意し、本契約に基づいてサービスを利用する個人。
 			<br><br>
-			– User Agreement — this document, found in the Control Panel, acts as the binding contract between you (the User) and us (the Website), governing the provision of our information services.
+			– ユーザー契約：コントロールパネル内に掲載されているこの文書は、ユーザー（あなた）と私たち（本ウェブサイト）との間の情報提供サービスに関する法的拘束力を持つ契約です。
 			<br><br>
-			– User Account, Control Panel, or Dashboard — this is a collection of the User‘s personal data crucial for accessing the services offered by the Website. It also contains files the User has stored on the Website‘s server.
+			– ユーザーアカウント、コントロールパネル、またはダッシュボード：本ウェブサイトが提供するサービスにアクセスするために必要なユーザーの個人情報の集まりであり、またユーザーがウェブサイトのサーバー上に保存したファイルも含まれます。
 			<br><br>
-			– Attendee, Participant or Guest – an individual invited by the User, who compensates the User for access to a paid webinar hosted by the User via the Website.
+			– 参加者、ゲスト：ユーザーによって招待され、有料ウェビナーへのアクセスに対してユーザーに対価を支払う個人。
 		</p>
 		<br><br>
-		<h3>General provisions</h3>
+		<h3>一般規定</h3>
 		<p>
-			When arranging paid webinars, the online platform for webinars, live broadcasts, and web conferences, namely “MyOwnConference“, hereinafter referred to as “the Platform“, serves as an intermediary. The platform is entrusted by the User to receive and process payments from attendees participating in the webinar, online lecture, conference, course, or lesson facilitated via the platform‘s services.
+			有料ウェビナーを実施する際、ウェビナー、ライブ配信、ウェブ会議のオンラインプラットフォームである「MyOwnConference」（以下「プラットフォーム」といいます）は、仲介者として機能します。ユーザーは、プラットフォームのサービスを通じて実施されるウェビナー、オンライン講義、会議、コース、レッスンの参加者からの支払いを受け取り、処理する権限をプラットフォームに委任します。
 		</p>
 		<br>
 		<p>
-			To formalize an agreement with the Platform, the User isn‘t required to sign a physical (hard copy) contract. Merely accepting the terms of this Agreement, by ticking the respective checkbox within the Platform‘s Control Panel when seeking to activate payment acceptance services, is sufficient.
+			プラットフォームとの契約を正式に締結するために、ユーザーは書面（紙媒体）の契約書に署名する必要はありません。支払い受け取りサービスを有効化する際、プラットフォームのコントロールパネル内で本契約の条件にチェックを入れるだけで十分です。
 		</p>
 		<br>
 		<p>
-			The Platform conscientiously oversees the quality of the User‘s paid webinars, keeps track of any discontented participants, and manages refunds for previously processed payments if warranted. Accordingly, during the preliminary verification of the User‘s account, the Platform holds the discretion to deny the User‘s request to process payments without stating a specific reason.
+			プラットフォームは、ユーザーによる有料ウェビナーの品質を注意深く監視し、不満のある参加者の存在を把握し、必要に応じて支払い済みの料金の返金手続きを行います。そのため、ユーザーのアカウントを事前に審査する際、特別な理由を示すことなく、支払い処理の要請を却下する権利を保持します。
 		</p>
 		<br>
 		<p>
-			All payments are exclusively accepted and processed via the international payment system, Paysera.
+			すべての支払いは、国際決済システム「Paysera」を通じてのみ受け付け、処理されます。
 		</p>
 		<br>
 		<p>
-			The primary transactional and accepted currency is the Euro (EUR).
+			基本の取引および受け入れ通貨はユーロ（EUR）です。
 		</p>
 		<br>
 		<p>
-			The Platform directs all received payments to a dedicated account, exclusively designed for managing payments from the User‘s webinar attendees.
+			プラットフォームは、ユーザーのウェビナー参加者からの支払いを管理するために設けられた専用の口座に、すべての受領金を送金します。
 		</p>
 		<br>
 		<p>
-			To maintain a comprehensive history of interactions with the User, all inquiries and claims pertaining to payment acceptance and processing—including refund requests—are to be submitted via the email address registered to the User‘s account.
+			ユーザーとのやり取りの履歴を一貫して管理するため、支払いの受領および処理に関するすべてのお問い合わせおよび返金要求は、ユーザーのアカウントに登録されたメールアドレスから提出する必要があります。
 		</p>
 		<br><br>
-		<h3>Platform fees</h3>
+		<h3>プラットフォーム手数料</h3>
 		<p>
-			The website applies a 10% commission to every successful payment made by participants attending a user‘s paid webinar.
+			ユーザーが主催する有料ウェビナーにおける各成功支払いに対して、当ウェブサイトは10％の手数料を適用します。
 		</p>
 		<p>
-			For instance, if you set the entry fee for a webinar at €10 and 10 people attend, generating €10 x 10 = €100 in total payments, you would earn €100 – 10% = €90 after commission.
-		</p>
-		<br><br>
-		<h3>Bank service fee</h3>
-		<p>
-			A service fee of €7 is applied only for bank transfers to the user‘s account. This fee is consistently applied without exceptions.
+			例えば、ウェビナーの参加費を10ユーロに設定し、10人が参加した場合、合計で€10 x 10 = €100の収入となり、手数料を差し引いた後に得られる金額は €100 – 10% = €90 です。
 		</p>
 		<br><br>
-		<h3>Correspondent bank fees</h3>
+		<h3>銀行サービス手数料</h3>
 		<p>
-			These fees are levied by the Correspondent Bank when facilitating the transfer of funds from the website‘s bank account to the user‘s bank account. For IBAN transfers, the fees charged by correspondent banks can range from €10 to €35. There is no fee for SEPA transfers.
+			銀行口座への送金には、7ユーロのサービス手数料がかかります。この手数料は例外なく常に適用されます。
+		</p>
+		<br><br>
+		<h3>中継銀行手数料</h3>
+		<p>
+			ウェブサイトの銀行口座からユーザーの銀行口座への送金において、中継銀行が課す手数料です。IBAN送金の場合、中継銀行の手数料は€10〜€35となる場合があります。SEPA送金には手数料はかかりません。
 		</p>
 		<br>
 		<br><br>
-		<h3>Receiving payouts</h3>
+		<h3>支払いの受け取り</h3>
 		<p>
-			When a participant makes a successful payment for a webinar, the amount is credited to a dedicated account on our platform. This is then aggregated based on the number of paid webinars and participants. Payments are processed by our platform, but only initiated upon the user‘s request through the Control Panel.
+			参加者がウェビナーへの支払いを成功させた場合、その金額は当プラットフォーム上の専用口座に入金されます。その後、有料ウェビナーおよび参加者数に応じて集計されます。支払い処理は当プラットフォームによって行われますが、ユーザーがコントロールパネルからリクエストした場合にのみ実行されます。
 		</p>
 		<br>
 		<p>
-			In accordance with the terms of this Agreement, a 10% commission for our platform, as well as a €7 fee charged by our bank for processing the money transfer, will be deducted from the user‘s payout.
+			本契約の条件に基づき、当プラットフォームの10％の手数料および送金処理にかかる当社の銀行による€7の手数料がユーザーの支払いから差し引かれます。
 		</p>
 		<br>
 		<p>
-			The net amount after deductions can either be transferred to the user‘s bank account or be applied as credit towards the cost of using our platform‘s services.
+			控除後の純額は、ユーザーの銀行口座へ送金するか、当プラットフォームのサービス利用料として充当することができます。
 		</p>
 		<p>
-			All payments are processed no earlier than 7 business days after the webinar and only if there are no refund requests from participants. The minimum payout amount is 300 EUR. For payouts exceeding 600 EUR, our service will send a closing document that must be signed by the recipient of the payment.
+			すべての支払いは、ウェビナー終了後7営業日以降かつ参加者から返金要請がない場合にのみ処理されます。最低支払額は300ユーロです。600ユーロを超える支払いの場合、当社サービスは受取人が署名すべき締結書類を送付します。
+		</p>
 		<br>
 		<br>
 		<p>
-			Please note! When using the IBAN method, some intermediary banks may levy an additional fee ranging from €10 to €35. We have no control over, nor can we waive these fees. They are automatically deducted when funds are transferred to the user‘s bank account.
+			ご注意ください！IBAN方式で送金する際、一部の中継銀行が€10〜€35の追加手数料を課す場合があります。当社はこれらの手数料を管理・免除することはできません。資金がユーザーの銀行口座に送金される際、自動的に差し引かれます。
 		</p>
 		<br><br>
-		<h3>Refund request by the User</h3>
+		<h3>ユーザーによる返金要請</h3>
 		<p>
-			Users can request a refund through the Control Panel on our website. This must then be confirmed via the email address associated with the user‘s account.
+			ユーザーは、当ウェブサイトのコントロールパネルから返金をリクエストすることができます。リクエストは、ユーザーのアカウントに登録されたメールアドレスを通じて確認される必要があります。
 		</p>
 		<br>
 		<p>
-			To maintain high-quality service, all refund requests from attendees of paid webinars are reviewed and processed semi-automatically by our system. The refund processing time can range from 1 to 7 business days, depending primarily on the bank that serves the webinar attendee.
+			サービスの品質を維持するため、有料ウェビナーの参加者からのすべての返金リクエストは、当社のシステムによって半自動的に審査および処理されます。返金処理にかかる時間は、主に参加者の銀行によって異なり、1〜7営業日です。
 		</p>
 		<br>
 		<p>
-			The service processes refunds immediately upon receiving a request from the user.
+			サービスは、ユーザーからのリクエストを受け取り次第、直ちに返金を処理します。
 		</p>
 		<br><br>
-		<h3>Participant refund request</h3>
+		<h3>参加者による返金要請</h3>
 		<p>
-			Our platform processes refund requests from attendees of paid webinars only when they directly contact us through the provided contact form or email address on our website.
+			当プラットフォームは、有料ウェビナーの参加者からの返金リクエストを、ウェブサイトに掲載された問い合わせフォームまたはメールアドレスを通じて直接連絡があった場合にのみ処理します。
 		</p>
 		<br>
 		<p>
-			In such instances, we will issue a refund after thoroughly reviewing the attendee‘s explanation for the request and securing an agreement with the account holder (referred to as “User“). Refunds are initiated based on notifications from the User via their Control Panel.
+			そのような場合、当社は参加者の説明を詳細に確認し、アカウント保有者（以下「ユーザー」といいます）との合意を得た上で返金を実行します。返金は、ユーザーからのコントロールパネル経由の通知に基づいて行われます。
 		</p>
 		<br>
 		<p>
-			We issue refunds promptly upon receiving the notification from the User.
+			ユーザーからの通知を受け次第、速やかに返金を実行します。
 		</p>
 		<br>
 		<p>
-			However, if for any reason the User fails to notify us through the Control Panel, our platform reserves the right to process the refund to the attendee independently.
+			ただし、ユーザーがコントロールパネルから当社に通知しない場合、当プラットフォームは独自の裁量で参加者に返金を処理する権利を有します。
 		</p>
 		<br><br>
-		<h3>Refund request from the webinar attendee‘s bank</h3>
+		<h3>ウェビナー参加者の銀行による返金要請</h3>
 		<p>
-			Such refund requests arise from the bank that serves the attendee of a paid webinar. All payments made by attendees for paid webinars are fully refundable, adhering to the principle that “The Attendee is Always Right“.
+			このような返金要請は、有料ウェビナーの参加者の銀行から発生します。有料ウェビナーに対して参加者が行ったすべての支払いは、「参加者は常に正しい」という原則に基づき、完全に返金対象となります。
 		</p>
 		<br>
 		<p>
-			Should a refund request be received directly from an attendee‘s bank, the Website will promptly inform the User. The Website then allows the User 3 business days to address the matter with the attendee and subsequently notify the Website of any agreements reached, providing relevant correspondence and documentation. The Website will then forward these documents to the relevant bank for processing.
+			参加者の銀行から返金要請を直接受け取った場合、ウェブサイトは速やかにユーザーに通知します。ユーザーには、参加者と対応するための3営業日が与えられ、その後、やり取りした内容と関連書類をウェブサイトに提出する必要があります。当サイトはこれらの資料を該当の銀行に提出します。
 		</p>
 		<br>
 		<p>
-			Note: Should the Website receive more than 2 refund requests from the bank issuing an attendee‘s card, the Website may exercise its right to disable the User‘s payment acceptance functionality. Additionally, the Website might reverse all previously processed payments and, if deemed necessary, suspend the User‘s account.
+			注意：もし同一の参加者のカードを発行した銀行から2件以上の返金要請が発生した場合、ウェブサイトはユーザーの支払い受け取り機能を無効化する権利を有します。また、必要と判断された場合、これまでに処理されたすべての支払いを取り消し、ユーザーのアカウントを一時停止することもあります。
 		</p>
 		<br>
 		<p>
-			Furthermore, if there are numerous complaints from attendees regarding the content or quality of webinars, the Website reserves the right to issue refunds to all attendees without exception. In such cases, the User will not receive the contested funds.
+			さらに、ウェビナーの内容や品質に関して参加者から多くの苦情が寄せられた場合、ウェブサイトはすべての参加者に対して例外なく返金を行う権利を保持します。そのような場合、ユーザーは該当する資金を受け取ることはできません。
 		</p>
 		<br>
 		<p>
-			The website strictly adheres to this rule.
+			当ウェブサイトはこの方針を厳格に遵守しています。
 		</p>
 		<br><br>
-		<h3>Rights and obligations of the website</h3>
+		<h3>ウェブサイトの権利と義務</h3>
 		<p>
-			While the Website strives to ensure the highest possible level of service availability and performance, it cannot be held accountable for any failure or delay in meeting its obligations due to unforeseen circumstances beyond its control. Such circumstances include, but are not limited to: subpar internet connection quality experienced by the User or Participants during webinars, live broadcasts, and web conferences; the absence of essential equipment such as microphones or cameras on the user‘s end; insufficient power of the User‘s device; DDoS attacks targeting data centers utilized by the Website; natural disasters; strikes; acts of war; delays or failures in third-party services, and more.
+			ウェブサイトは、できる限り高水準のサービスの可用性とパフォーマンスを確保するよう努めますが、不可抗力や予測不可能な事態により義務の履行が不可能または遅延した場合、責任を負いません。これには、ユーザーや参加者がウェビナー、ライブ配信、ウェブ会議中に体験する低品質なインターネット接続、ユーザー側にマイクやカメラなどの必要機器がないこと、デバイスの処理能力の不足、ウェブサイトが使用するデータセンターに対するDDoS攻撃、自然災害、ストライキ、戦争行為、サードパーティサービスの遅延や障害などが含まれますが、これらに限定されません。
 		</p>
 		<br>
 		<p>
-			The Website cannot be held liable for any errors, damages, or other unexpected outcomes that arise from the User‘s or Participant‘s misuse of the provided services.
+			ユーザーや参加者による提供サービスの誤使用に起因するエラー、損害、またはその他の予期しない結果について、ウェブサイトは責任を負いません。
 		</p>
 		<br>
 		<p>
-			In line with its <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Return Policy</a>, the Website disclaims responsibility for any complaints from Participants concerning the poor organization of a paid webinar or any technical mishaps attributable to the User.
+			<a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">返金ポリシー</a>に従い、ウェブサイトは、有料ウェビナーの不適切な運営またはユーザーに起因する技術的トラブルに関する参加者からの苦情について、一切の責任を否認します。
 		</p>
 		<br>
 		<p>
-			The Website reserves the right to suspend or terminate its services without prior notice to the User. This may also involve retaining all proceeds from paid webinars on the Website‘s account, especially in cases where paid webinars, live broadcasts, or web conferences contain illegal or offensive content.
+			ウェブサイトは、事前通知なしにサービスの提供を一時停止または終了する権利を留保します。これは、違法または不快なコンテンツを含む有料ウェビナー、ライブ配信、ウェブ会議に関連している場合、ウェブサイトのアカウント上のすべての収益を保留することも含まれます。
 		</p>
 		<br><br>
-		<h3>User‘s rights and obligations</h3>
+		<h3>ユーザーの権利と義務</h3>
 		<p>
-			The User is personally responsible to the attendees of paid webinars for their content, quality, and the timely delivery using the services provided by the Website.
+			ユーザーは、有料ウェビナーの参加者に対して、そのコンテンツ、品質、およびウェブサイトが提供するサービスを使用した時間通りの配信について個人的に責任を負います。
 		</p>
 		<br>
 		<p>
-			The User assumes personal responsibility towards attendees of paid webinars for any technical issues, glitches, delays, or cancellations related to the organization of the paid webinar.
+			ユーザーは、有料ウェビナーの運営に関連する技術的問題、不具合、遅延、またはキャンセルについて、参加者に対して個人的な責任を負います。
 		</p>
 		<br>
 		<p>
-			The User agrees not to use the services of the Website for illegal purposes. Breaching this agreement will result in the immediate suspension of the User‘s account, and any funds accrued from paid webinars will be retained by the Website.
+			ユーザーは、ウェブサイトのサービスを違法な目的で使用しないことに同意します。本契約に違反した場合、ユーザーのアカウントは直ちに停止され、有料ウェビナーから得た収益はウェブサイトにより保留されます。
 		</p>
 		<br>
 		<p>
-			The User is not permitted to use the Service or its messaging system to send, share, or distribute spam or other unauthorized promotional content. Should attendees file complaints against the User for such unauthorized activities, the Website reserves the right to suspend the User‘s account and retain all funds acquired from paid webinars on the Website.
+			ユーザーは、スパムやその他の許可されていないプロモーションコンテンツを送信、共有、配布する目的でサービスまたはそのメッセージングシステムを使用することはできません。参加者がこれらの不正行為についてユーザーに対して苦情を申し立てた場合、ウェブサイトはユーザーのアカウントを停止し、ウェブサイト上で得たすべての収益を保留する権利を留保します。
 		</p>
 		<br><br>
-		<h3>Copyright policy</h3>
+		<h3>著作権ポリシー</h3>
 		<p>
-			Users are prohibited from posting or reproducing copyrighted materials or trademarks on the Service without obtaining prior permission from the copyright owners.
+			ユーザーは、著作権所有者からの事前の許可なしに、著作権で保護された資料や商標をサービス上に投稿または複製することを禁じられています。
 		</p>
 		<br>
 		<p>
-			Should a user violate this policy, the Website reserves the right to take actions as detailed in the “Rights and Obligations of the Website“ section of this User Agreement.
+			このポリシーに違反した場合、ウェブサイトは本ユーザー契約の「ウェブサイトの権利と義務」セクションに記載された措置を講じる権利を有します。
 		</p>
 		<br><br>
-		<h3>Limitation of liability</h3>
+		<h3>責任の制限</h3>
 		<p>
-			The Website shall not be held responsible for any damages, including lost profits incurred by Participants or the User, or loss of Participant data due to the negligence of the User, the Website, the Participant, or third parties.
+			ウェブサイトは、ユーザー、参加者、または第三者の過失により発生した、参加者やユーザーの逸失利益や参加者データの損失など、いかなる損害に対しても責任を負いません。
 		</p>
 		<br>
 		<p>
-			The Website‘s liability to the User is restricted solely to the monetary value of the services the Website has rendered to the User.
+			ウェブサイトがユーザーに対して負う責任は、ウェブサイトがユーザーに提供したサービスの金銭的価値に限定されます。
 		</p>
 		<br>
 		<p>
-			For Participants of paid webinars, the Website‘s liability is confined solely to the monetary sum received by the User.
+			有料ウェビナーの参加者に対するウェブサイトの責任は、ユーザーが受け取った金額に限定されます。
 		</p>
 		<br>
 		<p>
-			The Website offers no assurances to Participants of paid webinars concerning the accuracy, currentness, or comprehensiveness of the information provided by the User. The User acknowledges that the content or materials they present during paid webinars might have inaccuracies or errors. The Website shall not be accountable for any inaccuracies or for any lost profits of the User or Participants.
+			ウェブサイトは、有料ウェビナーの参加者に対し、ユーザーによって提供された情報の正確性、最新性、または完全性について一切保証しません。ユーザーは、有料ウェビナー中に提示するコンテンツや資料に不正確または誤りが含まれる可能性があることを認識しています。ウェブサイトは、そのような不正確さや、ユーザーまたは参加者の逸失利益に対して責任を負いません。
 		</p>
 		<br>
 		<p>
-			The Website does not supply Participants with any ancillary documentation, such as invoices or receipts. It is at the User‘s discretion to address this matter independently if deemed necessary.
+			ウェブサイトは、請求書や領収書などの補助文書を参加者に提供しません。この問題に関しては、ユーザーの裁量で対応するものとします。
 		</p>
 		<br><br>
-		<h3>Disputes</h3>
+		<h3>紛争</h3>
 		<p>
-			While the Website strives to address concerns comprehensively, it cannot guarantee a resolution in favor of every User or Participant of paid webinars. However, we commit to taking all necessary actions and making every effort to resolve any situation or problem promptly. Should disputes arise that necessitate the involvement of public authorities, both the User and the Participant agree to be governed by applicable EU law.
+			ウェブサイトは、すべての懸念事項に対処するよう努めていますが、有料ウェビナーのすべてのユーザーまたは参加者に有利な解決を保証することはできません。ただし、あらゆる状況や問題に迅速に対応するために必要な措置を講じ、最大限の努力を行うことをお約束します。公的機関の関与が必要となる紛争が発生した場合、ユーザーおよび参加者は、EUの適用法に従うことに同意するものとします。
 		</p>
 		<br><br>
-		<h3>Notifications</h3>
+		<h3>通知</h3>
 		<p>
-			Please direct all notifications and inquiries to paid-webinars@myownconference.com. Be sure to provide a detailed description of your concern or any technical issues you‘ve encountered.
+			すべての通知およびお問い合わせは、paid-webinars@myownconference.com にお送りください。ご不明点や技術的な問題については、詳細な説明を必ずご記載ください。
 		</p>
 		<br><br>
 	',

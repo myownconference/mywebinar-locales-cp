@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Varaktighet <span class="tooltip" data-tip="Välj en betalningsfrekvens som passar dig dagligen, månadsvis, varannan månad eller var tredje. Ju mer sällan du betalar desto mer sparar du. Kom ihåg att varje betalning ger tillgång i 30 dagar"></span><small>30 dagar</small>
+		Varaktighet <span class="tooltip" data-tip="Välj en betalningsfrekvens som passar dig dagligen, månadsvis, varannan månad eller var tredje. Ju mer sällan du betalar desto mer sparar du. Kom ihåg att varje betalning ger tillgång i 30 dagar"></span><br><small>30 dagar</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Varaktighet <span class="tooltip" data-tip="Välj en betalningsfrekvens som passar dig dagligen, månadsvis, varannan månad eller var tredje. Ju mer sällan du betalar desto mer sparar du. Kom ihåg att varje betalning ger tillgång i 30 dagar"></span><small>30 dagar</small>
+		Varaktighet <span class="tooltip" data-tip="Välj en betalningsfrekvens som passar dig dagligen, månadsvis, varannan månad eller var tredje. Ju mer sällan du betalar desto mer sparar du. Kom ihåg att varje betalning ger tillgång i 30 dagar"></span><br><small>30 dagar</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

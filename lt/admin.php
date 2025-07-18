@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Trukmė <span class="tooltip" data-tip="Pasirink mokėjimo dažnumą kuris tau patogiausias kasdien, kas mėnesį, kas du mėnesius arba kas tris. Kuo rečiau moki tuo daugiau sutaupai. Atmink kad kiekvienas mokėjimas suteikia prieigą 30 dienų"></span><small>30 dienų</small>
+		Trukmė <span class="tooltip" data-tip="Pasirink mokėjimo dažnumą kuris tau patogiausias kasdien, kas mėnesį, kas du mėnesius arba kas tris. Kuo rečiau moki tuo daugiau sutaupai. Atmink kad kiekvienas mokėjimas suteikia prieigą 30 dienų"></span><br><small>30 dienų</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Trukmė <span class="tooltip" data-tip="Pasirink mokėjimo dažnumą kuris tau patogiausias kasdien, kas mėnesį, kas du mėnesius arba kas tris. Kuo rečiau moki tuo daugiau sutaupai. Atmink kad kiekvienas mokėjimas suteikia prieigą 30 dienų"></span><small>30 dienų</small>
+		Trukmė <span class="tooltip" data-tip="Pasirink mokėjimo dažnumą kuris tau patogiausias kasdien, kas mėnesį, kas du mėnesius arba kas tris. Kuo rečiau moki tuo daugiau sutaupai. Atmink kad kiekvienas mokėjimas suteikia prieigą 30 dienų"></span><br><small>30 dienų</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

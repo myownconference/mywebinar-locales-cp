@@ -1708,13 +1708,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Czas trwania <span class="tooltip" data-tip="Wybierz częstotliwość płatności odpowiednią dla ciebie codziennie, co miesiąc, co dwa lub co trzy miesiące. Im rzadziej płacisz tym więcej oszczędzasz. Pamiętaj że każda płatność daje dostęp na 30 dni"></span><small>30 dni</small>
+		Czas trwania <span class="tooltip" data-tip="Wybierz częstotliwość płatności odpowiednią dla ciebie codziennie, co miesiąc, co dwa lub co trzy miesiące. Im rzadziej płacisz tym więcej oszczędzasz. Pamiętaj że każda płatność daje dostęp na 30 dni"></span><br><small>30 dni</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Czas trwania <span class="tooltip" data-tip="Wybierz częstotliwość płatności odpowiednią dla ciebie codziennie, co miesiąc, co dwa lub co trzy miesiące. Im rzadziej płacisz tym więcej oszczędzasz. Pamiętaj że każda płatność daje dostęp na 30 dni"></span><small>30 dni</small>
+		Czas trwania <span class="tooltip" data-tip="Wybierz częstotliwość płatności odpowiednią dla ciebie codziennie, co miesiąc, co dwa lub co trzy miesiące. Im rzadziej płacisz tym więcej oszczędzasz. Pamiętaj że każda płatność daje dostęp na 30 dni"></span><br><small>30 dni</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

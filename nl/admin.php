@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Duur <span class="tooltip" data-tip="Kies een betalingsfrequentie die bij je past dagelijks, maandelijks, om de twee maanden of om de drie. Hoe minder vaak je betaalt hoe meer je bespaart. Houd er rekening mee dat elke betaling toegang geeft voor 30 dagen"></span><small>30 dagen</small>
+		Duur <span class="tooltip" data-tip="Kies een betalingsfrequentie die bij je past dagelijks, maandelijks, om de twee maanden of om de drie. Hoe minder vaak je betaalt hoe meer je bespaart. Houd er rekening mee dat elke betaling toegang geeft voor 30 dagen"></span><br><small>30 dagen</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Duur <span class="tooltip" data-tip="Kies een betalingsfrequentie die bij je past dagelijks, maandelijks, om de twee maanden of om de drie. Hoe minder vaak je betaalt hoe meer je bespaart. Houd er rekening mee dat elke betaling toegang geeft voor 30 dagen"></span><small>30 dagen</small>
+		Duur <span class="tooltip" data-tip="Kies een betalingsfrequentie die bij je past dagelijks, maandelijks, om de twee maanden of om de drie. Hoe minder vaak je betaalt hoe meer je bespaart. Houd er rekening mee dat elke betaling toegang geeft voor 30 dagen"></span><br><small>30 dagen</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

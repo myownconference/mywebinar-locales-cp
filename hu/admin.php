@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Időtartam <span class="tooltip" data-tip="Válassz olyan fizetési gyakoriságot ami neked megfelelő napi, havi, kéthavi vagy háromhavi. Minél ritkábban fizetsz annál többet spórolsz. Ne feledd hogy minden befizetés 30 napos hozzáférést biztosít"></span><br><small>30 nap</small>
+		Időtartam <span class="tooltip" data-tip="Válassz olyan fizetési gyakoriságot ami neked megfelelő napi, havi, kéthavi vagy háromhavi. Minél ritkábban fizetsz annál többet spórolsz. Ne feledd hogy minden befizetés 30 napos hozzáférést biztosít"></span><br><small>%d nap</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Időtartam <span class="tooltip" data-tip="Válassz olyan fizetési gyakoriságot ami neked megfelelő napi, havi, kéthavi vagy háromhavi. Minél ritkábban fizetsz annál többet spórolsz. Ne feledd hogy minden befizetés 30 napos hozzáférést biztosít"></span><br><small>30 nap</small>
+		Időtartam <span class="tooltip" data-tip="Válassz olyan fizetési gyakoriságot ami neked megfelelő napi, havi, kéthavi vagy háromhavi. Minél ritkábban fizetsz annál többet spórolsz. Ne feledd hogy minden befizetés 30 napos hozzáférést biztosít"></span><br><small>%d nap</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

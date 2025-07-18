@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kestus <span class="tooltip" data-tip="Vali maksesagedus mis sulle sobib iga päev, kord kuus, iga kahe kuu tagant või iga kolme kuu tagant. Mida harvem maksad seda rohkem säästad. Pea meeles et iga makse annab ligipääsu 30 päevaks"></span><br><small>30 päeva</small>
+		Kestus <span class="tooltip" data-tip="Vali maksesagedus mis sulle sobib iga päev, kord kuus, iga kahe kuu tagant või iga kolme kuu tagant. Mida harvem maksad seda rohkem säästad. Pea meeles et iga makse annab ligipääsu 30 päevaks"></span><br><small>%d päeva</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kestus <span class="tooltip" data-tip="Vali maksesagedus mis sulle sobib iga päev, kord kuus, iga kahe kuu tagant või iga kolme kuu tagant. Mida harvem maksad seda rohkem säästad. Pea meeles et iga makse annab ligipääsu 30 päevaks"></span><br><small>30 päeva</small>
+		Kestus <span class="tooltip" data-tip="Vali maksesagedus mis sulle sobib iga päev, kord kuus, iga kahe kuu tagant või iga kolme kuu tagant. Mida harvem maksad seda rohkem säästad. Pea meeles et iga makse annab ligipääsu 30 päevaks"></span><br><small>%d päeva</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

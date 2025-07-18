@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Trajanje <span class="tooltip" data-tip="Izberi pogostost plačila ki ti ustreza dnevno, mesečno, na vsaka dva meseca ali na vsake tri. Manj pogosto kot plačuješ več prihraniš. Upoštevaj da vsako plačilo omogoča dostop za 30 dni"></span><br><small>30 dni</small>
+		Trajanje <span class="tooltip" data-tip="Izberi pogostost plačila ki ti ustreza dnevno, mesečno, na vsaka dva meseca ali na vsake tri. Manj pogosto kot plačuješ več prihraniš. Upoštevaj da vsako plačilo omogoča dostop za 30 dni"></span><br><small>%d dni</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Trajanje <span class="tooltip" data-tip="Izberi pogostost plačila ki ti ustreza dnevno, mesečno, na vsaka dva meseca ali na vsake tri. Manj pogosto kot plačuješ več prihraniš. Upoštevaj da vsako plačilo omogoča dostop za 30 dni"></span><br><small>30 dni</small>
+		Trajanje <span class="tooltip" data-tip="Izberi pogostost plačila ki ti ustreza dnevno, mesečno, na vsaka dva meseca ali na vsake tri. Manj pogosto kot plačuješ več prihraniš. Upoštevaj da vsako plačilo omogoča dostop za 30 dni"></span><br><small>%d dni</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

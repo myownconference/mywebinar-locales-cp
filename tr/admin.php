@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Süre <span class="tooltip" data-tip="Senin için uygun olan bir ödeme sıklığını seç günlük, aylık, iki ayda bir veya üç ayda bir. Daha az sıklıkta ödeme yaparsan daha fazla tasarruf edersin. Her ödemenin 30 gün erişim sağladığını unutma"></span><br><small>30 gün</small>
+		Süre <span class="tooltip" data-tip="Senin için uygun olan bir ödeme sıklığını seç günlük, aylık, iki ayda bir veya üç ayda bir. Daha az sıklıkta ödeme yaparsan daha fazla tasarruf edersin. Her ödemenin 30 gün erişim sağladığını unutma"></span><br><small>%d gün</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Süre <span class="tooltip" data-tip="Senin için uygun olan bir ödeme sıklığını seç günlük, aylık, iki ayda bir veya üç ayda bir. Daha az sıklıkta ödeme yaparsan daha fazla tasarruf edersin. Her ödemenin 30 gün erişim sağladığını unutma"></span><br><small>30 gün</small>
+		Süre <span class="tooltip" data-tip="Senin için uygun olan bir ödeme sıklığını seç günlük, aylık, iki ayda bir veya üç ayda bir. Daha az sıklıkta ödeme yaparsan daha fazla tasarruf edersin. Her ödemenin 30 gün erişim sağladığını unutma"></span><br><small>%d gün</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

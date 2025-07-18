@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Varighet <span class="tooltip" data-tip="Velg en betalingsfrekvens som passer for deg daglig, månedlig, annenhver måned eller hver tredje måned. Jo sjeldnere du betaler jo mer sparer du. Husk at hver betaling gir tilgang i 30 dager"></span><br><small>30 dager</small>
+		Varighet <span class="tooltip" data-tip="Velg en betalingsfrekvens som passer for deg daglig, månedlig, annenhver måned eller hver tredje måned. Jo sjeldnere du betaler jo mer sparer du. Husk at hver betaling gir tilgang i 30 dager"></span><br><small>%d dager</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Varighet <span class="tooltip" data-tip="Velg en betalingsfrekvens som passer for deg daglig, månedlig, annenhver måned eller hver tredje måned. Jo sjeldnere du betaler jo mer sparer du. Husk at hver betaling gir tilgang i 30 dager"></span><br><small>30 dager</small>
+		Varighet <span class="tooltip" data-tip="Velg en betalingsfrekvens som passer for deg daglig, månedlig, annenhver måned eller hver tredje måned. Jo sjeldnere du betaler jo mer sparer du. Husk at hver betaling gir tilgang i 30 dager"></span><br><small>%d dager</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kesto <span class="tooltip" data-tip="Valitse sinulle sopiva maksutiheys päivittäin, kuukausittain, kahden kuukauden välein tai kolmen kuukauden välein. Mitä harvemmin maksat sitä enemmän säästät. Muista että jokainen maksu antaa käyttöoikeuden 30 päiväksi"></span><br><small>30 päivää</small>
+		Kesto <span class="tooltip" data-tip="Valitse sinulle sopiva maksutiheys päivittäin, kuukausittain, kahden kuukauden välein tai kolmen kuukauden välein. Mitä harvemmin maksat sitä enemmän säästät. Muista että jokainen maksu antaa käyttöoikeuden 30 päiväksi"></span><br><small>%d päivää</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kesto <span class="tooltip" data-tip="Valitse sinulle sopiva maksutiheys päivittäin, kuukausittain, kahden kuukauden välein tai kolmen kuukauden välein. Mitä harvemmin maksat sitä enemmän säästät. Muista että jokainen maksu antaa käyttöoikeuden 30 päiväksi"></span><br><small>30 päivää</small>
+		Kesto <span class="tooltip" data-tip="Valitse sinulle sopiva maksutiheys päivittäin, kuukausittain, kahden kuukauden välein tai kolmen kuukauden välein. Mitä harvemmin maksat sitä enemmän säästät. Muista että jokainen maksu antaa käyttöoikeuden 30 päiväksi"></span><br><small>%d päivää</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

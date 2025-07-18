@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Dauer <span class="tooltip" data-tip="Wähle ein Zahlungsintervall das zu dir passt täglich, monatlich, alle zwei Monate oder alle drei. Je seltener du zahlst desto mehr sparst du. Beachte dass jede Zahlung dir 30 Tage Zugang gewährt"></span><br><small>30 Tage</small>
+		Dauer <span class="tooltip" data-tip="Wähle ein Zahlungsintervall das zu dir passt täglich, monatlich, alle zwei Monate oder alle drei. Je seltener du zahlst desto mehr sparst du. Beachte dass jede Zahlung dir 30 Tage Zugang gewährt"></span><br><small>%d Tage</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Dauer <span class="tooltip" data-tip="Wähle ein Zahlungsintervall das zu dir passt täglich, monatlich, alle zwei Monate oder alle drei. Je seltener du zahlst desto mehr sparst du. Beachte dass jede Zahlung dir 30 Tage Zugang gewährt"></span><br><small>30 Tage</small>
+		Dauer <span class="tooltip" data-tip="Wähle ein Zahlungsintervall das zu dir passt täglich, monatlich, alle zwei Monate oder alle drei. Je seltener du zahlst desto mehr sparst du. Beachte dass jede Zahlung dir 30 Tage Zugang gewährt"></span><br><small>%d Tage</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

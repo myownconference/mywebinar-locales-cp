@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Trvanie <span class="tooltip" data-tip="Zvoľ si frekvenciu platby ktorá ti vyhovuje denne, mesačne, každé dva mesiace alebo každé tri. Čím menej často platíš tým viac ušetríš. Nezabudni že každá platba poskytuje prístup na 30 dní"></span><br><small>30 dní</small>
+		Trvanie <span class="tooltip" data-tip="Zvoľ si frekvenciu platby ktorá ti vyhovuje denne, mesačne, každé dva mesiace alebo každé tri. Čím menej často platíš tým viac ušetríš. Nezabudni že každá platba poskytuje prístup na 30 dní"></span><br><small>%d dní</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Trvanie <span class="tooltip" data-tip="Zvoľ si frekvenciu platby ktorá ti vyhovuje denne, mesačne, každé dva mesiace alebo každé tri. Čím menej často platíš tým viac ušetríš. Nezabudni že každá platba poskytuje prístup na 30 dní"></span><br><small>30 dní</small>
+		Trvanie <span class="tooltip" data-tip="Zvoľ si frekvenciu platby ktorá ti vyhovuje denne, mesačne, každé dva mesiace alebo každé tri. Čím menej často platíš tým viac ušetríš. Nezabudni že každá platba poskytuje prístup na 30 dní"></span><br><small>%d dní</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

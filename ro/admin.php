@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Durată <span class="tooltip" data-tip="Alege o frecvență de plată care ți se potrivește zilnic, lunar, la două sau la trei luni. Cu cât plătești mai rar cu atât economisești mai mult. Ține cont că fiecare plată oferă acces timp de 30 de zile"></span><br><small>30 de zile</small>
+		Durată <span class="tooltip" data-tip="Alege o frecvență de plată care ți se potrivește zilnic, lunar, la două sau la trei luni. Cu cât plătești mai rar cu atât economisești mai mult. Ține cont că fiecare plată oferă acces timp de 30 de zile"></span><br><small>%d de zile</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Durată <span class="tooltip" data-tip="Alege o frecvență de plată care ți se potrivește zilnic, lunar, la două sau la trei luni. Cu cât plătești mai rar cu atât economisești mai mult. Ține cont că fiecare plată oferă acces timp de 30 de zile"></span><br><small>30 de zile</small>
+		Durată <span class="tooltip" data-tip="Alege o frecvență de plată care ți se potrivește zilnic, lunar, la două sau la trei luni. Cu cât plătești mai rar cu atât economisești mai mult. Ține cont că fiecare plată oferă acces timp de 30 de zile"></span><br><small>%d de zile</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

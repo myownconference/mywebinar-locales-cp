@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Duração <span class="tooltip" data-tip="Escolha a frequência de pagamento que for melhor para você diariamente, mensalmente, a cada dois meses ou a cada três. Quanto menos vezes pagar mais economiza. Lembre-se de que cada pagamento garante acesso por 30 dias"></span><br><small>30 dias</small>
+		Duração <span class="tooltip" data-tip="Escolha a frequência de pagamento que for melhor para você diariamente, mensalmente, a cada dois meses ou a cada três. Quanto menos vezes pagar mais economiza. Lembre-se de que cada pagamento garante acesso por 30 dias"></span><br><small>%d dias</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Duração <span class="tooltip" data-tip="Escolha a frequência de pagamento que for melhor para você diariamente, mensalmente, a cada dois meses ou a cada três. Quanto menos vezes pagar mais economiza. Lembre-se de que cada pagamento garante acesso por 30 dias"></span><br><small>30 dias</small>
+		Duração <span class="tooltip" data-tip="Escolha a frequência de pagamento que for melhor para você diariamente, mensalmente, a cada dois meses ou a cada três. Quanto menos vezes pagar mais economiza. Lembre-se de que cada pagamento garante acesso por 30 dias"></span><br><small>%d dias</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

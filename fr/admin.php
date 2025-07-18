@@ -1708,13 +1708,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Durée <span class="tooltip" data-tip="Choisissez une fréquence de paiement qui vous convient quotidienne, mensuelle, tous les deux mois ou tous les trois. Moins vous payez souvent plus vous économisez. Gardez à l’esprit que chaque paiement donne accès pour 30 jours"></span><br><small>30 jours</small>
+		Durée <span class="tooltip" data-tip="Choisissez une fréquence de paiement qui vous convient quotidienne, mensuelle, tous les deux mois ou tous les trois. Moins vous payez souvent plus vous économisez. Gardez à l’esprit que chaque paiement donne accès pour 30 jours"></span><br><small>%d jours</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Durée <span class="tooltip" data-tip="Choisissez une fréquence de paiement qui vous convient quotidienne, mensuelle, tous les deux mois ou tous les trois. Moins vous payez souvent plus vous économisez. Gardez à l’esprit que chaque paiement donne accès pour 30 jours"></span><br><small>30 jours</small>
+		Durée <span class="tooltip" data-tip="Choisissez une fréquence de paiement qui vous convient quotidienne, mensuelle, tous les deux mois ou tous les trois. Moins vous payez souvent plus vous économisez. Gardez à l’esprit que chaque paiement donne accès pour 30 jours"></span><br><small>%d jours</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Doba trvání <span class="tooltip" data-tip="Zvolte si frekvenci plateb která vám vyhovuje denní, měsíční, každé dva měsíce nebo každé tři. Čím méně často platíte tím více ušetříte. Pamatujte že každá platba poskytuje přístup na 30 dní"></span><br><small>30 dní</small>
+		Doba trvání <span class="tooltip" data-tip="Zvolte si frekvenci plateb která vám vyhovuje denní, měsíční, každé dva měsíce nebo každé tři. Čím méně často platíte tím více ušetříte. Pamatujte že každá platba poskytuje přístup na 30 dní"></span><br><small>%d dní</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Doba trvání <span class="tooltip" data-tip="Zvolte si frekvenci plateb která vám vyhovuje denní, měsíční, každé dva měsíce nebo každé tři. Čím méně často platíte tím více ušetříte. Pamatujte že každá platba poskytuje přístup na 30 dní"></span><br><small>30 dní</small>
+		Doba trvání <span class="tooltip" data-tip="Zvolte si frekvenci plateb která vám vyhovuje denní, měsíční, každé dva měsíce nebo každé tři. Čím méně často platíte tím více ušetříte. Pamatujte že každá platba poskytuje přístup na 30 dní"></span><br><small>%d dní</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

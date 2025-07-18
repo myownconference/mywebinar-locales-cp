@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Duration <span class="tooltip" data-tip="Choose a payment frequency that works for you—daily, monthly, every two months, or every three. The less often you pay, the more you save. Keep in mind that each payment gives you access for 30 days"></span><br><small>30 days</small>
+		Duration <span class="tooltip" data-tip="Choose a payment frequency that works for you—daily, monthly, every two months, or every three. The less often you pay, the more you save. Keep in mind that each payment gives you access for 30 days"></span><br><small>%d days</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Duration <span class="tooltip" data-tip="Choose a payment frequency that works for you—daily, monthly, every two months, or every three. The less often you pay, the more you save. Keep in mind that each payment gives you access for 30 days"></span><br><small>30 days</small>
+		Duration <span class="tooltip" data-tip="Choose a payment frequency that works for you—daily, monthly, every two months, or every three. The less often you pay, the more you save. Keep in mind that each payment gives you access for 30 days"></span><br><small>%d days</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

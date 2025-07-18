@@ -1708,13 +1708,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Durée <span class="tooltip" data-tip="Choisissez une fréquence de paiement qui vous convient quotidienne, mensuelle, tous les deux mois ou tous les trois. Moins vous payez souvent plus vous économisez. Gardez à l’esprit que chaque paiement donne accès pour 30 jours"></span><br><small>30 jours</small>
+		Durée <span class="tooltip" data-tip="Choisissez une fréquence de paiement qui vous convient le mieux. Vous pouvez payer chaque jour chaque mois tous les deux mois tous les trois mois tous les six mois ou une fois par an. Moins vous payez souvent plus vous économisez. Veuillez noter que notre cycle de facturation est de trente jours pour un plan mensuel soixante jours pour un plan bimensuel quatre-vingt-dix jours pour un plan trimestriel cent quatre-vingts jours pour un plan semestriel et il continue dʼaugmenter proportionnellement pour des périodes plus longues"></span><br><small>30 jours</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Durée <span class="tooltip" data-tip="Choisissez une fréquence de paiement qui vous convient quotidienne, mensuelle, tous les deux mois ou tous les trois. Moins vous payez souvent plus vous économisez. Gardez à l’esprit que chaque paiement donne accès pour 30 jours"></span><br><small>30 jours</small>
+		Durée <span class="tooltip" data-tip="Choisissez une fréquence de paiement qui vous convient le mieux. Vous pouvez payer chaque jour chaque mois tous les deux mois tous les trois mois tous les six mois ou une fois par an. Moins vous payez souvent plus vous économisez. Veuillez noter que notre cycle de facturation est de trente jours pour un plan mensuel soixante jours pour un plan bimensuel quatre-vingt-dix jours pour un plan trimestriel cent quatre-vingts jours pour un plan semestriel et il continue dʼaugmenter proportionnellement pour des périodes plus longues"></span><br><small>30 jours</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

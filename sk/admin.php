@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Trvanie <span class="tooltip" data-tip="Zvoľ si frekvenciu platby ktorá ti vyhovuje denne, mesačne, každé dva mesiace alebo každé tri. Čím menej často platíš tým viac ušetríš. Nezabudni že každá platba poskytuje prístup na 30 dní"></span><br><small>30 dní</small>
+		Trvanie <span class="tooltip" data-tip="Vyberte si frekvenciu platby ktorá vám najviac vyhovuje. Môžete platiť denne mesačne každé dva mesiace každé tri mesiace každých šesť mesiacov alebo raz za rok. Čím menej často platíte tým viac ušetríte. Upozorňujeme že náš fakturačný cyklus je tridsať dní pre mesačný plán šesťdesiat dní pre dvojmesačný plán deväťdesiat dní pre trojmesačný plán stodvadsať dní pre šesťmesačný plán a pri dlhších obdobiach sa úmerne predlžuje"></span><br><small>30 dní</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Trvanie <span class="tooltip" data-tip="Zvoľ si frekvenciu platby ktorá ti vyhovuje denne, mesačne, každé dva mesiace alebo každé tri. Čím menej často platíš tým viac ušetríš. Nezabudni že každá platba poskytuje prístup na 30 dní"></span><br><small>30 dní</small>
+		Trvanie <span class="tooltip" data-tip="Vyberte si frekvenciu platby ktorá vám najviac vyhovuje. Môžete platiť denne mesačne každé dva mesiace každé tri mesiace každých šesť mesiacov alebo raz za rok. Čím menej často platíte tým viac ušetríte. Upozorňujeme že náš fakturačný cyklus je tridsať dní pre mesačný plán šesťdesiat dní pre dvojmesačný plán deväťdesiat dní pre trojmesačný plán stodvadsať dní pre šesťmesačný plán a pri dlhších obdobiach sa úmerne predlžuje"></span><br><small>30 dní</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

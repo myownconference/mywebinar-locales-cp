@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ilgums <span class="tooltip" data-tip="Izvēlies maksājuma biežumu kas tev ir ērts katru dienu, katru mēnesi, reizi divos mēnešos vai reizi trīs mēnešos. Jo retāk maksāsi jo vairāk ietaupīsi. Ņem vērā ka katrs maksājums dod piekļuvi uz 30 dienām"></span><br><small>30 dienas</small>
+		Ilgums <span class="tooltip" data-tip="Izvēlieties maksājumu biežumu kas jums vislabāk atbilst. Jūs varat maksāt katru dienu katru mēnesi ik pēc diviem mēnešiem ik pēc trim mēnešiem ik pēc sešiem mēnešiem vai reizi gadā. Jo retāk maksājat jo vairāk ietaupāt. Lūdzu ņemiet vērā ka mūsu norēķinu cikls ir trīsdesmit dienas mēneša plānam sešdesmit dienas divu mēnešu plānam deviņdesmit dienas trīs mēnešu plānam simts astoņdesmit dienas sešu mēnešu plānam un garākiem termiņiem tas proporcionāli palielinās"></span><br><small>30 dienas</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ilgums <span class="tooltip" data-tip="Izvēlies maksājuma biežumu kas tev ir ērts katru dienu, katru mēnesi, reizi divos mēnešos vai reizi trīs mēnešos. Jo retāk maksāsi jo vairāk ietaupīsi. Ņem vērā ka katrs maksājums dod piekļuvi uz 30 dienām"></span><br><small>30 dienas</small>
+		Ilgums <span class="tooltip" data-tip="Izvēlieties maksājumu biežumu kas jums vislabāk atbilst. Jūs varat maksāt katru dienu katru mēnesi ik pēc diviem mēnešiem ik pēc trim mēnešiem ik pēc sešiem mēnešiem vai reizi gadā. Jo retāk maksājat jo vairāk ietaupāt. Lūdzu ņemiet vērā ka mūsu norēķinu cikls ir trīsdesmit dienas mēneša plānam sešdesmit dienas divu mēnešu plānam deviņdesmit dienas trīs mēnešu plānam simts astoņdesmit dienas sešu mēnešu plānam un garākiem termiņiem tas proporcionāli palielinās"></span><br><small>30 dienas</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Duración <span class="tooltip" data-tip="Elige la frecuencia de pago que mejor se adapte a ti diaria, mensual, cada dos meses o cada tres. Cuanto menos frecuentes sean los pagos más ahorrarás. Ten en cuenta que cada pago te da acceso por 30 días"></span><br><small>30 días</small>
+		Duración <span class="tooltip" data-tip="Elige la frecuencia de pago que mejor se adapte a ti. Puedes pagar a diario mensualmente cada dos meses cada tres meses cada seis meses o una vez al año. Cuanto menos a menudo pagues más ahorras. Ten en cuenta que nuestro ciclo de facturación es de treinta días para el plan mensual sesenta días para el plan bimestral noventa días para el plan trimestral ciento ochenta días para el plan semestral y continúa aumentando proporcionalmente para plazos más largos"></span><br><small>30 días</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Duración <span class="tooltip" data-tip="Elige la frecuencia de pago que mejor se adapte a ti diaria, mensual, cada dos meses o cada tres. Cuanto menos frecuentes sean los pagos más ahorrarás. Ten en cuenta que cada pago te da acceso por 30 días"></span><br><small>30 días</small>
+		Duración <span class="tooltip" data-tip="Elige la frecuencia de pago que mejor se adapte a ti. Puedes pagar a diario mensualmente cada dos meses cada tres meses cada seis meses o una vez al año. Cuanto menos a menudo pagues más ahorras. Ten en cuenta que nuestro ciclo de facturación es de treinta días para el plan mensual sesenta días para el plan bimestral noventa días para el plan trimestral ciento ochenta días para el plan semestral y continúa aumentando proporcionalmente para plazos más largos"></span><br><small>30 días</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

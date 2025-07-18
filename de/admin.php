@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Dauer <span class="tooltip" data-tip="Wähle ein Zahlungsintervall das zu dir passt täglich, monatlich, alle zwei Monate oder alle drei. Je seltener du zahlst desto mehr sparst du. Beachte dass jede Zahlung dir 30 Tage Zugang gewährt"></span><br><small>30 Tage</small>
+		Dauer <span class="tooltip" data-tip="Wählen Sie ein Zahlungsintervall das am besten zu Ihnen passt. Sie können täglich monatlich alle zwei Monate alle drei Monate alle sechs Monate oder einmal im Jahr zahlen. Je seltener Sie zahlen desto mehr sparen Sie. Bitte beachten Sie dass unser Abrechnungszeitraum dreißig Tage für den monatlichen Plan sechzig Tage für den Zweimonatsplan neunzig Tage für den Dreimonatsplan einhundertachtzig Tage für den Sechsmonatsplan beträgt und sich für längere Laufzeiten proportional verlängert"></span><br><small>30 Tage</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Dauer <span class="tooltip" data-tip="Wähle ein Zahlungsintervall das zu dir passt täglich, monatlich, alle zwei Monate oder alle drei. Je seltener du zahlst desto mehr sparst du. Beachte dass jede Zahlung dir 30 Tage Zugang gewährt"></span><br><small>30 Tage</small>
+		Dauer <span class="tooltip" data-tip="Wählen Sie ein Zahlungsintervall das am besten zu Ihnen passt. Sie können täglich monatlich alle zwei Monate alle drei Monate alle sechs Monate oder einmal im Jahr zahlen. Je seltener Sie zahlen desto mehr sparen Sie. Bitte beachten Sie dass unser Abrechnungszeitraum dreißig Tage für den monatlichen Plan sechzig Tage für den Zweimonatsplan neunzig Tage für den Dreimonatsplan einhundertachtzig Tage für den Sechsmonatsplan beträgt und sich für längere Laufzeiten proportional verlängert"></span><br><small>30 Tage</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

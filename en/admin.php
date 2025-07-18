@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Duration <span class="tooltip" data-tip="Choose a payment frequency that works for you—daily, monthly, every two months, or every three. The less often you pay, the more you save. Keep in mind that each payment gives you access for 30 days"></span><br><small>30 days</small>
+		Duration <span class="tooltip" data-tip="Choose a payment frequency that works best for you. You can pay daily, monthly, every two months, every three months, every six months, or once a year. The less often you pay, the more you save. Please note that our billing cycle is thirty days for a monthly plan, sixty days for a two-month plan, ninety days for a three-month plan, one hundred eighty days for a six-month plan, and it continues to increase proportionally for longer terms"></span><br><small>30 days</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Duration <span class="tooltip" data-tip="Choose a payment frequency that works for you—daily, monthly, every two months, or every three. The less often you pay, the more you save. Keep in mind that each payment gives you access for 30 days"></span><br><small>30 days</small>
+		Duration <span class="tooltip" data-tip="Choose a payment frequency that works best for you. You can pay daily, monthly, every two months, every three months, every six months, or once a year. The less often you pay, the more you save. Please note that our billing cycle is thirty days for a monthly plan, sixty days for a two-month plan, ninety days for a three-month plan, one hundred eighty days for a six-month plan, and it continues to increase proportionally for longer terms"></span><br><small>30 days</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Időtartam <span class="tooltip" data-tip="Válassz olyan fizetési gyakoriságot ami neked megfelelő napi, havi, kéthavi vagy háromhavi. Minél ritkábban fizetsz annál többet spórolsz. Ne feledd hogy minden befizetés 30 napos hozzáférést biztosít"></span><br><small>30 nap</small>
+		Időtartam <span class="tooltip" data-tip="Válassza ki azt a fizetési gyakoriságot amely a legjobban megfelel önnek. Fizethet naponta havonta kéthavonta háromhavonta hathavonta vagy évente egyszer. Minél ritkábban fizet annál többet takarít meg. Felhívjuk figyelmét hogy a számlázási ciklusunk harminc nap a havi csomagnál hatvan nap a kéthavi csomagnál kilencven nap a háromhavi csomagnál száznyolcvan nap a hathavi csomagnál és hosszabb időszakok esetén arányosan nő"></span><br><small>30 nap</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Időtartam <span class="tooltip" data-tip="Válassz olyan fizetési gyakoriságot ami neked megfelelő napi, havi, kéthavi vagy háromhavi. Minél ritkábban fizetsz annál többet spórolsz. Ne feledd hogy minden befizetés 30 napos hozzáférést biztosít"></span><br><small>30 nap</small>
+		Időtartam <span class="tooltip" data-tip="Válassza ki azt a fizetési gyakoriságot amely a legjobban megfelel önnek. Fizethet naponta havonta kéthavonta háromhavonta hathavonta vagy évente egyszer. Minél ritkábban fizet annál többet takarít meg. Felhívjuk figyelmét hogy a számlázási ciklusunk harminc nap a havi csomagnál hatvan nap a kéthavi csomagnál kilencven nap a háromhavi csomagnál száznyolcvan nap a hathavi csomagnál és hosszabb időszakok esetén arányosan nő"></span><br><small>30 nap</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

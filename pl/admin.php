@@ -1708,13 +1708,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Czas trwania <span class="tooltip" data-tip="Wybierz częstotliwość płatności odpowiednią dla ciebie codziennie, co miesiąc, co dwa lub co trzy miesiące. Im rzadziej płacisz tym więcej oszczędzasz. Pamiętaj że każda płatność daje dostęp na 30 dni"></span><br><small>30 dni</small>
+		Czas trwania <span class="tooltip" data-tip="Wybierz częstotliwość płatności która najbardziej ci odpowiada. Możesz płacić codziennie miesięcznie co dwa miesiące co trzy miesiące co sześć miesięcy lub raz w roku. Im rzadziej płacisz tym więcej oszczędzasz. Zwróć uwagę że nasz cykl rozliczeniowy to trzydzieści dni dla planu miesięcznego sześćdziesiąt dni dla planu dwumiesięcznego dziewięćdziesiąt dni dla planu trzymiesięcznego sto osiemdziesiąt dni dla planu sześciomiesięcznego i proporcjonalnie wzrasta dla dłuższych okresów"></span><br><small>30 dni</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Czas trwania <span class="tooltip" data-tip="Wybierz częstotliwość płatności odpowiednią dla ciebie codziennie, co miesiąc, co dwa lub co trzy miesiące. Im rzadziej płacisz tym więcej oszczędzasz. Pamiętaj że każda płatność daje dostęp na 30 dni"></span><br><small>30 dni</small>
+		Czas trwania <span class="tooltip" data-tip="Wybierz częstotliwość płatności która najbardziej ci odpowiada. Możesz płacić codziennie miesięcznie co dwa miesiące co trzy miesiące co sześć miesięcy lub raz w roku. Im rzadziej płacisz tym więcej oszczędzasz. Zwróć uwagę że nasz cykl rozliczeniowy to trzydzieści dni dla planu miesięcznego sześćdziesiąt dni dla planu dwumiesięcznego dziewięćdziesiąt dni dla planu trzymiesięcznego sto osiemdziesiąt dni dla planu sześciomiesięcznego i proporcjonalnie wzrasta dla dłuższych okresów"></span><br><small>30 dni</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

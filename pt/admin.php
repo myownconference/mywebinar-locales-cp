@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Duração <span class="tooltip" data-tip="Escolha a frequência de pagamento que for melhor para você diariamente, mensalmente, a cada dois meses ou a cada três. Quanto menos vezes pagar mais economiza. Lembre-se de que cada pagamento garante acesso por 30 dias"></span><br><small>30 dias</small>
+		Duração <span class="tooltip" data-tip="Escolha a frequência de pagamento que for melhor para você. Você pode pagar diariamente mensalmente a cada dois meses a cada três meses a cada seis meses ou uma vez por ano. Quanto menos frequentemente você pagar mais economiza. Observe que nosso ciclo de cobrança é de trinta dias para o plano mensal sessenta dias para o plano bimestral noventa dias para o plano trimestral cento e oitenta dias para o plano semestral e continua aumentando proporcionalmente para prazos mais longos"></span><br><small>30 dias</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Duração <span class="tooltip" data-tip="Escolha a frequência de pagamento que for melhor para você diariamente, mensalmente, a cada dois meses ou a cada três. Quanto menos vezes pagar mais economiza. Lembre-se de que cada pagamento garante acesso por 30 dias"></span><br><small>30 dias</small>
+		Duração <span class="tooltip" data-tip="Escolha a frequência de pagamento que for melhor para você. Você pode pagar diariamente mensalmente a cada dois meses a cada três meses a cada seis meses ou uma vez por ano. Quanto menos frequentemente você pagar mais economiza. Observe que nosso ciclo de cobrança é de trinta dias para o plano mensal sessenta dias para o plano bimestral noventa dias para o plano trimestral cento e oitenta dias para o plano semestral e continua aumentando proporcionalmente para prazos mais longos"></span><br><small>30 dias</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

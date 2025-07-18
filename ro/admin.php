@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Perioada de facturare <span class="tooltip" data-tip="Selectează perioada de facturare pe care o preferi—1 lună, 2 luni, 3 luni, etc. Cu cât perioada de facturare este mai lungă, cu atât discountul este mai mare"></span>
+		Durată <span class="tooltip" data-tip="Alege o frecvență de plată care ți se potrivește zilnic, lunar, la două sau la trei luni. Cu cât plătești mai rar cu atât economisești mai mult. Ține cont că fiecare plată oferă acces timp de 30 de zile"></span><small>30 de zile</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Perioada de facturare <span class="tooltip" data-tip="Selectează perioada de facturare pe care o preferi—1 lună, 2 luni, 3 luni, etc. Cu cât perioada de facturare este mai lungă, cu atât discountul este mai mare"></span>
+		Durată <span class="tooltip" data-tip="Alege o frecvență de plată care ți se potrivește zilnic, lunar, la două sau la trei luni. Cu cât plătești mai rar cu atât economisești mai mult. Ține cont că fiecare plată oferă acces timp de 30 de zile"></span><small>30 de zile</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

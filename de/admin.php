@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Abrechnungszeitraum <span class="tooltip" data-tip="Wählen Sie den bevorzugten Abrechnungszeitraum – 1 Monat, 2 Monate, 3 Monate usw. Je länger der Abrechnungszeitraum, desto höher ist der gewährte Rabatt"></span>
+		Dauer <span class="tooltip" data-tip="Wähle ein Zahlungsintervall das zu dir passt täglich, monatlich, alle zwei Monate oder alle drei. Je seltener du zahlst desto mehr sparst du. Beachte dass jede Zahlung dir 30 Tage Zugang gewährt"></span><small>30 Tage</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Abrechnungszeitraum <span class="tooltip" data-tip="Wählen Sie den bevorzugten Abrechnungszeitraum – 1 Monat, 2 Monate, 3 Monate usw. Je länger der Abrechnungszeitraum, desto höher ist der gewährte Rabatt"></span>
+		Dauer <span class="tooltip" data-tip="Wähle ein Zahlungsintervall das zu dir passt täglich, monatlich, alle zwei Monate oder alle drei. Je seltener du zahlst desto mehr sparst du. Beachte dass jede Zahlung dir 30 Tage Zugang gewährt"></span><small>30 Tage</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

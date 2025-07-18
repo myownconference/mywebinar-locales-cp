@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Arveldusperiood <span class="tooltip" data-tip="Vali sobiv arveldusperiood — 1 kuu, 2 kuud, 3 kuud jne. Mida pikem periood, seda suurem allahindlus"></span>
+		Kestus <span class="tooltip" data-tip="Vali maksesagedus mis sulle sobib iga päev, kord kuus, iga kahe kuu tagant või iga kolme kuu tagant. Mida harvem maksad seda rohkem säästad. Pea meeles et iga makse annab ligipääsu 30 päevaks"></span><small>30 päeva</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Arveldusperiood <span class="tooltip" data-tip="Vali sobiv arveldusperiood — 1 kuu, 2 kuud, 3 kuud jne. Mida pikem periood, seda suurem allahindlus"></span>
+		Kestus <span class="tooltip" data-tip="Vali maksesagedus mis sulle sobib iga päev, kord kuus, iga kahe kuu tagant või iga kolme kuu tagant. Mida harvem maksad seda rohkem säästad. Pea meeles et iga makse annab ligipääsu 30 päevaks"></span><small>30 päeva</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

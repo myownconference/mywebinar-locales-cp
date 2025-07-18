@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Obračunsko obdobje <span class="tooltip" data-tip="Izberite želeno obračunsko obdobje — 1 mesec, 2 meseca, 3 mesece itd. Daljše obdobje prinaša večji popust"></span>
+		Trajanje <span class="tooltip" data-tip="Izberi pogostost plačila ki ti ustreza dnevno, mesečno, na vsaka dva meseca ali na vsake tri. Manj pogosto kot plačuješ več prihraniš. Upoštevaj da vsako plačilo omogoča dostop za 30 dni"></span><small>30 dni</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Obračunsko obdobje <span class="tooltip" data-tip="Izberite želeno obračunsko obdobje — 1 mesec, 2 meseca, 3 mesece itd. Daljše obdobje prinaša večji popust"></span>
+		Trajanje <span class="tooltip" data-tip="Izberi pogostost plačila ki ti ustreza dnevno, mesečno, na vsaka dva meseca ali na vsake tri. Manj pogosto kot plačuješ več prihraniš. Upoštevaj da vsako plačilo omogoča dostop za 30 dni"></span><small>30 dni</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

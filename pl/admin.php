@@ -1708,13 +1708,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Okres rozliczeniowy <span class="tooltip" data-tip="Wybierz preferowany okres rozliczeniowy – 1 miesiąc, 2 miesiące, 3 miesiące itp. Im dłuższy okres rozliczeniowy, tym większy rabat otrzymasz"></span>
+		Czas trwania <span class="tooltip" data-tip="Wybierz częstotliwość płatności odpowiednią dla ciebie codziennie, co miesiąc, co dwa lub co trzy miesiące. Im rzadziej płacisz tym więcej oszczędzasz. Pamiętaj że każda płatność daje dostęp na 30 dni"></span><small>30 dni</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Okres rozliczeniowy <span class="tooltip" data-tip="Wybierz preferowany okres rozliczeniowy – 1 miesiąc, 2 miesiące, 3 miesiące itp. Im dłuższy okres rozliczeniowy, tym większy rabat otrzymasz"></span>
+		Czas trwania <span class="tooltip" data-tip="Wybierz częstotliwość płatności odpowiednią dla ciebie codziennie, co miesiąc, co dwa lub co trzy miesiące. Im rzadziej płacisz tym więcej oszczędzasz. Pamiętaj że każda płatność daje dostęp na 30 dni"></span><small>30 dni</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

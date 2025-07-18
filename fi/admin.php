@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Laskutusjakso <span class="tooltip" data-tip="Valitse haluamasi laskutusjakso — 1 kuukausi, 2 kuukautta, 3 kuukautta jne. Mitä pidempi jakso, sitä suurempi alennus"></span>
+		Kesto <span class="tooltip" data-tip="Valitse sinulle sopiva maksutiheys päivittäin, kuukausittain, kahden kuukauden välein tai kolmen kuukauden välein. Mitä harvemmin maksat sitä enemmän säästät. Muista että jokainen maksu antaa käyttöoikeuden 30 päiväksi"></span><small>30 päivää</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Laskutusjakso <span class="tooltip" data-tip="Valitse haluamasi laskutusjakso — 1 kuukausi, 2 kuukautta, 3 kuukautta jne. Mitä pidempi jakso, sitä suurempi alennus"></span>
+		Kesto <span class="tooltip" data-tip="Valitse sinulle sopiva maksutiheys päivittäin, kuukausittain, kahden kuukauden välein tai kolmen kuukauden välein. Mitä harvemmin maksat sitä enemmän säästät. Muista että jokainen maksu antaa käyttöoikeuden 30 päiväksi"></span><small>30 päivää</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

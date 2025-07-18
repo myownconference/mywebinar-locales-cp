@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Billing period <span class="tooltip" data-tip="Select the billing period you prefer—1 month, 2 months, 3 months, etc. The longer the billing period, the greater the discount you receive"></span>
+		Duração <span class="tooltip" data-tip="Escolha uma frequência de pagamento que funcione para você diária, mensal, a cada dois meses ou a cada três. Quanto menos vezes pagar mais você economiza. Lembre-se de que cada pagamento garante acesso por 30 dias"></span><small>30 dias</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Billing period <span class="tooltip" data-tip="Select the billing period you prefer—1 month, 2 months, 3 months, etc. The longer the billing period, the greater the discount you receive"></span>
+		Duração <span class="tooltip" data-tip="Escolha uma frequência de pagamento que funcione para você diária, mensal, a cada dois meses ou a cada três. Quanto menos vezes pagar mais você economiza. Lembre-se de que cada pagamento garante acesso por 30 dias"></span><small>30 dias</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

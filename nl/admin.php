@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Factureringsperiode <span class="tooltip" data-tip="Kies de gewenste factureringsperiode—1 maand, 2 maanden, 3 maanden enzovoort. Hoe langer de periode, hoe hoger de korting"></span>
+		Duur <span class="tooltip" data-tip="Kies een betalingsfrequentie die bij je past dagelijks, maandelijks, om de twee maanden of om de drie. Hoe minder vaak je betaalt hoe meer je bespaart. Houd er rekening mee dat elke betaling toegang geeft voor 30 dagen"></span><small>30 dagen</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Factureringsperiode <span class="tooltip" data-tip="Kies de gewenste factureringsperiode—1 maand, 2 maanden, 3 maanden enzovoort. Hoe langer de periode, hoe hoger de korting"></span>
+		Duur <span class="tooltip" data-tip="Kies een betalingsfrequentie die bij je past dagelijks, maandelijks, om de twee maanden of om de drie. Hoe minder vaak je betaalt hoe meer je bespaart. Houd er rekening mee dat elke betaling toegang geeft voor 30 dagen"></span><small>30 dagen</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

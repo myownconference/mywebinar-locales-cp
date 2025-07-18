@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Apmokėjimo laikotarpis <span class="tooltip" data-tip="Pasirinkite pageidaujamą mokėjimo laikotarpį – 1 mėnuo, 2 mėnesiai, 3 mėnesiai ir t. t. Kuo ilgesnis laikotarpis, tuo didesnė nuolaida"></span>
+		Trukmė <span class="tooltip" data-tip="Pasirink mokėjimo dažnumą kuris tau patogiausias kasdien, kas mėnesį, kas du mėnesius arba kas tris. Kuo rečiau moki tuo daugiau sutaupai. Atmink kad kiekvienas mokėjimas suteikia prieigą 30 dienų"></span><small>30 dienų</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Apmokėjimo laikotarpis <span class="tooltip" data-tip="Pasirinkite pageidaujamą mokėjimo laikotarpį – 1 mėnuo, 2 mėnesiai, 3 mėnesiai ir t. t. Kuo ilgesnis laikotarpis, tuo didesnė nuolaida"></span>
+		Trukmė <span class="tooltip" data-tip="Pasirink mokėjimo dažnumą kuris tau patogiausias kasdien, kas mėnesį, kas du mėnesius arba kas tris. Kuo rečiau moki tuo daugiau sutaupai. Atmink kad kiekvienas mokėjimas suteikia prieigą 30 dienų"></span><small>30 dienų</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

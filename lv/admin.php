@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Maksājumu periods <span class="tooltip" data-tip="Izvēlieties vēlamo maksājumu periodu — 1 mēnesis, 2 mēneši, 3 mēneši utt. Jo ilgāks periods, jo lielāka atlaide"></span>
+		Ilgums <span class="tooltip" data-tip="Izvēlies maksājuma biežumu kas tev ir ērts katru dienu, katru mēnesi, reizi divos mēnešos vai reizi trīs mēnešos. Jo retāk maksāsi jo vairāk ietaupīsi. Ņem vērā ka katrs maksājums dod piekļuvi uz 30 dienām"></span><small>30 dienas</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Maksājumu periods <span class="tooltip" data-tip="Izvēlieties vēlamo maksājumu periodu — 1 mēnesis, 2 mēneši, 3 mēneši utt. Jo ilgāks periods, jo lielāka atlaide"></span>
+		Ilgums <span class="tooltip" data-tip="Izvēlies maksājuma biežumu kas tev ir ērts katru dienu, katru mēnesi, reizi divos mēnešos vai reizi trīs mēnešos. Jo retāk maksāsi jo vairāk ietaupīsi. Ņem vērā ka katrs maksājums dod piekļuvi uz 30 dienām"></span><small>30 dienas</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

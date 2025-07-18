@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Számlázási időszak <span class="tooltip" data-tip="Válassza ki a kívánt számlázási időszakot – 1 hónap, 2 hónap, 3 hónap stb. Minél hosszabb a számlázási időszak, annál nagyobb kedvezményt kap"></span>
+		Időtartam <span class="tooltip" data-tip="Válassz olyan fizetési gyakoriságot ami neked megfelelő napi, havi, kéthavi vagy háromhavi. Minél ritkábban fizetsz annál többet spórolsz. Ne feledd hogy minden befizetés 30 napos hozzáférést biztosít"></span><small>30 nap</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Számlázási időszak <span class="tooltip" data-tip="Válassza ki a kívánt számlázási időszakot – 1 hónap, 2 hónap, 3 hónap stb. Minél hosszabb a számlázási időszak, annál nagyobb kedvezményt kap"></span>
+		Időtartam <span class="tooltip" data-tip="Válassz olyan fizetési gyakoriságot ami neked megfelelő napi, havi, kéthavi vagy háromhavi. Minél ritkábban fizetsz annál többet spórolsz. Ne feledd hogy minden befizetés 30 napos hozzáférést biztosít"></span><small>30 nap</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

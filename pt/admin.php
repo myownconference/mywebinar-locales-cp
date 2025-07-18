@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Período de cobrança <span class="tooltip" data-tip="Selecione o período de cobrança que preferir — 1 mês, 2 meses, 3 meses etc. Quanto maior o período, maior o desconto aplicado"></span>
+		Duração <span class="tooltip" data-tip="Escolha a frequência de pagamento que for melhor para você diariamente, mensalmente, a cada dois meses ou a cada três. Quanto menos vezes pagar mais economiza. Lembre-se de que cada pagamento garante acesso por 30 dias"></span><small>30 dias</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Período de cobrança <span class="tooltip" data-tip="Selecione o período de cobrança que preferir — 1 mês, 2 meses, 3 meses etc. Quanto maior o período, maior o desconto aplicado"></span>
+		Duração <span class="tooltip" data-tip="Escolha a frequência de pagamento que for melhor para você diariamente, mensalmente, a cada dois meses ou a cada três. Quanto menos vezes pagar mais economiza. Lembre-se de que cada pagamento garante acesso por 30 dias"></span><small>30 dias</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

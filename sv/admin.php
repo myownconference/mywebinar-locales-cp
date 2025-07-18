@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Faktureringsperiod <span class="tooltip" data-tip="Välj önskad faktureringsperiod – 1 månad, 2 månader, 3 månader osv. Ju längre period du väljer, desto större rabatt får du"></span>
+		Varaktighet <span class="tooltip" data-tip="Välj en betalningsfrekvens som passar dig dagligen, månadsvis, varannan månad eller var tredje. Ju mer sällan du betalar desto mer sparar du. Kom ihåg att varje betalning ger tillgång i 30 dagar"></span><small>30 dagar</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Faktureringsperiod <span class="tooltip" data-tip="Välj önskad faktureringsperiod – 1 månad, 2 månader, 3 månader osv. Ju längre period du väljer, desto större rabatt får du"></span>
+		Varaktighet <span class="tooltip" data-tip="Välj en betalningsfrekvens som passar dig dagligen, månadsvis, varannan månad eller var tredje. Ju mer sällan du betalar desto mer sparar du. Kom ihåg att varje betalning ger tillgång i 30 dagar"></span><small>30 dagar</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

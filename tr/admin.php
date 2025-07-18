@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Fatura dönemi <span class="tooltip" data-tip="Tercih ettiğiniz fatura dönemini seçin—1 ay, 2 ay, 3 ay, vb. Fatura dönemi ne kadar uzun olursa, o kadar fazla indirim alırsınız"></span>
+		Süre <span class="tooltip" data-tip="Senin için uygun olan bir ödeme sıklığını seç günlük, aylık, iki ayda bir veya üç ayda bir. Daha az sıklıkta ödeme yaparsan daha fazla tasarruf edersin. Her ödemenin 30 gün erişim sağladığını unutma"></span><small>30 gün</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Fatura dönemi <span class="tooltip" data-tip="Tercih ettiğiniz fatura dönemini seçin—1 ay, 2 ay, 3 ay, vb. Fatura dönemi ne kadar uzun olursa, o kadar fazla indirim alırsınız"></span>
+		Süre <span class="tooltip" data-tip="Senin için uygun olan bir ödeme sıklığını seç günlük, aylık, iki ayda bir veya üç ayda bir. Daha az sıklıkta ödeme yaparsan daha fazla tasarruf edersin. Her ödemenin 30 gün erişim sağladığını unutma"></span><small>30 gün</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

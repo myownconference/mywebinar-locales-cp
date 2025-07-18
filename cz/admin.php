@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Fakturační období <span class="tooltip" data-tip="Zvolte preferované fakturační období – 1 měsíc, 2 měsíce, 3 měsíce atd. Čím delší období, tím větší sleva"></span>
+		Doba trvání <span class="tooltip" data-tip="Zvolte si frekvenci plateb která vám vyhovuje denní, měsíční, každé dva měsíce nebo každé tři. Čím méně často platíte tím více ušetříte. Pamatujte že každá platba poskytuje přístup na 30 dní"></span><small>30 dní</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Fakturační období <span class="tooltip" data-tip="Zvolte preferované fakturační období – 1 měsíc, 2 měsíce, 3 měsíce atd. Čím delší období, tím větší sleva"></span>
+		Doba trvání <span class="tooltip" data-tip="Zvolte si frekvenci plateb která vám vyhovuje denní, měsíční, každé dva měsíce nebo každé tři. Čím méně často platíte tím více ušetříte. Pamatujte že každá platba poskytuje přístup na 30 dní"></span><small>30 dní</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

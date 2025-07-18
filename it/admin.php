@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Periodo di fatturazione <span class="tooltip" data-tip="Seleziona il periodo di fatturazione che preferisci: 1 mese, 2 mesi, 3 mesi, ecc. Più lungo è il periodo di fatturazione, maggiore è lo sconto che ricevi"></span>
+		Durata <span class="tooltip" data-tip="Scegli la frequenza di pagamento che preferisci giornaliera, mensile, ogni due mesi o ogni tre. Meno spesso paghi più risparmi. Ricorda che ogni pagamento ti dà accesso per 30 giorni"></span><small>30 giorni</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Periodo di fatturazione <span class="tooltip" data-tip="Seleziona il periodo di fatturazione che preferisci: 1 mese, 2 mesi, 3 mesi, ecc. Più lungo è il periodo di fatturazione, maggiore è lo sconto che ricevi"></span>
+		Durata <span class="tooltip" data-tip="Scegli la frequenza di pagamento che preferisci giornaliera, mensile, ogni due mesi o ogni tre. Meno spesso paghi più risparmi. Ricorda che ogni pagamento ti dà accesso per 30 giorni"></span><small>30 giorni</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

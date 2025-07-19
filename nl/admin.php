@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Duur <span class="tooltip" data-tip="Kies een betalingsfrequentie die bij je past dagelijks, maandelijks, om de twee maanden of om de drie. Hoe minder vaak je betaalt hoe meer je bespaart. Houd er rekening mee dat elke betaling toegang geeft voor 30 dagen"></span><br><small>%d dagen</small>
+		Duur <span class="tooltip" data-tip="Kies een betalingsfrequentie die het beste bij je past. Je kunt dagelijks maandelijks elke twee maanden elke drie maanden elke zes maanden of eenmaal per jaar betalen. Hoe minder vaak je betaalt hoe meer je bespaart. Houd er rekening mee dat onze factureringscyclus dertig dagen is voor een maandelijks plan zestig dagen voor een twee maanden plan negentig dagen voor een drie maanden plan honderd tachtig dagen voor een zes maanden plan en dat deze proportioneel toeneemt voor langere termijnen"></span><br><small>%d dagen</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Duur <span class="tooltip" data-tip="Kies een betalingsfrequentie die bij je past dagelijks, maandelijks, om de twee maanden of om de drie. Hoe minder vaak je betaalt hoe meer je bespaart. Houd er rekening mee dat elke betaling toegang geeft voor 30 dagen"></span><br><small>%d dagen</small>
+		Duur <span class="tooltip" data-tip="Kies een betalingsfrequentie die het beste bij je past. Je kunt dagelijks maandelijks elke twee maanden elke drie maanden elke zes maanden of eenmaal per jaar betalen. Hoe minder vaak je betaalt hoe meer je bespaart. Houd er rekening mee dat onze factureringscyclus dertig dagen is voor een maandelijks plan zestig dagen voor een twee maanden plan negentig dagen voor een drie maanden plan honderd tachtig dagen voor een zes maanden plan en dat deze proportioneel toeneemt voor langere termijnen"></span><br><small>%d dagen</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

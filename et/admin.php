@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kestus <span class="tooltip" data-tip="Vali maksesagedus mis sulle sobib iga päev, kord kuus, iga kahe kuu tagant või iga kolme kuu tagant. Mida harvem maksad seda rohkem säästad. Pea meeles et iga makse annab ligipääsu 30 päevaks"></span><br><small>%d päeva</small>
+		Kestus <span class="tooltip" data-tip="Vali maksesagedus mis sobib sulle kõige paremini. Sa saad maksta iga päev iga kuu iga kahe kuu tagant iga kolme kuu tagant iga kuue kuu tagant või kord aastas. Mida harvem maksad seda rohkem säästad. Pane tähele et meie arveldustsükkel on kolmkümmend päeva kuupõhise plaani puhul kuuskümmend päeva kahekuulise plaani puhul üheksakümmend päeva kolmekuulise plaani puhul sada kaheksakümmend päeva kuuekuulise plaani puhul ning see suureneb pikemate perioodide korral proportsionaalselt"></span><br><small>%d päeva</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kestus <span class="tooltip" data-tip="Vali maksesagedus mis sulle sobib iga päev, kord kuus, iga kahe kuu tagant või iga kolme kuu tagant. Mida harvem maksad seda rohkem säästad. Pea meeles et iga makse annab ligipääsu 30 päevaks"></span><br><small>%d päeva</small>
+		Kestus <span class="tooltip" data-tip="Vali maksesagedus mis sobib sulle kõige paremini. Sa saad maksta iga päev iga kuu iga kahe kuu tagant iga kolme kuu tagant iga kuue kuu tagant või kord aastas. Mida harvem maksad seda rohkem säästad. Pane tähele et meie arveldustsükkel on kolmkümmend päeva kuupõhise plaani puhul kuuskümmend päeva kahekuulise plaani puhul üheksakümmend päeva kolmekuulise plaani puhul sada kaheksakümmend päeva kuuekuulise plaani puhul ning see suureneb pikemate perioodide korral proportsionaalselt"></span><br><small>%d päeva</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

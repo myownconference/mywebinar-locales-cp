@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Durată <span class="tooltip" data-tip="Alege o frecvență de plată care ți se potrivește zilnic, lunar, la două sau la trei luni. Cu cât plătești mai rar cu atât economisești mai mult. Ține cont că fiecare plată oferă acces timp de 30 de zile"></span><br><small>%d de zile</small>
+		Durată <span class="tooltip" data-tip="Alege frecvența de plată care ți se potrivește cel mai bine. Poți plăti zilnic lunar o dată la două luni o dată la trei luni o dată la șase luni sau o dată pe an. Cu cât plătești mai rar cu atât economisești mai mult. Reține că ciclul nostru de facturare este de treizeci de zile pentru planul lunar șaizeci de zile pentru planul de două luni nouăzeci de zile pentru planul de trei luni o sută optzeci de zile pentru planul de șase luni și continuă să crească proporțional pentru perioade mai lungi"></span><br><small>%d de zile</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Durată <span class="tooltip" data-tip="Alege o frecvență de plată care ți se potrivește zilnic, lunar, la două sau la trei luni. Cu cât plătești mai rar cu atât economisești mai mult. Ține cont că fiecare plată oferă acces timp de 30 de zile"></span><br><small>%d de zile</small>
+		Durată <span class="tooltip" data-tip="Alege frecvența de plată care ți se potrivește cel mai bine. Poți plăti zilnic lunar o dată la două luni o dată la trei luni o dată la șase luni sau o dată pe an. Cu cât plătești mai rar cu atât economisești mai mult. Reține că ciclul nostru de facturare este de treizeci de zile pentru planul lunar șaizeci de zile pentru planul de două luni nouăzeci de zile pentru planul de trei luni o sută optzeci de zile pentru planul de șase luni și continuă să crească proporțional pentru perioade mai lungi"></span><br><small>%d de zile</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

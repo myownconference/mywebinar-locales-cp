@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kesto <span class="tooltip" data-tip="Valitse sinulle sopiva maksutiheys päivittäin, kuukausittain, kahden kuukauden välein tai kolmen kuukauden välein. Mitä harvemmin maksat sitä enemmän säästät. Muista että jokainen maksu antaa käyttöoikeuden 30 päiväksi"></span><br><small>%d päivää</small>
+		Kesto <span class="tooltip" data-tip="Valitse maksutiheys joka sopii sinulle parhaiten. Voit maksaa päivittäin kuukausittain kahden kuukauden välein kolmen kuukauden välein kuuden kuukauden välein tai kerran vuodessa. Mitä harvemmin maksat sitä enemmän säästät. Huomaa että laskutusjakso on kolmekymmentä päivää kuukausittaisessa suunnitelmassa kuusikymmentä päivää kahden kuukauden suunnitelmassa yhdeksänkymmentä päivää kolmen kuukauden suunnitelmassa satakahdeksankymmentä päivää kuuden kuukauden suunnitelmassa ja pitenee edelleen suhteellisesti pidemmille kausille"></span><br><small>%d päivää</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kesto <span class="tooltip" data-tip="Valitse sinulle sopiva maksutiheys päivittäin, kuukausittain, kahden kuukauden välein tai kolmen kuukauden välein. Mitä harvemmin maksat sitä enemmän säästät. Muista että jokainen maksu antaa käyttöoikeuden 30 päiväksi"></span><br><small>%d päivää</small>
+		Kesto <span class="tooltip" data-tip="Valitse maksutiheys joka sopii sinulle parhaiten. Voit maksaa päivittäin kuukausittain kahden kuukauden välein kolmen kuukauden välein kuuden kuukauden välein tai kerran vuodessa. Mitä harvemmin maksat sitä enemmän säästät. Huomaa että laskutusjakso on kolmekymmentä päivää kuukausittaisessa suunnitelmassa kuusikymmentä päivää kahden kuukauden suunnitelmassa yhdeksänkymmentä päivää kolmen kuukauden suunnitelmassa satakahdeksankymmentä päivää kuuden kuukauden suunnitelmassa ja pitenee edelleen suhteellisesti pidemmille kausille"></span><br><small>%d päivää</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

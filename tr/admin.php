@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Süre <span class="tooltip" data-tip="Senin için uygun olan bir ödeme sıklığını seç günlük, aylık, iki ayda bir veya üç ayda bir. Daha az sıklıkta ödeme yaparsan daha fazla tasarruf edersin. Her ödemenin 30 gün erişim sağladığını unutma"></span><br><small>%d gün</small>
+		Süre <span class="tooltip" data-tip="Sizin için en uygun ödeme sıklığını seçin. Günlük aylık iki ayda bir üç ayda bir altı ayda bir veya yılda bir kez ödeme yapabilirsiniz. Ödeme sıklığınız azaldıkça tasarrufunuz artar. Aylık plan için faturalama döngümüz otuz gün iki aylık plan için altmış gün üç aylık plan için doksan gün altı aylık plan için yüz seksen gündür ve daha uzun vadeler için orantılı olarak artar"></span><br><small>%d gün</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Süre <span class="tooltip" data-tip="Senin için uygun olan bir ödeme sıklığını seç günlük, aylık, iki ayda bir veya üç ayda bir. Daha az sıklıkta ödeme yaparsan daha fazla tasarruf edersin. Her ödemenin 30 gün erişim sağladığını unutma"></span><br><small>%d gün</small>
+		Süre <span class="tooltip" data-tip="Sizin için en uygun ödeme sıklığını seçin. Günlük aylık iki ayda bir üç ayda bir altı ayda bir veya yılda bir kez ödeme yapabilirsiniz. Ödeme sıklığınız azaldıkça tasarrufunuz artar. Aylık plan için faturalama döngümüz otuz gün iki aylık plan için altmış gün üç aylık plan için doksan gün altı aylık plan için yüz seksen gündür ve daha uzun vadeler için orantılı olarak artar"></span><br><small>%d gün</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

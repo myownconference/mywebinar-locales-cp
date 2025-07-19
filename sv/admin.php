@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Varaktighet <span class="tooltip" data-tip="Välj en betalningsfrekvens som passar dig dagligen, månadsvis, varannan månad eller var tredje. Ju mer sällan du betalar desto mer sparar du. Kom ihåg att varje betalning ger tillgång i 30 dagar"></span><br><small>%d dagar</small>
+		Varaktighet <span class="tooltip" data-tip="Välj en betalningsfrekvens som passar dig bäst. Du kan betala dagligen varje månad varannan månad var tredje månad var sjätte månad eller en gång per år. Ju mer sällan du betalar desto mer sparar du. Observera att vår faktureringscykel är trettio dagar för en månadsplan sextio dagar för en tvåmånadersplan nittio dagar för en tremånadersplan etthundraåttio dagar för en sexmånadersplan och den ökar proportionellt för längre perioder"></span><br><small>%d dagar</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Varaktighet <span class="tooltip" data-tip="Välj en betalningsfrekvens som passar dig dagligen, månadsvis, varannan månad eller var tredje. Ju mer sällan du betalar desto mer sparar du. Kom ihåg att varje betalning ger tillgång i 30 dagar"></span><br><small>%d dagar</small>
+		Varaktighet <span class="tooltip" data-tip="Välj en betalningsfrekvens som passar dig bäst. Du kan betala dagligen varje månad varannan månad var tredje månad var sjätte månad eller en gång per år. Ju mer sällan du betalar desto mer sparar du. Observera att vår faktureringscykel är trettio dagar för en månadsplan sextio dagar för en tvåmånadersplan nittio dagar för en tremånadersplan etthundraåttio dagar för en sexmånadersplan och den ökar proportionellt för längre perioder"></span><br><small>%d dagar</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

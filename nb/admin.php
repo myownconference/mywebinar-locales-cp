@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Varighet <span class="tooltip" data-tip="Velg en betalingsfrekvens som passer for deg daglig, månedlig, annenhver måned eller hver tredje måned. Jo sjeldnere du betaler jo mer sparer du. Husk at hver betaling gir tilgang i 30 dager"></span><br><small>%d dager</small>
+		Varighet <span class="tooltip" data-tip="Velg en betalingsfrekvens som passer best for deg. Du kan betale daglig månedlig annenhver måned hver tredje måned hver sjette måned eller én gang i året. Jo sjeldnere du betaler jo mer sparer du. Vær oppmerksom på at vår faktureringssyklus er tretti dager for månedlig plan seksti dager for to-måneders plan nitti dager for tre-måneders plan ett hundre og åtti dager for seks-måneders plan og den øker proporsjonalt for lengre perioder"></span><br><small>%d dager</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Varighet <span class="tooltip" data-tip="Velg en betalingsfrekvens som passer for deg daglig, månedlig, annenhver måned eller hver tredje måned. Jo sjeldnere du betaler jo mer sparer du. Husk at hver betaling gir tilgang i 30 dager"></span><br><small>%d dager</small>
+		Varighet <span class="tooltip" data-tip="Velg en betalingsfrekvens som passer best for deg. Du kan betale daglig månedlig annenhver måned hver tredje måned hver sjette måned eller én gang i året. Jo sjeldnere du betaler jo mer sparer du. Vær oppmerksom på at vår faktureringssyklus er tretti dager for månedlig plan seksti dager for to-måneders plan nitti dager for tre-måneders plan ett hundre og åtti dager for seks-måneders plan og den øker proporsjonalt for lengre perioder"></span><br><small>%d dager</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

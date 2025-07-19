@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Durata <span class="tooltip" data-tip="Scegli la frequenza di pagamento che preferisci giornaliera, mensile, ogni due mesi o ogni tre. Meno spesso paghi più risparmi. Ricorda che ogni pagamento ti dà accesso per 30 giorni"></span><br><small>%d giorni</small>
+		Durata <span class="tooltip" data-tip="Scegli la frequenza di pagamento più adatta a te. Puoi pagare ogni giorno ogni mese ogni due mesi ogni tre mesi ogni sei mesi oppure una volta allʼanno. Meno spesso paghi maggiore è il risparmio. Tieni presente che il nostro ciclo di fatturazione è di trenta giorni per il piano mensile sessanta giorni per il piano bimestrale novanta giorni per il piano trimestrale centoottanta giorni per il piano semestrale e aumenta proporzionalmente per durate maggiori"></span><br><small>%d giorni</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Durata <span class="tooltip" data-tip="Scegli la frequenza di pagamento che preferisci giornaliera, mensile, ogni due mesi o ogni tre. Meno spesso paghi più risparmi. Ricorda che ogni pagamento ti dà accesso per 30 giorni"></span><br><small>%d giorni</small>
+		Durata <span class="tooltip" data-tip="Scegli la frequenza di pagamento più adatta a te. Puoi pagare ogni giorno ogni mese ogni due mesi ogni tre mesi ogni sei mesi oppure una volta allʼanno. Meno spesso paghi maggiore è il risparmio. Tieni presente che il nostro ciclo di fatturazione è di trenta giorni per il piano mensile sessanta giorni per il piano bimestrale novanta giorni per il piano trimestrale centoottanta giorni per il piano semestrale e aumenta proporzionalmente per durate maggiori"></span><br><small>%d giorni</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

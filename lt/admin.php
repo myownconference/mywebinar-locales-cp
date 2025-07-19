@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Trukmė <span class="tooltip" data-tip="Pasirink mokėjimo dažnumą kuris tau patogiausias kasdien, kas mėnesį, kas du mėnesius arba kas tris. Kuo rečiau moki tuo daugiau sutaupai. Atmink kad kiekvienas mokėjimas suteikia prieigą 30 dienų"></span><br><small>%d dienų</small>
+		Trukmė <span class="tooltip" data-tip="Pasirinkite mokėjimo dažnumą kuris jums labiausiai tinka. Galite mokėti kasdien kas mėnesį kas du mėnesius kas tris mėnesius kas šešis mėnesius arba kartą per metus. Kuo rečiau mokėsite tuo daugiau sutaupysite. Atkreipkite dėmesį kad mūsų sąskaitų ciklas yra trisdešimt dienų mėnesiniam planui šešiasdešimt dienų dviejų mėnesių planui devyniasdešimt dienų trijų mėnesių planui šimtas aštuoniasdešimt dienų šešių mėnesių planui ir ilgesniems laikotarpiams jis proporcingai didėja"></span><br><small>%d dienų</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Trukmė <span class="tooltip" data-tip="Pasirink mokėjimo dažnumą kuris tau patogiausias kasdien, kas mėnesį, kas du mėnesius arba kas tris. Kuo rečiau moki tuo daugiau sutaupai. Atmink kad kiekvienas mokėjimas suteikia prieigą 30 dienų"></span><br><small>%d dienų</small>
+		Trukmė <span class="tooltip" data-tip="Pasirinkite mokėjimo dažnumą kuris jums labiausiai tinka. Galite mokėti kasdien kas mėnesį kas du mėnesius kas tris mėnesius kas šešis mėnesius arba kartą per metus. Kuo rečiau mokėsite tuo daugiau sutaupysite. Atkreipkite dėmesį kad mūsų sąskaitų ciklas yra trisdešimt dienų mėnesiniam planui šešiasdešimt dienų dviejų mėnesių planui devyniasdešimt dienų trijų mėnesių planui šimtas aštuoniasdešimt dienų šešių mėnesių planui ir ilgesniems laikotarpiams jis proporcingai didėja"></span><br><small>%d dienų</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

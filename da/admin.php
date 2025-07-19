@@ -1707,13 +1707,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Varighed <span class="tooltip" data-tip="Vælg en betalingsfrekvens der passer til dig dagligt, månedligt, hver anden måned eller hver tredje. Jo sjældnere du betaler jo mere sparer du. Husk at hver betaling giver adgang i 30 dage"></span><br><small>%d dage</small>
+		Varighed <span class="tooltip" data-tip="Vælg den betalingsfrekvens der passer bedst til dig. Du kan betale dagligt månedligt hver anden måned hver tredje måned hver sjette måned eller én gang om året. Jo sjældnere du betaler jo mere sparer du. Bemærk at vores faktureringscyklus er tredive dage for en månedlig plan tres dage for en to-måneders plan halvfems dage for en tre-måneders plan et hundrede og firs dage for en seks-måneders plan og den fortsætter med at stige proportionalt for længere perioder"></span><br><small>%d dage</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Varighed <span class="tooltip" data-tip="Vælg en betalingsfrekvens der passer til dig dagligt, månedligt, hver anden måned eller hver tredje. Jo sjældnere du betaler jo mere sparer du. Husk at hver betaling giver adgang i 30 dage"></span><br><small>%d dage</small>
+		Varighed <span class="tooltip" data-tip="Vælg den betalingsfrekvens der passer bedst til dig. Du kan betale dagligt månedligt hver anden måned hver tredje måned hver sjette måned eller én gang om året. Jo sjældnere du betaler jo mere sparer du. Bemærk at vores faktureringscyklus er tredive dage for en månedlig plan tres dage for en to-måneders plan halvfems dage for en tre-måneders plan et hundrede og firs dage for en seks-måneders plan og den fortsætter med at stige proportionalt for længere perioder"></span><br><small>%d dage</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////

@@ -4119,13 +4119,13 @@ return [
 	'open-in-new-window' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Atvērt jaunā logā
+		Atvērt jaunā logā <span class="tooltip" data-tip="Ja slēdzis ir ieslēgts, saite vienmēr atvērsies jaunā pārlūkprogrammas logā. Ja slēdzis ir izslēgts, saite atvērsies tajā pašā logā, bet tikai līdz vebināra sākumam. Kad vebinārs sāksies, saite vairs neatvērsies un dalībnieks tiks novirzīts tieši uz vebināra istabu"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Informācijas lapa <span class="tooltip" data-tip="Šī funkcija ļauj organizatoriem izveidot lapu ar noderīgu informāciju dalībniekiem pirms vebināra sākuma piemēram palīdzības lapu vai pasākuma informāciju Saskaņā ar pārlūkprogrammas drošības politiku šī lapa vienmēr tiek atvērta atsevišķā logā pirms ieiešanas vebināra telpā Saite atbalsta UTM tagus izsekošanai un analīzei"></span>
+		Informācijas lapa <span class="tooltip" data-tip="Šī funkcija ļauj organizatoriem izveidot lapu ar noderīgu informāciju dalībniekiem pirms tīmekļsemināra sākuma. Tā var būt palīdzības lapa, pasākuma apraksts vai veiksmīgas reģistrācijas apstiprinājums. Saites atbalsta UTM tagus analītikas vākšanai"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url-placeholder' => //////////////////////////////////////////////////////

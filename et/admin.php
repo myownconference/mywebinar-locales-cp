@@ -4107,13 +4107,13 @@ return [
 	'open-in-new-window' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ava uues aknas
+		Ava uues aknas <span class="tooltip" data-tip="Kui lüliti on sees, avaneb link alati uues brauseriaknas. Kui lüliti on väljas, avaneb link samas aknas, kuid ainult enne veebiseminari algust. Pärast veebiseminari algust link ei avane ja osaleja viiakse otse veebiseminari tuppa"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Teabeleht <span class="tooltip" data-tip="See funktsioon võimaldab korraldajatel luua lehe osalejatele kasuliku teabega enne veebiseminari algust näiteks abilehe või ürituse üksikasjad Brauseri turvaseadete tõttu avatakse see leht alati eraldi aknas enne veebiseminari ruumi sisenemist Link toetab UTM silte jälgimise ja analüüsi jaoks"></span>
+		Teabeleht <span class="tooltip" data-tip="See funktsioon võimaldab korraldajatel luua lehe kasuliku teabega osalejatele enne veebiseminari algust. See võib olla abileht, sündmuse kirjeldus või registreerumise kinnitamine. Link toetab UTM-silte analüütika kogumiseks"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url-placeholder' => //////////////////////////////////////////////////////

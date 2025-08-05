@@ -3927,13 +3927,13 @@ return [
 	'open-in-new-window' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Otvoriť v novom okne
+		Otvoriť v novom okne <span class="tooltip" data-tip="Ak je prepínač zapnutý, odkaz sa vždy otvorí v novom okne prehliadača. Ak je prepínač vypnutý, odkaz sa otvorí v tom istom okne, ale iba pred začiatkom webinára. Po začiatku webinára sa odkaz neotvorí a účastník prejde priamo do miestnosti webinára"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Informačná stránka <span class="tooltip" data-tip="Táto funkcia umožňuje organizátorom vytvoriť stránku s užitočnými informáciami pre účastníkov pred začiatkom webinára ako je napríklad stránka pomoci alebo podrobnosti o udalosti Vzhľadom na bezpečnostné zásady prehliadača sa táto stránka vždy otvára v samostatnom okne pred vstupom do miestnosti webinára Odkaz podporuje značky UTM na sledovanie a analytiku"></span>
+		Informačná stránka <span class="tooltip" data-tip="Táto funkcia umožňuje organizátorom vytvoriť stránku s užitočnými informáciami pre účastníkov pred začiatkom webinára. Môže to byť stránka s pomocou, popis udalosti alebo potvrdenie o úspešnej registrácii. Odkaz podporuje UTM značky na zber analytických údajov"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url-placeholder' => //////////////////////////////////////////////////////

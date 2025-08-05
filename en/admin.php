@@ -4107,13 +4107,13 @@ return [
 	'open-in-new-window' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Open in new window
+		Open in new window <span class="tooltip" data-tip="If the switch is on, the link will always open in a new browser window. If the switch is off, the link will open in the same window but only before the webinar starts. After the webinar has started, the link will not open and the participant will go straight into the webinar room"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Info page <span class="tooltip" data-tip="This feature allows organizers to create a page with helpful information for participants before the webinar begins, such as a help page or event details. Due to browser security policies, this page always opens in a separate window before entering the webinar room. The link supports UTM tags for tracking and analytics"></span>
+		Info page <span class="tooltip" data-tip="This feature allows organizers to create a page with useful information for participants before the webinar begins. It can be a help page, an event description or a confirmation of successful registration. The link supports UTM tags for collecting analytics"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url-placeholder' => //////////////////////////////////////////////////////

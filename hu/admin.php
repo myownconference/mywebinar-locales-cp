@@ -4107,13 +4107,13 @@ return [
 	'open-in-new-window' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Megnyitás új ablakban
+		Megnyitás új ablakban <span class="tooltip" data-tip="Ha a kapcsoló be van kapcsolva, a hivatkozás mindig új böngészőablakban nyílik meg. Ha a kapcsoló ki van kapcsolva, a hivatkozás ugyanabban az ablakban nyílik meg, de csak a webinárium kezdete előtt. A webinárium kezdete után a hivatkozás nem nyílik meg és a résztvevő közvetlenül belép a webinárium szobájába"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Információs oldal <span class="tooltip" data-tip="Ez a funkció lehetővé teszi a szervezők számára hogy létrehozzanak egy oldalt hasznos információkkal a résztvevők számára a webinárium kezdete előtt például súgóoldalt vagy eseményrészleteket A böngésző biztonsági szabályzatai miatt ez az oldal mindig külön ablakban nyílik meg mielőtt belépne a webinárium szobájába A link támogatja az UTM címkéket a követéshez és elemzéshez"></span>
+		Információs oldal <span class="tooltip" data-tip="Ez a funkció lehetővé teszi a szervezők számára, hogy létrehozzanak egy oldalt hasznos információkkal a résztvevők számára a webinárium kezdete előtt. Ez lehet súgóoldal, eseményleírás vagy a sikeres regisztráció visszaigazolása. A link támogatja az UTM címkéket az adatelemzés gyűjtésére"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url-placeholder' => //////////////////////////////////////////////////////

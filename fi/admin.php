@@ -4107,13 +4107,13 @@ return [
 	'open-in-new-window' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Avaa uudessa ikkunassa
+		Avaa uudessa ikkunassa <span class="tooltip" data-tip="Jos kytkin on päällä, linkki avautuu aina uuteen selainikkunaan. Jos kytkin on pois päältä, linkki avautuu samaan ikkunaan, mutta vain ennen webinaarin alkamista. Webinaarin alettua linkki ei avaudu ja osallistuja siirtyy suoraan webinaarihuoneeseen"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tietosivu <span class="tooltip" data-tip="Tämä ominaisuus sallii järjestäjien luoda sivun jossa on hyödyllistä tietoa osallistujille ennen webinaarin alkamista kuten ohjesivu tai tapahtuman tiedot Selainkäytäntöjen takia tämä sivu avautuu aina erilliseen ikkunaan ennen kuin siirrytään webinaarihuoneeseen Linkki tukee UTM-tunnisteita seurantaa ja analytiikkaa varten"></span>
+		Tietosivu <span class="tooltip" data-tip="Tämä toiminto antaa järjestäjille mahdollisuuden luoda sivu, jossa on hyödyllistä tietoa osallistujille ennen webinaarin alkamista. Se voi olla ohjesivu, tapahtuman kuvaus tai vahvistus onnistuneesta rekisteröitymisestä. Linkki tukee UTM-tunnisteita analytiikan keräämistä varten"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url-placeholder' => //////////////////////////////////////////////////////

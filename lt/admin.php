@@ -4119,13 +4119,13 @@ return [
 	'open-in-new-window' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Atverti naujame lange
+		Atverti naujame lange <span class="tooltip" data-tip="Jei jungiklis įjungtas, nuoroda visada atsidarys naujame naršyklės lange. Jei jungiklis išjungtas, nuoroda atsidarys tame pačiame lange, bet tik iki internetinio seminaro pradžios. Prasidėjus internetiniam seminarui, nuoroda neatsidarys ir dalyvis pateks tiesiai į seminaro kambarį"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Informacinis puslapis <span class="tooltip" data-tip="Ši funkcija leidžia organizatoriams sukurti puslapį su naudinga informacija dalyviams prieš prasidedant internetiniam seminarui pavyzdžiui pagalbos puslapį arba renginio informaciją Dėl naršyklės saugumo politikos šis puslapis visada atsidaro atskirame lange prieš įeinant į seminaro kambarį Nuoroda palaiko UTM žymas sekimui ir analizei"></span>
+		Informacinis puslapis <span class="tooltip" data-tip="Ši funkcija leidžia organizatoriams sukurti puslapį su naudinga informacija dalyviams prieš prasidedant internetiniam seminarui. Tai gali būti pagalbos puslapis, renginio aprašymas arba sėkmingos registracijos patvirtinimas. Nuoroda palaiko UTM žymas analitikai rinkti"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url-placeholder' => //////////////////////////////////////////////////////

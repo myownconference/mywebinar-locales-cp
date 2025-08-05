@@ -4113,13 +4113,13 @@ return [
 	'open-in-new-window' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Yeni pencerede aç
+		Yeni pencerede aç <span class="tooltip" data-tip="Anahtar açıksa bağlantı her zaman yeni bir tarayıcı penceresinde açılır. Anahtar kapalıysa bağlantı aynı pencerede açılır, ancak yalnızca web semineri başlamadan önce. Web semineri başladıktan sonra bağlantı açılmaz ve katılımcı doğrudan web semineri odasına yönlendirilir"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bilgi sayfası <span class="tooltip" data-tip="Bu özellik organizatörlerin webinar başlamadan önce katılımcılar için yardımcı sayfa veya etkinlik bilgileri gibi faydalı bilgileri içeren bir sayfa oluşturmasına olanak tanır Tarayıcı güvenlik politikaları nedeniyle bu sayfa her zaman webinar odasına girmeden önce ayrı bir pencerede açılır Bağlantı izleme ve analiz için UTM etiketlerini destekler"></span>
+		Bilgi sayfası <span class="tooltip" data-tip="Bu özellik, düzenleyicilerin web semineri başlamadan önce katılımcılar için faydalı bilgiler içeren bir sayfa oluşturmasına olanak tanır. Bu bir yardım sayfası, etkinlik açıklaması veya başarılı kayıt onayı olabilir. Bağlantı analiz toplamak için UTM etiketlerini destekler"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url-placeholder' => //////////////////////////////////////////////////////

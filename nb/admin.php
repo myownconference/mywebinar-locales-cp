@@ -4107,13 +4107,13 @@ return [
 	'open-in-new-window' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Åpne i nytt vindu
+		Åpne i nytt vindu <span class="tooltip" data-tip="Hvis bryteren er på, åpnes lenken alltid i et nytt nettleservindu. Hvis bryteren er av, åpnes lenken i samme vindu, men bare før webinaret starter. Når webinaret har startet, åpnes ikke lenken og deltakeren går rett inn i webinarrommet"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Informasjonsside <span class="tooltip" data-tip="Denne funksjonen lar arrangører opprette en side med nyttig informasjon for deltakerne før webinaret starter for eksempel en hjelpeside eller detaljer om arrangementet På grunn av nettleserens sikkerhetspolicy åpnes denne siden alltid i et eget vindu før man går inn i webinarrommet Lenken støtter UTM-koder for sporing og analyse"></span>
+		Informasjonsside <span class="tooltip" data-tip="Denne funksjonen lar arrangører opprette en side med nyttig informasjon for deltakerne før webinaret starter. Det kan være en hjelpeside, en beskrivelse av arrangementet eller en bekreftelse på vellykket registrering. Lenken støtter UTM-koder for å samle inn analyse"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url-placeholder' => //////////////////////////////////////////////////////

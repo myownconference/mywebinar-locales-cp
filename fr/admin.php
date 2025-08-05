@@ -4118,13 +4118,13 @@ return [
 	'open-in-new-window' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ouvrir dans une nouvelle fenêtre
+		Ouvrir dans une nouvelle fenêtre <span class="tooltip" data-tip="Si lʼinterrupteur est activé, le lien sʼouvrira toujours dans une nouvelle fenêtre du navigateur. Si lʼinterrupteur est désactivé, le lien sʼouvrira dans la même fenêtre, mais seulement avant le début du webinaire. Une fois le webinaire commencé, le lien ne sʼouvrira pas et le participant sera dirigé directement vers la salle du webinaire"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Page de information <span class="tooltip" data-tip="Cette fonctionnalité permet aux organisateurs de créer une page contenant des informations utiles pour les participants avant le début du webinaire comme une page dʼaide ou des détails sur lʼévénement En raison des politiques de sécurité du navigateur cette page sʼouvre toujours dans une nouvelle fenêtre avant dʼentrer dans la salle du webinaire Le lien prend en charge les balises UTM pour le suivi et lʼanalyse"></span>
+		Page de information <span class="tooltip" data-tip="Cette fonctionnalité permet aux organisateurs de créer une page contenant des informations utiles pour les participants avant le début du webinaire. Cela peut être une page dʼaide, une description de lʼévénement ou une confirmation dʼinscription réussie. Le lien prend en charge les balises UTM pour la collecte des données analytiques"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url-placeholder' => //////////////////////////////////////////////////////

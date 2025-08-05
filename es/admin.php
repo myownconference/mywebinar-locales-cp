@@ -4111,13 +4111,13 @@ return [
 	'open-in-new-window' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Abrir en una nueva ventana
+		Abrir en una nueva ventana <span class="tooltip" data-tip="Si el interruptor está activado, el enlace siempre se abrirá en una nueva ventana del navegador. Si el interruptor está desactivado, el enlace se abrirá en la misma ventana, pero solo antes de que comience el seminario web. Una vez que comience el seminario web, el enlace no se abrirá y el participante entrará directamente en la sala del seminario web"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Página informativa <span class="tooltip" data-tip="Esta función permite a los organizadores crear una página con información útil para los participantes antes de que comience el webinar como una página de ayuda o detalles del evento Debido a las políticas de seguridad del navegador esta página siempre se abre en una ventana separada antes de entrar a la sala del webinar El enlace admite etiquetas UTM para seguimiento y análisis"></span>
+		Página informativa <span class="tooltip" data-tip="Esta función permite a los organizadores crear una página con información útil para los participantes antes de que comience el seminario web. Puede ser una página de ayuda, una descripción del evento o una confirmación de registro exitoso. El enlace admite etiquetas UTM para recopilar análisis"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url-placeholder' => //////////////////////////////////////////////////////

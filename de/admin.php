@@ -4107,13 +4107,13 @@ return [
 	'open-in-new-window' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		In neuem Fenster öffnen
+		In neuem Fenster öffnen <span class="tooltip" data-tip="Wenn der Schalter eingeschaltet ist, öffnet sich der Link immer in einem neuen Browserfenster. Wenn der Schalter ausgeschaltet ist, öffnet sich der Link im selben Fenster, aber nur bis zum Beginn des Webinars. Nach Beginn des Webinars öffnet sich der Link nicht und der Teilnehmer gelangt direkt in den Webinarraum"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Infoseite <span class="tooltip" data-tip="Diese Funktion ermöglicht es Organisatoren eine Seite mit hilfreichen Informationen für Teilnehmende vor Beginn des Webinars zu erstellen beispielsweise eine Hilfeseite oder Veranstaltungsdetails Aufgrund von Sicherheitseinstellungen im Browser wird diese Seite immer in einem separaten Fenster geöffnet bevor man den Webinarraum betritt Der Link unterstützt UTM-Tags für Tracking und Analyse"></span>
+		Infoseite <span class="tooltip" data-tip="Diese Funktion ermöglicht es Organisatoren, eine Seite mit nützlichen Informationen für Teilnehmende vor Beginn des Webinars zu erstellen. Dies kann eine Hilfeseite, eine Veranstaltungsbeschreibung oder eine Bestätigung der erfolgreichen Anmeldung sein. Der Link unterstützt UTM-Parameter zur Sammlung von Analysedaten"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url-placeholder' => //////////////////////////////////////////////////////

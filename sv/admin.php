@@ -4107,13 +4107,13 @@ return [
 	'open-in-new-window' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Öppna i nytt fönster
+		Öppna i nytt fönster <span class="tooltip" data-tip="Om strömbrytaren är på kommer länken alltid att öppnas i ett nytt webbläsarfönster. Om strömbrytaren är av kommer länken att öppnas i samma fönster, men bara innan webbinariet börjar. När webbinariet har börjat öppnas inte länken och deltagaren hamnar direkt i webbinarierummet"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Informationssida <span class="tooltip" data-tip="Denna funktion gör det möjligt för arrangörer att skapa en sida med användbar information för deltagare innan webbinariet börjar såsom en hjälpsida eller information om evenemanget På grund av webbläsarens säkerhetspolicy öppnas denna sida alltid i ett separat fönster innan man går in i webbinarierummet Länken stöder UTM-taggar för spårning och analys"></span>
+		Informationssida <span class="tooltip" data-tip="Denna funktion gör det möjligt för arrangörer att skapa en sida med användbar information för deltagarna innan webbinariet börjar. Det kan vara en hjälpsida, en beskrivning av evenemanget eller en bekräftelse på en lyckad registrering. Länken stöder UTM-taggar för att samla in analysdata"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url-placeholder' => //////////////////////////////////////////////////////

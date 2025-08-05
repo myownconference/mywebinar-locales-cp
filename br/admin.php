@@ -4107,13 +4107,13 @@ return [
 	'open-in-new-window' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Abrir em nova janela
+		Abrir em nova janela <span class="tooltip" data-tip="Se o botão estiver ativado, o link sempre será aberto em uma nova janela do navegador. Se o botão estiver desativado, o link será aberto na mesma janela, mas apenas até o início do webinar. Após o início do webinar, o link não será aberto e o participante será levado diretamente para a sala do webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Página de informações <span class="tooltip" data-tip="Esse recurso permite que os organizadores criem uma página com informações úteis para os participantes antes do início do webinar como uma página de ajuda ou detalhes do evento Devido às políticas de segurança do navegador essa página sempre é aberta em uma janela separada antes de entrar na sala do webinar O link suporta tags UTM para rastreamento e análise"></span>
+		Página de informações <span class="tooltip" data-tip="Este recurso permite que os organizadores criem uma página com informações úteis para os participantes antes do início do webinar. Pode ser uma página de ajuda, uma descrição do evento ou uma confirmação de inscrição bem-sucedida. O link oferece suporte a tags UTM para coleta de análises"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url-placeholder' => //////////////////////////////////////////////////////

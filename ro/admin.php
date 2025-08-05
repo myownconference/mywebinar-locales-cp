@@ -4107,13 +4107,13 @@ return [
 	'open-in-new-window' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Deschide într-o fereastră nouă
+		Deschide într-o fereastră nouă <span class="tooltip" data-tip="Dacă comutatorul este activat, linkul se va deschide întotdeauna într-o fereastră nouă a browserului. Dacă comutatorul este dezactivat, linkul se va deschide în aceeași fereastră, dar doar înainte de începerea webinarului. După începerea webinarului, linkul nu se va mai deschide, iar participantul va intra direct în sala webinarului"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pagină de informații <span class="tooltip" data-tip="Această funcție le permite organizatorilor să creeze o pagină cu informații utile pentru participanți înainte de începerea webinarului cum ar fi o pagină de ajutor sau detalii despre eveniment Din cauza politicilor de securitate ale browserului această pagină se deschide întotdeauna într-o fereastră separată înainte de a intra în sala webinarului Linkul suportă etichete UTM pentru urmărire și analiză"></span>
+		Pagină de informații <span class="tooltip" data-tip="Această funcție le permite organizatorilor să creeze o pagină cu informații utile pentru participanți înainte de începerea webinarului. Poate fi o pagină de ajutor, o descriere a evenimentului sau o confirmare a înregistrării reușite. Linkul acceptă etichete UTM pentru colectarea datelor analitice"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url-placeholder' => //////////////////////////////////////////////////////

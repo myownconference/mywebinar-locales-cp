@@ -4107,13 +4107,13 @@ return [
 	'open-in-new-window' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Otevřít v novém okně
+		Otevřít v novém okně <span class="tooltip" data-tip="Pokud je přepínač zapnutý, odkaz se vždy otevře v novém okně prohlížeče. Pokud je přepínač vypnutý, odkaz se otevře ve stejném okně, ale pouze do začátku webináře. Po zahájení webináře se odkaz neotevře a účastník se ihned dostane do místnosti webináře"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Informační stránka <span class="tooltip" data-tip="Tato funkce umožňuje organizátorům vytvořit stránku s užitečnými informacemi pro účastníky ještě před zahájením webináře například stránku nápovědy nebo podrobnosti o události Kvůli bezpečnostním zásadám prohlížeče se tato stránka vždy otevře v samostatném okně před vstupem do místnosti webináře Odkaz podporuje UTM tagy pro sledování a analytiku"></span>
+		Informační stránka <span class="tooltip" data-tip="Tato funkce umožňuje organizátorům vytvořit stránku s užitečnými informacemi pro účastníky před začátkem webináře. Může to být stránka s nápovědou, popis události nebo potvrzení úspěšné registrace. Odkaz podporuje UTM parametry pro sběr analytických údajů"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url-placeholder' => //////////////////////////////////////////////////////

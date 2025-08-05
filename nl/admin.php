@@ -4107,13 +4107,13 @@ return [
 	'open-in-new-window' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Openen in nieuw venster
+		Openen in nieuw venster <span class="tooltip" data-tip="Als de schakelaar is ingeschakeld, wordt de link altijd geopend in een nieuw browservenster. Als de schakelaar is uitgeschakeld, wordt de link geopend in hetzelfde venster, maar alleen vóór de start van het webinar. Na de start van het webinar wordt de link niet geopend en gaat de deelnemer direct naar de webinarruimte"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Informatiepagina <span class="tooltip" data-tip="Met deze functie kunnen organisatoren een pagina maken met nuttige informatie voor deelnemers vóór de start van het webinar zoals een help-pagina of evenementdetails Vanwege beveiligingsbeleid van de browser wordt deze pagina altijd in een apart venster geopend voordat men de webinarruimte binnenkomt De link ondersteunt UTM-tags voor tracking en analyse"></span>
+		Informatiepagina <span class="tooltip" data-tip="Met deze functie kunnen organisatoren een pagina maken met nuttige informatie voor deelnemers voorafgaand aan het webinar. Dit kan een hulppagina zijn, een beschrijving van het evenement of een bevestiging van een succesvolle registratie. De link ondersteunt UTM-tags voor het verzamelen van analyses"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url-placeholder' => //////////////////////////////////////////////////////

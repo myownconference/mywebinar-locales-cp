@@ -4107,13 +4107,13 @@ return [
 	'open-in-new-window' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Åbn i nyt vindue
+		Åbn i nyt vindue <span class="tooltip" data-tip="Hvis kontakten er slået til, åbnes linket altid i et nyt browservindue. Hvis kontakten er slået fra, åbnes linket i det samme vindue, men kun indtil webinaret begynder. Når webinaret er startet, åbnes linket ikke, og deltageren kommer direkte ind i webinar-rummet"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Informationsside <span class="tooltip" data-tip="Denne funktion gør det muligt for arrangører at oprette en side med nyttige oplysninger til deltagerne før webinaret begynder for eksempel en hjælpeside eller oplysninger om arrangementet På grund af browserens sikkerhedspolitikker åbnes denne side altid i et separat vindue før man går ind i webinar-rummet Linket understøtter UTM-tags til sporing og analyse"></span>
+		Informationsside <span class="tooltip" data-tip="Denne funktion gør det muligt for arrangører at oprette en side med nyttige oplysninger til deltagerne før webinaret starter. Det kan være en hjælpeside, en beskrivelse af begivenheden eller en bekræftelse på en vellykket tilmelding. Linket understøtter UTM-tags til at indsamle analyse"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url-placeholder' => //////////////////////////////////////////////////////

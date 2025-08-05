@@ -4107,13 +4107,13 @@ return [
 	'open-in-new-window' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Odpri v novem oknu
+		Odpri v novem oknu <span class="tooltip" data-tip="Če je stikalo vklopljeno, se povezava vedno odpre v novem oknu brskalnika. Če je stikalo izklopljeno, se povezava odpre v istem oknu, vendar samo pred začetkom spletnega seminarja. Po začetku spletnega seminarja se povezava ne bo odprla in udeleženec bo preusmerjen neposredno v sobo seminarja"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Informacijska stran <span class="tooltip" data-tip="Ta funkcija omogoča organizatorjem da ustvarijo stran s koristnimi informacijami za udeležence pred začetkom spletnega seminarja kot je na primer stran za pomoč ali podrobnosti o dogodku Zaradi varnostnih politik brskalnika se ta stran vedno odpre v ločenem oknu pred vstopom v sobo spletnega seminarja Povezava podpira UTM oznake za sledenje in analitiko"></span>
+		Informacijska stran <span class="tooltip" data-tip="Ta funkcija omogoča organizatorjem ustvariti stran z uporabnimi informacijami za udeležence pred začetkom spletnega seminarja. To je lahko stran za pomoč, opis dogodka ali potrditev uspešne registracije. Povezava podpira UTM oznake za zbiranje analitike"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url-placeholder' => //////////////////////////////////////////////////////

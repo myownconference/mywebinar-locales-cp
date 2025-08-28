@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Lugupeetud kasutajad! Alates 1. oktoobrist 2025 eemaldatakse tasuta plaanidest kõik piirangud lisafunktsioonidele<br>••• Samal ajal on maksimaalne osalejate arv 5 inimest •••</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

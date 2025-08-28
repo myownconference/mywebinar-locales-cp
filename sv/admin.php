@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Kära användare! Från och med 1 oktober 2025 tas alla begränsningar för extrafunktioner bort i de kostnadsfria planerna<br>••• Samtidigt kommer det maximala antalet deltagare vara 5 personer •••</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

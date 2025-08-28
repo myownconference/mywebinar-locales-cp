@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Stimați utilizatori! Din 1 octombrie 2025 se elimină toate restricțiile pentru funcționalitățile suplimentare din planurile gratuite<br>••• În același timp numărul maxim de participanți va fi 5 persoane •••</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

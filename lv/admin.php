@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Cienījamie lietotāji! No 2025. gada 1. oktobra bezmaksas plānos tiks atcelti visi ierobežojumi papildu funkcijām<br>••• Tajā pašā laikā maksimālais dalībnieku skaits būs 5 personas •••</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

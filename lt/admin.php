@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Gerbiami vartotojai! Nuo 2025 m. spalio 1 d. nemokamuose planuose panaikinami visi papildomų funkcijų apribojimai<br>••• Tuo pačiu metu maksimalus dalyvių skaičius bus 5 žmonės •••</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

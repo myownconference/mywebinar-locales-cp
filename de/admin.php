@@ -21,7 +21,7 @@ return [
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Sehr geehrte Nutzer am 13.09.2025 aktualisieren wir die SSL-Zertifikate im DTS-Programm «für Übertragungen und Bildschirmfreigabe». Danach funktioniert die aktuelle Version nicht mehr und alle Moderatoren müssen ein obligatorisches Update durchführen. Über die Notwendigkeit des Updates informiert das Programm automatisch im Webinarraum</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 

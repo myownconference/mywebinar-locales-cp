@@ -21,7 +21,7 @@ return [
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Hyvät käyttäjät 13.09.2025 päivitämme SSL-varmenteet DTS-ohjelmassa «lähetyksiä ja näytön jakamista varten». Sen jälkeen nykyinen versio lakkaa toimimasta ja kaikkien esittäjien on tehtävä pakollinen päivitys. Ohjelma ilmoittaa automaattisesti päivityksen tarpeesta webinaarihuoneessa</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 

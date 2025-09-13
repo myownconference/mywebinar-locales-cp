@@ -21,7 +21,7 @@ return [
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Cienījamie lietotāji 13.09.2025 mēs atjaunosim SSL sertifikātus DTS programmā «pārraidēm un ekrāna rādīšanai». Pēc tam pašreizējā versija pārstās darboties un visiem vadītājiem būs jāveic obligāts atjauninājums. Programma automātiski paziņos par atjauninājuma nepieciešamību vebināra telpā</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 

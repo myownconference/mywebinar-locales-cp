@@ -21,7 +21,7 @@ return [
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Prezados usuários 13.09.2025 vamos atualizar os certificados SSL no programa DTS «para transmissões e compartilhamento de tela». Após isso a versão atual deixará de funcionar e todos os apresentadores precisarão fazer a atualização obrigatória. O programa informará automaticamente sobre a necessidade da atualização na sala do webinar</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 

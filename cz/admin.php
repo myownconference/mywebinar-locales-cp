@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Vážení uživatelé! Od 1. října 2025 budou ve bezplatných plánech odstraněna všechna omezení pro doplňkové funkce<br>••• Současně bude maximální počet účastníků 5 osob •••</div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Vážení uživatelé od 1. října 2025 bude maximální počet účastníků v bezplatném plánu 5 osob</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

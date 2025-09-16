@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Tisztelt felhasználók! 2025 október 1-jétől a díjmentes csomagokban minden korlátozás megszűnik a kiegészítő funkciókra<br>••• Ugyanakkor a résztvevők maximális száma 5 fő lesz •••</div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Kedves felhasználók 2025 október 1-jétől az ingyenes csomagban a résztvevők maximális száma 5 fő lesz</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

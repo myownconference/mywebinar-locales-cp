@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Beste gebruikers! Vanaf 1 oktober 2025 worden in de gratis plannen alle beperkingen voor extra functies verwijderd<br>••• Tegelijkertijd bedraagt het maximale aantal deelnemers 5 personen •••</div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Beste gebruikers vanaf 1 oktober 2025 is het maximale aantal deelnemers in het gratis plan 5 personen</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

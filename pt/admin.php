@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Caros utilizadores! A partir de 1 de outubro de 2025 todos os limites das funcionalidades adicionais serão removidos nos planos gratuitos<br>••• Ao mesmo tempo o número máximo de participantes será 5 pessoas •••</div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Caros usuários a partir de 1º de outubro de 2025 o número máximo de participantes no plano gratuito será de 5 pessoas</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Hyvät käyttäjät! 1. lokakuuta 2025 alkaen poistetaan kaikki lisätoimintojen rajoitukset ilmaisista suunnitelmista<br>••• Samalla suurin osallistujamäärä on 5 henkilöä •••</div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Hyvät käyttäjät 1. lokakuuta 2025 alkaen maksimi osallistujamäärä ilmaisessa suunnitelmassa on 5 henkilöä</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

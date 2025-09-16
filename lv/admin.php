@@ -15,13 +15,12 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Cienījamie lietotāji! No 2025. gada 1. oktobra bezmaksas plānos tiks atcelti visi ierobežojumi papildu funkcijām<br>••• Tajā pašā laikā maksimālais dalībnieku skaits būs 5 personas •••</div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Cienījamie lietotāji sākot ar 2025. gada 1. oktobri maksimālais dalībnieku skaits bezmaksas plānā būs 5 cilvēki</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Cienījamie lietotāji 13.09.2025 mēs atjaunosim SSL sertifikātus DTS programmā «pārraidēm un ekrāna rādīšanai». Pēc tam pašreizējā versija pārstās darboties un visiem vadītājiem būs jāveic obligāts atjauninājums. Programma automātiski paziņos par atjauninājuma nepieciešamību vebināra telpā</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 

@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Değerli kullanıcılar! 1 Ekim 2025 tarihinden itibaren ücretsiz planlarda ek özelliklere yönelik tüm kısıtlamalar kaldırılacaktır<br>••• Aynı zamanda en fazla katılımcı sayısı 5 kişi olacaktır •••</div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Değerli kullanıcılar 1 Ekim 2025 tarihinden itibaren ücretsiz plandaki en fazla katılımcı sayısı 5 kişi olacaktır</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

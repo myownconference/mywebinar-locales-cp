@@ -21,7 +21,6 @@ return [
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Değerli kullanıcılar 13.09.2025 tarihinde DTS programında SSL sertifikalarını güncelleyeceğiz «yayınlar ve ekran gösterimi için». Bundan sonra mevcut sürüm çalışmayı durduracak ve tüm sunucuların zorunlu güncelleme yapması gerekecek. Güncelleme gerekliliğini program webinar odasında otomatik olarak bildirecek</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 

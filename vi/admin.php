@@ -21,7 +21,6 @@ return [
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Kính gửi người dùng, vào ngày 13.09.2025 chúng tôi sẽ cập nhật chứng chỉ SSL trong chương trình DTS «dành cho phát trực tiếp và chia sẻ màn hình». Sau đó phiên bản hiện tại sẽ ngừng hoạt động và tất cả người tổ chức sẽ bắt buộc phải cập nhật. Chương trình sẽ tự động thông báo về việc cần cập nhật ngay trong phòng hội thảo trực tuyến</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 

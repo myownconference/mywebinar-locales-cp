@@ -21,7 +21,6 @@ return [
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Kjære brukere 13.09.2025 oppdaterer vi SSL-sertifikatene i DTS-programmet «for sendinger og skjermdeling». Etter dette vil den nåværende versjonen slutte å fungere og alle verter må foreta en obligatorisk oppdatering. Programmet vil automatisk varsle om behovet for oppdatering i webinarlokalet</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 

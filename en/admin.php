@@ -21,7 +21,6 @@ return [
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Dear users on 13.09.2025 we will update the SSL certificates in the DTS program «for streaming and screen sharing». After that the current version will stop working and all hosts will be required to update. The program will automatically notify about the need to update in the webinar room</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 

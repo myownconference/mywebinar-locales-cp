@@ -21,7 +21,6 @@ return [
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Tisztelt felhasználók 2025.09.13-án frissítjük az SSL tanúsítványokat a DTS programban «adások és képernyőmegosztás céljából». Ezt követően a jelenlegi verzió nem fog működni és minden előadónak kötelező frissítést kell végrehajtania. A program automatikusan jelezni fogja a frissítés szükségességét a webináriumi szobában</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 

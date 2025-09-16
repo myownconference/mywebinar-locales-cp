@@ -21,7 +21,6 @@ return [
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Gerbiami naudotojai 2025-09-13 atnaujinsime SSL sertifikatus DTS programoje «transliacijoms ir ekrano rodymui». Po to dabartinė versija nustos veikti ir visiems vedėjams reikės privalomai atnaujinti. Apie atnaujinimo būtinybę programa automatiškai praneš webinaro kambaryje</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 

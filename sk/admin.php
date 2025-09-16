@@ -21,7 +21,6 @@ return [
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Vážení používatelia 13.09.2025 aktualizujeme SSL certifikáty v programe DTS «na vysielanie a zobrazenie obrazovky». Potom prestane aktuálna verzia fungovať a všetci prezentujúci budú musieť vykonať povinnú aktualizáciu. Program vás automaticky upozorní na potrebu aktualizácie v miestnosti webinára</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 

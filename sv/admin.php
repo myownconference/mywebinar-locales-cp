@@ -21,7 +21,6 @@ return [
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Kära användare den 13.09.2025 uppdaterar vi SSL-certifikaten i DTS-programmet «för sändningar och skärmdelning». Därefter kommer den nuvarande versionen sluta fungera och alla värdar måste genomföra den obligatoriska uppdateringen. Programmet meddelar automatiskt om behovet av uppdatering i webbinarrummet</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 

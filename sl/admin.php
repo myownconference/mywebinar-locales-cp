@@ -21,7 +21,6 @@ return [
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Spoštovani uporabniki 13.09.2025 bomo posodobili SSL certifikate v programu DTS «za prenose in prikaz zaslona». Po tem trenutna različica ne bo več delovala in vsi voditelji bodo morali opraviti obvezno posodobitev. Program vas bo samodejno obvestil o potrebi po posodobitvi v sobi za spletni seminar</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 

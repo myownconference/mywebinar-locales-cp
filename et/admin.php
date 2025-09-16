@@ -21,7 +21,6 @@ return [
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Lugupeetud kasutajad 13.09.2025 uuendame SSL sertifikaadid DTS programmis «ülekannete ja ekraani jagamise jaoks». Pärast seda lõpetab praegune versioon töötamise ja kõik esinejad peavad tegema kohustusliku uuenduse. Programmi kaudu antakse veebiseminari toas automaatselt teada uuenduse vajadusest</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 

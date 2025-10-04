@@ -4929,7 +4929,7 @@ return [
 		– Logo de la plateforme sur les webcams des modérateurs<br>
 		– Jusquʼà 2 animateurs simultanément (les autres peuvent parler à tour de rôle)<br>
 		– Importation de jusquʼà 20 abonnés<br>
-		– Jusquʼà 20 participants par webinaire<br>
+		– Jusquʼà 5 participants par webinaire<br>
 		– Enregistrement jusquʼà 20 minutes toutes les 20 minutes (480p + 720p)<br>
 		– Les webinaires peuvent être plus longs, mais lʼenregistrement est limité<br>
 		– Enregistrements disponibles uniquement pour un usage personnel<br>

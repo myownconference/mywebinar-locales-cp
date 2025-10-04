@@ -4911,7 +4911,7 @@ return [
 		– Plattformlogo vises på moderatorenes kamera<br>
 		– Opptil 2 verter samtidig (andre kan snakke etter tur)<br>
 		– Importer opptil 20 abonnenter<br>
-		– Maksimalt 20 deltakere per webinar<br>
+		– Maksimalt 5 deltakere per webinar<br>
 		– Opptak opptil 20 minutter per 20 minutter (480p + 720p)<br>
 		– Webinarer kan være lengre, men opptak er begrenset<br>
 		– Opptak kun tilgjengelig for personlig bruk<br>

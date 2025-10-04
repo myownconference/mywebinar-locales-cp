@@ -4911,7 +4911,7 @@ return [
 		– Platformlogo vises på moderatorers webcam<br>
 		– Maks. 2 værter ad gangen (andre taler på skift)<br>
 		– Import af op til 20 abonnenter<br>
-		– Op til 20 deltagere pr. webinar<br>
+		– Op til 5 deltagere pr. webinar<br>
 		– Optag op til 20 minutter hver 20. minut (480p + 720p)<br>
 		– Webinarer kan være længere, men optagelsen er begrænset<br>
 		– Optagelser kun til personlig brug<br>

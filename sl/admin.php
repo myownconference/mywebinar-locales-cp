@@ -4911,7 +4911,7 @@ return [
 		– Logotip platforme na kamerah moderatorjev<br>
 		– Do 2 gostitelja hkrati (ostali govorijo izmenično)<br>
 		– Uvoz do 20 naročnikov<br>
-		– Do 20 udeležencev na seminar<br>
+		– Do 5 udeležencev na seminar<br>
 		– Snemanje do 20 minut na vsakih 20 minut (480p + 720p)<br>
 		– Seminarji so lahko daljši, snemanje pa je omejeno<br>
 		– Posnetki samo za osebno uporabo<br>

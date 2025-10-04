@@ -4731,7 +4731,7 @@ return [
 		– Logo platformy na kamerách moderátorov<br>
 		– Maximálne 2 prezentujúci naraz (ostatní hovoria postupne)<br>
 		– Import maximálne 20 účastníkov<br>
-		– Do 20 účastníkov na webinári<br>
+		– Do 5 účastníkov na webinári<br>
 		– Nahrávanie do 20 minút každých 20 minút (480p + 720p)<br>
 		– Webináre môžu byť dlhšie, ale nahrávanie je obmedzené<br>
 		– Záznamy len na osobné použitie<br>

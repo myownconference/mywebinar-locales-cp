@@ -4923,7 +4923,7 @@ return [
 		– Platformos logotipas moderatoriams įjungus kamerą<br>
 		– Iki 2 vedėjų vienu metu (kiti kalba paeiliui)<br>
 		– Iki 20 prenumeratorių importo<br>
-		– Iki 20 dalyvių viename webinare<br>
+		– Iki 5 dalyvių viename webinare<br>
 		– Įrašymas iki 20 min. kas 20 min. (480p + 720p)<br>
 		– webinarai gali trukti ilgiau, bet įrašai ribojami<br>
 		– Prieiga prie įrašų tik asmeniniam naudojimui<br>

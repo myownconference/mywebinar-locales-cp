@@ -4911,7 +4911,7 @@ return [
 		– Alustan logo näkyy moderaattorin kamerassa<br>
 		– Enintään 2 isäntää kerrallaan (muut voivat puhua vuorotellen)<br>
 		– Tuo enintään 20 tilaajaa<br>
-		– Enintään 20 osallistujaa per webinaari<br>
+		– Enintään 5 osallistujaa per webinaari<br>
 		– Nauhoita enintään 20 minuuttia joka 20. minuutti (480p + 720p)<br>
 		– Webinaarit voivat olla pidempiä, mutta tallennus on rajattu<br>
 		– Tallenteet vain henkilökohtaiseen käyttöön<br>

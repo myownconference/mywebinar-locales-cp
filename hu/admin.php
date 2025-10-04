@@ -4911,7 +4911,7 @@ return [
 		– A platform logója megjelenik a moderátorok webkameráján<br>
 		– Legfeljebb 2 házigazda egy időben (a többiek felváltva beszélhetnek)<br>
 		– Legfeljebb 20 feliratkozó importálása<br>
-		– Legfeljebb 20 résztvevő webináriumonként<br>
+		– Legfeljebb 5 résztvevő webináriumonként<br>
 		– Legfeljebb 20 perc rögzítés 20 percenként (480p + 720p)<br>
 		– A webináriumok hosszabbak lehetnek, de a rögzítés korlátozott<br>
 		– A rögzítések csak személyes használatra érhetők el<br>

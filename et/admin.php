@@ -4911,7 +4911,7 @@ return [
 		– Platvormi logo moderaatorite kaamerates<br>
 		– Kuni 2 esinejat korraga (teised saavad rääkida kordamööda)<br>
 		– Kuni 20 tellijat<br>
-		– Kuni 20 osalejat veebiseminari kohta<br>
+		– Kuni 5 osalejat veebiseminari kohta<br>
 		– Salvesta kuni 20 minutit iga 20 minuti kohta (480p + 720p)<br>
 		– Veebiseminarid võivad olla pikemad, kuid salvestus on piiratud<br>
 		– Salvestused ainult isiklikuks kasutamiseks<br>

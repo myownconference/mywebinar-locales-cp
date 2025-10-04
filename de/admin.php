@@ -4911,7 +4911,7 @@ return [
 		– Plattform-Logo auf den Webcams der Moderatoren<br>
 		– Bis zu 2 Gastgeber gleichzeitig (andere können abwechselnd sprechen)<br>
 		– Import von bis zu 20 Abonnenten<br>
-		– Bis zu 20 Teilnehmer pro Webinar<br>
+		– Bis zu 5 Teilnehmer pro Webinar<br>
 		– Aufnahme von bis zu 20 Minuten alle 20 Minuten (480p + 720p)<br>
 		– Webinare können länger dauern, aber die Aufnahmezeit ist begrenzt<br>
 		– Aufnahmen nur für den persönlichen Gebrauch verfügbar<br>

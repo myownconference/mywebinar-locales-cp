@@ -4911,7 +4911,7 @@ return [
 		– Logo da plataforma nas webcams dos moderadores<br>
 		– Até 2 apresentadores ao mesmo tempo (outros falam em turnos)<br>
 		– Importação de até 20 inscritos<br>
-		– Até 20 participantes por webinar<br>
+		– Até 5 participantes por webinar<br>
 		– Gravação de até 20 minutos a cada 20 minutos (480p + 720p)<br>
 		– Webinars podem durar mais, mas a gravação é limitada<br>
 		– Gravações disponíveis apenas para uso pessoal<br>

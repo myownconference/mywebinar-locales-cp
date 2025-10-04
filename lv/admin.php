@@ -4923,7 +4923,7 @@ return [
 		– Platformas logotips moderatoru kamerās<br>
 		– Līdz 2 vadītājiem vienlaikus (pārējie var runāt pēc kārtas)<br>
 		– Importēt līdz 20 abonentiem<br>
-		– Līdz 20 dalībniekiem vienā vebinārā<br>
+		– Līdz 5 dalībniekiem vienā vebinārā<br>
 		– Ieraksts līdz 20 minūtēm ik pēc 20 minūtēm (480p + 720p)<br>
 		– Vebinārs var būt ilgāks, bet ieraksts ir ierobežots<br>
 		– Ieraksti pieejami tikai personīgai lietošanai<br>

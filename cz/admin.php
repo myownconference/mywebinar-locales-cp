@@ -4911,7 +4911,7 @@ return [
 		– Logo platformy na webkamerách moderátorů<br>
 		– Až 2 moderátoři najednou (ostatní mohou střídat)<br>
 		– Import až 20 kontaktů<br>
-		– Až 20 účastníků na webinar<br>
+		– Až 5 účastníků na webinar<br>
 		– Záznam max. 20 min každých 20 min (480p + 720p)<br>
 		– Webinary mohou trvat déle, ale záznam je omezen<br>
 		– Záznamy pouze pro osobní použití<br>

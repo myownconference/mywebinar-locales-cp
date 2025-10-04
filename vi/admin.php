@@ -4917,7 +4917,7 @@ return [
 		– Hiển thị logo nền tảng trên webcam của người điều hành<br>
 		– Tối đa 2 người điều hành cùng lúc (người khác có thể phát biểu luân phiên)<br>
 		– Nhập tối đa 20 người đăng ký<br>
-		– Tối đa 20 người tham dự mỗi hội thảo trực tuyến<br>
+		– Tối đa 5 người tham dự mỗi hội thảo trực tuyến<br>
 		– Ghi hình tối đa 20 phút mỗi 20 phút (480p + 720p)<br>
 		– Hội thảo có thể dài hơn, nhưng thời lượng ghi bị giới hạn<br>
 		– Bản ghi chỉ được dùng cho mục đích cá nhân<br>

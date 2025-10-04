@@ -4911,7 +4911,7 @@ return [
 		– Platformlogo zichtbaar op webcams van moderators<br>
 		– Maximaal 2 hosts tegelijk (anderen kunnen om de beurt spreken)<br>
 		– Importeer tot 20 abonnees<br>
-		– Maximaal 20 deelnemers per webinar<br>
+		– Maximaal 5 deelnemers per webinar<br>
 		– Opnemen tot 20 minuten per 20 minuten (480p + 720p)<br>
 		– Webinars mogen langer duren, maar opnames zijn beperkt<br>
 		– Opnames alleen voor persoonlijk gebruik<br>

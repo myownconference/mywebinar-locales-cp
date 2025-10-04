@@ -4911,7 +4911,7 @@ return [
 		– Plattformens logotyp visas på moderatorernas webbkamera<br>
 		– Upp till 2 värdar samtidigt (övriga kan tala i tur och ordning)<br>
 		– Importera upp till 20 prenumeranter<br>
-		– Upp till 20 deltagare per webbinar<br>
+		– Upp till 5 deltagare per webbinar<br>
 		– Spela in upp till 20 minuter åt gången (480p + 720p)<br>
 		– Webbinarer kan vara längre, men inspelningen är begränsad<br>
 		– Inspelningar är endast till för personligt bruk<br>

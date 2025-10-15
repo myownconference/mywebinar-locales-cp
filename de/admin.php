@@ -7113,4 +7113,34 @@ return [
 		Nur markierte Teilnehmer werden zum Webinar eingeladen <span class="tooltip" data-tip="Diese Liste zeigt alle aktiven Teilnehmer, die jemals dem allgemeinen Bereich hinzugefügt wurden. Bitte wählen Sie nur diejenigen aus, die Sie zu dieser Veranstaltung einladen möchten. Nur die ausgewählten Teilnehmer erhalten den Zugangslink und können teilnehmen. Beachten Sie, dass die Anzahl der eingeladenen Teilnehmer bis zum Fünffachen Ihrer Tarifkapazität betragen kann"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'webinar-text-chat-settings' => //////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Chateinstellungen <span class="tooltip" data-tip="Verwalten Sie, wie der Chat während Ihres Webinars funktioniert, und legen Sie Kommunikationsregeln für die Teilnehmer fest. Alle ausgewählten Optionen werden automatisch angewendet, wenn das Webinar beginnt"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'room-options-chat-block' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Chat gesperrt <span class="tooltip" data-tip="Wenn diese Option aktiviert ist, können Teilnehmende keine Nachrichten im Chat senden. Nachrichten von Gastgebern und Moderatoren bleiben weiterhin sichtbar"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'room-options-chat-filter' => ////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Chatmoderation <span class="tooltip" data-tip="Nachrichten der Teilnehmer erscheinen im Chat erst, nachdem sie von einem Moderator genehmigt wurden. Dies hilft, Ordnung zu halten und unerwünschte Nachrichten zu verhindern"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'room-options-chat-links' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Links im Chat erlauben <span class="tooltip" data-tip="Ermöglicht Teilnehmern, Nachrichten mit Links zu senden. Wenn diese Option deaktiviert ist, werden Links in Nachrichten automatisch ausgeblendet"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'room-options-chat-anonimize' => /////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Teilnehmernamen anonymisieren <span class="tooltip" data-tip="Verbirgt die echten Namen der Teilnehmer und ersetzt sie durch neutrale Bezeichnungen. Dies hilft, die Privatsphäre des Publikums zu schützen"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 ];

@@ -7128,4 +7128,34 @@ return [
 		Solo los participantes marcados serán invitados al seminario web <span class="tooltip" data-tip="Esta lista muestra todos tus asistentes activos que alguna vez se añadieron a la sección general. Selecciona solo a quienes deseas invitar a este evento. Solo los asistentes seleccionados recibirán el enlace de acceso y podrán unirse. Ten en cuenta que el número de invitados puede ser hasta cinco veces mayor que la capacidad de tu plan"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'webinar-text-chat-settings' => //////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Configuración del chat <span class="tooltip" data-tip="Administre cómo funciona el chat durante su seminario web y establezca las reglas de comunicación para los participantes. Todas las opciones seleccionadas se aplican automáticamente cuando comienza el seminario web"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'room-options-chat-block' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Chat bloqueado <span class="tooltip" data-tip="Cuando está activado, los participantes no podrán enviar mensajes en el chat. Los mensajes de los anfitriones y moderadores seguirán siendo visibles"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'room-options-chat-filter' => ////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Moderación del chat <span class="tooltip" data-tip="Los mensajes de los participantes aparecerán en el chat solo después de ser aprobados por un moderador. Esto ayuda a mantener el orden y evita mensajes no deseados"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'room-options-chat-links' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Permitir enlaces en el chat <span class="tooltip" data-tip="Permite que los participantes envíen mensajes que contengan enlaces. Si esta opción está desactivada, los enlaces en los mensajes se ocultarán automáticamente"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'room-options-chat-anonimize' => /////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Anonimizar nombres de los participantes <span class="tooltip" data-tip="Oculta los nombres reales de los participantes y los reemplaza por etiquetas neutrales. Esto ayuda a proteger la privacidad del público"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 ];

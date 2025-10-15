@@ -7113,4 +7113,34 @@ return [
 		Doar participanții selectați vor fi invitați la webinar <span class="tooltip" data-tip="Această listă afișează toți participanții activi adăugați vreodată în secțiunea generală. Vă rugăm să selectați doar pe cei pe care doriți să îi invitați la acest eveniment. Doar participanții selectați vor primi linkul de acces și vor putea să se alăture. Rețineți că numărul participanților invitați poate fi de până la cinci ori mai mare decât capacitatea planului dumneavoastră"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'webinar-text-chat-settings' => //////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Setări chat <span class="tooltip" data-tip="Administrați modul în care funcționează chatul în timpul webinarului și stabiliți reguli de comunicare pentru participanți. Toate opțiunile selectate sunt aplicate automat la începerea webinarului"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'room-options-chat-block' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Chat blocat <span class="tooltip" data-tip="Când această opțiune este activată, participanții nu pot trimite mesaje în chat. Mesajele de la gazde și moderatori vor rămâne vizibile"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'room-options-chat-filter' => ////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Moderarea chatului <span class="tooltip" data-tip="Mesajele participanților vor apărea în chat doar după ce vor fi aprobate de un moderator. Acest lucru ajută la menținerea ordinii și la prevenirea mesajelor nedorite"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'room-options-chat-links' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Permite linkuri în chat <span class="tooltip" data-tip="Permite participanților să trimită mesaje care conțin linkuri. Dacă această opțiune este dezactivată, linkurile din mesaje vor fi ascunse automat"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'room-options-chat-anonimize' => /////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Anonimizează numele participanților <span class="tooltip" data-tip="Ascunde numele reale ale participanților și le înlocuiește cu etichete neutre. Acest lucru ajută la protejarea confidențialității publicului"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 ];

@@ -7113,4 +7113,34 @@ return [
 		Csak a megjelölt résztvevők lesznek meghívva a webinárra <span class="tooltip" data-tip="Ez a lista megjeleníti az összes aktív résztvevőt, akiket valaha hozzáadtak az általános szekcióhoz. Kérjük, csak azokat válassza ki, akiket meg szeretne hívni erre az eseményre. Csak a kiválasztott résztvevők kapják meg a hozzáférési linket, és tudnak csatlakozni. Vegye figyelembe, hogy a meghívottak száma akár ötszöröse is lehet a csomagkapacitásának"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'webinar-text-chat-settings' => //////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Csevegés beállításai <span class="tooltip" data-tip="Kezelje, hogyan működik a csevegés a webináriuma során, és állítsa be a kommunikációs szabályokat a résztvevők számára. Minden kiválasztott beállítás automatikusan érvénybe lép, amikor a webinárium elkezdődik"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'room-options-chat-block' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		A csevegés zárolva van <span class="tooltip" data-tip="Ha ez az opció be van kapcsolva, a résztvevők nem tudnak üzeneteket küldeni a csevegésben. A házigazdák és moderátorok üzenetei továbbra is láthatók maradnak"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'room-options-chat-filter' => ////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Csevegés moderálása <span class="tooltip" data-tip="A résztvevők üzenetei csak akkor jelennek meg a csevegésben, ha azokat a moderátor jóváhagyta. Ez segít a rend fenntartásában és a nem kívánt üzenetek megelőzésében"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'room-options-chat-links' => /////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Hivatkozások engedélyezése a csevegésben <span class="tooltip" data-tip="Lehetővé teszi a résztvevők számára, hogy linkeket tartalmazó üzeneteket küldjenek. Ha ez az opció le van tiltva, a linkek az üzenetekben automatikusan el lesznek rejtve"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
+	'room-options-chat-anonimize' => /////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		A résztvevők neveinek anonimizálása <span class="tooltip" data-tip="Elrejti a résztvevők valódi neveit, és semleges megjelölésekkel helyettesíti őket. Ez segít megvédeni a közönség magánéletét"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 ];

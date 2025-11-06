@@ -2115,7 +2115,7 @@ return [
 	'room-logo' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Logo <span class="tooltip" data-tip="Vaša značka je dôležitá. Vložte svoje logo do miestnosti a zabezpečte konzistentný vzhľad pre účastníkov. Logo bude viditeľné len účastníkom. Ak ho chcete vidieť, prihláste sa ako účastník"></span>
+		Logo (38×38 pixelov) <span class="tooltip" data-tip="Vaša značka je dôležitá. Vložte svoje logo do miestnosti a zabezpečte konzistentný vzhľad pre účastníkov. Logo bude viditeľné len účastníkom. Ak ho chcete vidieť, prihláste sa ako účastník"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-logo-size' => //////////////////////////////////////////////////////////////////
@@ -2133,7 +2133,7 @@ return [
 	'room-banner' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Banner <span class="tooltip" data-tip="Vaša značka je dôležitá. Vložte banner do miestnosti a zabezpečte konzistentný vzhľad pre účastníkov. Banner bude viditeľný len účastníkom. Ak ho chcete vidieť, prihláste sa ako účastník"></span>
+		Banner (380×38 pixelov) <span class="tooltip" data-tip="Vaša značka je dôležitá. Vložte banner do miestnosti a zabezpečte konzistentný vzhľad pre účastníkov. Banner bude viditeľný len účastníkom. Ak ho chcete vidieť, prihláste sa ako účastník"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-banner-size' => ////////////////////////////////////////////////////////////////

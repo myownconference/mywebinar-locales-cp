@@ -2115,7 +2115,7 @@ return [
 	'room-logo' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Logotyp <span class="tooltip" data-tip="Visa din logotyp i webbinarierummet för en starkare varumärkesnärvaro. Logotypen syns endast för deltagare. För att se den själv, gå in i rummet som deltagare"></span>
+		Logotyp (38×38 pixlar) <span class="tooltip" data-tip="Visa din logotyp i webbinarierummet för en starkare varumärkesnärvaro. Logotypen syns endast för deltagare. För att se den själv, gå in i rummet som deltagare"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-logo-size' => //////////////////////////////////////////////////////////////////
@@ -2133,7 +2133,7 @@ return [
 	'room-banner' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Banner <span class="tooltip" data-tip="Visa din banner i webbinarierummet för en enhetlig varumärkesupplevelse. Bannern syns endast för deltagare. För att se den själv, gå in i rummet som deltagare"></span>
+		Banner (380×38 pixlar) <span class="tooltip" data-tip="Visa din banner i webbinarierummet för en enhetlig varumärkesupplevelse. Bannern syns endast för deltagare. För att se den själv, gå in i rummet som deltagare"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-banner-size' => ////////////////////////////////////////////////////////////////

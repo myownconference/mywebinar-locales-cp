@@ -2115,7 +2115,7 @@ return [
 	'room-logo' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Logotip <span class="tooltip" data-tip="Vaša blagovna znamka šteje. Enostavno vključite svoj logotip v sobo spletnega seminarja za bolj celovito in usklajeno uporabniško izkušnjo. Logotip bo viden samo udeležencem spletnega seminarja. Če ga želite videti, vstopite v sobo kot udeleženec"></span>
+		Logotip (38×38 slikovnih pik) <span class="tooltip" data-tip="Vaša blagovna znamka šteje. Enostavno vključite svoj logotip v sobo spletnega seminarja za bolj celovito in usklajeno uporabniško izkušnjo. Logotip bo viden samo udeležencem spletnega seminarja. Če ga želite videti, vstopite v sobo kot udeleženec"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-logo-size' => //////////////////////////////////////////////////////////////////
@@ -2133,7 +2133,7 @@ return [
 	'room-banner' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pasica <span class="tooltip" data-tip="Vaša blagovna znamka šteje. Enostavno vključite svojo pasico v sobo spletnega seminarja za bolj celovito in usklajeno uporabniško izkušnjo. Pasica bo viden samo udeležencem spletnega seminarja. Če jo želite videti, vstopite v sobo kot udeleženec"></span>
+		Pasica (380×38 slikovnih pik) <span class="tooltip" data-tip="Vaša blagovna znamka šteje. Enostavno vključite svojo pasico v sobo spletnega seminarja za bolj celovito in usklajeno uporabniško izkušnjo. Pasica bo viden samo udeležencem spletnega seminarja. Če jo želite videti, vstopite v sobo kot udeleženec"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-banner-size' => ////////////////////////////////////////////////////////////////

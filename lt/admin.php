@@ -2115,7 +2115,7 @@ return [
 	'room-logo' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Logotipas <span class="tooltip" data-tip="Jūsų prekės ženklas svarbus! Dabar galite lengvai integruoti savo logotipą į webinaro kambarį ir pagerinti naudotojo patirtį pagal savo vizualinį identitetą. Logotipas bus matomas tik renginio dalyviams. Jei norite jį pamatyti, prisijunkite kaip dalyvis"></span>
+		Logotipas (38×38 pikselių) <span class="tooltip" data-tip="Jūsų prekės ženklas svarbus! Dabar galite lengvai integruoti savo logotipą į webinaro kambarį ir pagerinti naudotojo patirtį pagal savo vizualinį identitetą. Logotipas bus matomas tik renginio dalyviams. Jei norite jį pamatyti, prisijunkite kaip dalyvis"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-logo-size' => //////////////////////////////////////////////////////////////////
@@ -2133,7 +2133,7 @@ return [
 	'room-banner' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Baneris <span class="tooltip" data-tip="Jūsų prekės ženklas svarbus! Dabar galite lengvai integruoti savo banerį į Webinaro kambarį ir pagerinti naudotojo patirtį. Baneris bus matomas tik renginio dalyviams. Jei norite jį pamatyti, prisijunkite kaip dalyvis"></span>
+		Baneris (380×38 pikselių) <span class="tooltip" data-tip="Jūsų prekės ženklas svarbus! Dabar galite lengvai integruoti savo banerį į Webinaro kambarį ir pagerinti naudotojo patirtį. Baneris bus matomas tik renginio dalyviams. Jei norite jį pamatyti, prisijunkite kaip dalyvis"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-banner-size' => ////////////////////////////////////////////////////////////////

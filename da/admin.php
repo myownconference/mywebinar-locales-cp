@@ -2115,7 +2115,7 @@ return [
 	'room-logo' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Logo <span class="tooltip" data-tip="Indsæt dit logo i webinar-rummet for en mere genkendelig oplevelse. Logoet vises kun for deltagere. For at se det selv, skal du tilgå rummet som deltager"></span>
+		Logo (38×38 pixels) <span class="tooltip" data-tip="Indsæt dit logo i webinar-rummet for en mere genkendelig oplevelse. Logoet vises kun for deltagere. For at se det selv, skal du tilgå rummet som deltager"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-logo-size' => //////////////////////////////////////////////////////////////////
@@ -2133,7 +2133,7 @@ return [
 	'room-banner' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Banner <span class="tooltip" data-tip="Indsæt dit banner i webinar-rummet for en ensartet brandingoplevelse. Banneret vises kun for deltagere. For at se det selv, skal du tilgå rummet som deltager"></span>
+		Banner (380×38 pixels) <span class="tooltip" data-tip="Indsæt dit banner i webinar-rummet for en ensartet brandingoplevelse. Banneret vises kun for deltagere. For at se det selv, skal du tilgå rummet som deltager"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-banner-size' => ////////////////////////////////////////////////////////////////

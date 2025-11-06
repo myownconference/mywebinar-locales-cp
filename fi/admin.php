@@ -2115,7 +2115,7 @@ return [
 	'room-logo' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Logo <span class="tooltip" data-tip="Brändisi on tärkeä. Voit lisätä logon webinaaritilaan ja vahvistaa yhtenäistä ilmettä. Logo näkyy vain osallistujille. Jos haluat nähdä sen itse, liity tapahtumaan osallistujana"></span>
+		Logo (38×38 pikseliä) <span class="tooltip" data-tip="Brändisi on tärkeä. Voit lisätä logon webinaaritilaan ja vahvistaa yhtenäistä ilmettä. Logo näkyy vain osallistujille. Jos haluat nähdä sen itse, liity tapahtumaan osallistujana"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-logo-size' => //////////////////////////////////////////////////////////////////
@@ -2133,7 +2133,7 @@ return [
 	'room-banner' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Banneri <span class="tooltip" data-tip="Brändisi on tärkeä. Voit lisätä bannerin webinaaritilaan ja vahvistaa yhtenäistä ilmettä. Banneri näkyy vain osallistujille. Jos haluat nähdä sen itse, liity tapahtumaan osallistujana"></span>
+		Banneri (380×38 pikseliä) <span class="tooltip" data-tip="Brändisi on tärkeä. Voit lisätä bannerin webinaaritilaan ja vahvistaa yhtenäistä ilmettä. Banneri näkyy vain osallistujille. Jos haluat nähdä sen itse, liity tapahtumaan osallistujana"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-banner-size' => ////////////////////////////////////////////////////////////////

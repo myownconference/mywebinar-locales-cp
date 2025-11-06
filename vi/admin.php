@@ -2133,7 +2133,7 @@ return [
 	'room-banner' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Banner <span class="tooltip" data-tip="Thương hiệu của bạn rất quan trọng. Giờ đây, bạn có thể tích hợp banner vào phòng hội thảo để mang lại trải nghiệm đồng nhất với thương hiệu. Banner sẽ chỉ hiển thị cho người tham dự. Nếu muốn xem, hãy vào phòng với tư cách người tham dự"></span>
+		Biểu ngữ (380×38 pixel) <span class="tooltip" data-tip="Thương hiệu của bạn rất quan trọng. Giờ đây, bạn có thể tích hợp banner vào phòng hội thảo để mang lại trải nghiệm đồng nhất với thương hiệu. Banner sẽ chỉ hiển thị cho người tham dự. Nếu muốn xem, hãy vào phòng với tư cách người tham dự"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-banner-size' => ////////////////////////////////////////////////////////////////

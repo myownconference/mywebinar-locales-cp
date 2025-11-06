@@ -2115,7 +2115,7 @@ return [
 	'room-logo' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Logo <span class="tooltip" data-tip="Merkevaren din teller. Legg til logoen i webinarrommet for en helhetlig, profesjonell brukeropplevelse. Logoen er synlig kun for webinar-deltakere. Ønsker du å se den, må du bli med som deltaker"></span>
+		Logo (38×38 piksler) <span class="tooltip" data-tip="Merkevaren din teller. Legg til logoen i webinarrommet for en helhetlig, profesjonell brukeropplevelse. Logoen er synlig kun for webinar-deltakere. Ønsker du å se den, må du bli med som deltaker"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-logo-size' => //////////////////////////////////////////////////////////////////
@@ -2133,7 +2133,7 @@ return [
 	'room-banner' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Banner <span class="tooltip" data-tip="Merkevaren din teller. Legg til et banner i webinarrommet for en helhetlig og visuell merkevareopplevelse. Banneret er synlig kun for deltakerne. For å se det selv, bli med som deltaker i webinaret"></span>
+		Banner (380×38 piksler) <span class="tooltip" data-tip="Merkevaren din teller. Legg til et banner i webinarrommet for en helhetlig og visuell merkevareopplevelse. Banneret er synlig kun for deltakerne. For å se det selv, bli med som deltaker i webinaret"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-banner-size' => ////////////////////////////////////////////////////////////////

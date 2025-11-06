@@ -2115,7 +2115,7 @@ return [
 	'room-logo' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Logotips <span class="tooltip" data-tip="Jūsu zīmols ir svarīgs! Tagad varat viegli pievienot savu logotipu vebināra istabai, lai uzlabotu lietotāju pieredzi atbilstoši jūsu zīmolam. Logotips būs redzams tikai pasākuma dalībniekiem. Ja vēlaties to redzēt, pieslēdzieties kā dalībnieks"></span>
+		Logotips (38×38 pikseļi) <span class="tooltip" data-tip="Jūsu zīmols ir svarīgs! Tagad varat viegli pievienot savu logotipu vebināra istabai, lai uzlabotu lietotāju pieredzi atbilstoši jūsu zīmolam. Logotips būs redzams tikai pasākuma dalībniekiem. Ja vēlaties to redzēt, pieslēdzieties kā dalībnieks"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-logo-size' => //////////////////////////////////////////////////////////////////
@@ -2133,7 +2133,7 @@ return [
 	'room-banner' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Baneris <span class="tooltip" data-tip="Jūsu zīmols ir svarīgs! Tagad varat viegli pievienot savu baneri vebināra istabai, lai uzlabotu lietotāju pieredzi. Baneris būs redzams tikai pasākuma dalībniekiem. Ja vēlaties to redzēt, pieslēdzieties kā dalībnieks"></span>
+		Baneris (380×38 pikseļi) <span class="tooltip" data-tip="Jūsu zīmols ir svarīgs! Tagad varat viegli pievienot savu baneri vebināra istabai, lai uzlabotu lietotāju pieredzi. Baneris būs redzams tikai pasākuma dalībniekiem. Ja vēlaties to redzēt, pieslēdzieties kā dalībnieks"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-banner-size' => ////////////////////////////////////////////////////////////////

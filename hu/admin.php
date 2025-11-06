@@ -2115,7 +2115,7 @@ return [
 	'room-logo' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Logó <span class="tooltip" data-tip="A márkája fontos. Most zökkenőmentesen integrálhatja logóját a webinárium szobába, gazdagabb, márka-konzisztens felhasználói élményt biztosítva. A logó csak a webinárium résztvevői számára lesz látható. Ha meg szeretné tekinteni, lépjen be a webinárium szobába résztvevőként"></span>
+		Logó (38×38 képpont) <span class="tooltip" data-tip="A márkája fontos. Most zökkenőmentesen integrálhatja logóját a webinárium szobába, gazdagabb, márka-konzisztens felhasználói élményt biztosítva. A logó csak a webinárium résztvevői számára lesz látható. Ha meg szeretné tekinteni, lépjen be a webinárium szobába résztvevőként"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-logo-size' => //////////////////////////////////////////////////////////////////
@@ -2133,7 +2133,7 @@ return [
 	'room-banner' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Banner <span class="tooltip" data-tip="A márkája fontos. Most zökkenőmentesen integrálhatja a bannerjét a webinárium szobába, gazdagabb, márka-konzisztens felhasználói élményt biztosítva. A banner csak a webinárium résztvevői számára lesz látható. Ha meg szeretné tekinteni, lépjen be a webinárium szobába résztvevőként"></span>
+		Banner (380×38 képpont) <span class="tooltip" data-tip="A márkája fontos. Most zökkenőmentesen integrálhatja a bannerjét a webinárium szobába, gazdagabb, márka-konzisztens felhasználói élményt biztosítva. A banner csak a webinárium résztvevői számára lesz látható. Ha meg szeretné tekinteni, lépjen be a webinárium szobába résztvevőként"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-banner-size' => ////////////////////////////////////////////////////////////////

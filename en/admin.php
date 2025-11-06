@@ -2115,7 +2115,7 @@ return [
 	'room-logo' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Logo <span class="tooltip" data-tip="Your brand matters. Now, seamlessly integrate your logo into the webinar room for an enriched, brand-consistent user experience. The logo will be visible to webinar attendees only. If you wish to view it, access the webinar room as an attendee"></span>
+		Logo (38×38 pixels) <span class="tooltip" data-tip="Your brand matters. Now, seamlessly integrate your logo into the webinar room for an enriched, brand-consistent user experience. The logo will be visible to webinar attendees only. If you wish to view it, access the webinar room as an attendee"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-logo-size' => //////////////////////////////////////////////////////////////////
@@ -2133,7 +2133,7 @@ return [
 	'room-banner' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Banner <span class="tooltip" data-tip="Your brand matters. Now, seamlessly integrate your banner into the webinar room for an enriched, brand-consistent user experience. The banner will be visible to webinar attendees only. If you wish to view it, access the webinar room as an attendee"></span>
+		Banner (380×38 pixels) <span class="tooltip" data-tip="Your brand matters. Now, seamlessly integrate your banner into the webinar room for an enriched, brand-consistent user experience. The banner will be visible to webinar attendees only. If you wish to view it, access the webinar room as an attendee"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-banner-size' => ////////////////////////////////////////////////////////////////

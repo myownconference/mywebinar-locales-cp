@@ -2115,7 +2115,7 @@ return [
 	'room-logo' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Λογότυπο <span class="tooltip" data-tip="Your brand matters. Now, seamlessly integrate your logo into the webinar room for an enriched, brand-consistent user experience. The logo will be visible to webinar attendees only. If you wish to view it, access the webinar room as an attendee"></span>
+		Λογότυπο (38×38 εικονοστοιχεία) <span class="tooltip" data-tip="Your brand matters. Now, seamlessly integrate your logo into the webinar room for an enriched, brand-consistent user experience. The logo will be visible to webinar attendees only. If you wish to view it, access the webinar room as an attendee"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-logo-size' => //////////////////////////////////////////////////////////////////
@@ -2133,7 +2133,7 @@ return [
 	'room-banner' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Πανό <span class="tooltip" data-tip="Your brand matters. Now, seamlessly integrate your banner into the webinar room for an enriched, brand-consistent user experience. The banner will be visible to webinar attendees only. If you wish to view it, access the webinar room as an attendee"></span>
+		Πανό (380×38 εικονοστοιχεία) <span class="tooltip" data-tip="Your brand matters. Now, seamlessly integrate your banner into the webinar room for an enriched, brand-consistent user experience. The banner will be visible to webinar attendees only. If you wish to view it, access the webinar room as an attendee"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-banner-size' => ////////////////////////////////////////////////////////////////

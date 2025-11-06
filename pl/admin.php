@@ -2116,7 +2116,7 @@ return [
 	'room-logo' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Logo <span class="tooltip" data-tip="Twoja marka ma znaczenie. Teraz zintegruj swój logotyp bezproblemowo z salą webinarową, wzbogacając wrażenia użytkowników zgodnie z marką. Logotyp będzie widoczny tylko dla uczestników webinaru. Jeśli chcesz go zobaczyć, uzyskaj dostęp do sali webinarowej jako uczestnik"></span>
+		Logo (38×38 pikseli) <span class="tooltip" data-tip="Twoja marka ma znaczenie. Teraz zintegruj swój logotyp bezproblemowo z salą webinarową, wzbogacając wrażenia użytkowników zgodnie z marką. Logotyp będzie widoczny tylko dla uczestników webinaru. Jeśli chcesz go zobaczyć, uzyskaj dostęp do sali webinarowej jako uczestnik"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-logo-size' => //////////////////////////////////////////////////////////////////
@@ -2134,7 +2134,7 @@ return [
 	'room-banner' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Baner <span class="tooltip" data-tip="Twoja marka ma znaczenie. Teraz zintegruj swój baner bezproblemowo z salą webinarową, wzbogacając wrażenia użytkowników zgodnie z marką. Baner będzie widoczny tylko dla uczestników webinaru. Jeśli chcesz go zobaczyć, uzyskaj dostęp do sali webinarowej jako uczestnik"></span>
+		Baner (380×38 pikseli) <span class="tooltip" data-tip="Twoja marka ma znaczenie. Teraz zintegruj swój baner bezproblemowo z salą webinarową, wzbogacając wrażenia użytkowników zgodnie z marką. Baner będzie widoczny tylko dla uczestników webinaru. Jeśli chcesz go zobaczyć, uzyskaj dostęp do sali webinarowej jako uczestnik"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-banner-size' => ////////////////////////////////////////////////////////////////

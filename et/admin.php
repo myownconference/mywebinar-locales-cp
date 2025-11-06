@@ -2115,7 +2115,7 @@ return [
 	'room-logo' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Logo <span class="tooltip" data-tip="Sinu bränd on oluline. Lisa oma logo veebiseminari ruumi, et pakkuda osalejatele ühtset ja professionaalset kogemust. Logo on nähtav ainult osalejatele. Kui soovid seda ise näha, sisene ruumi osalejana"></span>
+		Logo (38×38 pikslit) <span class="tooltip" data-tip="Sinu bränd on oluline. Lisa oma logo veebiseminari ruumi, et pakkuda osalejatele ühtset ja professionaalset kogemust. Logo on nähtav ainult osalejatele. Kui soovid seda ise näha, sisene ruumi osalejana"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-logo-size' => //////////////////////////////////////////////////////////////////
@@ -2133,7 +2133,7 @@ return [
 	'room-banner' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bänner <span class="tooltip" data-tip="Sinu bränd loeb. Lisa veebiseminari ruumi bänner, et luua ühtne ja professionaalne kasutajakogemus. Bänner on nähtav ainult osalejatele. Kui soovid seda näha, sisene ruumi osalejana"></span>
+		Bänner (380×38 pikslit) <span class="tooltip" data-tip="Sinu bränd loeb. Lisa veebiseminari ruumi bänner, et luua ühtne ja professionaalne kasutajakogemus. Bänner on nähtav ainult osalejatele. Kui soovid seda näha, sisene ruumi osalejana"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-banner-size' => ////////////////////////////////////////////////////////////////

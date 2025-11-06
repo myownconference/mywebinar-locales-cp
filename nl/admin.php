@@ -2115,7 +2115,7 @@ return [
 	'room-logo' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Logo <span class="tooltip" data-tip="Je merk is belangrijk. Voeg je logo toe aan de webinarruimte voor een consistente merkervaring. Het logo is alleen zichtbaar voor deelnemers. Wil je het zelf zien? Open de webinarruimte als deelnemer"></span>
+		Logo (38×38 pixels) <span class="tooltip" data-tip="Je merk is belangrijk. Voeg je logo toe aan de webinarruimte voor een consistente merkervaring. Het logo is alleen zichtbaar voor deelnemers. Wil je het zelf zien? Open de webinarruimte als deelnemer"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-logo-size' => //////////////////////////////////////////////////////////////////
@@ -2133,7 +2133,7 @@ return [
 	'room-banner' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Banner <span class="tooltip" data-tip="Je merk is belangrijk. Voeg je banner toe aan de webinarruimte voor een visueel aantrekkelijke en consistente merkbeleving. De banner is alleen zichtbaar voor deelnemers. Wil je hem zien? Open de webinarruimte als deelnemer"></span>
+		Banner (380×38 pixels) <span class="tooltip" data-tip="Je merk is belangrijk. Voeg je banner toe aan de webinarruimte voor een visueel aantrekkelijke en consistente merkbeleving. De banner is alleen zichtbaar voor deelnemers. Wil je hem zien? Open de webinarruimte als deelnemer"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-banner-size' => ////////////////////////////////////////////////////////////////

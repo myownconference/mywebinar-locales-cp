@@ -2115,7 +2115,7 @@ return [
 	'room-logo' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Logo <span class="tooltip" data-tip="Sua marca importa. Agora você pode integrar seu logo na sala de webinar, oferecendo uma experiência visual alinhada com sua identidade. O logo será visível apenas para os participantes. Para visualizá-lo, entre na sala como participante"></span>
+		Logotipo (38×38 pixels) <span class="tooltip" data-tip="Sua marca importa. Agora você pode integrar seu logo na sala de webinar, oferecendo uma experiência visual alinhada com sua identidade. O logo será visível apenas para os participantes. Para visualizá-lo, entre na sala como participante"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-logo-size' => //////////////////////////////////////////////////////////////////
@@ -2133,7 +2133,7 @@ return [
 	'room-banner' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Banner <span class="tooltip" data-tip="Sua marca importa. Agora você pode integrar seu banner na sala de webinar, criando uma experiência visual coerente com sua identidade. O banner será visível apenas para os participantes. Para visualizá-lo, entre na sala como participante"></span>
+		Banner (380×38 pixels) <span class="tooltip" data-tip="Sua marca importa. Agora você pode integrar seu banner na sala de webinar, criando uma experiência visual coerente com sua identidade. O banner será visível apenas para os participantes. Para visualizá-lo, entre na sala como participante"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-banner-size' => ////////////////////////////////////////////////////////////////

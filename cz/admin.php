@@ -2115,7 +2115,7 @@ return [
 	'room-logo' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Logo <span class="tooltip" data-tip="Vaše značka je důležitá. Vložte logo do místnosti webinaru pro jednotný a profesionální vzhled. Logo uvidí pouze účastníci. Pokud si jej chcete prohlédnout, vstupte do místnosti jako účastník"></span>
+		Logo (38×38 pixelů) <span class="tooltip" data-tip="Vaše značka je důležitá. Vložte logo do místnosti webinaru pro jednotný a profesionální vzhled. Logo uvidí pouze účastníci. Pokud si jej chcete prohlédnout, vstupte do místnosti jako účastník"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-logo-size' => //////////////////////////////////////////////////////////////////
@@ -2133,7 +2133,7 @@ return [
 	'room-banner' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Banner <span class="tooltip" data-tip="Vaše značka je důležitá. Vložte banner do místnosti webinaru pro jednotný a profesionální vzhled. Banner uvidí pouze účastníci. Pokud si jej chcete prohlédnout, vstupte do místnosti jako účastník"></span>
+		Banner (380×38 pixelů) <span class="tooltip" data-tip="Vaše značka je důležitá. Vložte banner do místnosti webinaru pro jednotný a profesionální vzhled. Banner uvidí pouze účastníci. Pokud si jej chcete prohlédnout, vstupte do místnosti jako účastník"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-banner-size' => ////////////////////////////////////////////////////////////////

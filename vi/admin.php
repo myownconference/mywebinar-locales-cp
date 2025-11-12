@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Gói miễn phí của bạn bao gồm 5 người tham gia. Cần thêm nữa? Nâng cấp lên gói trả phí trong phần <a href="/#pay">Đăng ký</a></div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Gói miễn phí của bạn bao gồm 5 người tham gia. Cần thêm nữa? Nâng cấp lên gói trả phí trong phần <a style="color:var(--blue)" href="/?p=pay">Đăng ký</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

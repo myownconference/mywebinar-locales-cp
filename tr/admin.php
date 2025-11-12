@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Ücretsiz planınız 5 katılımcı içerir. Daha fazlasına mı ihtiyacınız var? <a href="/#pay">Abonelik</a> bölümünden ücretli plana geçin</div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Ücretsiz planınız 5 katılımcı içerir. Daha fazlasına mı ihtiyacınız var? <a style="color:var(--blue)" href="/?p=pay">Abonelik</a> bölümünden ücretli plana geçin</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

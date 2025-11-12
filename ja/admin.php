@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">無料プランには参加者5名が含まれています。もっと必要ですか？<a href="/#pay">サブスクリプション</a>セクションで有料プランに変更してください</div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">無料プランには参加者5名が含まれています。もっと必要ですか？<a style="color:var(--blue)" href="/?p=pay">サブスクリプション</a>セクションで有料プランに変更してください</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

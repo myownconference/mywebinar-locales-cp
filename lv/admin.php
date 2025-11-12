@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Jūsu bezmaksas plānā ir iekļauti 5 dalībnieki. Nepieciešams vairāk? Izvēlieties maksas abonementu sadaļā <a href="/#pay">Abonements</a></div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Jūsu bezmaksas plānā ir iekļauti 5 dalībnieki. Nepieciešams vairāk? Izvēlieties maksas abonementu sadaļā <a style="color:var(--blue)" href="/?p=pay">Abonements</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

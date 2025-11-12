@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Il tuo piano gratuito include 5 partecipanti. Ti servono di più? Attiva un abbonamento a pagamento nella sezione <a href="/#pay">Abbonamento</a></div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Il tuo piano gratuito include 5 partecipanti. Ti servono di più? Attiva un abbonamento a pagamento nella sezione <a style="color:var(--blue)" href="/?p=pay">Abbonamento</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

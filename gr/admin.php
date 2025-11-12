@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Το δωρεάν πλάνο σας περιλαμβάνει 5 συμμετέχοντες. Χρειάζεστε περισσότερους; Επιλέξτε μια πληρωμένη συνδρομή από την ενότητα <a href="/#pay">Συνδρομή</a></div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Το δωρεάν πλάνο σας περιλαμβάνει 5 συμμετέχοντες. Χρειάζεστε περισσότερους; Επιλέξτε μια πληρωμένη συνδρομή από την ενότητα <a style="color:var(--blue)" href="/?p=pay">Συνδρομή</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

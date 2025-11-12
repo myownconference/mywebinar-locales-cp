@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Ваш бясплатны план уключае 5 удзельнікаў. Патрэбна больш? Аформіце платную падпіску ў раздзеле <a href="/#pay">Падпіска</a></div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Ваш бясплатны план уключае 5 удзельнікаў. Патрэбна больш? Аформіце платную падпіску ў раздзеле <a style="color:var(--blue)" href="/?p=pay">Падпіска</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

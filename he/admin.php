@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">התוכנית החינמית שלך כוללת 5 משתתפים. צריך יותר? הירשם למנוי בתשלום בחלק <a href="/#pay">מנוי</a></div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">התוכנית החינמית שלך כוללת 5 משתתפים. צריך יותר? הירשם למנוי בתשלום בחלק <a style="color:var(--blue)" href="/?p=pay">מנוי</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

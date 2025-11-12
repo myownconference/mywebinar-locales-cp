@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Twój bezpłatny plan obejmuje 5 uczestników. Potrzebujesz więcej? Wybierz płatną subskrypcję w sekcji <a href="/#pay">Subskrypcja</a></div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Twój bezpłatny plan obejmuje 5 uczestników. Potrzebujesz więcej? Wybierz płatną subskrypcję w sekcji <a style="color:var(--blue)" href="/?p=pay">Subskrypcja</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">무료 요금제에는 참가자 5명이 포함됩니다. 더 필요하신가요? <a href="/#pay">구독</a> 섹션에서 유료 요금제로 업그레이드하세요</div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">무료 요금제에는 참가자 5명이 포함됩니다. 더 필요하신가요? <a style="color:var(--blue)" href="/?p=pay">구독</a> 섹션에서 유료 요금제로 업그레이드하세요</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

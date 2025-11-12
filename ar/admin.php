@@ -16,7 +16,7 @@ return [
 	//////////////////////////////////////////////////////////////////////////////////////
 	// <div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">...</div>
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">تشمل خطتك المجانية 5 مشاركين. هل تحتاج إلى المزيد؟ اشترك في خطة مدفوعة من قسم <a href="/#pay">الاشتراك</a></div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">تشمل خطتك المجانية 5 مشاركين. هل تحتاج إلى المزيد؟ اشترك في خطة مدفوعة من قسم <a style="color:var(--blue)" href="/?p=pay">الاشتراك</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

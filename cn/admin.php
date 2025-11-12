@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">您的免费方案包含 5 位参与者。需要更多吗？请在<a href="/#pay">订阅</a>部分升级为付费方案</div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">您的免费方案包含 5 位参与者。需要更多吗？请在<a style="color:var(--blue)" href="/?p=pay">订阅</a>部分升级为付费方案</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

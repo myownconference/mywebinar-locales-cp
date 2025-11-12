@@ -6003,7 +6003,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Puede seleccionar un método de pago más apropiado desde su perfil. Aceptamos pagos con tarjeta de crédito o débito, PayPal, transferencias bancarias y criptomonedas incluyendo BTC, ETH y USDT.<br><br>Además, tenga en cuenta que es crucial leer la política de reembolso de la plataforma.
+		Aceptamos pagos con tarjeta de crédito o débito, transferencia bancaria instantánea, PayPal o factura. Puedes cambiar la moneda usando el selector en la esquina superior derecha. Las facturas pagadas estarán disponibles para descargar en esta sección.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

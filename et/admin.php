@@ -5989,7 +5989,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Profiilis saad valida sobivama makseviisi. Aktsepteerime makseid krediit- ja deebetkaardiga, PayPali, pangaülekande ning krüptorahadega (sh BTC, ETH ja USDT).<br><br>Palun loe kindlasti läbi ka meie platvormi tagasimaksepoliitika.
+		Aktsepteerime makseid krediit- või deebetkaardiga, kohese pangaülekandega, PayPali kaudu või arvega. Valuutat saab muuta paremas ülanurgas oleva lülitiga. Tasutud arved on selles jaotises allalaadimiseks saadaval.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

@@ -6007,7 +6007,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vous pouvez choisir une méthode de paiement plus appropriée depuis votre profil. Nous acceptons les paiements par carte de crédit ou de débit, PayPal, virements bancaires et les cryptomonnaies telles que BTC, ETH et USDT.<br><br>Veuillez également noter qu‘il est essentiel de lire la politique de remboursement de la plateforme.
+		Nous acceptons les paiements par carte de crédit ou de débit, virement bancaire instantané, PayPal ou facture. Vous pouvez changer la devise à l’aide du sélecteur en haut à droite. Les factures payées seront disponibles au téléchargement dans cette section.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

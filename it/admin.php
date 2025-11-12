@@ -5989,7 +5989,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Puoi scegliere un metodo di pagamento più appropriato dal tuo profilo. Accettiamo pagamenti tramite carta di credito o debito, PayPal, bonifici bancari e criptovalute come BTC, ETH e USDT.<br><br>Si prega inoltre di notare che è fondamentale leggere la politica di rimborso della piattaforma.
+		Accettiamo pagamenti con carta di credito o debito, bonifico bancario istantaneo, PayPal o fattura. Puoi cambiare la valuta tramite l’interruttore in alto a destra. Le fatture pagate saranno disponibili per il download in questa sezione.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

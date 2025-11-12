@@ -5995,7 +5995,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Profilinizden daha uygun bir ödeme yöntemi seçebilirsiniz. Kredi veya banka kartı, PayPal, banka transferleri ve BTC, ETH ve USDT dahil kripto paralar ile ödeme kabul ediyoruz.<br><br>Ayrıca, platformun iade politikasını okumanızın çok önemli olduğunu lütfen unutmayın.
+		Kredi veya banka kartı, anında banka havalesi, PayPal ya da fatura ile ödeme kabul ediyoruz. Sağ üst köşedeki anahtarla para birimini değiştirebilirsiniz. Ödenmiş faturalar bu bölümden indirilebilir.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

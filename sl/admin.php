@@ -5989,7 +5989,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Na svojem profilu lahko izberete bolj ustrezen način plačila. Sprejemamo plačila s kreditnimi in debetnimi karticami, prek PayPala, bančnega nakazila ter tudi s kriptovalutami, vključno z BTC, ETH in USDT.<br><br>Prosimo, preberite tudi pravila o vračilu sredstev, saj so zelo pomembna.
+		Sprejemamo plačila s kreditno ali debetno kartico, takojšnjim bančnim nakazilom, prek PayPala ali z računom. Valuto lahko spremenite z izbirnikom v zgornjem desnem kotu. Plačani računi bodo v tem razdelku na voljo za prenos.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

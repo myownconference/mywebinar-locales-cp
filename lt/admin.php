@@ -6001,7 +6001,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Savo profilyje galite pasirinkti jums tinkamiausią mokėjimo būdą. Mes priimame mokėjimus kreditinėmis ar debetinėmis kortelėmis, per PayPal, banko pavedimu ir kriptovaliutomis, įskaitant BTC, ETH ir USDT.<br><br>Taip pat atkreipkite dėmesį, kad labai svarbu susipažinti su platformos pinigų grąžinimo politika.
+		Priimame mokėjimus kredito ar debeto kortele, momentiniu banko pavedimu, per PayPal arba sąskaita. Galite pakeisti valiutą naudodami jungiklį viršuje dešinėje. Apmokėtos sąskaitos bus prieinamos atsisiųsti šioje skiltyje.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

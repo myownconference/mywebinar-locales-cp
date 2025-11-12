@@ -5989,7 +5989,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		You can choose a more appropriate payment method from your profile. We accept payments via credit or debit card, PayPal, bank transfers, and cryptocurrencies including BTC, ETH, and USDT.<br><br>Also, kindly note, it‘s crucial that you read the platform‘s refund policy.
+		Мы прымаем аплату крэдытнай або дэбетавай карткай, імгненным банкаўскім пераводам, праз PayPal або па рахунку. Вы можаце змяніць валюту праз пераключальнік у правым верхнім куце. Аплачаныя рахункі будуць даступныя для спампоўвання ў гэтым раздзеле.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

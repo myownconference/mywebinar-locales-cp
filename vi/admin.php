@@ -5995,7 +5995,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bạn có thể chọn phương thức thanh toán phù hợp hơn trong hồ sơ của mình. Chúng tôi chấp nhận thanh toán bằng thẻ tín dụng hoặc thẻ ghi nợ, PayPal, chuyển khoản ngân hàng và tiền mã hóa bao gồm BTC, ETH và USDT.<br><br>Xin lưu ý rằng điều quan trọng là bạn phải đọc chính sách hoàn tiền của nền tảng.
+		Chúng tôi chấp nhận thanh toán bằng thẻ tín dụng hoặc thẻ ghi nợ, chuyển khoản ngân hàng tức thì, PayPal hoặc hóa đơn. Bạn có thể thay đổi đơn vị tiền tệ bằng công cụ chuyển đổi ở góc trên bên phải. Hóa đơn đã thanh toán sẽ có sẵn để tải xuống trong phần này.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

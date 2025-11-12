@@ -5989,7 +5989,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Du kan välja en betalmetod som passar dig bättre i din profil. Vi accepterar betalningar via kredit- eller betalkort, PayPal, banköverföringar samt kryptovalutor inklusive BTC, ETH och USDT.<br><br>Observera även att det är viktigt att du läser plattformens återbetalningspolicy.
+		Vi accepterar betalningar med kredit- eller betalkort, omedelbar banköverföring, PayPal eller faktura. Du kan ändra valutan med växlaren uppe till höger. Betalda fakturor kommer att vara tillgängliga för nedladdning i denna sektion.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

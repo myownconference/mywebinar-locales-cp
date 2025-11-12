@@ -5989,7 +5989,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ve svém profilu si můžete vybrat vhodnější způsob platby. Přijímáme platby platební kartou, přes PayPal, bankovním převodem a kryptoměnami (BTC, ETH, USDT).<br><br>Nezapomeňte si také přečíst pravidla pro vrácení plateb na této platformě.
+		Přijímáme platby kreditní nebo debetní kartou, okamžitým bankovním převodem, přes PayPal nebo fakturou. Měnu můžete změnit pomocí přepínače v pravém horním rohu. Uhradené faktury budou v této části k dispozici ke stažení.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

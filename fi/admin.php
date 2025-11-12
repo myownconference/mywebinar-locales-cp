@@ -5989,7 +5989,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Voit valita sopivimman maksutavan profiilistasi. Hyväksymme maksut luotto- tai pankkikortilla, PayPalilla, pankkisiirrolla sekä kryptovaluutoilla, mukaan lukien BTC, ETH ja USDT.<br><br>Huomaa myös, että on tärkeää tutustua alustan hyvityskäytäntöön.
+		Hyväksymme maksut luotto- tai pankkikortilla, välittömällä pankkisiirrolla, PayPalilla tai laskulla. Voit vaihtaa valuuttaa oikeassa yläkulmassa olevalla valitsimella. Maksetut laskut ovat ladattavissa tässä osiossa.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

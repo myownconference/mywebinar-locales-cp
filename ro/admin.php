@@ -5989,7 +5989,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Puteți alege o metodă de plată mai potrivită din profilul dvs. Acceptăm plăți cu cardul de credit sau de debit, PayPal, transferuri bancare și criptomonede precum BTC, ETH și USDT.<br><br>De asemenea, vă rugăm să rețineți că este esențial să citiți politica de rambursare a platformei.
+		Acceptăm plăți cu card de credit sau de debit, transfer bancar instant, PayPal sau factură. Puteți schimba moneda folosind comutatorul din colțul din dreapta sus. Facturile plătite vor fi disponibile pentru descărcare în această secțiune.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

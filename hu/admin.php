@@ -5989,7 +5989,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Profiljából választhat megfelelőbb fizetési módot. Elfogadunk fizetéseket hitel- vagy bankkártyával, PayPal-lal, banki átutalásokkal és kriptovalutákkal, beleértve a BTC-t, ETH-t és USDT-t.<br><br>Kérjük, vegye figyelembe, hogy fontos, hogy elolvassa a platform visszatérítési szabályzatát.
+		Elfogadunk fizetéseket hitel- vagy bankkártyával, azonnali banki átutalással, PayPallal vagy számlával. A pénznemet a jobb felső sarokban lévő váltóval módosíthatja. A kifizetett számlák ebben a részben lesznek letölthetők.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

@@ -6001,7 +6001,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Jūs varat izvēlēties sev ērtāko maksājuma veidu savā profilā. Mēs pieņemam maksājumus ar kredītkartēm un debetkartēm, PayPal, bankas pārskaitījumiem un kriptovalūtām, tostarp BTC, ETH un USDT.<br><br>Lūdzu, iepazīstieties arī ar platformas atmaksas politiku — tas ir ļoti svarīgi.
+		Mēs pieņemam maksājumus ar kredītkarti vai debetkarti, tūlītēju bankas pārskaitījumu, PayPal vai rēķinu. Valūtu var mainīt, izmantojot slēdzi augšējā labajā stūrī. Apmaksātie rēķini būs pieejami lejupielādei šajā sadaļā.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

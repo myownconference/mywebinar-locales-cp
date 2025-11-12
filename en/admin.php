@@ -5989,7 +5989,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		You can choose a more appropriate payment method from your profile. We accept payments via credit or debit card, PayPal, bank transfers, and cryptocurrencies including BTC, ETH, and USDT.<br><br>Also, kindly note, it‘s crucial that you read the platform‘s refund policy.
+		We accept payments by credit or debit card, instant bank transfer, PayPal, or invoice. You can change the currency using the switcher in the top right corner. Paid invoices will be available for download in this section.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

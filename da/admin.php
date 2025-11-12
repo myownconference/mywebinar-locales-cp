@@ -5989,7 +5989,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Du kan vælge den mest passende betalingsmetode fra din profil. Vi accepterer betaling med kredit- og betalingskort, PayPal, bankoverførsler samt kryptovalutaer såsom BTC, ETH og USDT.<br><br>Bemærk venligst, at det er vigtigt at læse platformens refusionspolitik.
+		Vi accepterer betalinger med kredit- eller betalingskort, øjeblikkelig bankoverførsel, PayPal eller faktura. Du kan ændre valutaen med skifteren øverst til højre. Betalte fakturaer vil være tilgængelige for download i dette afsnit.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

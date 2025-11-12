@@ -5989,7 +5989,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Je kunt in je profiel een geschikte betaalmethode kiezen. Wij accepteren betalingen met creditcard of betaalpas, PayPal, bankoverschrijving en cryptovaluta zoals BTC, ETH en USDT.<br><br>Let op: lees zeker ook het terugbetalingsbeleid van het platform.
+		Wij accepteren betalingen met creditcard of pinpas, directe bankoverschrijving, PayPal of factuur. U kunt de valuta wijzigen met de schakelaar rechtsboven. Betaalde facturen zijn in dit gedeelte te downloaden.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

@@ -5989,7 +5989,7 @@ return [
 	'payment-systems-info' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sie können eine passendere Zahlungsmethode in Ihrem Profil auswählen. Wir akzeptieren Zahlungen per Kredit- oder Debitkarte, PayPal, Banküberweisung und Kryptowährungen wie BTC, ETH und USDT.<br><br>Bitte beachten Sie auch, dass es von entscheidender Bedeutung ist, die Rückerstattungsrichtlinien der Plattform zu lesen.
+		Wir akzeptieren Zahlungen per Kredit- oder Debitkarte, Sofortüberweisung, PayPal oder Rechnung. Sie können die Währung über den Schalter oben rechts ändern. Bezahlte Rechnungen stehen in diesem Bereich zum Download bereit.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-approve-pay' => //////////////////////////////////////////////////////////////

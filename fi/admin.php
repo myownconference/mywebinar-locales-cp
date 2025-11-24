@@ -7173,4 +7173,10 @@ return [
 		Anonymisoi osallistujien nimet <span class="tooltip" data-tip="Piilottaa osallistujien oikeat nimet ja korvaa ne neutraaleilla nimillä. Tämä auttaa suojaamaan yleisön yksityisyyttä"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'default-header' => //////////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		<a href="https://myownconference.com/" style="text-align:start;text-decoration:none;color:inherit;"><div style="font-family:Montserrat,Verdana,Helvetica,Arial,sans-serif;font-size:.22rem;line-height:1;font-weight:700;color:#333333;padding:.18rem .2rem;"><span style="font-size:.22rem;vertical-align:middle;"><span style="color:#2d7ef6;">●</span><span style="color:#09bb71;">●</span><span style="color:#d12df6;">●</span></span><span style="vertical-align:middle;padding-left:.08rem;">MyOwnConference</span></div></a>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 ];

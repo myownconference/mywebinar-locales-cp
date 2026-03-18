@@ -21,7 +21,7 @@ return [
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Уважаемые пользователи! Некоторые участники могут испытывать трудности с входом в вебинарную комнату из-за глобальных блокировок. Чтобы решить эту проблему, ознакомьтесь с нашей <a style="color:var(--blue)" target="_blank" rel="noopener" href="https://support.myownconference.com/ru/article/kak-zamenit-domen-i-zajti-v-komnatu-pri-blokirovkah-ui05ly/">инструкцией</a>. В ней вы найдёте 4 зеркала от разных CDN, которые помогут вашим участникам подключиться без ограничений.</div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Уважаемые пользователи! Некоторые ваши участники могут испытывать трудности с входом в вебинарную комнату из-за глобальных блокировок с их стороны. Чтобы решить эту проблему, ознакомьтесь с нашей <a style="color:var(--blue)" target="_blank" rel="noopener" href="https://support.myownconference.com/ru/article/kak-zamenit-domen-i-zajti-v-komnatu-pri-blokirovkah-ui05ly/">инструкцией</a>. В ней вы найдёте 4 зеркала от разных CDN, которые помогут вашим участникам подключиться без ограничений.</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 

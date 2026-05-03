@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">무료 요금제에는 참가자 5명이 포함됩니다. 더 필요하신가요? <a style="color:var(--blue)" href="/?p=pay">구독</a> 섹션에서 유료 요금제로 업그레이드하세요</div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">장비, 인프라, 트래픽 비용이 증가하는 상황에서도 서비스의 안정성과 품질을 유지하기 위해 2026년 5월 15일부터 일일 요금제는 유료 사용자에게만 제공됩니다 무료 요금제에는 참가자 5명이 포함됩니다. 더 필요하신가요? <a style="color:var(--blue)" href="/?p=pay">구독</a> 섹션에서 유료 요금제로 업그레이드하세요</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

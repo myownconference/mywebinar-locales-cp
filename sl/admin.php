@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Vaš brezplačni paket vključuje 5 udeležencev. Potrebujete več? Pridobite plačljivo naročnino v razdelku <a style="color:var(--blue)" href="/?p=pay">Naročnina</a></div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Da bi ohranili stabilnost in kakovost delovanja storitve ob naraščajočih stroških opreme, infrastrukture in prometa, bodo od 15. maja 2026 dnevni paketi na voljo samo plačljivim uporabnikom. Vaš brezplačni paket vključuje 5 udeležencev. Potrebujete več? Pridobite plačljivo naročnino v razdelku <a style="color:var(--blue)" href="/?p=pay">Naročnina</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

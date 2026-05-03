@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Teie tasuta plaan sisaldab 5 osalejat. Vajate rohkem? Valige tasuline tellimus jaotisest <a style="color:var(--blue)" href="/?p=pay">Tellimus</a></div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Teenuse stabiilsuse ja kvaliteedi säilitamiseks seadmete, taristu ja liikluse kulude kasvu tingimustes on alates 15. maist 2026 päevapaketid saadaval ainult tasulistele kasutajatele. Teie tasuta plaan sisaldab 5 osalejat. Vajate rohkem? Valige tasuline tellimus jaotisest <a style="color:var(--blue)" href="/?p=pay">Tellimus</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

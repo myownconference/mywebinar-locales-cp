@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Gratisplanen din inkluderer 5 deltakere. Trenger du flere? Kjøp et betalt abonnement i delen <a style="color:var(--blue)" href="/?p=pay">Abonnement</a></div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">For å opprettholde stabiliteten og kvaliteten på tjenesten mens kostnadene for utstyr, infrastruktur og trafikk øker, vil dagsplaner fra 15. mai 2026 kun være tilgjengelige for betalende brukere. Gratisplanen din inkluderer 5 deltakere. Trenger du flere? Kjøp et betalt abonnement i delen <a style="color:var(--blue)" href="/?p=pay">Abonnement</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

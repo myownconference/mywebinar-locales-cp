@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Jūsų nemokamas planas apima 5 dalyvius. Reikia daugiau? Įsigykite mokamą prenumeratą skiltyje <a style="color:var(--blue)" href="/?p=pay">Prenumerata</a></div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Siekdami išlaikyti paslaugos stabilumą ir kokybę augant įrangos, infrastruktūros ir srauto išlaidoms, nuo 2026 m. gegužės 15 d. dienos planai bus prieinami tik mokantiems naudotojams. Jūsų nemokamas planas apima 5 dalyvius. Reikia daugiau? Įsigykite mokamą prenumeratą skiltyje <a style="color:var(--blue)" href="/?p=pay">Prenumerata</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

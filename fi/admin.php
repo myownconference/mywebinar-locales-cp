@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Ilmainen pakettisi sisältää 5 osallistujaa. Tarvitsetko lisää? Hanki maksullinen tilaus kohdasta <a style="color:var(--blue)" href="/?p=pay">Tilaus</a></div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Palvelun vakauden ja laadun säilyttämiseksi laitteiden, infrastruktuurin ja liikenteen kustannusten noustessa päiväkohtaiset hinnastot ovat 15. toukokuuta 2026 alkaen saatavilla vain maksaville käyttäjille. Ilmainen pakettisi sisältää 5 osallistujaa. Tarvitsetko lisää? Hanki maksullinen tilaus kohdasta <a style="color:var(--blue)" href="/?p=pay">Tilaus</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

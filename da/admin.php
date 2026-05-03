@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Din gratis plan inkluderer 5 deltagere. Har du brug for flere? Køb et betalt abonnement i sektionen <a style="color:var(--blue)" href="/?p=pay">Abonnement</a></div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">For at bevare tjenestens stabilitet og kvalitet, mens udgifterne til udstyr, infrastruktur og trafik stiger, vil dagsabonnementer fra den 15. maj 2026 kun være tilgængelige for betalende brugere. Din gratis plan inkluderer 5 deltagere. Har du brug for flere? Køb et betalt abonnement i sektionen <a style="color:var(--blue)" href="/?p=pay">Abonnement</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

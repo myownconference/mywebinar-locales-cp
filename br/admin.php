@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Seu plano gratuito inclui 5 participantes. Precisa de mais? Faça uma assinatura paga na seção <a style="color:var(--blue)" href="/?p=pay">Assinatura</a></div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Para manter a estabilidade e a qualidade do serviço diante do aumento dos custos com equipamentos, infraestrutura e tráfego, a partir de 15 de maio de 2026 os planos diários estarão disponíveis apenas para usuários pagos. Seu plano gratuito inclui 5 participantes. Precisa de mais? Faça uma assinatura paga na seção <a style="color:var(--blue)" href="/?p=pay">Assinatura</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

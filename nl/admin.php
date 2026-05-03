@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Je gratis plan bevat 5 deelnemers. Heb je er meer nodig? Neem een betaald abonnement in de sectie <a style="color:var(--blue)" href="/?p=pay">Abonnement</a></div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Om de stabiliteit en kwaliteit van de dienst te behouden terwijl de kosten voor apparatuur, infrastructuur en verkeer stijgen, zijn dagtarieven vanaf 15 mei 2026 alleen beschikbaar voor betalende gebruikers. Je gratis plan bevat 5 deelnemers. Heb je er meer nodig? Neem een betaald abonnement in de sectie <a style="color:var(--blue)" href="/?p=pay">Abonnement</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Ücretsiz planınız 5 katılımcı içerir. Daha fazlasına mı ihtiyacınız var? <a style="color:var(--blue)" href="/?p=pay">Abonelik</a> bölümünden ücretli plana geçin</div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Ekipman, altyapı ve trafik maliyetleri artarken hizmetin istikrarını ve kalitesini korumak için 15 Mayıs 2026 itibarıyla günlük tarifeler yalnızca ödeme yapan kullanıcılar tarafından kullanılabilecektir. Ücretsiz planınız 5 katılımcı içerir. Daha fazlasına mı ihtiyacınız var? <a style="color:var(--blue)" href="/?p=pay">Abonelik</a> bölümünden ücretli plana geçin</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

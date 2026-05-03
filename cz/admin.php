@@ -15,7 +15,7 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Váš bezplatný plán zahrnuje 5 účastníků. Potřebujete více? Pořiďte si placené předplatné v sekci <a style="color:var(--blue)" href="/?p=pay">Předplatné</a></div>
+		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Abychom zachovali stabilitu a kvalitu služby při rostoucích nákladech na vybavení, infrastrukturu a provoz, budou od 15. května 2026 denní tarify dostupné pouze platícím uživatelům. Váš bezplatný plán zahrnuje 5 účastníků. Potřebujete více? Pořiďte si placené předplatné v sekci <a style="color:var(--blue)" href="/?p=pay">Předplatné</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

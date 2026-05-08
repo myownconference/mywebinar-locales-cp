@@ -15,7 +15,6 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Aby sme zachovali stabilitu a kvalitu služby pri rastúcich nákladoch na vybavenie, infraštruktúru a prevádzku, od 15. mája 2026 budú denné tarifné plány dostupné iba platiacim používateľom. Váš bezplatný plán zahŕňa 5 účastníkov. Potrebujete viac? Zakúpte si platené predplatné v sekcii <a style="color:var(--blue)" href="/?p=pay">Predplatné</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

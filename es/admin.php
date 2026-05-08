@@ -15,7 +15,6 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Para mantener la estabilidad y la calidad del servicio ante el aumento de los costes de equipos, infraestructura y tráfico, a partir del 15 de mayo de 2026 los planes diarios estarán disponibles solo para usuarios de pago. Tu plan gratuito permite 5 participantes. ¿Necesitas más? Mejora en <a style="color:var(--blue)" href="/?p=pay">Suscripción</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

@@ -15,7 +15,6 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">A szolgáltatás stabilitásának és minőségének megőrzése érdekében a berendezések, az infrastruktúra és az adatforgalom növekvő költségei mellett 2026. május 15-től a napi díjcsomagok csak fizető felhasználók számára lesznek elérhetők. Az ingyenes csomag 5 résztvevőt tartalmaz. Többre van szüksége? Fizessen elő a <a style="color:var(--blue)" href="/?p=pay">Előfizetés</a> részben</div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

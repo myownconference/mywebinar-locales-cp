@@ -15,7 +15,6 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Per mantenere la stabilità e la qualità del servizio nonostante l’aumento dei costi di attrezzature, infrastruttura e traffico, dal 15 maggio 2026 i piani giornalieri saranno disponibili solo per gli utenti a pagamento. Il tuo piano gratuito include 5 partecipanti. Ti servono di più? Attiva un abbonamento a pagamento nella sezione <a style="color:var(--blue)" href="/?p=pay">Abbonamento</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

@@ -15,7 +15,6 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Lai saglabātu pakalpojuma stabilitāti un kvalitāti, pieaugot aprīkojuma, infrastruktūras un datu plūsmas izmaksām, no 2026. gada 15. maija dienas tarifu plāni būs pieejami tikai maksas lietotājiem. Jūsu bezmaksas plānā ir iekļauti 5 dalībnieki. Nepieciešams vairāk? Izvēlieties maksas abonementu sadaļā <a style="color:var(--blue)" href="/?p=pay">Abonements</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

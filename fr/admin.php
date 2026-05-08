@@ -15,7 +15,6 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Afin de préserver la stabilité et la qualité du service face à la hausse des coûts liés aux équipements, à l’infrastructure et au trafic, les offres journalières seront disponibles uniquement pour les utilisateurs payants à partir du 15 mai 2026. Votre offre gratuite comprend 5 participants. Besoin de plus ? Souscrivez un abonnement payant dans la section <a style="color:var(--blue)" href="/?p=pay">Abonnement</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

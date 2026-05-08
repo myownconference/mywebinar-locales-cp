@@ -15,7 +15,6 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">För att behålla tjänstens stabilitet och kvalitet när kostnaderna för utrustning, infrastruktur och trafik ökar kommer dagsplaner från den 15 maj 2026 endast att vara tillgängliga för betalande användare. Din kostnadsfria plan innehåller 5 deltagare. Behöver du fler? Skaffa ett betalt abonnemang i avsnittet <a style="color:var(--blue)" href="/?p=pay">Abonnemang</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

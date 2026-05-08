@@ -15,7 +15,6 @@ return [
 	'emergency-notice-free-plan' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">Để duy trì sự ổn định và chất lượng của dịch vụ trong bối cảnh chi phí thiết bị, hạ tầng và lưu lượng truy cập tăng cao, từ ngày 15 tháng 5 năm 2026 các gói theo ngày sẽ chỉ dành cho người dùng trả phí. Gói miễn phí của bạn bao gồm 5 người tham gia. Cần thêm nữa? Nâng cấp lên gói trả phí trong phần <a style="color:var(--blue)" href="/?p=pay">Đăng ký</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

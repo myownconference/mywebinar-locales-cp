@@ -16,7 +16,6 @@ return [
 	//////////////////////////////////////////////////////////////////////////////////////
 	// <div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">...</div>
 	'
-		<div style="background-color:antiquewhite;font-color:var(--main-bg);font-weight:600;border-bottom:1px solid var(--main-bg)">للحفاظ على استقرار الخدمة وجودة عملها في ظل ارتفاع تكاليف المعدات والبنية التحتية وحركة البيانات، ستكون الباقات اليومية متاحة ابتداءً من 15 مايو 2026 للمستخدمين المدفوعين فقط تشمل خطتك المجانية 5 مشاركين. هل تحتاج إلى المزيد؟ اشترك في خطة مدفوعة من قسم <a style="color:var(--blue)" href="/?p=pay">الاشتراك</a></div>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'emergency-notice-paid-plan' => //////////////////////////////////////////////////////

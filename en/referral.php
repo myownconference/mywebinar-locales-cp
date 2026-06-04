@@ -27,7 +27,7 @@ return [
 	'referral-pack' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pricing plan price
+		Pricing plan
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-status' => /////////////////////////////////////////////////////////////////
@@ -105,7 +105,7 @@ return [
 	'referral-rules-subtitle' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Before using the referrals program, read the terms and conditions carefully:
+		Before using the referral program, read the terms and conditions carefully:
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-rules' => //////////////////////////////////////////////////////////////////
@@ -118,7 +118,7 @@ return [
 		<br>
 		<br>
 		<p>
-			– Only users with a paid MyOwnConference account can participate in the referral program. If a paid account becomes free, no referrals charges will be made;
+			– Only users with a paid MyOwnConference account can participate in the referral program. If a paid account becomes free, no referral charges will be made;
 			<br><br>
 			– Mass mailing and spam with referral links is prohibited;
 			<br><br>
@@ -130,7 +130,7 @@ return [
 			<br><br>
 			– The commission fee will not be paid if users do not allow storing cookies or clear them because we may lack the possibilities to track them;
 			<br><br>
-			– We reserve the right to change the terms and conditions, as well as the rules of the referrals program, at any time with no prior notice. These changes may be introduced in regards to the percentage of the commission fee of the referrals program, as well as other conditions of the referrals program;
+			– We reserve the right to change the terms and conditions, as well as the rules of the referral program, at any time with no prior notice. These changes may be introduced in regards to the percentage of the commission fee of the referral program, as well as other conditions of the referral program;
 			<br><br>
 			In case of violation of these terms, we will freeze your accrued funds and block your account.
 		</p>
@@ -139,7 +139,7 @@ return [
 	'referral-rules-bottom' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sign here if you agree with term and conditions of the referrals program
+		Sign here if you agree with the terms and conditions of the referral program
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-rules-button' => ///////////////////////////////////////////////////////////

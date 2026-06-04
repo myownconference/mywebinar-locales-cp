@@ -1,12 +1,12 @@
 <?php
 
 // +-------------------------------------------------------------------+
-// | Copyright 2003-2023 MyOwnConference.com. All rights reserved.     |
-// |                                                                   |
-// | Unauthorized copying of this file, via any medium is strictly     |
-// | prohibited. Proprietary and confidential.                         |
-// |                                                                   |
-// | Written for myownconference.com <contact@myownconference.com>     |
+// | Copyright 2003-2023 MyOwnConference.com. All rights reserved. |
+// | |
+// | Unauthorized copying of this file, via any medium is strictly |
+// | prohibited. Proprietary and confidential. |
+// | |
+// | Written for myownconference.com <contact@myownconference.com> |
 // +-------------------------------------------------------------------+
 
 
@@ -219,7 +219,7 @@ return [
 	'delete-arbitary-questions' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Для включения опции “Оценивать вопросы“, удалите вопрос(ы) №{qs} с
+		Для включения опции «Оценивать вопросы», удалите вопрос(ы) №{qs} с
 		произвольным ответом.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////

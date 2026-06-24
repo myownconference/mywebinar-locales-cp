@@ -15,73 +15,73 @@ return [
 	'paypal-summ' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Already paid
+		Аплачана
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'funds-received' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paid webinars <span class="tooltip" data-tip="Activate this option to charge attendees for webinar access. Read and confirm the agreements before enabling paid webinars in your profile settings. Please note that the feature will not be activated immediately, as we will manually review your profile and webinar topics before activation"></span>
+		Платныя вэбінары <span class="tooltip" data-tip="Актывуйце гэтую опцыю, каб спаганяць плату з удзельнікаў за доступ да вэбінара. Прачытайце і пацвердзіце пагадненні перад уключэннем платных вэбінараў у наладах профілю. Звярніце ўвагу, што функцыя не будзе актываваная адразу, бо мы ўручную праверым ваш профіль і тэмы вэбінараў перад актывацыяй"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'hold-title' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Our fee
+		Камісія сэрвісу
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'output-title' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Processed
+		Апрацавана
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'output-button' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Withdraw
+		Вывесці
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-title' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Terms and conditions of payment processing for paid webinars
+		Умовы выкарыстання функцыі прыёму плацяжоў
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-subtitle' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Read the terms and conditions for using the payment processing function carefully please. Incorrect use of this function may result in automatic blocking of your account.
+		Калі ласка, уважліва азнаёмцеся з умовамі выкарыстання функцыі прыёму плацяжоў. Некарэктнае выкарыстанне гэтай функцыі можа прывесці да аўтаматычнай блакоўкі вашага акаўнта.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-rules-bottom' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sign here if you agree with term and conditions of the payments processing
+		Адзначце тут, калі вы згодны з умовамі выкарыстання функцыі прыёму плацяжоў
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'freeze-title' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		On hold
+		Зарэзервавана
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'service-commission-title' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Our fee
+		Камісія платформы
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'our-bank-commission-title' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bank fee
+		Камісія банка
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'available-title' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Revenue
+		Даступна
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'extend-package-confirm' => //////////////////////////////////////////////////////////
@@ -93,13 +93,13 @@ return [
 	'withdraw-request-success' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		
+
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'withdraw-request-error' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		
+
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 
@@ -108,215 +108,219 @@ return [
 	'payweb-rules' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<h3>Handling payments for your paid webinars</h3>
-		<sup style="color:grey">(Last edited: August 24, 2023. Revision: 1.2)</sup>
+		<h3>Апрацоўка плацяжоў для платных вэбінараў</h3>
+		<sup style="color:grey">(Апошняя рэдакцыя: 30 жніўня, 2022. Рэвізія: 1.2)</sup>
 		<br><br><br><br>
-		<h3>Terms and definitions</h3>
+		<h3>Тэрміны і азначэнні</h3>
 		<p>
-			– Paid webinars — this encompasses webinars, online lectures, conferences, seminars, courses, lessons, and live broadcasts that require payment for participation. Attendees can access and participate in these webinars only after they‘ve made the necessary payment.
+			– Платныя мерапрыемствы — вэбінары, онлайн-лекцыі, канферэнцыі, семінары, курсы, урокі і прамыя эфіры, удзел у якіх зʼяўляецца платным. Удзельнікі мерапрыемства ў гэтым выпадку атрымліваюць доступ да змесціва мерапрыемства, могуць наведаць і паслухаць мерапрыемства толькі пасля паспяховай аплаты.
 			<br><br>
-			– Webinar software MyOwnConference — we are “Akovana, UAB“, a service provider specializing in the organization of both free and paid webinars, live broadcasts, web conferences, and more. Our registered address is 18 Djioyi Street, Vilnius, Lithuania, LT-01128.
+			– Сэрвіс, MyOwnConference, мы — кампанія «Akovana, UAB», якая зʼяўляецца пастаўшчыком сэрвісу для правядзення бясплатных і платных вэбінараў, прамых эфіраў, вэб-канферэнцый, зарэгістраваная па адрасе вул. Дыдзёйі 18, Вільнюс, Літва, LT-01128.
 			<br><br>
-			– User — any individual who has agreed to these terms and utilizes the services in accordance with this agreement.
+			– Карыстальнік, Вы — асоба, якая прыняла гэтае пагадненне, спажывец прадастаўляемых паслуг па заключаным Карыстальніцкім пагадненні.
 			<br><br>
-			– User Agreement — this document, found in the Control Panel, acts as the binding contract between you (the User) and us (the Website), governing the provision of our information services.
+			– Карыстальніцкае пагадненне, Пагадненне — гэты дакумент, апублікаваны ў панэлі кіравання; дагавор паміж Карыстальнікам (Вамі) і Сэрвісам (Намі) на прадастаўленне інфармацыйных паслуг, які заключаецца шляхам прыняцця гэтага пагаднення.
 			<br><br>
-			– User Account, Control Panel, or Dashboard — this is a collection of the User‘s personal data crucial for accessing the services offered by the Website. It also contains files the User has stored on the Website‘s server.
+			– Уліковы запіс, Панэль кіравання Карыстальніка — сукупнасць карыстальніцкіх персанальных даных, непасрэдна звязаных з забеспячэннем доступу Карыстальніка да паслуг Сэрвісу, а таксама захаваныя Карыстальнікам файлы на серверы Сэрвісу.
 			<br><br>
-			– Attendee, Participant or Guest – an individual invited by the User, who compensates the User for access to a paid webinar hosted by the User via the Website.
+			– Удзельнік, Гость – запрошаная Карыстальнікам асоба, якая ажыццяўляе Карыстальніку аплату за наведванне платнага мерапрыемства, якое праводзіцца Карыстальнікам з выкарыстаннем Сэрвісу.
 		</p>
 		<br><br>
-		<h3>General provisions</h3>
+		<h3>Агульныя палажэнні</h3>
 		<p>
-			When arranging paid webinars, the online platform for webinars, live broadcasts, and web conferences, namely “MyOwnConference“, hereinafter referred to as “the Platform“, serves as an intermediary. The platform is entrusted by the User to receive and process payments from attendees participating in the webinar, online lecture, conference, course, or lesson facilitated via the platform‘s services.
+			Пры правядзенні платных мерапрыемстваў, Сэрвіс для правядзення вэбінараў, прамых эфіраў і вэб-канферэнцый MyOwnConference, далей проста Сэрвіс, выступае ў ролі Агента, якому Карыстальнік даручае прыём і апрацоўку плацяжоў ад Удзельнікаў, запрошаных тым ці іншым спосабам, на арганізаваны Карыстальнікам вэбінар, онлайн-лекцыю, канферэнцыю, курс ці ўрок, арганізаваны з выкарыстаннем паслуг Сэрвісу.
 		</p>
 		<br>
 		<p>
-			To formalize an agreement with the Platform, the User isn‘t required to sign a physical (hard copy) contract. Merely accepting the terms of this Agreement, by ticking the respective checkbox within the Platform‘s Control Panel when seeking to activate payment acceptance services, is sufficient.
+			Для заключэння дагавора з Сэрвісам Карыстальніку не трэба падпісваць папяровую копію. Дастаткова прыняць умовы гэтага Пагаднення, паставіўшы адпаведную адзнаку падчас запыту з панэлі кіравання да Сэрвісу на актывацыю паслуг прыёму плацяжоў.
 		</p>
 		<br>
 		<p>
-			The Platform conscientiously oversees the quality of the User‘s paid webinars, keeps track of any discontented participants, and manages refunds for previously processed payments if warranted. Accordingly, during the preliminary verification of the User‘s account, the Platform holds the discretion to deny the User‘s request to process payments without stating a specific reason.
+			Сэрвіс уважліва сачыць за якасцю праводзімых Карыстальнікам платных мерапрыемстваў, за колькасцю незадаволеных Удзельнікаў і запытваць у сувязі з гэтым вяртанняў раней апрацаваных плацяжоў. У адпаведнасці з вышэйсказаным, пры першапачатковай праверцы ўліковага запісу Карыстальніка, Сэрвіс пакідае за сабой права адмовіць Карыстальніку ў прадастаўленні функцыі прыёму плацяжоў без тлумачэння прычын.
 		</p>
 		<br>
 		<p>
-			All payments are exclusively accepted and processed via the international payment system, Paysera.
+			Сэрвіс прымае і апрацоўвае ўсе плацяжы толькі з выкарыстаннем міжнароднай плацёжнай сістэмы Paysera.
 		</p>
 		<br>
 		<p>
-			The primary transactional and accepted currency is the Euro (EUR).
+			Асноўнай валютай разліку і прыёму плацяжоў зʼяўляецца еўра (EUR).
 		</p>
 		<br>
 		<p>
-			The Platform directs all received payments to a dedicated account, exclusively designed for managing payments from the User‘s webinar attendees.
+			Сэрвіс прымае ўсе плацяжі на спецыяльны рахунак, прызначаны толькі для прыёму і абслугоўвання аплат ад Удзельнікаў вэбінараў Карыстальніка.
 		</p>
 		<br>
 		<p>
-			To maintain a comprehensive history of interactions with the User, all inquiries and claims pertaining to payment acceptance and processing—including refund requests—are to be submitted via the email address registered to the User‘s account.
+			Для захавання поўнай гісторыі працы з Карыстальнікам, усе пытанні і прэтэнзіі, звязаныя з прыёмам і апрацоўкай плацяжоў, напрыклад, такія як запыт вяртання плацяжу і іншыя, праводзяцца з выкарыстаннем электроннай пошты, на якую зарэгістраваны ўліковы запіс Карыстальніка.
 		</p>
 		<br><br>
-		<h3>Platform fees</h3>
+		<h3>Камісія платформы</h3>
 		<p>
-			The website applies a 10% commission to every successful payment made by participants attending a user‘s paid webinar.
+			Сэрвіс утрымлівае камісію ў памеры 10% з кожнага паспяховага плацяжу, які ажыццяўляецца Удзельнікам за наведванне платнага мерапрыемства Карыстальніка.
 		</p>
 		<p>
-			For instance, if you set the entry fee for a webinar at €10 and 10 people attend, generating €10 x 10 = €100 in total payments, you would earn €100 – 10% = €90 after commission.
-		</p>
-		<br><br>
-		<h3>Bank service fee</h3>
-		<p>
-			A service fee of €7 is applied only for bank transfers to the user‘s account. This fee is consistently applied without exceptions.
+			Напрыклад, Вы пазначылі кошт уваходу на вэбінар 10 EUR. На вэбінар прыйшло 10 чалавек, якія заплацілі Сэрвісу 10 x 10 EUR = 100 EUR. У гэтым выпадку Вы зарабілі 100 EUR – 10% = 90 EUR.
 		</p>
 		<br><br>
-		<h3>Correspondent bank fees</h3>
+		<h3>Камісія банка Сэрвісу</h3>
 		<p>
-			These fees are levied by the Correspondent Bank when facilitating the transfer of funds from the website‘s bank account to the user‘s bank account. For IBAN transfers, the fees charged by correspondent banks can range from €10 to €35. There is no fee for SEPA transfers.
+			Камісія ўтрымліваецца толькі пры банкаўскім пераводзе на рахунак Карыстальніка і складае фіксаваныя 7 EUR. Камісія ўтрымліваецца заўсёды і без выключэнняў.
+		</p>
+		<br><br>
+		<h3>Камісія банка-карэспандэнта</h3>
+		<p>
+			Камісія ўтрымліваецца банкам-карэспандэнтам, у выпадку, калі банк-карэспандэнт будзе выкарыстаны пры грашовым пераводзе з банка Сэрвісу ў банк Карыстальніка. Камісія банкаў-карэспандэнтаў, пры IBAN пераводзе можа складаць ад 10 да 35 EUR.
 		</p>
 		<br>
 		<br><br>
-		<h3>Receiving payouts</h3>
+		<h3>Атрыманне выплат</h3>
 		<p>
-			When a participant makes a successful payment for a webinar, the amount is credited to a dedicated account on our platform. This is then aggregated based on the number of paid webinars and participants. Payments are processed by our platform, but only initiated upon the user‘s request through the Control Panel.
+			Паспяховая аплата ад Удзельніка платных вэбінараў залічваецца Карыстальніку на спецыяльны рахунак Сэрвісу і падсумоўваецца па колькасці платных вэбінараў і тых, хто аплаціў Удзельнікаў. Выплаты Карыстальніку праводзяцца Сэрвісам толькі па асабістым запыце ад Карыстальніка з панэлі кіравання на суму ад 100 EUR.
 		</p>
 		<br>
 		<p>
-			In accordance with the terms of this Agreement, a 10% commission for our platform, as well as a €7 fee charged by our bank for processing the money transfer, will be deducted from the user‘s payout.
+			З улікам вышэйвыкладзеных пунктаў гэтага Пагаднення, з выплаты Карыстальніку заўсёды вылічаецца 10% камісіі Сэрвісу і камісія банка Сэрвісу за выкананне грашовага пераводу ў банк Карыстальніка, якая складае 7 EUR.
 		</p>
 		<br>
 		<p>
-			The net amount after deductions can either be transferred to the user‘s bank account or be applied as credit towards the cost of using our platform‘s services.
+			Фінальная сума выплаты адпраўляецца на банкаўскі рахунак Карыстальніка або залічваецца ў кошт выкарыстання паслуг Сэрвісу.
 		</p>
 		<p>
-			All payments are processed no earlier than 7 business days after the webinar and only if there are no refund requests from participants. The minimum payout amount is 300 EUR. For payouts exceeding 600 EUR, our service will send a closing document that must be signed by the recipient of the payment.
-		<br>
+			Усе плацяжы апрацоўваюцца не раней чым праз 7 працоўных дзён пасля вэбінара і толькі калі няма запытаў на вяртанне сродкаў ад удзельнікаў. Мінімальная сума выплаты складае 300 EUR. Для выплат, якія перавышаюць 600 EUR, наша служба адправіць зачыняльны дакумент, які павінен быць падпісаны атрымальнікам плацяжу.
+		</p>
 		<br>
 		<p>
-			Please note! When using the IBAN method, some intermediary banks may levy an additional fee ranging from €10 to €35. We have no control over, nor can we waive these fees. They are automatically deducted when funds are transferred to the user‘s bank account.
+			Увага! Некаторыя банкі-карэспандэнты, пры выкарыстанні метаду IBAN, могуць спаганяць дадатковую камісію ў памеры ад 10 да 35 EUR. У такіх выпадках Сэрвіс ніяк не можа паўплываць ці адмяніць гэтую камісію. Яна вылічаецца аўтаматычна пры грашовым пераводзе на банкаўскі рахунак Карыстальніка.
 		</p>
 		<br><br>
-		<h3>Refund request by the User</h3>
+		<h3>Запыт вяртання ад Карыстальніка</h3>
 		<p>
-			Users can request a refund through the Control Panel on our website. This must then be confirmed via the email address associated with the user‘s account.
+			Сэрвіс прымае запыт вяртання ад Карыстальніка толькі з панэлі кіравання, з наступным пацвярджэннем па электроннай пошце, пазначанай у рэгістрацыйных даных Карыстальніка.
 		</p>
 		<br>
 		<p>
-			To maintain high-quality service, all refund requests from attendees of paid webinars are reviewed and processed semi-automatically by our system. The refund processing time can range from 1 to 7 business days, depending primarily on the bank that serves the webinar attendee.
+			Для больш якаснага прадастаўлення паслуг, усе запыты Карыстальніка на вяртанне грошай ад Удзельнікаў платных вэбінараў разглядаюцца і апрацоўваюцца Сэрвісам у паўаўтаматычным рэжыме. Час вяртання сродкаў Удзельніку варʼіруецца ад 1 да 7 банкаўскіх дзён і залежыць выключна ад банка, які абслугоўвае Удзельніка платнага вэбінара.
 		</p>
 		<br>
 		<p>
-			The service processes refunds immediately upon receiving a request from the user.
+			Сэрвіс робіць вяртанне сродкаў адразу пасля атрымання заяўкі ад Карыстальніка.
 		</p>
 		<br><br>
-		<h3>Participant refund request</h3>
+		<h3>Запыт вяртання ад Удзельніка</h3>
 		<p>
-			Our platform processes refund requests from attendees of paid webinars only when they directly contact us through the provided contact form or email address on our website.
+			Сэрвіс прымае запыт вяртання ад Удзельнікаў платных вэбінараў толькі ў выпадку прамога звароту ад Удзельніка, выкарыстоўваючы кантактную форму або электронную пошту, пазначаную на вэб-сайце Сэрвісу.
 		</p>
 		<br>
 		<p>
-			In such instances, we will issue a refund after thoroughly reviewing the attendee‘s explanation for the request and securing an agreement with the account holder (referred to as “User“). Refunds are initiated based on notifications from the User via their Control Panel.
+			У гэтым выпадку Сэрвіс ажыццяўляе вяртанне пасля дэталёвага ўдакладнення прэтэнзіі ад Удзельніка і ўзгаднення з Карыстальнікам. Пры гэтым вяртанне ажыццяўляецца на падставе заяўкі Карыстальніка праз панэль кіравання.
 		</p>
 		<br>
 		<p>
-			We issue refunds promptly upon receiving the notification from the User.
+			Сэрвіс робіць вяртанне адразу пасля атрымання заяўкі ад Карыстальніка.
 		</p>
 		<br>
 		<p>
-			However, if for any reason the User fails to notify us through the Control Panel, our platform reserves the right to process the refund to the attendee independently.
+			Калі па якіх-небудзь прычынах карыстальнік не робіць заяўку праз панэль кіравання, Сэрвіс пакідае за сабой права зрабіць вяртанне Удзельніку самастойна.
 		</p>
 		<br><br>
-		<h3>Refund request from the webinar attendee‘s bank</h3>
+		<h3>Запыт вяртання з банка ўдзельніка вашага вэбінара</h3>
 		<p>
-			Such refund requests arise from the bank that serves the attendee of a paid webinar. All payments made by attendees for paid webinars are fully refundable, adhering to the principle that “The Attendee is Always Right“.
+			Гэты выгляд запыту на вяртанне плацяжу ажыццяўляецца банкам, які абслугоўвае Удзельніка платнага вэбінара. Любая аплата, зробленая Удзельнікам(-амі) платных мерапрыемстваў, заўсёды падлягае вяртанню, па прынцыпе «Удзельнік заўсёды мае рацыю».
 		</p>
 		<br>
 		<p>
-			Should a refund request be received directly from an attendee‘s bank, the Website will promptly inform the User. The Website then allows the User 3 business days to address the matter with the attendee and subsequently notify the Website of any agreements reached, providing relevant correspondence and documentation. The Website will then forward these documents to the relevant bank for processing.
+			У выпадку атрымання запыту на вяртанне грошай непасрэдна ад банка Удзельніка, Сэрвіс адразу інфармуе Карыстальніка. Сэрвіс прадастаўляе Карыстальніку 3 працоўныя дні на ўрэгуляванне гэтага інцыдэнту з Удзельнікам і наступным інфармаваннем Сэрвісу аб дасягнутых дамоўленасцях, шляхам прадастаўлення пацвярджальнай перапіскі і дакументаў. У сваю чаргу пацвярджальныя дакументы будуць прадастаўлены Сэрвісам у банк, які абслугоўвае.
 		</p>
 		<br>
 		<p>
-			Note: Should the Website receive more than 2 refund requests from the bank issuing an attendee‘s card, the Website may exercise its right to disable the User‘s payment acceptance functionality. Additionally, the Website might reverse all previously processed payments and, if deemed necessary, suspend the User‘s account.
+			У выпадку, калі Сэрвіс не атрымлівае адказ ад Карыстальніка з вынікамі дасягнутых дамоўленасцей з Удзельнікам(-амі) платнага вэбінара на працягу 3-х працоўных дзён, Сэрвіс пакідае за сабой права на неадкладнае вяртанне сродкаў Удзельніку(-ам).
 		</p>
 		<br>
 		<p>
-			Furthermore, if there are numerous complaints from attendees regarding the content or quality of webinars, the Website reserves the right to issue refunds to all attendees without exception. In such cases, the User will not receive the contested funds.
+			У выпадку, калі Сэрвіс атрымае больш за 2 запыты на вяртанне ад банка(-ў) эмітэнта карты Удзельніка(-аў), Сэрвіс пакідае за сабой права неадкладна адключыць функцыю прыёму плацяжоў Карыстальніку, а таксама вярнуць усе раней апрацаваныя плацяжы і, у выпадку неабходнасці, заблакаваць уліковы запіс Карыстальніка.
 		</p>
 		<br>
 		<p>
-			The website strictly adheres to this rule.
+			Таксама, у выпадку мносных скаргаў ад Удзельнікаў на змесціва вэбінараў і іх якасць, Сэрвіс робіць вяртанне за платнае мерапрыемства адразу ўсім Удзельнікам без выключэння і без магчымасці аспрэчвання і выплаты атрыманых сродкаў Карыстальніку.
+		</p>
+		<br>
+		<p>
+			Сэрвіс не робіць выключэнняў з гэтага правіла.
 		</p>
 		<br><br>
-		<h3>Rights and obligations of the website</h3>
+		<h3>Правы і абавязкі Сэрвісу</h3>
 		<p>
-			While the Website strives to ensure the highest possible level of service availability and performance, it cannot be held accountable for any failure or delay in meeting its obligations due to unforeseen circumstances beyond its control. Such circumstances include, but are not limited to: subpar internet connection quality experienced by the User or Participants during webinars, live broadcasts, and web conferences; the absence of essential equipment such as microphones or cameras on the user‘s end; insufficient power of the User‘s device; DDoS attacks targeting data centers utilized by the Website; natural disasters; strikes; acts of war; delays or failures in third-party services, and more.
+			Сэрвіс імкнецца забяспечыць максімальна стабільны ўзровень даступнасці і прадукцыйнасці паслуг, але не нясе адказнасці за невыкананне ці затрымку ў выкананні абавязкаў у сувязі з абставінамі, якія не залежаць ад Сэрвісу (форс-мажор), такімі як няякаснае інтэрнэт-падлучэнне Карыстальніка або Удзельнікаў пры правядзенні вэбінараў, прамых эфіраў і вэб-канферэнцый, адсутнасць мікрафона, камеры і іншага абсталявання ў Карыстальніка, слабая магутнасць абсталявання Карыстальніка, DDoS-атакі на дата-цэнтры, якія выкарыстоўваюцца Сэрвісам, пажары, паводкі, забастоўкі, ваенныя дзеянні, адсутнасць або затрымка паслуг трэціх асоб і г. д.
 		</p>
 		<br>
 		<p>
-			The Website cannot be held liable for any errors, damages, or other unexpected outcomes that arise from the User‘s or Participant‘s misuse of the provided services.
+			Сэрвіс не нясе адказнасці за любыя памылкі, пашкоджанні або іншыя непрадбачаныя сітуацыі, якія ўзніклі пры няправільным выкарыстанні Карыстальнікам або Удзельнікам прадастаўляемых паслуг.
 		</p>
 		<br>
 		<p>
-			In line with its <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Return Policy</a>, the Website disclaims responsibility for any complaints from Participants concerning the poor organization of a paid webinar or any technical mishaps attributable to the User.
+			Згодна з <a href="https://myownconference.com/ru/refund-policy/" target="_blank" rel="noopener noreferrer">Палітыкай вяртання сродкаў</a>, Сэрвіс не нясе адказнасці за прэтэнзіі Удзельнікаў у сувязі з няправільнай арганізацыяй платнага вэбінара або тэхнічных збоев на баку Карыстальніка.
 		</p>
 		<br>
 		<p>
-			The Website reserves the right to suspend or terminate its services without prior notice to the User. This may also involve retaining all proceeds from paid webinars on the Website‘s account, especially in cases where paid webinars, live broadcasts, or web conferences contain illegal or offensive content.
+			Паслугі Сэрвісу могуць быць прыпыненыя або спыненыя з інфармаваннем Карыстальніка або без, а таксама з утрыманнем усіх атрыманых падчас платных мерапрыемстваў сродкаў на рахунку Сэрвісу, у сувязі з незаконным або абразлівым змесцівам платных вэбінараў, прамых эфіраў і вэб-канферэнцый.
 		</p>
 		<br><br>
-		<h3>User‘s rights and obligations</h3>
+		<h3>Правы і абавязкі Карыстальніка</h3>
 		<p>
-			The User is personally responsible to the attendees of paid webinars for their content, quality, and the timely delivery using the services provided by the Website.
+			Карыстальнік нясе асабістую адказнасць перад Удзельнікамі платных мерапрыемстваў за іх змесціва і якасць, а таксама своечасовае правядзенне з выкарыстаннем паслуг Сэрвісу.
 		</p>
 		<br>
 		<p>
-			The User assumes personal responsibility towards attendees of paid webinars for any technical issues, glitches, delays, or cancellations related to the organization of the paid webinar.
+			Карыстальнік нясе асабістую адказнасць перад Удзельнікамі платных мерапрыемстваў за любыя тэхнічныя збоі, непаладкі, затрымкі або адмену арганізацыі платнага вэбінара.
 		</p>
 		<br>
 		<p>
-			The User agrees not to use the services of the Website for illegal purposes. Breaching this agreement will result in the immediate suspension of the User‘s account, and any funds accrued from paid webinars will be retained by the Website.
+			Карыстальнік абавязваецца не выкарыстоўваць паслугі Сэрвісу ў любых незаконных мэтах. Нехтаванне прывядзе да неадкладнай блакоўкі акаўнта Карыстальніка і ўтрыманнем усіх атрыманых падчас платных мерапрыемстваў сродкаў на рахунку Сэрвісу.
 		</p>
 		<br>
 		<p>
-			The User is not permitted to use the Service or its messaging system to send, share, or distribute spam or other unauthorized promotional content. Should attendees file complaints against the User for such unauthorized activities, the Website reserves the right to suspend the User‘s account and retain all funds acquired from paid webinars on the Website.
+			Карыстальніку забараняецца выкарыстоўваць Сэрвіс і сістэму рассылкі для адпраўкі, размяшчэння і распаўсюджвання спама або іншай не дазволенай рэкламнай інфармацыі. У выпадку паступлення скаргі ад Удзельнікаў на Карыстальніка за забароненыя дзеянні, Сэрвіс мае права адключыць уліковы запіс Карыстальніка з утрыманнем усіх атрыманых падчас платных мерапрыемстваў сродкаў на рахунку Сэрвісу.
 		</p>
 		<br><br>
-		<h3>Copyright policy</h3>
+		<h3>Палітыка аўтарскіх правоў</h3>
 		<p>
-			Users are prohibited from posting or reproducing copyrighted materials or trademarks on the Service without obtaining prior permission from the copyright owners.
+			Карыстальнік не мае права размяшчаць або узнаўляць з выкарыстаннем Сэрвісу любы абаронены аўтарскім правам матэрыял або таварныя знакі без атрымання папярэдняй згоды ад праваўладальнікаў.
 		</p>
 		<br>
 		<p>
-			Should a user violate this policy, the Website reserves the right to take actions as detailed in the “Rights and Obligations of the Website“ section of this User Agreement.
+			У выпадку парушэння Карыстальнікам гэтага пункта Сэрвіс мае права ўжыць меры згодна з пунктам «Правы і абавязкі Сэрвісу» гэтага Карыстальніцкага пагаднення.
 		</p>
 		<br><br>
-		<h3>Limitation of liability</h3>
+		<h3>Абмежаванне адказнасці</h3>
 		<p>
-			The Website shall not be held responsible for any damages, including lost profits incurred by Participants or the User, or loss of Participant data due to the negligence of the User, the Website, the Participant, or third parties.
+			Сэрвіс не нясе адказнасці за любыя страты, уключаючы ўпушчаную выгаду Удзельнікамі або Карыстальнікам, страту даных Удзельнікаў па віне Карыстальніка, па віне Сэрвісу, Удзельніка або трэціх асоб.
 		</p>
 		<br>
 		<p>
-			The Website‘s liability to the User is restricted solely to the monetary value of the services the Website has rendered to the User.
+			Адказнасць Сэрвісу ў адносінах да Карыстальніка абмежаваная толькі коштам (сумай у грашовым выразу) прадастаўляемых Сэрвісам паслуг Карыстальніку.
 		</p>
 		<br>
 		<p>
-			For Participants of paid webinars, the Website‘s liability is confined solely to the monetary sum received by the User.
+			Адказнасць Сэрвісу ў адносінах да Удзельнікаў платных мерапрыемстваў абмежаваная толькі коштам (сумай у грашовым выразу), атрыманай на карысць Карыстальніка.
 		</p>
 		<br>
 		<p>
-			The Website offers no assurances to Participants of paid webinars concerning the accuracy, currentness, or comprehensiveness of the information provided by the User. The User acknowledges that the content or materials they present during paid webinars might have inaccuracies or errors. The Website shall not be accountable for any inaccuracies or for any lost profits of the User or Participants.
+			Сэрвіс не дае ніякіх гарантый Удзельнікам платных мерапрыемстваў наконт дакладнасці, актуальнасці і паўнаты інфармацыі, якая прадастаўляецца Карыстальнікам. Карыстальнік, у сваю чаргу, прызнае, што інфармацыя або матэрыялы, якія прадастаўляюцца ім на платных мерапрыемствах, могуць змяшчаць хібы і памылкі, і ў гэтым выпадку Сэрвіс не нясе ніякай адказнасці за дапушчаныя недакладнасці або ўпушчаную выгаду Карыстальніка або Удзельнікаў.
 		</p>
 		<br>
 		<p>
-			The Website does not supply Participants with any ancillary documentation, such as invoices or receipts. It is at the User‘s discretion to address this matter independently if deemed necessary.
+			Сэрвіс не прадастаўляе Удзельнікам любую зачыняльную дакументацыю, а іменна рахункі, чэкі і гэтак далей. На свой уласны меркаванне і пры неабходнасці, Карыстальнік прымае рашэнне пра закрыццё гэтага пытання самастойна.
 		</p>
 		<br><br>
-		<h3>Disputes</h3>
+		<h3>Спрэчкі</h3>
 		<p>
-			While the Website strives to address concerns comprehensively, it cannot guarantee a resolution in favor of every User or Participant of paid webinars. However, we commit to taking all necessary actions and making every effort to resolve any situation or problem promptly. Should disputes arise that necessitate the involvement of public authorities, both the User and the Participant agree to be governed by applicable EU law.
+			Сэрвіс не гарантуе 100% вырашэння ўсіх пытанняў на карысць Карыстальніка або Удзельніка платных мерапрыемстваў, але прыкладае ўсе неабходныя дзеянні і намаганні для вырашэння сітуацыі, якая ўзнікла, ці праблемы ў найкарацейшыя тэрміны. У выпадку ўзнікнення спрэчных пытанняў, якія патрабуюць прыцягнення дзяржаўных органаў, Карыстальнік і Удзельнік згаджаюцца з тым, што спрэчнае пытанне будзе рэгулявацца згодна з дзеючым заканадаўствам ЕС.
 		</p>
 		<br><br>
-		<h3>Notifications</h3>
+		<h3>Паведамленні</h3>
 		<p>
-			Please direct all notifications and inquiries to paid-webinars@myownconference.com. Be sure to provide a detailed description of your concern or any technical issues you‘ve encountered.
+			Усе паведамленні і пытанні павінны накіроўвацца па адрасе contact@myownconference.com з дэталёвым апісаннем прэтэнзіі або праблем, якія ўзніклі, у тым ліку тэхнічных.
 		</p>
 		<br><br>
 	',

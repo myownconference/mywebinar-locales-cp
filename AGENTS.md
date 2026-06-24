@@ -53,14 +53,18 @@ Only after reading sources 1-3, start the session's tasks.
 
 **Cross-source reconciliation**
 - **Locale-code → language must be verified by content, not guessed from the 2-letter code.**
-  Several codes here are internal aliases, not ISO country codes (`gr`=Greek, `br`=PT-fallback,
-  `cn`=zh-Hans, `cz`=cs, `nb`=no). Check PROJECT MEMORY's locale map before treating a code as
-  its apparent language.
+  Several codes here are internal aliases, not ISO country codes (`gr`=Greek, `cn`=zh-Hans,
+  `cz`=cs, `nb`=no). Check PROJECT MEMORY's locale map before treating a code as its apparent
+  language.
+- **Lower line-count ≠ "English fallback".** `be` (Belarusian) and `br` (Brazilian Portuguese)
+  are **partial translations** (be ≈ 255, br ≈ 142 translated lines) — they contain real
+  translations in their own language, just fewer of them. Untranslated keys keep the `en` value.
+  Measure translation *coverage*, not whether translation exists at all.
 
 **Framing & conclusions**
-- **Re-derive the fallback status of `be`/`br`; don't assume "translated".** These are
-  predominantly English-fallback (~600 diff-lines from `en` vs ~2400 for fully-translated
-  locales). Adding a key there means copying the `en` value, not writing a translation.
+- **Translation coverage is a spectrum, not a binary.** Don't label a locale "fallback" from a
+  single-sample line-diff. Measure per-locale coverage (script-detection line counts) before
+  claiming a locale is untranslated. See the audit antipattern note in PROJECT MEMORY.
 
 **Output**
 - Per material claim: expected / actual / verdict (e.g. VERIFIED / PARTIAL / REFUTED) + the
@@ -159,8 +163,12 @@ in every locale.
 - **Key naming:** kebab-case, ASCII lowercase + digits + hyphen (e.g. `activate-javascript`,
   `paid-for`, `per-month-info`, `upload-photo`).
 - **`en` is the reference locale.** New keys land there first, then propagate to all 36 locales.
-  `be` and `br` are predominantly English-fallback (~600 diff-lines from en vs ~2400 for full
-  translations) — they get the `en` value copied, not a translation.
+  Translation **coverage varies**: locales like `ru uk bg ar cn gr he hi ja ka kk ko` are nearly
+  fully translated (~1200 keys with non-Latin scripts), while `be` (Belarusian) and `br`
+  (Brazilian Portuguese) are **partial** (be ≈ 255 translated lines, br ≈ 142). ⚠️ A lower line
+  count is NOT "English fallback" — be/br contain real translations in their target language;
+  untranslated keys there simply retain the `en` value. When adding a key, provide a translation
+  where the locale is actively maintained; leave the `en` value only where no translation exists.
 - **Commit message convention:** `locales: add <key> (all 36 languages)` for a full rollout;
   `locales: add <key> (en/ru/uk)` for a partial first step followed by
   `locales: translate <key> to all languages`; bare `locales update` for revisions.

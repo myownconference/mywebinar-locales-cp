@@ -4880,7 +4880,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permissions <span class="tooltip" data-tip="Assign different access levels to your webinar moderators.<br><br>• Moderator & Speaker — Standard access for moderators and speakers, allowing them to help manage the webinar and deliver presentations.<br><br>• Guest speaker — A limited-access role for guest presenters, ideal for one-time contributors or external speakers.<br><br>By customizing permissions, you can ensure a smooth and well-organized webinar experience, giving each attendee the appropriate level of control"></span>
+		Permissions <span class="tooltip" data-tip="Assign different access levels to your webinar moderators.<br><br>• Moderator & Speaker — Standard access for moderators and speakers, allowing them to help manage the webinar and deliver presentations.<br><br>• Guest speaker — A limited-access role for guest presenters, ideal for one-time contributors or external speakers.<br><br>By customizing permissions, you can ensure a smooth and well-organized webinar experience, giving each person the appropriate level of control"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////

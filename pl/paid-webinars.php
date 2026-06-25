@@ -196,7 +196,7 @@ return [
 		<br><br>
 		<h3>Żądanie zwrotu od Użytkownika</h3>
 		<p>
-			Serwis akceptuje żądanie zwrotu od Użytkownika tylko z Panelu sterowania, z następnym potwierdzeniem z e-mail, podanej w danych logowania Użytkownika.
+			Serwis akceptuje żądanie zwrotu od Użytkownika tylko z Panelu sterowania, z następnym potwierdzeniem z poczty e-mail, podanej w danych logowania Użytkownika.
 		</p>
 		<br>
 		<p>

@@ -130,7 +130,7 @@ return [
 			za pomocą linku partnerskiego;
 			<br><br>
 			– Zabrania się wykorzystywania linku partnerskiego w reklamach Google Ads,
-			Facebook Ads lub na jakimkolwiek innym koncie reklamowym. Poszerzać link
+			Facebook Ads lub na jakimkolwiek innym koncie reklamowym. Rozpowszechniać link
 			można jedynie samodzielnie;
 			<br><br>
 			– Nie można wysyłać linku partnerskiego w imieniu MyOwnConference;

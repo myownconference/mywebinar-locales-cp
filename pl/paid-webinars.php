@@ -123,12 +123,12 @@ return [
 			<br><br>
 			– Konto Użytkownika, Panel sterowania Użytkownika — zbiór danych osobowych Użytkownika, bezpośrednio związanych z zapewnieniem Użytkownikowi dostępu do usług Serwisu, a także pliki zapisywane przez Użytkownika na serwerze Serwisu.
 			<br><br>
-			– Uczestnik, Gość – osoba zaproszona przez Użytkownika, dokonująca płatności Użytkownikowi za uczestnictwo w płatnym wydarzeniu, prowadzonym przez Użytkownika za pomocą Serwisu.
+			– Uczestnik, Gość — osoba zaproszona przez Użytkownika, dokonująca płatności Użytkownikowi za uczestnictwo w płatnym wydarzeniu, prowadzonym przez Użytkownika za pomocą Serwisu.
 		</p>
 		<br><br>
 		<h3>Postanowienia ogólne</h3>
 		<p>
-			Podczas organizowania płatnych wydarzeń, Serwis do prowadzenia webinarów, transmisji na żywo i konferencji internetowych MyOwnConference, zwany dalej Serwis, pełni rolę Agenta, któremu użytkownik powierza przyjmowanie i przetwarzanie płatności od Uczestników zaproszonych w taki czy inny sposób na organizowany przez Użytkownika webinarium, wykład online, konferencję, kurs lub lekcję zorganizowaną za pomocą usług Serwisu.
+			Podczas organizowania płatnych wydarzeń Serwis do prowadzenia webinarów, transmisji na żywo i konferencji internetowych MyOwnConference, zwany dalej Serwis, pełni rolę Agenta, któremu użytkownik powierza przyjmowanie i przetwarzanie płatności od Uczestników zaproszonych w taki czy inny sposób na organizowany przez Użytkownika webinarium, wykład online, konferencję, kurs lub lekcję zorganizowaną za pomocą usług Serwisu.
 		</p>
 		<br>
 		<p>
@@ -196,7 +196,7 @@ return [
 		<br><br>
 		<h3>Żądanie zwrotu od Użytkownika</h3>
 		<p>
-			Serwis akceptuje żądanie zwrotu od Użytkownika tylko z Panelu sterowania, z następnym potwierdzeniem z email, podanej w danych logowania Użytkownika.
+			Serwis akceptuje żądanie zwrotu od Użytkownika tylko z Panelu sterowania, z następnym potwierdzeniem z e-mail, podanej w danych logowania Użytkownika.
 		</p>
 		<br>
 		<p>
@@ -209,7 +209,7 @@ return [
 		<br><br>
 		<h3>Żądanie zwrotu od Uczestnika</h3>
 		<p>
-			Serwis akceptuje żądania zwrotu pieniędzy od Uczestników płatnych webinarów tylko w przypadku bezpośredniego kontaktu od Uczestnika za pomocą formularza kontaktowego lub email podanego na stronie internetowej Serwisu.
+			Serwis akceptuje żądania zwrotu pieniędzy od Uczestników płatnych webinarów tylko w przypadku bezpośredniego kontaktu od Uczestnika za pomocą formularza kontaktowego lub e-mail podanego na stronie internetowej Serwisu.
 		</p>
 		<br>
 		<p>

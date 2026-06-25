@@ -519,7 +519,7 @@ return [
 	'end-webinar-confirm' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>End the webinar?</strong><br><br>Recording will stop, participants will be disconnected, and access will be blocked. This action cannot be undone. End session?
+		<strong>End the webinar?</strong><br><br>Recording will stop, attendees will be disconnected, and access will be blocked. This action cannot be undone. End session?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'end-webinar-yes' => /////////////////////////////////////////////////////////////////
@@ -585,7 +585,7 @@ return [
 	'webinar-editoptions-section-lp' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Advanced settings <span class="tooltip" data-tip="Configure advanced settings for the email collection page and participant information for your online events. Customize the page and form design, select the language, specify required data fields, and add a brief description"></span>
+		Advanced settings <span class="tooltip" data-tip="Configure advanced settings for the email collection page and attendee information for your online events. Customize the page and form design, select the language, specify required data fields, and add a brief description"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-date' => ////////////////////////////////////////////////////////////////////
@@ -687,7 +687,7 @@ return [
 	'profile-name-short' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Name <span class="tooltip" data-tip="Enter the name for your account, such as your company name, personal name, or nickname. This name will be visible only on our platform and will appear in the emails sent to your webinar participants. Make sure it reflects your brand or personal style, as it will be shown in notifications and invitations your attendees receive"></span>
+		Name <span class="tooltip" data-tip="Enter the name for your account, such as your company name, personal name, or nickname. This name will be visible only on our platform and will appear in the emails sent to your webinar attendees. Make sure it reflects your brand or personal style, as it will be shown in notifications and invitations your attendees receive"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-name-placeholder' => ////////////////////////////////////////////////////////
@@ -1479,7 +1479,7 @@ return [
 	'remove-from-group-confirm' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Are you sure you want to remove the participants from the group?</strong><br><br>All selected participants will be removed from the group but will remain in the main list. The group itself will be preserved
+		<strong>Are you sure you want to remove the attendees from the group?</strong><br><br>All selected attendees will be removed from the group but will remain in the main list. The group itself will be preserved
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-attendee' => /////////////////////////////////////////////////////////////////
@@ -1653,13 +1653,13 @@ return [
 	'sd-fullhd' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		480p .. 1080p
+		480p-1080p
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sd-4k' => ///////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		480p .. 2160p
+		480p-2160p
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'recordings-quality' => //////////////////////////////////////////////////////////////
@@ -2001,7 +2001,7 @@ return [
 	'record-userlist' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Including a list of attendees <span class="tooltip" data-tip="The recordings will feature a list of participants, displaying their names and profile pictures, so you can easily see who attended"></span>
+		Including a list of attendees <span class="tooltip" data-tip="The recordings will feature a list of attendees, displaying their names and profile pictures, so you can easily see who attended"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-moder-name' => ///////////////////////////////////////////////////////////////
@@ -2019,7 +2019,7 @@ return [
 	'record-chat' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Including chat <span class="tooltip" data-tip="The recordings will include the public chat with messages from participants. Moderated messages won’t be saved. Only messages approved by the moderator during the event will be included if chat pre-moderation was enabled"></span>
+		Including chat <span class="tooltip" data-tip="The recordings will include the public chat with messages from attendees. Moderated messages won’t be saved. Only messages approved by the moderator during the event will be included if chat pre-moderation was enabled"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copy' => ////////////////////////////////////////////////////////////////////////////
@@ -2043,7 +2043,7 @@ return [
 	'facebook-id' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Facebook Pixel ID <span class="tooltip" data-tip="Enter your Facebook Pixel ID to track webinar participant actions and use the data for advertising and analytics in Meta Ads Manager"></span>
+		Facebook Pixel ID <span class="tooltip" data-tip="Enter your Facebook Pixel ID to track webinar attendee actions and use the data for advertising and analytics in Meta Ads Manager"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'facebook-id-placeholder' => /////////////////////////////////////////////////////////
@@ -2187,7 +2187,7 @@ return [
 	'room-options-header-userlist' => ////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Attendees <span class="tooltip" data-tip="In our webinar room, you can easily adjust how you see your attendee list. You can choose to show participant names, their country flags, or gravatars. This lets you create a more personal and interactive experience just the way you like"></span>
+		Attendees <span class="tooltip" data-tip="In our webinar room, you can easily adjust how you see your attendee list. You can choose to show attendee names, their country flags, or gravatars. This lets you create a more personal and interactive experience just the way you like"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type' => //////////////////////////////////////////////////
@@ -2289,7 +2289,7 @@ return [
 	'room-options-language' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Room and email language <span class="tooltip" data-tip="Set the language for the room and emails so participants see everything in their familiar language"></span>
+		Room and email language <span class="tooltip" data-tip="Set the language for the room and emails so attendees see everything in their familiar language"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-group' => //////////////////////////////////////////////////////////////
@@ -2703,7 +2703,7 @@ return [
 	'mail-1DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1-day reminder <span class="tooltip" data-tip="Automatically send a reminder email to registered attendees 24 hours before your webinar starts. This timely nudge can boost attendance and ensure participants are prepared for your session"></span>
+		1-day reminder <span class="tooltip" data-tip="Automatically send a reminder email to registered attendees 24 hours before your webinar starts. This timely nudge can boost attendance and ensure attendees are prepared for your session"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1DAY-desc' => //////////////////////////////////////////////////////////////////
@@ -2727,7 +2727,7 @@ return [
 	'mail-1HOUR' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1-hour reminder <span class="tooltip" data-tip="A reminder email sent to registered attendees 60 minutes before your webinar begins. This prompt includes a direct link, making it easy for participants to join. A last-minute reminder helps maximize attendance"></span>
+		1-hour reminder <span class="tooltip" data-tip="A reminder email sent to registered attendees 60 minutes before your webinar begins. This prompt includes a direct link, making it easy for attendees to join. A last-minute reminder helps maximize attendance"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1HOUR-desc' => /////////////////////////////////////////////////////////////////
@@ -2775,13 +2775,13 @@ return [
 	'mail-MOVEDFAR' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Rescheduled <span class="tooltip" data-tip="Automatically send an email notification to attendees if the webinar date or time changes. This helps ensure participants stay informed about the updated schedule"></span>
+		Rescheduled <span class="tooltip" data-tip="Automatically send an email notification to attendees if the webinar date or time changes. This helps ensure attendees stay informed about the updated schedule"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-CANCELWEBINAR' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Cancelled <span class="tooltip" data-tip="Automatically send an email notification to attendees if the webinar is cancelled. This ensures participants are informed and can adjust their schedules accordingly"></span>
+		Cancelled <span class="tooltip" data-tip="Automatically send an email notification to attendees if the webinar is cancelled. This ensures attendees are informed and can adjust their schedules accordingly"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'amount-moderators' => ///////////////////////////////////////////////////////////////
@@ -2799,13 +2799,13 @@ return [
 	'amount-attendees' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Number of participants you have invited. After planning is complete, if mailing is enabled, each will be sent an email with a link to join
+		Number of attendees you have invited. After planning is complete, if mailing is enabled, each will be sent an email with a link to join
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'amount-attendees-zero' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Currently, no participants are invited. Select those you want to invite to the scheduled event
+		Currently, no attendees are invited. Select those you want to invite to the scheduled event
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invited-attendees' => ///////////////////////////////////////////////////////////////
@@ -3099,7 +3099,7 @@ return [
 	'guests-by-country' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Countries <span class="tooltip" data-tip="Explore the geographical distribution of your attendees. This section displays the countries from which participants connected to your webinar, offering valuable insights into your audience’s global reach"></span>
+		Countries <span class="tooltip" data-tip="Explore the geographical distribution of your attendees. This section displays the countries from which attendees connected to your webinar, offering valuable insights into your audience’s global reach"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copied' => //////////////////////////////////////////////////////////////////////////
@@ -3429,7 +3429,7 @@ return [
 	'no-attendees-selected' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		No attendees selected, so no invitations will be sent. To invite participants, go to the «Attendees» tab.
+		No attendees selected, so no invitations will be sent. To invite attendees, go to the «Attendees» tab.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-attendees' => ////////////////////////////////////////////////////////////////////
@@ -3483,7 +3483,7 @@ return [
 	'record-link' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Access link <span class="tooltip" data-tip="Use the slider above to create a new access link for the recordings. Click the envelope button to select participants and send the link to their email addresses. Please note: if your permanent webinar room is password-protected, access to the recordings will also require a password"></span>
+		Access link <span class="tooltip" data-tip="Use the slider above to create a new access link for the recordings. Click the envelope button to select attendees and send the link to their email addresses. Please note: if your permanent webinar room is password-protected, access to the recordings will also require a password"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-link-available' => ///////////////////////////////////////////////////////////
@@ -3765,7 +3765,7 @@ return [
 	'webinar-link-for-all' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		General guest link <span class="tooltip" data-tip="This universal link allows all attendees to join the event. Share it via email, social media, or your website to invite participants"></span>
+		General guest link <span class="tooltip" data-tip="This universal link allows all attendees to join the event. Share it via email, social media, or your website to invite attendees"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
@@ -4041,13 +4041,13 @@ return [
 	'not-approv-webinar' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Declined attendance at the webinar <span class="tooltip" data-tip="This graph shows the number of attendees who clicked the «I will not attend» button in the webinar invitation email. It tracks participants who do not want to attend your upcoming webinar"></span>
+		Declined attendance at the webinar <span class="tooltip" data-tip="This graph shows the number of attendees who clicked the «I will not attend» button in the webinar invitation email. It tracks attendees who do not want to attend your upcoming webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'approv-webinar' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Confirmed attendance at the webinar <span class="tooltip" data-tip="This graph shows the number of attendees who clicked the «I will attend» button in the webinar invitation email. It tracks confirmed participants for your upcoming webinar"></span>
+		Confirmed attendance at the webinar <span class="tooltip" data-tip="This graph shows the number of attendees who clicked the «I will attend» button in the webinar invitation email. It tracks confirmed attendees for your upcoming webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-by-paypal' => ///////////////////////////////////////////////////////////////////
@@ -4257,13 +4257,13 @@ return [
 	'open-in-new-window' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Open in new window <span class="tooltip" data-tip="If the switch is on, the link will always open in a new browser window. If the switch is off, the link will open in the same window but only before the webinar starts. After the webinar has started, the link will not open and the participant will go straight into the webinar room"></span>
+		Open in new window <span class="tooltip" data-tip="If the switch is on, the link will always open in a new browser window. If the switch is off, the link will open in the same window but only before the webinar starts. After the webinar has started, the link will not open and the attendee will go straight into the webinar room"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Info page <span class="tooltip" data-tip="This feature allows organizers to create a page with useful information for participants before the webinar begins. It can be a help page, an event description or a confirmation of successful registration. The link supports UTM tags for collecting analytics"></span>
+		Info page <span class="tooltip" data-tip="This feature allows organizers to create a page with useful information for attendees before the webinar begins. It can be a help page, an event description or a confirmation of successful registration. The link supports UTM tags for collecting analytics"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url-placeholder' => //////////////////////////////////////////////////////
@@ -4868,7 +4868,7 @@ return [
 	'room-private-settings-alert' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<u>The webinar login page is not available</u> because you selected the option for access via personalized invitation links only.<br><br>Participants can join the webinar exclusively through the link sent to them via our system, or through the link you copied and shared by other means, such as your email newsletter or a messaging app. Please note that the link is only active for the specific participant it was intended for
+		<u>The webinar login page is not available</u> because you selected the option for access via personalized invitation links only.<br><br>Attendees can join the webinar exclusively through the link sent to them via our system, or through the link you copied and shared by other means, such as your email newsletter or a messaging app. Please note that the link is only active for the specific attendee it was intended for
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-language-auto' => /////////////////////////////////////////////////////////
@@ -4880,7 +4880,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Permissions <span class="tooltip" data-tip="Assign different access levels to your webinar moderators.<br><br>• Moderator & Speaker — Standard access for moderators and speakers, allowing them to help manage the webinar and deliver presentations.<br><br>• Guest speaker — A limited-access role for guest presenters, ideal for one-time contributors or external speakers.<br><br>By customizing permissions, you can ensure a smooth and well-organized webinar experience, giving each participant the appropriate level of control"></span>
+		Permissions <span class="tooltip" data-tip="Assign different access levels to your webinar moderators.<br><br>• Moderator & Speaker — Standard access for moderators and speakers, allowing them to help manage the webinar and deliver presentations.<br><br>• Guest speaker — A limited-access role for guest presenters, ideal for one-time contributors or external speakers.<br><br>By customizing permissions, you can ensure a smooth and well-organized webinar experience, giving each attendee the appropriate level of control"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -5394,7 +5394,7 @@ return [
 	'room-options-password' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Access password <span class="tooltip" data-tip="Protect your event with a password. If this feature is enabled, participants will need to enter the password before accessing your event. This ensures that your webinar remains private and accessible only to those with the password and link"></span>
+		Access password <span class="tooltip" data-tip="Protect your event with a password. If this feature is enabled, attendees will need to enter the password before accessing your event. This ensures that your webinar remains private and accessible only to those with the password and link"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password' => ////////////////////////////////////////////////////////////////////////
@@ -5694,7 +5694,7 @@ return [
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Text direction <span class="tooltip" data-tip="Choose the text direction for the public chat area, supporting both left-to-right (e.g., English) and right-to-left (e.g., Arabic) languages. This ensures a smooth experience for all participants, regardless of their native script orientation"></span>
+		Text direction <span class="tooltip" data-tip="Choose the text direction for the public chat area, supporting both left-to-right (e.g., English) and right-to-left (e.g., Arabic) languages. This ensures a smooth experience for all attendees, regardless of their native script orientation"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////
@@ -5778,7 +5778,7 @@ return [
 	'wait-attendee-subscribe' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Message sent, waiting for participant to view
+		Message sent, waiting for attendee to view
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mails-send-success' => //////////////////////////////////////////////////////////////
@@ -7193,31 +7193,31 @@ return [
 	'webinar-text-chat-settings' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Chat settings <span class="tooltip" data-tip="Manage how the chat works during your webinar and set communication rules for participants. All selected options are applied automatically when the webinar starts"></span>
+		Chat settings <span class="tooltip" data-tip="Manage how the chat works during your webinar and set communication rules for attendees. All selected options are applied automatically when the webinar starts"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chat-block' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Chat locked <span class="tooltip" data-tip="When enabled, participants will not be able to send messages in the chat. Messages from hosts and moderators will still be visible"></span>
+		Chat locked <span class="tooltip" data-tip="When enabled, attendees will not be able to send messages in the chat. Messages from hosts and moderators will still be visible"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chat-filter' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Chat moderation <span class="tooltip" data-tip="Participants’ messages will appear in the chat only after being approved by a moderator. This helps maintain order and prevent unwanted messages"></span>
+		Chat moderation <span class="tooltip" data-tip="Attendees’ messages will appear in the chat only after being approved by a moderator. This helps maintain order and prevent unwanted messages"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chat-links' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Allow links in chat <span class="tooltip" data-tip="Allows participants to send messages containing links. If this option is disabled, links in messages will be automatically hidden"></span>
+		Allow links in chat <span class="tooltip" data-tip="Allows attendees to send messages containing links. If this option is disabled, links in messages will be automatically hidden"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chat-anonimize' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Anonymize participant names <span class="tooltip" data-tip="Hides real participant names and replaces them with neutral labels. This helps protect audience privacy"></span>
+		Anonymize attendee names <span class="tooltip" data-tip="Hides real attendee names and replaces them with neutral labels. This helps protect audience privacy"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'default-header' => //////////////////////////////////////////////////////////////////

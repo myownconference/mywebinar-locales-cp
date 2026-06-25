@@ -111,7 +111,7 @@ return [
 	'referral-rules' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<h3>Referrals program policy</h3>
+		<h3>Referral program policy</h3>
 		<sup style="color:grey">(Last edited: August 30, 2022. Revision: 1.2)</sup>
 		<br>
 		<br>
@@ -120,7 +120,7 @@ return [
 		<p>
 			– Only users with a paid MyOwnConference account can participate in the referral program. If a paid account becomes free, no referral charges will be made;
 			<br><br>
-			– Mass mailing and spam with referral links is prohibited;
+			– Mass mailing and spam with referral links are prohibited;
 			<br><br>
 			– Creating several MyOwnConference accounts and paying for them using a referral link is prohibited;
 			<br><br>
@@ -128,9 +128,9 @@ return [
 			<br><br>
 			– Sending out a referral link in the name of MyOwnConference is prohibited;
 			<br><br>
-			– The commission fee will not be paid if users do not allow storing cookies or clear them because we may lack the possibilities to track them;
+			– The commission fee will not be paid if users do not allow storing cookies or clear them because we may be unable to track them;
 			<br><br>
-			– We reserve the right to change the terms and conditions, as well as the rules of the referral program, at any time with no prior notice. These changes may be introduced in regards to the percentage of the commission fee of the referral program, as well as other conditions of the referral program;
+			– We reserve the right to change the terms and conditions, as well as the rules of the referral program, at any time with no prior notice. These changes may be introduced in regard to the percentage of the commission fee of the referral program, as well as other conditions of the referral program;
 			<br><br>
 			In case of violation of these terms, we will freeze your accrued funds and block your account.
 		</p>

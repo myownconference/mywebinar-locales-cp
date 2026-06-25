@@ -128,7 +128,7 @@ return [
 		<br><br>
 		<h3>General provisions</h3>
 		<p>
-			When arranging paid webinars, the online platform for webinars, live broadcasts, and web conferences, namely «MyOwnConference», hereinafter referred to as «the Platform», serves as an intermediary. The platform is entrusted by the User to receive and process payments from attendees participating in the webinar, online lecture, conference, course, or lesson facilitated via the platform’s services.
+			When arranging paid webinars, the online platform for webinars, live broadcasts, and web conferences, namely «MyOwnConference», hereinafter referred to as «the Platform», serves as an intermediary. The Platform is entrusted by the User to receive and process payments from attendees participating in the webinar, online lecture, conference, course, or lesson facilitated via the Platform’s services.
 		</p>
 		<br>
 		<p>
@@ -157,7 +157,7 @@ return [
 		<br><br>
 		<h3>Platform fees</h3>
 		<p>
-			The website applies a 10% commission to every successful payment made by participants attending a user’s paid webinar.
+			The Website applies a 10% commission to every successful payment made by participants attending a User’s paid webinar.
 		</p>
 		<p>
 			For instance, if you set the entry fee for a webinar at €10 and 10 people attend, generating €10 x 10 = €100 in total payments, you would earn €100 – 10% = €90 after commission.
@@ -165,38 +165,38 @@ return [
 		<br><br>
 		<h3>Bank service fee</h3>
 		<p>
-			A service fee of €7 is applied only for bank transfers to the user’s account. This fee is consistently applied without exceptions.
+			A service fee of €7 is applied only for bank transfers to the User’s account. This fee is consistently applied without exceptions.
 		</p>
 		<br><br>
 		<h3>Correspondent bank fees</h3>
 		<p>
-			These fees are levied by the Correspondent Bank when facilitating the transfer of funds from the website’s bank account to the user’s bank account. For IBAN transfers, the fees charged by correspondent banks can range from €10 to €35. There is no fee for SEPA transfers.
+			These fees are levied by the Correspondent Bank when facilitating the transfer of funds from the Website’s bank account to the User’s bank account. For IBAN transfers, the fees charged by correspondent banks can range from €10 to €35. There is no fee for SEPA transfers.
 		</p>
 		<br>
 		<br><br>
 		<h3>Receiving payouts</h3>
 		<p>
-			When a participant makes a successful payment for a webinar, the amount is credited to a dedicated account on our platform. This is then aggregated based on the number of paid webinars and participants. Payments are processed by our platform, but only initiated upon the user’s request through the Control Panel.
+			When a participant makes a successful payment for a webinar, the amount is credited to a dedicated account on our Platform. This is then aggregated based on the number of paid webinars and participants. Payments are processed by our Platform, but only initiated upon the User’s request through the Control Panel.
 		</p>
 		<br>
 		<p>
-			In accordance with the terms of this Agreement, a 10% commission for our platform, as well as a €7 fee charged by our bank for processing the money transfer, will be deducted from the user’s payout.
+			In accordance with the terms of this Agreement, a 10% commission for our Platform, as well as a €7 fee charged by our bank for processing the money transfer, will be deducted from the User’s payout.
 		</p>
 		<br>
 		<p>
-			The net amount after deductions can either be transferred to the user’s bank account or be applied as credit towards the cost of using our platform’s services.
+			The net amount after deductions can either be transferred to the User’s bank account or be applied as credit towards the cost of using our Platform’s services.
 		</p>
 		<p>
 			All payments are processed no earlier than 7 business days after the webinar and only if there are no refund requests from participants. The minimum payout amount is 300 EUR. For payouts exceeding 600 EUR, our service will send a closing document that must be signed by the recipient of the payment.
-		<br>
-		<br>
+		</p>
+		<br><br>
 		<p>
-			Please note! When using the IBAN method, some intermediary banks may levy an additional fee ranging from €10 to €35. We have no control over, nor can we waive these fees. They are automatically deducted when funds are transferred to the user’s bank account.
+			Please note! When using the IBAN method, some intermediary banks may levy an additional fee ranging from €10 to €35. We have no control over, nor can we waive these fees. They are automatically deducted when funds are transferred to the User’s bank account.
 		</p>
 		<br><br>
 		<h3>Refund request by the User</h3>
 		<p>
-			Users can request a refund through the Control Panel on our website. This must then be confirmed via the email address associated with the user’s account.
+			Users can request a refund through the Control Panel on our Website. This must then be confirmed via the email address associated with the User’s account.
 		</p>
 		<br>
 		<p>
@@ -204,12 +204,12 @@ return [
 		</p>
 		<br>
 		<p>
-			The service processes refunds immediately upon receiving a request from the user.
+			The service processes refunds immediately upon receiving a request from the User.
 		</p>
 		<br><br>
 		<h3>Participant refund request</h3>
 		<p>
-			Our platform processes refund requests from attendees of paid webinars only when they directly contact us through the provided contact form or email address on our website.
+			Our Platform processes refund requests from attendees of paid webinars only when they directly contact us through the provided contact form or email address on our Website.
 		</p>
 		<br>
 		<p>
@@ -221,7 +221,7 @@ return [
 		</p>
 		<br>
 		<p>
-			However, if for any reason the User fails to notify us through the Control Panel, our platform reserves the right to process the refund to the attendee independently.
+			However, if for any reason the User fails to notify us through the Control Panel, our Platform reserves the right to process the refund to the attendee independently.
 		</p>
 		<br><br>
 		<h3>Refund request from the webinar attendee’s bank</h3>
@@ -242,12 +242,12 @@ return [
 		</p>
 		<br>
 		<p>
-			The website strictly adheres to this rule.
+			The Website strictly adheres to this rule.
 		</p>
 		<br><br>
-		<h3>Rights and obligations of the website</h3>
+		<h3>Rights and obligations of the Website</h3>
 		<p>
-			While the Website strives to ensure the highest possible level of service availability and performance, it cannot be held accountable for any failure or delay in meeting its obligations due to unforeseen circumstances beyond its control. Such circumstances include, but are not limited to: subpar internet connection quality experienced by the User or Participants during webinars, live broadcasts, and web conferences; the absence of essential equipment such as microphones or cameras on the user’s end; insufficient power of the User’s device; DDoS attacks targeting data centers utilized by the Website; natural disasters; strikes; acts of war; delays or failures in third-party services, and more.
+			While the Website strives to ensure the highest possible level of service availability and performance, it cannot be held accountable for any failure or delay in meeting its obligations due to unforeseen circumstances beyond its control. Such circumstances include, but are not limited to: subpar internet connection quality experienced by the User or Participants during webinars, live broadcasts, and web conferences; the absence of essential equipment such as microphones or cameras on the User’s end; insufficient power of the User’s device; DDoS attacks targeting data centers utilized by the Website; natural disasters; strikes; acts of war; delays or failures in third-party services, and more.
 		</p>
 		<br>
 		<p>
@@ -285,7 +285,7 @@ return [
 		</p>
 		<br>
 		<p>
-			Should a user violate this policy, the Website reserves the right to take actions as detailed in the «Rights and Obligations of the Website» section of this User Agreement.
+			Should a User violate this policy, the Website reserves the right to take actions as detailed in the «Rights and Obligations of the Website» section of this User Agreement.
 		</p>
 		<br><br>
 		<h3>Limitation of liability</h3>

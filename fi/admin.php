@@ -5445,6 +5445,12 @@ return [
 		%S kutsua jäljellä <span class="tooltip" data-mode="bottom" data-tip="Tämä luku kertoo, kuinka monta osallistujaa voit kutsua yhteen webinaariin. Se perustuu nykyiseen tilaukseesi. Huomaa, että kutsuja voi olla jopa 5 kertaa enemmän kuin osallistujarajoitus. Esimerkiksi jos pakettisi sallii 60 osallistujaa, voit kutsua jopa 300 osallistujaa joustavuuden takaamiseksi"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'invites-per-webinar' => /////////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		kutsua webinaaria kohden <span class="tooltip" data-tip="Tämä luku kertoo, kuinka monta osallistujaa voit kutsua yhteen webinaariin. Se perustuu nykyiseen tilaukseesi. Huomaa, että kutsuja voi olla jopa 5 kertaa enemmän kuin osallistujarajoitus. Esimerkiksi jos pakettisi sallii 60 osallistujaa, voit kutsua jopa 300 osallistujaa joustavuuden takaamiseksi"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

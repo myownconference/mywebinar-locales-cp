@@ -5451,6 +5451,12 @@ return [
 		Còn %S lời mời <span class="tooltip" data-mode="bottom" data-tip="Số này cho biết số lượng người tham dự tối đa bạn có thể mời cho một hội thảo trực tuyến. Nó phản ánh tổng số lời mời có sẵn dựa trên gói hiện tại của bạn. Lưu ý rằng số lời mời có thể gấp 5 lần giới hạn người tham dự trong gói của bạn. Ví dụ, nếu gói cho phép 60 người tham dự, bạn có thể mời tối đa 300 người để tăng tính linh hoạt và mức độ tương tác"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'invites-per-webinar' => /////////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		lời mời cho mỗi hội thảo <span class="tooltip" data-tip="Số này cho biết số lượng người tham dự tối đa bạn có thể mời cho một hội thảo trực tuyến. Nó phản ánh tổng số lời mời có sẵn dựa trên gói hiện tại của bạn. Lưu ý rằng số lời mời có thể gấp 5 lần giới hạn người tham dự trong gói của bạn. Ví dụ, nếu gói cho phép 60 người tham dự, bạn có thể mời tối đa 300 người để tăng tính linh hoạt và mức độ tương tác"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

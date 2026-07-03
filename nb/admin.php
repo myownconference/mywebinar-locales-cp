@@ -5445,6 +5445,12 @@ return [
 		%S invitasjoner igjen <span class="tooltip" data-mode="bottom" data-tip="Dette tallet viser hvor mange personer du kan invitere til ett enkelt webinar. Det er basert på abonnementet ditt. Antall invitasjoner kan være opptil 5 ganger deltakergrensen. For eksempel: Hvis planen din tillater 60 deltakere, kan du invitere opptil 300 for større fleksibilitet og engasjement"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'invites-per-webinar' => /////////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		invitasjoner per webinar <span class="tooltip" data-tip="Dette tallet viser hvor mange personer du kan invitere til ett enkelt webinar. Det er basert på abonnementet ditt. Antall invitasjoner kan være opptil 5 ganger deltakergrensen. For eksempel: Hvis planen din tillater 60 deltakere, kan du invitere opptil 300 for større fleksibilitet og engasjement"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

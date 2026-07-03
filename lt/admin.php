@@ -5457,6 +5457,12 @@ return [
 		Liko %S kvietimų <span class="tooltip" data-mode="bottom" data-tip="Šis skaičius nurodo maksimalų dalyvių, kuriuos galite pakviesti į vieną webinarą, skaičių. Tai atspindi bendrą kvietimų skaičių pagal jūsų dabartinį planą. Atkreipkite dėmesį, kad kvietimų gali būti iki 5 kartų daugiau nei jūsų plano dalyvių riba. Pavyzdžiui, jei jūsų planas leidžia 60 dalyvių, galite pakviesti iki 300 dalyvių, kad būtų užtikrintas lankstumas ir įsitraukimas"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'invites-per-webinar' => /////////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		kvietimų į webinarą <span class="tooltip" data-tip="Šis skaičius nurodo maksimalų dalyvių, kuriuos galite pakviesti į vieną webinarą, skaičių. Tai atspindi bendrą kvietimų skaičių pagal jūsų dabartinį planą. Atkreipkite dėmesį, kad kvietimų gali būti iki 5 kartų daugiau nei jūsų plano dalyvių riba. Pavyzdžiui, jei jūsų planas leidžia 60 dalyvių, galite pakviesti iki 300 dalyvių, kad būtų užtikrintas lankstumas ir įsitraukimas"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

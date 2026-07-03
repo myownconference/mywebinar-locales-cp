@@ -5445,6 +5445,12 @@ return [
 		%S uitnodigingen over <span class="tooltip" data-mode="bottom" data-tip="Dit aantal geeft aan hoeveel deelnemers je nog kunt uitnodigen voor een webinar. Het weerspiegelt het maximale aantal uitnodigingen volgens je huidige abonnement. Je kunt tot 5 keer het deelnemerslimiet uitnodigen voor meer flexibiliteit en betrokkenheid. Bijvoorbeeld: bij een limiet van 60 deelnemers mag je tot 300 uitnodigingen versturen"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'invites-per-webinar' => /////////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		uitnodigingen per webinar <span class="tooltip" data-tip="Dit aantal geeft aan hoeveel deelnemers je nog kunt uitnodigen voor een webinar. Het weerspiegelt het maximale aantal uitnodigingen volgens je huidige abonnement. Je kunt tot 5 keer het deelnemerslimiet uitnodigen voor meer flexibiliteit en betrokkenheid. Bijvoorbeeld: bij een limiet van 60 deelnemers mag je tot 300 uitnodigingen versturen"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

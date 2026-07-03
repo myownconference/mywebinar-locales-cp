@@ -5457,6 +5457,12 @@ return [
 		Atlikušas %S ielūgumu <span class="tooltip" data-mode="bottom" data-tip="Šis skaits norāda maksimālo dalībnieku skaitu, ko varat uzaicināt uz vienu vebināru. Tas atbilst jūsu pašreizējam plānam. Ņemiet vērā, ka uzaicinājumu skaits var būt līdz 5 reizēm lielāks par jūsu dalībnieku limitu. Piemēram, ja jūsu plāns atļauj 60 dalībniekus, jūs varat uzaicināt līdz 300, lai nodrošinātu elastību un iesaisti"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'invites-per-webinar' => /////////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		ielūgumiem uz vebināru <span class="tooltip" data-tip="Šis skaits norāda maksimālo dalībnieku skaitu, ko varat uzaicināt uz vienu vebināru. Tas atbilst jūsu pašreizējam plānam. Ņemiet vērā, ka uzaicinājumu skaits var būt līdz 5 reizēm lielāks par jūsu dalībnieku limitu. Piemēram, ja jūsu plāns atļauj 60 dalībniekus, jūs varat uzaicināt līdz 300, lai nodrošinātu elastību un iesaisti"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

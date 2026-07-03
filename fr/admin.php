@@ -5463,6 +5463,12 @@ return [
 		Il reste %S invitations <span class="tooltip" data-mode="bottom" data-tip="Ce nombre indique le nombre maximum de participants que vous pouvez inviter à un seul webinaire. Il reflète le total des invitations disponibles en fonction de votre plan actuel. Notez que le nombre dʼinvitations peut atteindre jusquʼà 5 fois la limite de participants de votre plan tarifaire. Par exemple, si votre plan permet 60 participants, vous pouvez inviter jusquʼà 300 participants pour garantir flexibilité et engagement"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'invites-per-webinar' => /////////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		invitations par webinaire <span class="tooltip" data-tip="Ce nombre indique le nombre maximum de participants que vous pouvez inviter à un seul webinaire. Il reflète le total des invitations disponibles en fonction de votre plan actuel. Notez que le nombre dʼinvitations peut atteindre jusquʼà 5 fois la limite de participants de votre plan tarifaire. Par exemple, si votre plan permet 60 participants, vous pouvez inviter jusquʼà 300 participants pour garantir flexibilité et engagement"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

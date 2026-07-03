@@ -5445,6 +5445,12 @@ return [
 		Faltam %S convites <span class="tooltip" data-mode="bottom" data-tip="Esse número indica o número máximo de participantes que você pode convidar para um único webinar. Reflete o total de convites disponíveis com base no seu plano atual. Observe que o número de convites pode ser até 5 vezes o limite de participantes do seu plano. Por exemplo, se seu plano permite 60 participantes, você pode convidar até 300 participantes para acomodar flexibilidade e engajamento"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'invites-per-webinar' => /////////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		convites por webinar <span class="tooltip" data-tip="Esse número indica o número máximo de participantes que você pode convidar para um único webinar. Reflete o total de convites disponíveis com base no seu plano atual. Observe que o número de convites pode ser até 5 vezes o limite de participantes do seu plano. Por exemplo, se seu plano permite 60 participantes, você pode convidar até 300 participantes para acomodar flexibilidade e engajamento"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

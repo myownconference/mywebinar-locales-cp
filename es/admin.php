@@ -5459,6 +5459,12 @@ return [
 		Quedan %S invitaciones <span class="tooltip" data-mode="bottom" data-tip="Este número indica el máximo de asistentes que puedes invitar a un solo webinar. Refleja el total de invitaciones disponibles según tu plan actual. Ten en cuenta que el número de invitaciones puede ser hasta 5 veces el límite de asistentes de tu plan de precios. Por ejemplo, si tu plan permite 60 asistentes, puedes invitar hasta 300 asistentes para acomodar flexibilidad y participación"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'invites-per-webinar' => /////////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		invitaciones por seminario web <span class="tooltip" data-tip="Este número indica el máximo de asistentes que puedes invitar a un solo webinar. Refleja el total de invitaciones disponibles según tu plan actual. Ten en cuenta que el número de invitaciones puede ser hasta 5 veces el límite de asistentes de tu plan de precios. Por ejemplo, si tu plan permite 60 asistentes, puedes invitar hasta 300 asistentes para acomodar flexibilidad y participación"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

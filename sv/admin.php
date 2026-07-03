@@ -5445,6 +5445,12 @@ return [
 		%S inbjudningar kvar <span class="tooltip" data-mode="bottom" data-tip="Detta antal visar hur många deltagare du kan bjuda in till ett webbinar. Det baseras på din aktuella plan. Du kan bjuda in upp till 5 gånger fler än gränsen för samtidiga deltagare. Om din plan tillåter 60 deltagare kan du exempelvis bjuda in upp till 300 personer."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'invites-per-webinar' => /////////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		inbjudningar per webbinar <span class="tooltip" data-tip="Detta antal visar hur många deltagare du kan bjuda in till ett webbinar. Det baseras på din aktuella plan. Du kan bjuda in upp till 5 gånger fler än gränsen för samtidiga deltagare. Om din plan tillåter 60 deltagare kan du exempelvis bjuda in upp till 300 personer."></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

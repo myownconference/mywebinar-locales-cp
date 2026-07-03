@@ -5445,6 +5445,12 @@ return [
 		%S invitationer tilbage <span class="tooltip" data-mode="bottom" data-tip="Dette antal viser, hvor mange deltagere du maksimalt kan invitere til et enkelt webinar. Det afspejler antallet af tilgængelige invitationer baseret på din nuværende plan. Du kan invitere op til 5 gange flere, end der er pladser i dit abonnement. For eksempel, hvis din plan tillader 60 deltagere, kan du invitere op til 300 for at sikre fleksibilitet og engagement"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'invites-per-webinar' => /////////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		invitationer pr. webinar <span class="tooltip" data-tip="Dette antal viser, hvor mange deltagere du maksimalt kan invitere til et enkelt webinar. Det afspejler antallet af tilgængelige invitationer baseret på din nuværende plan. Du kan invitere op til 5 gange flere, end der er pladser i dit abonnement. For eksempel, hvis din plan tillader 60 deltagere, kan du invitere op til 300 for at sikre fleksibilitet og engagement"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

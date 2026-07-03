@@ -5451,6 +5451,12 @@ return [
 		%S davetiye kaldı <span class="tooltip" data-mode="bottom" data-tip="Bu sayı, tek bir web seminerine davet edebileceğiniz maksimum katılımcı sayısını gösterir. Mevcut planınıza göre toplam kullanılabilir davetiye sayısını yansıtır. Davetiye sayısının, fiyatlandırma planınızın katılımcı limitinin 5 katına kadar çıkabileceğini unutmayın. Örneğin, planınız 60 katılımcıya izin veriyorsa, esneklik ve katılım sağlamak için 300 katılımcıya kadar davet gönderebilirsiniz"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'invites-per-webinar' => /////////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		web semineri başına davetiye <span class="tooltip" data-tip="Bu sayı, tek bir web seminerine davet edebileceğiniz maksimum katılımcı sayısını gösterir. Mevcut planınıza göre toplam kullanılabilir davetiye sayısını yansıtır. Davetiye sayısının, fiyatlandırma planınızın katılımcı limitinin 5 katına kadar çıkabileceğini unutmayın. Örneğin, planınız 60 katılımcıya izin veriyorsa, esneklik ve katılım sağlamak için 300 katılımcıya kadar davet gönderebilirsiniz"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

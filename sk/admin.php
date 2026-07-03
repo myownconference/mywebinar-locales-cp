@@ -5265,6 +5265,12 @@ return [
 		Zostáva %S pozvánok <span class="tooltip" data-mode="bottom" data-tip="Toto číslo označuje maximálny počet účastníkov, ktorých môžete pozvať na jeden webinár. Zodpovedá počtu dostupných pozvánok podľa vášho aktuálneho plánu. Môžete pozvať až 5× viac účastníkov, než je váš limit. Napríklad, ak váš plán umožňuje 60 účastníkov, môžete pozvať až 300 osôb, aby ste zvýšili flexibilitu a zapojenie"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'invites-per-webinar' => /////////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		pozvánok na jeden webinár <span class="tooltip" data-tip="Toto číslo označuje maximálny počet účastníkov, ktorých môžete pozvať na jeden webinár. Zodpovedá počtu dostupných pozvánok podľa vášho aktuálneho plánu. Môžete pozvať až 5× viac účastníkov, než je váš limit. Napríklad, ak váš plán umožňuje 60 účastníkov, môžete pozvať až 300 osôb, aby ste zvýšili flexibilitu a zapojenie"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

@@ -5445,6 +5445,12 @@ return [
 		%S Einladungen verbleibend <span class="tooltip" data-mode="bottom" data-tip="Diese Zahl gibt an, wie viele Teilnehmer Sie maximal zu einem einzelnen Webinar einladen können. Sie spiegelt die insgesamt verfügbaren Einladungen basierend auf Ihrem aktuellen Plan wider. Beachten Sie, dass die Anzahl der Einladungen bis zu 5-mal höher sein kann als das Teilnehmerlimit Ihres Tarifs. Zum Beispiel, wenn Ihr Tarif 60 Teilnehmer erlaubt, können Sie bis zu 300 Teilnehmer einladen, um Flexibilität und Engagement zu gewährleisten"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'invites-per-webinar' => /////////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		Einladungen pro Webinar <span class="tooltip" data-tip="Diese Zahl gibt an, wie viele Teilnehmer Sie maximal zu einem einzelnen Webinar einladen können. Sie spiegelt die insgesamt verfügbaren Einladungen basierend auf Ihrem aktuellen Plan wider. Beachten Sie, dass die Anzahl der Einladungen bis zu 5-mal höher sein kann als das Teilnehmerlimit Ihres Tarifs. Zum Beispiel, wenn Ihr Tarif 60 Teilnehmer erlaubt, können Sie bis zu 300 Teilnehmer einladen, um Flexibilität und Engagement zu gewährleisten"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

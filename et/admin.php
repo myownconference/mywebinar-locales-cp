@@ -5445,6 +5445,12 @@ return [
 		%S kutset on alles <span class="tooltip" data-mode="bottom" data-tip="See number näitab maksimaalset osalejate arvu, kelle saad kutsuda ühele veebiseminarile. See põhineb sinu hetkel aktiivsel paketil. Pane tähele, et kutsete arv võib olla kuni 5 korda suurem sinu paketi osalejate limiidist. Näiteks kui sinu paketis on 60 osalejat, saad kutsuda kuni 300 inimest, et tagada paindlikkus ja kaasatus"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'invites-per-webinar' => /////////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		kutset veebiseminari kohta <span class="tooltip" data-tip="See number näitab maksimaalset osalejate arvu, kelle saad kutsuda ühele veebiseminarile. See põhineb sinu hetkel aktiivsel paketil. Pane tähele, et kutsete arv võib olla kuni 5 korda suurem sinu paketi osalejate limiidist. Näiteks kui sinu paketis on 60 osalejat, saad kutsuda kuni 300 inimest, et tagada paindlikkus ja kaasatus"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

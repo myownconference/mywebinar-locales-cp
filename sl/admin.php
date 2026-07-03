@@ -5445,6 +5445,12 @@ return [
 		%S povabil ostalo <span class="tooltip" data-mode="bottom" data-tip="To število prikazuje največje možno število udeležencev, ki jih lahko povabite na en spletni seminar. Temelji na vašem trenutnem paketu. Upoštevajte, da je število povabil lahko do 5-krat večje od omejitve števila udeležencev vašega paketa. Na primer, če vaš paket omogoča 60 udeležencev, lahko povabite do 300 oseb, kar omogoča večjo prilagodljivost in vključenost"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
+	'invites-per-webinar' => /////////////////////////////////////////////////////////////////
+	//////////////////////////////////////////////////////////////////////////////////////
+	'
+		povabil na spletni seminar <span class="tooltip" data-tip="To število prikazuje največje možno število udeležencev, ki jih lahko povabite na en spletni seminar. Temelji na vašem trenutnem paketu. Upoštevajte, da je število povabil lahko do 5-krat večje od omejitve števila udeležencev vašega paketa. Na primer, če vaš paket omogoča 60 udeležencev, lahko povabite do 300 oseb, kar omogoča večjo prilagodljivost in vključenost"></span>
+	',
+	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'

@@ -753,7 +753,7 @@ return [
 	'webinar-duration' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Διάρκεια <span class="tooltip" data-tip="Estimated webinar duration. The webinar won‘t conclude on its own when this duration elapses. However, a button will be displayed within the webinar room, allowing you to end the webinar at your discretion"></span>
+		Διάρκεια <span class="tooltip" data-tip="Estimated webinar duration. The webinar won’t conclude on its own when this duration elapses. However, a button will be displayed within the webinar room, allowing you to end the webinar at your discretion"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderators' => //////////////////////////////////////////////////////////////////////
@@ -909,7 +909,7 @@ return [
 	'profile-timezone' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ζώνη ώρας <span class="tooltip" data-tip="Choosing the correct time zone is crucial as all scheduled webinars will adhere to this setting. Please ensure it aligns with your computer‘s clock for accurate scheduling and webinar timings"></span>
+		Ζώνη ώρας <span class="tooltip" data-tip="Choosing the correct time zone is crucial as all scheduled webinars will adhere to this setting. Please ensure it aligns with your computer’s clock for accurate scheduling and webinar timings"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invalid-character' => ///////////////////////////////////////////////////////////////
@@ -2313,7 +2313,7 @@ return [
 	'room-splash' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Φόντο <span class="tooltip" data-tip="Adjust the webinar room registration page‘s background colours and design preferences to align with your brand or the theme of the webinar"></span>
+		Φόντο <span class="tooltip" data-tip="Adjust the webinar room registration page’s background colours and design preferences to align with your brand or the theme of the webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-splash-size' => ////////////////////////////////////////////////////////////////
@@ -2337,7 +2337,7 @@ return [
 	'room-options-broadcasting-type' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Πηγή μετάδοσης <span class="tooltip" data-tip="Our webinar and video conferencing platform supports three distinct streaming sources:<br><br>• WebRTC – All webinar speakers will utilise the browser-based WebRTC protocol via UDP when streaming their webcam and microphone. To leverage the full potential of this technology, a fast and reliable internet connection is imperative.<br><br>• Plugin DTS – All our webinar speakers can easily download our secure DTS plugin. It works smoothly for webcam and microphone streaming, even on slower internet connections. Created by our team, this plugin minimizes delays. So, even on a not-so-great internet connection, you‘ll experience a lag of up to 3 seconds from real-time.<br><br>• OBS Studio – Only one webinar speaker is permitted to use OBS studio for high-definition streaming, offering up to 1080p quality. However, please note there might be a substantial latency of over 20 seconds"></span>
+		Πηγή μετάδοσης <span class="tooltip" data-tip="Our webinar and video conferencing platform supports three distinct streaming sources:<br><br>• WebRTC – All webinar speakers will utilise the browser-based WebRTC protocol via UDP when streaming their webcam and microphone. To leverage the full potential of this technology, a fast and reliable internet connection is imperative.<br><br>• Plugin DTS – All our webinar speakers can easily download our secure DTS plugin. It works smoothly for webcam and microphone streaming, even on slower internet connections. Created by our team, this plugin minimizes delays. So, even on a not-so-great internet connection, you’ll experience a lag of up to 3 seconds from real-time.<br><br>• OBS Studio – Only one webinar speaker is permitted to use OBS studio for high-definition streaming, offering up to 1080p quality. However, please note there might be a substantial latency of over 20 seconds"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-browser' => //////////////////////////////////////////
@@ -2355,7 +2355,7 @@ return [
 	'room-options-header-conference' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Λειτουργία εκδήλωσης <span class="tooltip" data-tip="We offer two types of webinars:<br><br>• Meeting – An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility.<br><br>• Webinar – A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
+		Λειτουργία εκδήλωσης <span class="tooltip" data-tip="We offer two types of webinars:<br><br>• Meeting – An interactive event mode designed for collaboration and discussion. The speaker’s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility.<br><br>• Webinar – A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker’s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
@@ -2373,25 +2373,25 @@ return [
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Πλάτος συζήτησης <span class="tooltip" data-tip="Choose the desired width for the public chat feature in the webinar room. The layout combines a chat section with an area dedicated to the speakers‘ video streams. To see how your webinar room will appear, refer to the preview in the bottom right corner"></span>
+		Πλάτος συζήτησης <span class="tooltip" data-tip="Choose the desired width for the public chat feature in the webinar room. The layout combines a chat section with an area dedicated to the speakers’ video streams. To see how your webinar room will appear, refer to the preview in the bottom right corner"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-camchatsize' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Πλάτος της κάμερας <span class="tooltip" data-tip="Adjust the width of your webcam‘s viewing area in the webinar room. This space comprises both a dedicated webcam section and an area for your presentations or secure screen sharing. To see how your webinar room will appear, refer to the preview in the bottom right corner"></span>
+		Πλάτος της κάμερας <span class="tooltip" data-tip="Adjust the width of your webcam’s viewing area in the webinar room. This space comprises both a dedicated webcam section and an area for your presentations or secure screen sharing. To see how your webinar room will appear, refer to the preview in the bottom right corner"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-buttons' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ανατροφοδότηση <span class="tooltip" data-tip="Allow attendees to participate in your webinar or webinar actively. Choose to enable text submissions if you‘d like them to ask questions, or give them the option to voice their queries or comments by enabling the «request to speak» feature. Activating either option will add a corresponding menu item in the webinar room, enhancing interactivity and engagement"></span>
+		Ανατροφοδότηση <span class="tooltip" data-tip="Allow attendees to participate in your webinar or webinar actively. Choose to enable text submissions if you’d like them to ask questions, or give them the option to voice their queries or comments by enabling the «request to speak» feature. Activating either option will add a corresponding menu item in the webinar room, enhancing interactivity and engagement"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Περιγραφή <span class="tooltip" data-tip="Utilise this feature to craft a concise and engaging overview for your webinar‘s registration page. A well-written description sets the tone, provides essential details, and entices potential attendees. Whether you‘re highlighting the webinar‘s key topics, introducing the speakers, or underscoring the benefits of attending, this space is your canvas to captivate and inform your audience"></span>
+		Περιγραφή <span class="tooltip" data-tip="Utilise this feature to craft a concise and engaging overview for your webinar’s registration page. A well-written description sets the tone, provides essential details, and entices potential attendees. Whether you’re highlighting the webinar’s key topics, introducing the speakers, or underscoring the benefits of attending, this space is your canvas to captivate and inform your audience"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc-placeholder' => ///////////////////////////////////////////////////////////
@@ -2457,19 +2457,19 @@ return [
 	'room-options-freeseats' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Εμφάνιση διαθέσιμων θέσεων <span class="tooltip" data-tip="Activate this feature to display the remaining seats for your online webinar. This transparency informs attendees of the webinar‘s capacity and creates a sense of urgency, motivating them to secure their spot before it fills up"></span>
+		Εμφάνιση διαθέσιμων θέσεων <span class="tooltip" data-tip="Activate this feature to display the remaining seats for your online webinar. This transparency informs attendees of the webinar’s capacity and creates a sense of urgency, motivating them to secure their spot before it fills up"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-login-settings' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Προτιμήσεις <span class="tooltip" data-tip="Customize your webinar‘s registration page to suit your requirements. This feature allows you to tailor the sign-up process, ensuring it aligns with your webinar‘s branding and captures attendees‘ needed information"></span>
+		Προτιμήσεις <span class="tooltip" data-tip="Customize your webinar’s registration page to suit your requirements. This feature allows you to tailor the sign-up process, ensuring it aligns with your webinar’s branding and captures attendees’ needed information"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-login-theme' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Σταθερό χρώμα στην αριστερή πλευρά <span class="tooltip" data-tip="Enhance the readability and visual appeal of your webinar registration and login page by activating this feature. When toggled on, the page will be divided into two sections. The left side will feature a solid colour background, providing a clearer backdrop for your webinar description and details, while the right remains as per your existing design. This separation not only adds a modern aesthetic but ensures attendees can easily read and understand the webinar‘s particulars"></span>
+		Σταθερό χρώμα στην αριστερή πλευρά <span class="tooltip" data-tip="Enhance the readability and visual appeal of your webinar registration and login page by activating this feature. When toggled on, the page will be divided into two sections. The left side will feature a solid colour background, providing a clearer backdrop for your webinar description and details, while the right remains as per your existing design. This separation not only adds a modern aesthetic but ensures attendees can easily read and understand the webinar’s particulars"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-login-bg' => ///////////////////////////////////////////////////////////
@@ -2493,7 +2493,7 @@ return [
 	'room-login-show-start' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Afficher la date du webinaire <span class="tooltip" data-tip="Affichez clairement la date du webinaire sur les pages d‘inscription et de connexion. Cela aide les participants à planifier à l‘avance et à savoir exactement quand le webinaire aura lieu"></span>
+		Afficher la date du webinaire <span class="tooltip" data-tip="Affichez clairement la date du webinaire sur les pages d’inscription et de connexion. Cela aide les participants à planifier à l’avance et à savoir exactement quand le webinaire aura lieu"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-name' => ////////////////////////////////////////////////////////////
@@ -2511,7 +2511,7 @@ return [
 	'room-login-show-main-moderator' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Συμπεριλαμβάνοντας τον ιδιοκτήτη του λογαριασμού <span class="tooltip" data-tip="By toggling on this sub-feature, you can include the account administrator in the displayed list of the webinar‘s key figures alongside the moderators, presenters, and notable attendees. This provides a more comprehensive view of all the main organizers and contributors to the webinar"></span>
+		Συμπεριλαμβάνοντας τον ιδιοκτήτη του λογαριασμού <span class="tooltip" data-tip="By toggling on this sub-feature, you can include the account administrator in the displayed list of the webinar’s key figures alongside the moderators, presenters, and notable attendees. This provides a more comprehensive view of all the main organizers and contributors to the webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-started' => /////////////////////////////////////////////////////////////////
@@ -2685,7 +2685,7 @@ return [
 	'room-embed-form' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ενεργοποίηση ενσωμάτωσης φόρμας <span class="tooltip" data-tip="Activate this switch to generate an IFRAME code for your webinar‘s registration and login form. By doing so, you can seamlessly embed the form directly onto your own website, providing your visitors with a streamlined experience without having to navigate to a separate page. It‘s a handy tool for integrating webinar sign-up directly into your site‘s ecosystem"></span>
+		Ενεργοποίηση ενσωμάτωσης φόρμας <span class="tooltip" data-tip="Activate this switch to generate an IFRAME code for your webinar’s registration and login form. By doing so, you can seamlessly embed the form directly onto your own website, providing your visitors with a streamlined experience without having to navigate to a separate page. It’s a handy tool for integrating webinar sign-up directly into your site’s ecosystem"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
@@ -3777,7 +3777,7 @@ return [
 	'two-factor' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ταυτοποίηση δύο παραγόντων <span class="tooltip" data-tip="Enhance your account security by enabling this feature. Once activated, you‘ll need your password and a code from apps like Google Authenticator to log in"></span>
+		Ταυτοποίηση δύο παραγόντων <span class="tooltip" data-tip="Enhance your account security by enabling this feature. Once activated, you’ll need your password and a code from apps like Google Authenticator to log in"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'wrong-code' => //////////////////////////////////////////////////////////////////////
@@ -4419,7 +4419,7 @@ return [
 	'room-close-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Σελίδα ευχαριστιών <span class="tooltip" data-tip="This feature allows webinar organisers to provide attendees with a seamless transition after an webinar concludes or if they choose to leave early. By activating this setting, attendees will be automatically redirected to a custom webpage of your choice. This can be particularly useful for post-webinar surveys, offers, feedback forms, or a simple thank you message. Ensure your attendees‘ journey is well-rounded by guiding them to relevant content after your webinar"></span>
+		Σελίδα ευχαριστιών <span class="tooltip" data-tip="This feature allows webinar organisers to provide attendees with a seamless transition after an webinar concludes or if they choose to leave early. By activating this setting, attendees will be automatically redirected to a custom webpage of your choice. This can be particularly useful for post-webinar surveys, offers, feedback forms, or a simple thank you message. Ensure your attendees’ journey is well-rounded by guiding them to relevant content after your webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-close-url-placeholder' => //////////////////////////////////////////////////////
@@ -4910,7 +4910,7 @@ return [
 	'unsubscribe-link-title' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Κουμπί «Κατάργηση εγγραφής» <span class="tooltip" data-tip="Provide a bespoke experience for attendees choosing to opt out of webinar notifications. By setting a custom webpage or landing page URL for the «Unsubscribe» button, you can present additional information, a feedback form, or other engagement options. Please bear in mind, once attendees choose this option, they‘ll be permanently removed from all future email notifications, ensuring we honour their decision to halt communications from our platform"></span>
+		Κουμπί «Κατάργηση εγγραφής» <span class="tooltip" data-tip="Provide a bespoke experience for attendees choosing to opt out of webinar notifications. By setting a custom webpage or landing page URL for the «Unsubscribe» button, you can present additional information, a feedback form, or other engagement options. Please bear in mind, once attendees choose this option, they’ll be permanently removed from all future email notifications, ensuring we honour their decision to halt communications from our platform"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'unsubscribe-link-desc' => ///////////////////////////////////////////////////////////
@@ -4970,7 +4970,7 @@ return [
 	'room-mail-header' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Πανό <span class="tooltip" data-tip="Enhance your email notifications with a distinctive top banner that immediately capturing recipients‘ attention. This banner serves as a visual cue for recipients, ensuring they recognize and prioritize your webinar notifications amidst the clutter of their inboxes. A well-designed banner can reinforce your brand identity, highlight key webinar details, and set the tone for the webinar. Incorporate striking visuals, concise text, and relevant branding to make your email notifications stand out and leave a memorable impression"></span>
+		Πανό <span class="tooltip" data-tip="Enhance your email notifications with a distinctive top banner that immediately capturing recipients’ attention. This banner serves as a visual cue for recipients, ensuring they recognize and prioritize your webinar notifications amidst the clutter of their inboxes. A well-designed banner can reinforce your brand identity, highlight key webinar details, and set the tone for the webinar. Incorporate striking visuals, concise text, and relevant branding to make your email notifications stand out and leave a memorable impression"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-header-size' => ///////////////////////////////////////////////////////////
@@ -4982,7 +4982,7 @@ return [
 	'room-mail-footer' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Υπογραφή <span class="tooltip" data-tip="Personalise the footer of your email notifications with a custom signature. This feature allows you to add a unique touch to every outgoing email about your online webinars, be it your name, title, organization, or a brief message. This signature will appear at the bottom of each notification, reinforcing your brand‘s identity or providing additional contact information to your recipients. Craft a signature that leaves a lasting impression and ensures consistency across all your webinar communications"></span>
+		Υπογραφή <span class="tooltip" data-tip="Personalise the footer of your email notifications with a custom signature. This feature allows you to add a unique touch to every outgoing email about your online webinars, be it your name, title, organization, or a brief message. This signature will appear at the bottom of each notification, reinforcing your brand’s identity or providing additional contact information to your recipients. Craft a signature that leaves a lasting impression and ensures consistency across all your webinar communications"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-default-footer' => ////////////////////////////////////////////////////////
@@ -5646,7 +5646,7 @@ return [
 	'payweb-get-to' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Εκδήλωση με χρέωση <span class="tooltip" data-tip="Turn on this feature to set an entrance fee for your webinar. You‘re transforming your webinar or session into a premium experience by activating, ensuring only paying attendees can access the content. This is ideal for exclusive workshops, specialized training, or any content you deem valuable"></span>
+		Εκδήλωση με χρέωση <span class="tooltip" data-tip="Turn on this feature to set an entrance fee for your webinar. You’re transforming your webinar or session into a premium experience by activating, ensuring only paying attendees can access the content. This is ideal for exclusive workshops, specialized training, or any content you deem valuable"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'records-send-wait' => ///////////////////////////////////////////////////////////////
@@ -6432,7 +6432,7 @@ return [
 	'room-mail-notification' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Παραλήπτες <span class="tooltip" data-tip="Specify the individuals you wish to notify about your upcoming online webinars. Tailor your email notifications based on the recipient‘s role or involvement in the webinar"></span>
+		Παραλήπτες <span class="tooltip" data-tip="Specify the individuals you wish to notify about your upcoming online webinars. Tailor your email notifications based on the recipient’s role or involvement in the webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'notification-all' => ////////////////////////////////////////////////////////////////

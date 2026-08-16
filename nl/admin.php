@@ -597,7 +597,7 @@ return [
 	'webinars-title' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Geplande webinars <span class="tooltip" data-tip="Gebruik onze geïntegreerde agenda om toekomstige webinars te plannen. Maak ze privé met unieke links per e-mail of deel ze zelf. Voeg logoʼs en banners toe voor een professionele uitstraling. Webinars kunnen als MP4 worden opgeslagen en deelnemers ontvangen automatisch e-mailmeldingen. Alle opties vind je onder ‘Geavanceerde instellingen’ tijdens het plannen"></span>
+		Geplande webinars <span class="tooltip" data-tip="Gebruik onze geïntegreerde agenda om toekomstige webinars te plannen. Maak ze privé met unieke links per e-mail of deel ze zelf. Voeg logo’s en banners toe voor een professionele uitstraling. Webinars kunnen als MP4 worden opgeslagen en deelnemers ontvangen automatisch e-mailmeldingen. Alle opties vind je onder ‘Geavanceerde instellingen’ tijdens het plannen"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-edit-section' => ////////////////////////////////////////////////////////////
@@ -1683,7 +1683,7 @@ return [
 	'on-disk' => /////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		opslagruimte <span class="tooltip" data-tip="Maximale opslagruimte in de cloud voor je presentaties, afbeeldingen, videoʼs en opnames"></span>
+		opslagruimte <span class="tooltip" data-tip="Maximale opslagruimte in de cloud voor je presentaties, afbeeldingen, video’s en opnames"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-time' => /////////////////////////////////////////////////////////////////////
@@ -1773,7 +1773,7 @@ return [
 	'webinar-delete-files' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Alle bestanden en videoʼs worden verplaatst naar de hoofdopslag
+		Alle bestanden en video’s worden verplaatst naar de hoofdopslag
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-delete-no-cancel' => ////////////////////////////////////////////////////////
@@ -2259,7 +2259,7 @@ return [
 	'room-options-header-conference' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Evenementmodus <span class="tooltip" data-tip="Kies uit twee webinarvormen:<br><br>• Meeting – Interactieve modus voor samenwerking en gesprekken. De spreker is prominent in beeld en elke spreker krijgt een gelijkwaardig deel van het scherm.<br><br>• Webinar – Presentatiegerichte modus, ideaal voor lezingen, workshops of demoʼs. De spreker is klein in beeld en de focus ligt op schermdeling of slides"></span>
+		Evenementmodus <span class="tooltip" data-tip="Kies uit twee webinarvormen:<br><br>• Meeting – Interactieve modus voor samenwerking en gesprekken. De spreker is prominent in beeld en elke spreker krijgt een gelijkwaardig deel van het scherm.<br><br>• Webinar – Presentatiegerichte modus, ideaal voor lezingen, workshops of demo’s. De spreker is klein in beeld en de focus ligt op schermdeling of slides"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
@@ -4958,7 +4958,7 @@ return [
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webcam tonen, geüploade videoʼs, YouTube, scherm en documenten delen, toetsen en enquêtes beheren, deelnemers beheren
+		Webcam tonen, geüploade video’s, YouTube, scherm en documenten delen, toetsen en enquêtes beheren, deelnemers beheren
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-speaker' => //////////////////////////////////////////////////////////
@@ -4970,7 +4970,7 @@ return [
 	'moderator-perm-speaker-desc' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webcam tonen, geüploade videoʼs, YouTube, scherm en documenten delen
+		Webcam tonen, geüploade video’s, YouTube, scherm en documenten delen
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'package-expire-alert' => ////////////////////////////////////////////////////////////
@@ -5214,7 +5214,7 @@ return [
 	'auto-webinar-create-section-many' => ////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Instellingen voor serie geautomatiseerde webinars <span class="tooltip" data-tip="Beheer en pas je reeks geautomatiseerde webinars aan. Stel schemaʼs, inhoud, branding en interacties met deelnemers in voor een vlot en boeiend verloop van je sessies"></span>
+		Instellingen voor serie geautomatiseerde webinars <span class="tooltip" data-tip="Beheer en pas je reeks geautomatiseerde webinars aan. Stel schema’s, inhoud, branding en interacties met deelnemers in voor een vlot en boeiend verloop van je sessies"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-default-webinar-name' => ///////////////////////////////////////////////////////
@@ -5238,7 +5238,7 @@ return [
 	'add-video' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Videoʼs
+		Video’s
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-records-title' => /////////////////////////////////////////////////////////
@@ -5250,7 +5250,7 @@ return [
 	'room-grid-video-title' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Geüploade videoʼs
+		Geüploade video’s
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'select-video' => ////////////////////////////////////////////////////////////////////
@@ -5556,7 +5556,7 @@ return [
 	'records-send-wait' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		De verzending van de videoʼs is al gestart. Probeer het later opnieuw.
+		De verzending van de video’s is al gestart. Probeer het later opnieuw.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-search-placeholder' => /////////////////////////////////////////////////////
@@ -5580,7 +5580,7 @@ return [
 	'storage-title' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Opslag <span class="tooltip" data-tip="Jouw centrale plek voor alle geüploade bestanden, polls, enquêtes, toetsen en CTAʼs. Filter, sorteer en vind eenvoudig bestanden en andere inhoud. Je kunt bestanden verwijderen, downloaden of nieuwe uploaden. Integreer videoʼs direct vanaf YouTube of Vimeo om je content aan te vullen. Daarnaast kun je polls, enquêtes, toetsen en CTAʼs aanmaken of bewerken. Alles op één plek"></span>
+		Opslag <span class="tooltip" data-tip="Jouw centrale plek voor alle geüploade bestanden, polls, enquêtes, toetsen en CTA’s. Filter, sorteer en vind eenvoudig bestanden en andere inhoud. Je kunt bestanden verwijderen, downloaden of nieuwe uploaden. Integreer video’s direct vanaf YouTube of Vimeo om je content aan te vullen. Daarnaast kun je polls, enquêtes, toetsen en CTA’s aanmaken of bewerken. Alles op één plek"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-is-full' => /////////////////////////////////////////////////////////////////
@@ -5604,7 +5604,7 @@ return [
 	'used-storage-text' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		{used} van {all} gebruikt <span class="tooltip" data-tip="Toont hoeveel ruimte er gebruikt is van het totaal beschikbare, inclusief bestanden, presentaties, diaʼs en opnames van webinars"></span>
+		{used} van {all} gebruikt <span class="tooltip" data-tip="Toont hoeveel ruimte er gebruikt is van het totaal beschikbare, inclusief bestanden, presentaties, dia’s en opnames van webinars"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'need-more-storage' => ///////////////////////////////////////////////////////////////
@@ -6204,13 +6204,13 @@ return [
 	'storage-add-video' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Voeg YouTube- of Vimeo-video toe <span class="tooltip" data-tip="Voeg YouTube- of Vimeo-videoʼs toe aan je webinar door de videolink hieronder in te voeren. Kopieer simpelweg de URL van de video op YouTube of Vimeo en plak deze hier. Met deze functie kun je je webinarinhoud verrijken met externe videoʼs voor een soepele kijkervaring. Zorg ervoor dat de link correct is en openbaar beschikbaar is om afspeelproblemen te voorkomen"></span>
+		Voeg YouTube- of Vimeo-video toe <span class="tooltip" data-tip="Voeg YouTube- of Vimeo-video’s toe aan je webinar door de videolink hieronder in te voeren. Kopieer simpelweg de URL van de video op YouTube of Vimeo en plak deze hier. Met deze functie kun je je webinarinhoud verrijken met externe video’s voor een soepele kijkervaring. Zorg ervoor dat de link correct is en openbaar beschikbaar is om afspeelproblemen te voorkomen"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-add-video-no-record' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Let op: YouTube-videoʼs worden niet opgenomen in verband met auteursrechten
+		Let op: YouTube-video’s worden niet opgenomen in verband met auteursrechten
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-url-placeholder' => /////////////////////////////////////////////////////////

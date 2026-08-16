@@ -45,7 +45,7 @@ return [
 	'referral-history-title' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Cronologia dei pagamenti dell‘utente %S
+		Cronologia dei pagamenti dell’utente %S
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-active' => /////////////////////////////////////////////////////////////////
@@ -120,7 +120,7 @@ return [
 		<p>
 			– Solo gli utenti con un account MyOwnConference a pagamento possono partecipare al programma di referenza. Se un account a pagamento diventa gratuito, non saranno applicate commissioni di referenza;
 			<br><br>
-			– È vietato l‘invio di mail in massa e lo spam con link di referenza;
+			– È vietato l’invio di mail in massa e lo spam con link di referenza;
 			<br><br>
 			– È vietato creare diversi account MyOwnConference e pagarli utilizzando un link di referenza;
 			<br><br>
@@ -139,7 +139,7 @@ return [
 	'referral-rules-bottom' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Firma qui se sei d‘accordo con i termini e condizioni del programma di referenza
+		Firma qui se sei d’accordo con i termini e condizioni del programma di referenza
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-rules-button' => ///////////////////////////////////////////////////////////

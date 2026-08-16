@@ -21,7 +21,7 @@ return [
 	'funds-received' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Betaalde webinars <span class="tooltip" data-tip="Activeer deze optie om deelnemers te laten betalen voor toegang tot het webinar. Lees en bevestig de overeenkomsten in je profielinstellingen voordat je betaalde webinars inschakelt. Let op: deze functie wordt niet direct geactiveerd, want wij beoordelen eerst handmatig je profiel en webinarthemaʼs"></span>
+		Betaalde webinars <span class="tooltip" data-tip="Activeer deze optie om deelnemers te laten betalen voor toegang tot het webinar. Lees en bevestig de overeenkomsten in je profielinstellingen voordat je betaalde webinars inschakelt. Let op: deze functie wordt niet direct geactiveerd, want wij beoordelen eerst handmatig je profiel en webinarthema’s"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'hold-title' => //////////////////////////////////////////////////////////////////////
@@ -251,7 +251,7 @@ return [
 		<br><br>
 		<h3>Rechten en plichten van de website</h3>
 		<p>
-		Hoewel de Website zich inzet voor een zo hoog mogelijke beschikbaarheid en prestatie van de dienstverlening, kan zij niet aansprakelijk worden gesteld voor vertragingen of het niet nakomen van verplichtingen als gevolg van onvoorziene omstandigheden buiten haar controle. Deze omstandigheden omvatten, maar zijn niet beperkt tot: slechte internetverbinding bij de Gebruiker of Deelnemers tijdens webinars, live-uitzendingen of webconferenties; ontbrekende apparatuur zoals microfoons of cameraʼs bij de gebruiker; onvoldoende prestaties van het apparaat van de gebruiker; DDoS-aanvallen op datacenters van de Website; natuurrampen; stakingen; oorlogssituaties; vertragingen of storingen bij externe diensten, enzovoort.
+		Hoewel de Website zich inzet voor een zo hoog mogelijke beschikbaarheid en prestatie van de dienstverlening, kan zij niet aansprakelijk worden gesteld voor vertragingen of het niet nakomen van verplichtingen als gevolg van onvoorziene omstandigheden buiten haar controle. Deze omstandigheden omvatten, maar zijn niet beperkt tot: slechte internetverbinding bij de Gebruiker of Deelnemers tijdens webinars, live-uitzendingen of webconferenties; ontbrekende apparatuur zoals microfoons of camera’s bij de gebruiker; onvoldoende prestaties van het apparaat van de gebruiker; DDoS-aanvallen op datacenters van de Website; natuurrampen; stakingen; oorlogssituaties; vertragingen of storingen bij externe diensten, enzovoort.
 		</p>
 		<br>
 		<p>

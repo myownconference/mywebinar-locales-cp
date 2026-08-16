@@ -201,7 +201,7 @@ return [
 	'captcha-alt' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vérification captcha pour confirmer lʼaccès humain
+		Vérification captcha pour confirmer l’accès humain
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'or' => //////////////////////////////////////////////////////////////////////////////
@@ -555,19 +555,19 @@ return [
 	'start-webinar' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Démarrer le webinaire <span class="tooltip" data-tip="Le webinaire démarre automatiquement lorsque vous vous connectez à l’heure prévue en tant quʼanimateur. Cliquez pour obtenir les liens nécessaires à lʼaccès et au démarrage"></span>
+		Démarrer le webinaire <span class="tooltip" data-tip="Le webinaire démarre automatiquement lorsque vous vous connectez à l’heure prévue en tant qu’animateur. Cliquez pour obtenir les liens nécessaires à l’accès et au démarrage"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'end-webinar' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Terminer le webinaire <span class="tooltip" data-tip="Le webinaire peut être terminé ici sʼil nʼa pas été arrêté par lʼanimateur dans la salle"></span>
+		Terminer le webinaire <span class="tooltip" data-tip="Le webinaire peut être terminé ici s’il n’a pas été arrêté par l’animateur dans la salle"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'end-webinar-confirm' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Terminer le webinaire?</strong><br><br>Lʼenregistrement sʼarrêtera, les participants seront déconnectés et lʼaccès sera bloqué. Cette action est irréversible. Terminer la session?
+		<strong>Terminer le webinaire?</strong><br><br>L’enregistrement s’arrêtera, les participants seront déconnectés et l’accès sera bloqué. Cette action est irréversible. Terminer la session?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'end-webinar-yes' => /////////////////////////////////////////////////////////////////
@@ -591,7 +591,7 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Salles de webinaire <span class="tooltip" data-tip="Créez des salles de webinaire disponibles 24h/24 et 7j/7 avec des liens statiques. Ajoutez une protection par mot de passe pour plus de sécurité ou passez en mode page d‘accueil. Dans ce mode, les participants verront un formulaire pour entrer leur adresse e-mail et d‘autres détails avant d‘accéder à la salle. Ce mode est idéal pour recueillir des informations sur les participants avant de leur accorder l‘accès aux webinaires futurs"></span>
+		Salles de webinaire <span class="tooltip" data-tip="Créez des salles de webinaire disponibles 24h/24 et 7j/7 avec des liens statiques. Ajoutez une protection par mot de passe pour plus de sécurité ou passez en mode page d’accueil. Dans ce mode, les participants verront un formulaire pour entrer leur adresse e-mail et d’autres détails avant d’accéder à la salle. Ce mode est idéal pour recueillir des informations sur les participants avant de leur accorder l’accès aux webinaires futurs"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
@@ -627,7 +627,7 @@ return [
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paramètres avancés <span class="tooltip" data-tip="Personnalisez votre salle de webinaire avec des paramètres avancés. Ajustez l‘apparence de votre espace de travail et de votre page d‘inscription, configurez les enregistrements d‘événements et automatisez les invitations par e-mail pour les webinaires à venir pour tous les groupes d‘audience"></span>
+		Paramètres avancés <span class="tooltip" data-tip="Personnalisez votre salle de webinaire avec des paramètres avancés. Ajustez l’apparence de votre espace de travail et de votre page d’inscription, configurez les enregistrements d’événements et automatisez les invitations par e-mail pour les webinaires à venir pour tous les groupes d’audience"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section-lp' => //////////////////////////////////////////////////
@@ -657,7 +657,7 @@ return [
 	'webinar-duration' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Durée <span class="tooltip" data-tip="Estimated webinar duration. The webinar won‘t conclude on its own when this duration elapses. However, a button will be displayed within the webinar room, allowing you to end the webinar at your discretion"></span>
+		Durée <span class="tooltip" data-tip="Estimated webinar duration. The webinar won’t conclude on its own when this duration elapses. However, a button will be displayed within the webinar room, allowing you to end the webinar at your discretion"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderators' => //////////////////////////////////////////////////////////////////////
@@ -735,7 +735,7 @@ return [
 	'profile-name-short' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nom <span class="tooltip" data-tip="Entrez le nom de votre compte, tel que le nom de votre entreprise, votre nom personnel ou un surnom. Ce nom ne sera visible que sur notre plateforme et apparaîtra dans les e-mails envoyés aux participants de votre webinaire. Assurez-vous qu‘il reflète votre marque ou votre style personnel, car il apparaîtra dans les notifications et les invitations reçues par vos participants"></span>
+		Nom <span class="tooltip" data-tip="Entrez le nom de votre compte, tel que le nom de votre entreprise, votre nom personnel ou un surnom. Ce nom ne sera visible que sur notre plateforme et apparaîtra dans les e-mails envoyés aux participants de votre webinaire. Assurez-vous qu’il reflète votre marque ou votre style personnel, car il apparaîtra dans les notifications et les invitations reçues par vos participants"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-name-placeholder' => ////////////////////////////////////////////////////////
@@ -813,7 +813,7 @@ return [
 	'profile-timezone' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Fuseau horaire <span class="tooltip" data-tip="Choosing the correct time zone is crucial as all scheduled webinars will adhere to this setting. Please ensure it aligns with your computer‘s clock for accurate scheduling and webinar timings"></span>
+		Fuseau horaire <span class="tooltip" data-tip="Choosing the correct time zone is crucial as all scheduled webinars will adhere to this setting. Please ensure it aligns with your computer’s clock for accurate scheduling and webinar timings"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invalid-character' => ///////////////////////////////////////////////////////////////
@@ -921,7 +921,7 @@ return [
 	'web-close' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Connexion uniquement avec le lien d‘invitation <span class="tooltip" data-tip="Activez cette option pour organiser des webinaires privés. Cela cachera le formulaire d‘inscription à tout le monde, et le lien de connexion ne sera envoyé que via des notifications par e-mail. Les participants ne pourront pas s‘inscrire ou se connecter à l‘aide d‘un lien public"></span>
+		Connexion uniquement avec le lien d’invitation <span class="tooltip" data-tip="Activez cette option pour organiser des webinaires privés. Cela cachera le formulaire d’inscription à tout le monde, et le lien de connexion ne sera envoyé que via des notifications par e-mail. Les participants ne pourront pas s’inscrire ou se connecter à l’aide d’un lien public"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-moderator' => ////////////////////////////////////////////////////////////////
@@ -1053,7 +1053,7 @@ return [
 	'moderators-list' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Modérateurs <span class="tooltip" data-tip="Cette section vous permet de créer et de gérer les modérateurs de vos webinaires en ligne. Attribuez des rôles, définissez des permissions et assurez-vous que votre webinaire se déroule sans problème en désignant les bonnes personnes pour le superviser et l‘animer"></span>
+		Modérateurs <span class="tooltip" data-tip="Cette section vous permet de créer et de gérer les modérateurs de vos webinaires en ligne. Attribuez des rôles, définissez des permissions et assurez-vous que votre webinaire se déroule sans problème en désignant les bonnes personnes pour le superviser et l’animer"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mod-search-placeholder' => //////////////////////////////////////////////////////////
@@ -1221,7 +1221,7 @@ return [
 	'webinar-name' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Titre du webinaire <span class="tooltip" data-tip="Saisissez le nom de votre webinaire. Ce titre sera visible par les participants et utilisé dans les invitations, les notifications et lʼaffichage de la salle de webinaire"></span>
+		Titre du webinaire <span class="tooltip" data-tip="Saisissez le nom de votre webinaire. Ce titre sera visible par les participants et utilisé dans les invitations, les notifications et l’affichage de la salle de webinaire"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'default-webinar-name' => ////////////////////////////////////////////////////////////
@@ -1263,7 +1263,7 @@ return [
 	'extend-current-plan' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Prolonger le plan <span class="tooltip" data-tip="Sélectionnez une période ci-dessous pour prolonger votre plan tarifaire actuel. Payez pour un mois au prix régulier ou choisissez 2, 3, 6 ou 12 mois et profitez de réductions allant jusqu‘à 20%"></span>
+		Prolonger le plan <span class="tooltip" data-tip="Sélectionnez une période ci-dessous pour prolonger votre plan tarifaire actuel. Payez pour un mois au prix régulier ou choisissez 2, 3, 6 ou 12 mois et profitez de réductions allant jusqu’à 20%"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'month-is-30-days' => ////////////////////////////////////////////////////////////////
@@ -1317,7 +1317,7 @@ return [
 	'change-current-plan' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Améliorer le plan <span class="tooltip" data-tip="Mettez à niveau votre plan pour bénéficier de plus de sièges pour les participants, de stockage supplémentaire, d‘une qualité d‘enregistrement supérieure et de périodes de facturation flexibles. Adaptez votre plan à vos besoins et améliorez votre expérience de webinaire. Payez pour un mois au prix régulier ou choisissez 2, 3, 6 ou 12 mois et profitez de réductions allant jusqu‘à 20%"></span>
+		Améliorer le plan <span class="tooltip" data-tip="Mettez à niveau votre plan pour bénéficier de plus de sièges pour les participants, de stockage supplémentaire, d’une qualité d’enregistrement supérieure et de périodes de facturation flexibles. Adaptez votre plan à vos besoins et améliorez votre expérience de webinaire. Payez pour un mois au prix régulier ou choisissez 2, 3, 6 ou 12 mois et profitez de réductions allant jusqu’à 20%"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'change-plan' => /////////////////////////////////////////////////////////////////////
@@ -1413,7 +1413,7 @@ return [
 	'one-day-plan' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		l‘abonnement un jour
+		l’abonnement un jour
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-activate' => ///////////////////////////////////////////////////////////////////
@@ -1431,19 +1431,19 @@ return [
 	'invite-moderators' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Présentateurs du webinaire <span class="tooltip" data-tip="Les modérateurs qui participent à l‘événement en ligne en tant que présentateurs. Les liens pour les présentateurs sélectionnés sont disponibles dans la section «Liens d‘accès»"></span>
+		Présentateurs du webinaire <span class="tooltip" data-tip="Les modérateurs qui participent à l’événement en ligne en tant que présentateurs. Les liens pour les présentateurs sélectionnés sont disponibles dans la section «Liens d’accès»"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-attendees' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Participants au webinaire <span class="tooltip" data-tip="Les participants qui assistent à l‘événement en ligne en tant qu‘invités. Le lien public pour accéder à l‘événement est disponible dans la section «Liens d‘accès», ou des liens privés sont envoyés par notification par e-mail si vous avez activé cette fonctionnalité"></span>
+		Participants au webinaire <span class="tooltip" data-tip="Les participants qui assistent à l’événement en ligne en tant qu’invités. Le lien public pour accéder à l’événement est disponible dans la section «Liens d’accès», ou des liens privés sont envoyés par notification par e-mail si vous avez activé cette fonctionnalité"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendees-list' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Participants <span class="tooltip" data-tip="Gérez ici les participants à votre webinaire en ligne. Ajoutez, modifiez ou mettez à jour les informations des participants, y compris les détails de l‘email. Vous pouvez facilement importer ou exporter des listes de participants en masse, appliquer des filtres et organiser les données des participants pour simplifier la préparation et la communication de votre webinaire"></span>
+		Participants <span class="tooltip" data-tip="Gérez ici les participants à votre webinaire en ligne. Ajoutez, modifiez ou mettez à jour les informations des participants, y compris les détails de l’email. Vous pouvez facilement importer ou exporter des listes de participants en masse, appliquer des filtres et organiser les données des participants pour simplifier la préparation et la communication de votre webinaire"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'att-search-placeholder' => //////////////////////////////////////////////////////////
@@ -1623,13 +1623,13 @@ return [
 	'one-day-plan-section' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Plan d‘un jour <span class="tooltip" data-tip="Choisissez le plan d‘un jour pour accéder aux fonctionnalités premium pendant 24 heures, y compris diverses capacités de participants, un stockage supplémentaire et une qualité d‘enregistrement améliorée. Sélectionnez votre date d‘activation préférée pour correspondre à votre emploi du temps"></span>
+		Plan d’un jour <span class="tooltip" data-tip="Choisissez le plan d’un jour pour accéder aux fonctionnalités premium pendant 24 heures, y compris diverses capacités de participants, un stockage supplémentaire et une qualité d’enregistrement améliorée. Sélectionnez votre date d’activation préférée pour correspondre à votre emploi du temps"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'choose-one-date' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Choisir la date d‘activation
+		Choisir la date d’activation
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'choose-day-in-calendar' => //////////////////////////////////////////////////////////
@@ -1641,13 +1641,13 @@ return [
 	'package-will-be-active' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		S‘active à 01:00
+		S’active à 01:00
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'package-will-be-active-today' => ////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		S‘active immédiatement
+		S’active immédiatement
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'per-day' => /////////////////////////////////////////////////////////////////////////
@@ -1677,25 +1677,25 @@ return [
 	'speakers-at-time' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		orateurs en même temps <span class="tooltip" data-tip="Le nombre maximum de présentateurs pouvant utiliser simultanément une caméra et un microphone pendant le webinaire. Cette limite s‘applique uniquement à ceux qui présentent en même temps. Les présentateurs peuvent se relayer sans aucune restriction"></span>
+		orateurs en même temps <span class="tooltip" data-tip="Le nombre maximum de présentateurs pouvant utiliser simultanément une caméra et un microphone pendant le webinaire. Cette limite s’applique uniquement à ceux qui présentent en même temps. Les présentateurs peuvent se relayer sans aucune restriction"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'on-disk' => /////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		d‘espace disque <span class="tooltip" data-tip="La capacité de stockage cloud maximale disponible pour vos présentations, images, vidéos et enregistrements d‘événements en ligne"></span>
+		d’espace disque <span class="tooltip" data-tip="La capacité de stockage cloud maximale disponible pour vos présentations, images, vidéos et enregistrements d’événements en ligne"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-time' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Durée d‘enregistrement
+		Durée d’enregistrement
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-quality' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Qualité <span class="tooltip" data-tip="Sélectionnez la résolution pour lʼenregistrement de votre webinaire. Des résolutions plus élevées offrent des visuels plus clairs mais nécessitent plus dʼespace de stockage et de bande passante. Notez que le choix dʼune résolution comme 1080p ne signifie pas que seule votre webcam sera enregistrée en 1080p, car les webcams diffusent généralement au maximum en 480p. Des résolutions plus élevées permettent une meilleure clarté du contenu partagé, tel que des présentations et le partage dʼécran"></span>
+		Qualité <span class="tooltip" data-tip="Sélectionnez la résolution pour l’enregistrement de votre webinaire. Des résolutions plus élevées offrent des visuels plus clairs mais nécessitent plus d’espace de stockage et de bande passante. Notez que le choix d’une résolution comme 1080p ne signifie pas que seule votre webcam sera enregistrée en 1080p, car les webcams diffusent généralement au maximum en 480p. Des résolutions plus élevées permettent une meilleure clarté du contenu partagé, tel que des présentations et le partage d’écran"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'sd-fullhd' => ///////////////////////////////////////////////////////////////////////
@@ -1713,13 +1713,13 @@ return [
 	'recordings-quality' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		qualité vidéo <span class="tooltip" data-tip="La gamme de qualité d‘enregistrement disponible pour vos événements en ligne, de la résolution minimale à la résolution maximale"></span>
+		qualité vidéo <span class="tooltip" data-tip="La gamme de qualité d’enregistrement disponible pour vos événements en ligne, de la résolution minimale à la résolution maximale"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'recordings-download-only' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Télécharger les enregistrements <span class="tooltip" data-tip="Ce plan vous permet de télécharger des enregistrements au format MP4, mais restreint le partage d‘un lien sécurisé avec un accès temporaire pour la visualisation dans le navigateur"></span>
+		Télécharger les enregistrements <span class="tooltip" data-tip="Ce plan vous permet de télécharger des enregistrements au format MP4, mais restreint le partage d’un lien sécurisé avec un accès temporaire pour la visualisation dans le navigateur"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'recordings-download-and-share' => ///////////////////////////////////////////////////
@@ -1737,13 +1737,13 @@ return [
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Aucun webinaire n‘est prévu pour aujourd‘hui
+		Aucun webinaire n’est prévu pour aujourd’hui
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-day' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vous n‘avez programmé aucun événement pour le jour sélectionné
+		Vous n’avez programmé aucun événement pour le jour sélectionné
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-webinar' => //////////////////////////////////////////////////////////////////
@@ -1773,7 +1773,7 @@ return [
 	'webinar-delete-files' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tous les documents téléchargés seront transférés sur l‘espace de stockage
+		Tous les documents téléchargés seront transférés sur l’espace de stockage
 		général.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
@@ -1786,25 +1786,25 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Durée <span class="tooltip" data-tip="Choisissez une fréquence de paiement qui vous convient le mieux. Vous pouvez payer chaque jour chaque mois tous les deux mois tous les trois mois tous les six mois ou une fois par an. Moins vous payez souvent plus vous économisez. Veuillez noter que notre cycle de facturation est de trente jours pour un plan mensuel soixante jours pour un plan bimensuel quatre-vingt-dix jours pour un plan trimestriel cent quatre-vingts jours pour un plan semestriel et il continue dʼaugmenter proportionnellement pour des périodes plus longues"></span><br><small>%d jours</small>
+		Durée <span class="tooltip" data-tip="Choisissez une fréquence de paiement qui vous convient le mieux. Vous pouvez payer chaque jour chaque mois tous les deux mois tous les trois mois tous les six mois ou une fois par an. Moins vous payez souvent plus vous économisez. Veuillez noter que notre cycle de facturation est de trente jours pour un plan mensuel soixante jours pour un plan bimensuel quatre-vingt-dix jours pour un plan trimestriel cent quatre-vingts jours pour un plan semestriel et il continue d’augmenter proportionnellement pour des périodes plus longues"></span><br><small>%d jours</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Durée <span class="tooltip" data-tip="Choisissez une fréquence de paiement qui vous convient le mieux. Vous pouvez payer chaque jour chaque mois tous les deux mois tous les trois mois tous les six mois ou une fois par an. Moins vous payez souvent plus vous économisez. Veuillez noter que notre cycle de facturation est de trente jours pour un plan mensuel soixante jours pour un plan bimensuel quatre-vingt-dix jours pour un plan trimestriel cent quatre-vingts jours pour un plan semestriel et il continue dʼaugmenter proportionnellement pour des périodes plus longues"></span><br><small>%d jours</small>
+		Durée <span class="tooltip" data-tip="Choisissez une fréquence de paiement qui vous convient le mieux. Vous pouvez payer chaque jour chaque mois tous les deux mois tous les trois mois tous les six mois ou une fois par an. Moins vous payez souvent plus vous économisez. Veuillez noter que notre cycle de facturation est de trente jours pour un plan mensuel soixante jours pour un plan bimensuel quatre-vingt-dix jours pour un plan trimestriel cent quatre-vingts jours pour un plan semestriel et il continue d’augmenter proportionnellement pour des périodes plus longues"></span><br><small>%d jours</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Facture d‘achat
+		Facture d’achat
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice-paid' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Facture d‘achat
+		Facture d’achat
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payment-date' => ////////////////////////////////////////////////////////////////////
@@ -1828,7 +1828,7 @@ return [
 	'subscribe-date' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Date d‘activation
+		Date d’activation
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'description' => /////////////////////////////////////////////////////////////////////
@@ -1930,13 +1930,13 @@ return [
 	'webcam-chat-position' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Position de la webcam <span class="tooltip" data-tip="Choisissez lʼemplacement de la zone de la webcam dans votre salle de webinaire. Ce paramètre vous permet de positionner lʼaffichage de la webcam à côté ou au-dessus de la zone de travail. Sélectionnez votre emplacement préféré pour personnaliser la disposition de la salle"></span>
+		Position de la webcam <span class="tooltip" data-tip="Choisissez l’emplacement de la zone de la webcam dans votre salle de webinaire. Ce paramètre vous permet de positionner l’affichage de la webcam à côté ou au-dessus de la zone de travail. Sélectionnez votre emplacement préféré pour personnaliser la disposition de la salle"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-camera-name' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Afficher le nom de lʼanimateur <span class="tooltip" data-tip="Afficher le nom de lʼanimateur sur la vidéo pendant le webinaire. Cela aide les participants à savoir qui parle"></span>
+		Afficher le nom de l’animateur <span class="tooltip" data-tip="Afficher le nom de l’animateur sur la vidéo pendant le webinaire. Cela aide les participants à savoir qui parle"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webcam-position-left' => ////////////////////////////////////////////////////////////
@@ -1996,7 +1996,7 @@ return [
 	'record-options' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mode <span class="tooltip" data-tip="Personnalisez vos paramètres d‘enregistrement pour capturer exactement ce dont vous avez besoin. Choisissez d‘enregistrer tout, y compris les caméras, microphones, zone de travail et interface; concentrez-vous sur la zone de travail avec caméras et microphones; ou limitez l‘enregistrement uniquement aux caméras et microphones. Ajustez vos paramètres en fonction de vos priorités"></span>
+		Mode <span class="tooltip" data-tip="Personnalisez vos paramètres d’enregistrement pour capturer exactement ce dont vous avez besoin. Choisissez d’enregistrer tout, y compris les caméras, microphones, zone de travail et interface; concentrez-vous sur la zone de travail avec caméras et microphones; ou limitez l’enregistrement uniquement aux caméras et microphones. Ajustez vos paramètres en fonction de vos priorités"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-only-webcams' => /////////////////////////////////////////////////////////////
@@ -2008,19 +2008,19 @@ return [
 	'record-auto' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Enregistrement automatique lors de la connexion de n‘importe quel modérateur <span class="tooltip" data-tip="Streamline your webinar recording process with this convenient feature. When enabled, the recording will automatically commence as soon as the first moderator logs into the webinar, ensuring you capture every important moment from start to finish. The recording will conclude once the last moderator exits the webinar, providing a comprehensive capture of your session without any manual intervention"></span>
+		Enregistrement automatique lors de la connexion de n’importe quel modérateur <span class="tooltip" data-tip="Streamline your webinar recording process with this convenient feature. When enabled, the recording will automatically commence as soon as the first moderator logs into the webinar, ensuring you capture every important moment from start to finish. The recording will conclude once the last moderator exits the webinar, providing a comprehensive capture of your session without any manual intervention"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto-no-stop' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Empêcher l‘arrêt de l‘enregistrement <span class="tooltip" data-tip="Lorsqu‘elle est activée, les modérateurs de la salle de webinaire ne pourront pas arrêter l‘enregistrement pendant la session en direct"></span>
+		Empêcher l’arrêt de l’enregistrement <span class="tooltip" data-tip="Lorsqu’elle est activée, les modérateurs de la salle de webinaire ne pourront pas arrêter l’enregistrement pendant la session en direct"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'prevent-recording' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bloquer l‘enregistrement de l‘écran des spectateurs <span class="tooltip" data-tip="Lorsqu‘elle est activée, les spectateurs ne pourront pas enregistrer l‘écran pendant la session en direct"></span>
+		Bloquer l’enregistrement de l’écran des spectateurs <span class="tooltip" data-tip="Lorsqu’elle est activée, les spectateurs ne pourront pas enregistrer l’écran pendant la session en direct"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-cams-and-slides' => //////////////////////////////////////////////////////////
@@ -2032,13 +2032,13 @@ return [
 	'record-cams-slides-chat' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Enregistrer la webcam, le microphone, le chat et l‘espace matériel <span class="tooltip" data-tip="When activated, the webinar recording will include the webcam feed, audio from the microphone, chat interactions, and the working area, ensuring a comprehensive capture of your webinar environment"></span>
+		Enregistrer la webcam, le microphone, le chat et l’espace matériel <span class="tooltip" data-tip="When activated, the webinar recording will include the webcam feed, audio from the microphone, chat interactions, and the working area, ensuring a comprehensive capture of your webinar environment"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-camera-on-work-area' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Position de la webcam dans les enregistrements <span class="tooltip" data-tip="Choisissez où la webcam apparaîtra dans les enregistrements de votre webinaire. Vous pouvez la positionner à côté de la zone de travail, où sont affichées les présentations, images, vidéos, partage dʼécran, tableau blanc, contenus YouTube et Vimeo, ou dans lʼun des quatre coins de la zone de travail. Sélectionnez le placement qui correspond le mieux à vos préférences de mise en page"></span>
+		Position de la webcam dans les enregistrements <span class="tooltip" data-tip="Choisissez où la webcam apparaîtra dans les enregistrements de votre webinaire. Vous pouvez la positionner à côté de la zone de travail, où sont affichées les présentations, images, vidéos, partage d’écran, tableau blanc, contenus YouTube et Vimeo, ou dans l’un des quatre coins de la zone de travail. Sélectionnez le placement qui correspond le mieux à vos préférences de mise en page"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-all' => //////////////////////////////////////////////////////////////////////
@@ -2050,13 +2050,13 @@ return [
 	'record-userlist' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Inclure une liste des participants <span class="tooltip" data-tip="L‘enregistrement du webinaire inclura une liste des participants avec leurs noms et photos de profil, vous donnant une vue claire de tous les présents"></span>
+		Inclure une liste des participants <span class="tooltip" data-tip="L’enregistrement du webinaire inclura une liste des participants avec leurs noms et photos de profil, vous donnant une vue claire de tous les présents"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-moder-name' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Incluant les noms des modérateurs <span class="tooltip" data-tip="L‘enregistrement du webinaire affichera les noms des présentateurs sur leurs webcams ou photos de profil"></span>
+		Incluant les noms des modérateurs <span class="tooltip" data-tip="L’enregistrement du webinaire affichera les noms des présentateurs sur leurs webcams ou photos de profil"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-preview-moder-name' => ///////////////////////////////////////////////////////
@@ -2068,7 +2068,7 @@ return [
 	'record-chat' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Incluant le chat <span class="tooltip" data-tip="L‘enregistrement du webinaire inclura le chat public avec les messages des participants. Les messages modérés ne seront pas enregistrés. Seuls les messages approuvés par le modérateur pendant le webinaire seront inclus si la pré-modération du chat était activée"></span>
+		Incluant le chat <span class="tooltip" data-tip="L’enregistrement du webinaire inclura le chat public avec les messages des participants. Les messages modérés ne seront pas enregistrés. Seuls les messages approuvés par le modérateur pendant le webinaire seront inclus si la pré-modération du chat était activée"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copy' => ////////////////////////////////////////////////////////////////////////////
@@ -2092,13 +2092,13 @@ return [
 	'facebook-id' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		ID Pixel Facebook <span class="tooltip" data-tip="Indiquez votre ID Pixel Facebook pour suivre les actions des participants au webinaire et utiliser ces données pour la publicité et lʼanalyse dans Meta Ads Manager"></span>
+		ID Pixel Facebook <span class="tooltip" data-tip="Indiquez votre ID Pixel Facebook pour suivre les actions des participants au webinaire et utiliser ces données pour la publicité et l’analyse dans Meta Ads Manager"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'facebook-id-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Saisissez lʼID Pixel
+		Saisissez l’ID Pixel
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-userlist-none' => //////////////////////////////////////////////////////
@@ -2140,7 +2140,7 @@ return [
 	'room-options-buttonqa' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Activer la section Q&A <span class="tooltip" data-tip="Lorsqu‘activée, un élément de menu spécial sera disponible dans la salle de webinaire, permettant aux modérateurs de mettre en évidence les questions dans le chat texte public pendant l‘événement et de permettre aux participants de voter pour leurs favorites. Cette fonctionnalité offre aux modérateurs une interface Q&A dédiée pour suivre et gérer les questions, indiquant lesquelles sont en cours de traitement et résolues. Les votes des participants prioriseront les questions, assurant que les plus populaires soient facilement visibles en haut de la liste"></span>
+		Activer la section Q&A <span class="tooltip" data-tip="Lorsqu’activée, un élément de menu spécial sera disponible dans la salle de webinaire, permettant aux modérateurs de mettre en évidence les questions dans le chat texte public pendant l’événement et de permettre aux participants de voter pour leurs favorites. Cette fonctionnalité offre aux modérateurs une interface Q&A dédiée pour suivre et gérer les questions, indiquant lesquelles sont en cours de traitement et résolues. Les votes des participants prioriseront les questions, assurant que les plus populaires soient facilement visibles en haut de la liste"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-message' => ///////////////////////////////////////////////////////////////////
@@ -2170,7 +2170,7 @@ return [
 	'room-options-color-room' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Couleur d‘arrière plan
+		Couleur d’arrière plan
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-color-text' => /////////////////////////////////////////////////////////
@@ -2218,7 +2218,7 @@ return [
 	'room-splash' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Fond de page <span class="tooltip" data-tip="Adjust the webinar room registration page‘s background colours and design preferences to align with your brand or the theme of the webinar"></span>
+		Fond de page <span class="tooltip" data-tip="Adjust the webinar room registration page’s background colours and design preferences to align with your brand or the theme of the webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-splash-size' => ////////////////////////////////////////////////////////////////
@@ -2242,7 +2242,7 @@ return [
 	'room-options-broadcasting-type' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Technologie de diffusion <span class="tooltip" data-tip="Our webinar and video conferencing platform supports three distinct streaming sources:<br><br>• WebRTC – All webinar speakers will utilise the browser-based WebRTC protocol via UDP when streaming their webcam and microphone. To leverage the full potential of this technology, a fast and reliable internet connection is imperative.<br><br>• Plugin DTS – All our webinar speakers can easily download our secure DTS plugin. It works smoothly for webcam and microphone streaming, even on slower internet connections. Created by our team, this plugin minimizes delays. So, even on a not-so-great internet connection, you‘ll experience a lag of up to 3 seconds from real-time.<br><br>• OBS Studio – Only one webinar speaker is permitted to use OBS studio for high-definition streaming, offering up to 1080p quality. However, please note there might be a substantial latency of over 20 seconds"></span>
+		Technologie de diffusion <span class="tooltip" data-tip="Our webinar and video conferencing platform supports three distinct streaming sources:<br><br>• WebRTC – All webinar speakers will utilise the browser-based WebRTC protocol via UDP when streaming their webcam and microphone. To leverage the full potential of this technology, a fast and reliable internet connection is imperative.<br><br>• Plugin DTS – All our webinar speakers can easily download our secure DTS plugin. It works smoothly for webcam and microphone streaming, even on slower internet connections. Created by our team, this plugin minimizes delays. So, even on a not-so-great internet connection, you’ll experience a lag of up to 3 seconds from real-time.<br><br>• OBS Studio – Only one webinar speaker is permitted to use OBS studio for high-definition streaming, offering up to 1080p quality. However, please note there might be a substantial latency of over 20 seconds"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-browser' => //////////////////////////////////////////
@@ -2260,7 +2260,7 @@ return [
 	'room-options-header-conference' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mode de diffusion <span class="tooltip" data-tip="We offer two types of webinars:<br><br>• Meeting – An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility.<br><br>• Webinar – A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
+		Mode de diffusion <span class="tooltip" data-tip="We offer two types of webinars:<br><br>• Meeting – An interactive event mode designed for collaboration and discussion. The speaker’s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility.<br><br>• Webinar – A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker’s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
@@ -2278,31 +2278,31 @@ return [
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Largeur de la discussion <span class="tooltip" data-tip="Choose the desired width for the public chat feature in the webinar room. The layout combines a chat section with an area dedicated to the speakers‘ video streams. To see how your webinar room will appear, refer to the preview in the bottom right corner"></span>
+		Largeur de la discussion <span class="tooltip" data-tip="Choose the desired width for the public chat feature in the webinar room. The layout combines a chat section with an area dedicated to the speakers’ video streams. To see how your webinar room will appear, refer to the preview in the bottom right corner"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-camchatsize' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Largeur de la webcam <span class="tooltip" data-tip="Adjust the width of your webcam‘s viewing area in the webinar room. This space comprises both a dedicated webcam section and an area for your presentations or secure screen sharing. To see how your webinar room will appear, refer to the preview in the bottom right corner"></span>
+		Largeur de la webcam <span class="tooltip" data-tip="Adjust the width of your webcam’s viewing area in the webinar room. This space comprises both a dedicated webcam section and an area for your presentations or secure screen sharing. To see how your webinar room will appear, refer to the preview in the bottom right corner"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-buttons' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Boutons <span class="tooltip" data-tip="Allow attendees to participate in your webinar or webinar actively. Choose to enable text submissions if you‘d like them to ask questions, or give them the option to voice their queries or comments by enabling the «request to speak» feature. Activating either option will add a corresponding menu item in the webinar room, enhancing interactivity and engagement"></span>
+		Boutons <span class="tooltip" data-tip="Allow attendees to participate in your webinar or webinar actively. Choose to enable text submissions if you’d like them to ask questions, or give them the option to voice their queries or comments by enabling the «request to speak» feature. Activating either option will add a corresponding menu item in the webinar room, enhancing interactivity and engagement"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Description <span class="tooltip" data-tip="Utilise this feature to craft a concise and engaging overview for your webinar‘s registration page. A well-written description sets the tone, provides essential details, and entices potential attendees. Whether you‘re highlighting the webinar‘s key topics, introducing the speakers, or underscoring the benefits of attending, this space is your canvas to captivate and inform your audience"></span>
+		Description <span class="tooltip" data-tip="Utilise this feature to craft a concise and engaging overview for your webinar’s registration page. A well-written description sets the tone, provides essential details, and entices potential attendees. Whether you’re highlighting the webinar’s key topics, introducing the speakers, or underscoring the benefits of attending, this space is your canvas to captivate and inform your audience"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc-placeholder' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Résumé supplémentaire de l‘événement
+		Résumé supplémentaire de l’événement
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-attach-mail-ics' => ////////////////////////////////////////////////////////////
@@ -2314,7 +2314,7 @@ return [
 	'room-desc-clndr' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Calendrier <span class="tooltip" data-tip="Améliorez vos notifications par e-mail en incluant un bref résumé de votre webinaire dans le fichier d‘événement de calendrier. Cette description sera ajoutée au fichier de calendrier joint aux e-mails sortants, offrant aux destinataires un aperçu rapide lorsqu‘ils ajoutent le webinaire à leurs calendriers personnels"></span>
+		Calendrier <span class="tooltip" data-tip="Améliorez vos notifications par e-mail en incluant un bref résumé de votre webinaire dans le fichier d’événement de calendrier. Cette description sera ajoutée au fichier de calendrier joint aux e-mails sortants, offrant aux destinataires un aperçu rapide lorsqu’ils ajoutent le webinaire à leurs calendriers personnels"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc-clndr-placeholder' => /////////////////////////////////////////////////////
@@ -2344,37 +2344,37 @@ return [
 	'room-options-group' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Groupe <span class="tooltip" data-tip="Ajoutez automatiquement les participants à un groupe spécial d‘abonnés lors de l‘inscription pour vous assurer qu‘ils reçoivent des notifications pour les webinaires à venir, afin de les tenir informés et engagés"></span>
+		Groupe <span class="tooltip" data-tip="Ajoutez automatiquement les participants à un groupe spécial d’abonnés lors de l’inscription pour vous assurer qu’ils reçoivent des notifications pour les webinaires à venir, afin de les tenir informés et engagés"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-countdown' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Afficher le compte à rebours <span class="tooltip" data-tip="Affichez un compte à rebours sur votre page de webinaire pour permettre aux participants de voir combien de temps il reste avant le début du webinaire. Cela suscite l‘anticipation, assure que tout le monde connaît l‘heure de début et encourage une participation ponctuelle"></span>
+		Afficher le compte à rebours <span class="tooltip" data-tip="Affichez un compte à rebours sur votre page de webinaire pour permettre aux participants de voir combien de temps il reste avant le début du webinaire. Cela suscite l’anticipation, assure que tout le monde connaît l’heure de début et encourage une participation ponctuelle"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Autoriser l‘inscription avec des comptes sociaux <span class="tooltip" data-tip="Activez les options d‘inscription avec des comptes sociaux comme Google et Microsoft sur vos formulaires d‘inscription et d‘entrée au webinaire. Cela permet aux participants de rejoindre rapidement et en toute sécurité le webinaire en utilisant leur connexion sociale préférée, simplifiant l‘accès et améliorant l‘expérience utilisateur pour ceux qui utilisent ces services"></span>
+		Autoriser l’inscription avec des comptes sociaux <span class="tooltip" data-tip="Activez les options d’inscription avec des comptes sociaux comme Google et Microsoft sur vos formulaires d’inscription et d’entrée au webinaire. Cela permet aux participants de rejoindre rapidement et en toute sécurité le webinaire en utilisant leur connexion sociale préférée, simplifiant l’accès et améliorant l’expérience utilisateur pour ceux qui utilisent ces services"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Compteur avant le webinaire <span class="tooltip" data-tip="Activate this feature to display the remaining seats for your online webinar. This transparency informs attendees of the webinar‘s capacity and creates a sense of urgency, motivating them to secure their spot before it fills up"></span>
+		Compteur avant le webinaire <span class="tooltip" data-tip="Activate this feature to display the remaining seats for your online webinar. This transparency informs attendees of the webinar’s capacity and creates a sense of urgency, motivating them to secure their spot before it fills up"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-login-settings' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Préférences <span class="tooltip" data-tip="Customize your webinar‘s registration page to suit your requirements. This feature allows you to tailor the sign-up process, ensuring it aligns with your webinar‘s branding and captures attendees‘ needed information"></span>
+		Préférences <span class="tooltip" data-tip="Customize your webinar’s registration page to suit your requirements. This feature allows you to tailor the sign-up process, ensuring it aligns with your webinar’s branding and captures attendees’ needed information"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-login-theme' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Utiliser la couleur d‘arrière-plan pour la colonne de gauche <span class="tooltip" data-tip="Enhance the readability and visual appeal of your webinar registration and login page by activating this feature. When toggled on, the page will be divided into two sections. The left side will feature a solid colour background, providing a clearer backdrop for your webinar description and details, while the right remains as per your existing design. This separation not only adds a modern aesthetic but ensures attendees can easily read and understand the webinar‘s particulars"></span>
+		Utiliser la couleur d’arrière-plan pour la colonne de gauche <span class="tooltip" data-tip="Enhance the readability and visual appeal of your webinar registration and login page by activating this feature. When toggled on, the page will be divided into two sections. The left side will feature a solid colour background, providing a clearer backdrop for your webinar description and details, while the right remains as per your existing design. This separation not only adds a modern aesthetic but ensures attendees can easily read and understand the webinar’s particulars"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-login-bg' => ///////////////////////////////////////////////////////////
@@ -2392,13 +2392,13 @@ return [
 	'room-options-form' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Formulaire de connexion <span class="tooltip" data-tip="Le formulaire dʼinscription et de connexion au webinaire comprend deux champs obligatoires par défaut: lʼe-mail et le nom du participant. Cependant, vous pouvez personnaliser le formulaire en ajoutant et en organisant des champs supplémentaires pour collecter davantage dʼinformations sur les participants. Notez que tous les champs personnalisés ajoutés aux formulaires dʼinscription et de connexion seront obligatoires par défaut"></span>
+		Formulaire de connexion <span class="tooltip" data-tip="Le formulaire d’inscription et de connexion au webinaire comprend deux champs obligatoires par défaut: l’e-mail et le nom du participant. Cependant, vous pouvez personnaliser le formulaire en ajoutant et en organisant des champs supplémentaires pour collecter davantage d’informations sur les participants. Notez que tous les champs personnalisés ajoutés aux formulaires d’inscription et de connexion seront obligatoires par défaut"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-start' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Afficher la date du webinaire <span class="tooltip" data-tip="Affichez clairement la date du webinaire sur les pages d‘inscription et de connexion. Cela aide les participants à planifier à l‘avance et à savoir exactement quand le webinaire aura lieu"></span>
+		Afficher la date du webinaire <span class="tooltip" data-tip="Affichez clairement la date du webinaire sur les pages d’inscription et de connexion. Cela aide les participants à planifier à l’avance et à savoir exactement quand le webinaire aura lieu"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-name' => ////////////////////////////////////////////////////////////
@@ -2410,13 +2410,13 @@ return [
 	'room-login-show-moderators' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Afficher les modérateurs du webinaire <span class="tooltip" data-tip="Affichez une liste des personnes clés du webinaire, y compris les modérateurs, les présentateurs et les participants notables. Mettre en avant ces individus permet aux participants potentiels d‘avoir un aperçu des compétences et des personnalités qu‘ils rencontreront lors de l‘événement"></span>
+		Afficher les modérateurs du webinaire <span class="tooltip" data-tip="Affichez une liste des personnes clés du webinaire, y compris les modérateurs, les présentateurs et les participants notables. Mettre en avant ces individus permet aux participants potentiels d’avoir un aperçu des compétences et des personnalités qu’ils rencontreront lors de l’événement"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-main-moderator' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Afficher le propriétaire du compte en tant que présentateur <span class="tooltip" data-tip="By toggling on this sub-feature, you can include the account administrator in the displayed list of the webinar‘s key figures alongside the moderators, presenters, and notable attendees. This provides a more comprehensive view of all the main organizers and contributors to the webinar"></span>
+		Afficher le propriétaire du compte en tant que présentateur <span class="tooltip" data-tip="By toggling on this sub-feature, you can include the account administrator in the displayed list of the webinar’s key figures alongside the moderators, presenters, and notable attendees. This provides a more comprehensive view of all the main organizers and contributors to the webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-started' => /////////////////////////////////////////////////////////////////
@@ -2566,7 +2566,7 @@ return [
 	'room-login-field-company_code' => ///////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Code de lʼentreprise
+		Code de l’entreprise
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-field-country' => ////////////////////////////////////////////////////////
@@ -2578,7 +2578,7 @@ return [
 	'room-login-field-creation_date' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Date d‘activation
+		Date d’activation
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-add-field' => ////////////////////////////////////////////////////////////
@@ -2590,13 +2590,13 @@ return [
 	'room-embed-form' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Le code d‘intégration du formulaire d‘inscription <span class="tooltip" data-tip="Activate this switch to generate an IFRAME code for your webinar‘s registration and login form. By doing so, you can seamlessly embed the form directly onto your own website, providing your visitors with a streamlined experience without having to navigate to a separate page. It‘s a handy tool for integrating webinar sign-up directly into your site‘s ecosystem"></span>
+		Le code d’intégration du formulaire d’inscription <span class="tooltip" data-tip="Activate this switch to generate an IFRAME code for your webinar’s registration and login form. By doing so, you can seamlessly embed the form directly onto your own website, providing your visitors with a streamlined experience without having to navigate to a separate page. It’s a handy tool for integrating webinar sign-up directly into your site’s ecosystem"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Code du formulaire dʼinscription <span class="tooltip" data-tip="Copiez ce code HTML IFRAME pour intégrer le formulaire dʼinscription sur votre site web. Ce code est flexible et peut nécessiter quelques ajustements pour sʼadapter au design de votre site. Cliquez sur le bouton ci-dessous pour le copier dans votre presse-papiers."></span>
+		Code du formulaire d’inscription <span class="tooltip" data-tip="Copiez ce code HTML IFRAME pour intégrer le formulaire d’inscription sur votre site web. Ce code est flexible et peut nécessiter quelques ajustements pour s’adapter au design de votre site. Cliquez sur le bouton ci-dessous pour le copier dans votre presse-papiers."></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'entered-data-is-not-good' => ////////////////////////////////////////////////////////
@@ -2788,7 +2788,7 @@ return [
 	'mail-FINISHED' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Post-webinaire <span class="tooltip" data-tip="Un e-mail de suivi envoyé aux participants après la fin du webinaire. Cela peut être une note de remerciement, un sondage de rétroaction ou un lien exclusif vers le contenu du webinaire. Personnalisez votre message post-webinaire pour maintenir l‘engagement des participants et offrir une valeur continue"></span>
+		Post-webinaire <span class="tooltip" data-tip="Un e-mail de suivi envoyé aux participants après la fin du webinaire. Cela peut être une note de remerciement, un sondage de rétroaction ou un lien exclusif vers le contenu du webinaire. Personnalisez votre message post-webinaire pour maintenir l’engagement des participants et offrir une valeur continue"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-FINISHED-desc' => //////////////////////////////////////////////////////////////
@@ -2800,7 +2800,7 @@ return [
 	'mail-REGISTRATIONCONFIRM' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Confirmation <span class="tooltip" data-tip="Un e-mail de confirmation envoyé aux participants lors de l‘inscription. Cela garantit que les inscrits vérifient leurs adresses e-mail, ajoutant une couche supplémentaire de sécurité et d‘authenticité. Ce processus de double opt-in aide à confirmer l‘intérêt réel et à réduire les inscriptions potentielles de spam"></span>
+		Confirmation <span class="tooltip" data-tip="Un e-mail de confirmation envoyé aux participants lors de l’inscription. Cela garantit que les inscrits vérifient leurs adresses e-mail, ajoutant une couche supplémentaire de sécurité et d’authenticité. Ce processus de double opt-in aide à confirmer l’intérêt réel et à réduire les inscriptions potentielles de spam"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-REGISTRATIONCONFIRM-desc' => ///////////////////////////////////////////////////
@@ -2812,7 +2812,7 @@ return [
 	'mail-STARTED' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Retardataires <span class="tooltip" data-tip="Un rappel envoyé aux participants qui ne se sont pas encore joints au webinaire, leur indiquant qu‘il a déjà commencé. Ce rappel encourage les participants à se joindre rapidement pour ne pas manquer de contenu précieux"></span>
+		Retardataires <span class="tooltip" data-tip="Un rappel envoyé aux participants qui ne se sont pas encore joints au webinaire, leur indiquant qu’il a déjà commencé. Ce rappel encourage les participants à se joindre rapidement pour ne pas manquer de contenu précieux"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-STARTED-desc' => ///////////////////////////////////////////////////////////////
@@ -2824,7 +2824,7 @@ return [
 	'mail-MOVEDFAR' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Reprogrammé <span class="tooltip" data-tip="Envoie automatiquement une notification par e-mail aux participants si la date ou lʼheure du webinaire est modifiée. Cela permet aux participants de rester informés du nouvel horaire"></span>
+		Reprogrammé <span class="tooltip" data-tip="Envoie automatiquement une notification par e-mail aux participants si la date ou l’heure du webinaire est modifiée. Cela permet aux participants de rester informés du nouvel horaire"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-CANCELWEBINAR' => //////////////////////////////////////////////////////////////
@@ -2848,13 +2848,13 @@ return [
 	'amount-attendees' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nombre de participants que vous avez invités. Une fois la planification terminée, si lʼenvoi est activé, chacun recevra un e-mail avec un lien pour rejoindre
+		Nombre de participants que vous avez invités. Une fois la planification terminée, si l’envoi est activé, chacun recevra un e-mail avec un lien pour rejoindre
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'amount-attendees-zero' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Actuellement, aucun participant nʼest invité. Sélectionnez ceux que vous souhaitez inviter à lʼévénement prévu
+		Actuellement, aucun participant n’est invité. Sélectionnez ceux que vous souhaitez inviter à l’événement prévu
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invited-attendees' => ///////////////////////////////////////////////////////////////
@@ -2992,7 +2992,7 @@ return [
 	'filter-type' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Statut <span class="tooltip" data-tip="Indique le statut du participant: «Actif» si son e-mail est vérifié, «Inactif» si l‘e-mail est invalide, injoignable ou si le participant a été supprimé"></span>
+		Statut <span class="tooltip" data-tip="Indique le statut du participant: «Actif» si son e-mail est vérifié, «Inactif» si l’e-mail est invalide, injoignable ou si le participant a été supprimé"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'active' => //////////////////////////////////////////////////////////////////////////
@@ -3022,13 +3022,13 @@ return [
 	'import-limit-message' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Dans lʼoffre à %d places, jusquʼà %d contacts sont disponibles
+		Dans l’offre à %d places, jusqu’à %d contacts sont disponibles
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-limit-error' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Vous pouvez importer jusquʼà 5 000 participants à la fois</strong><br><br>Veuillez diviser votre fichier en lots plus petits
+		<strong>Vous pouvez importer jusqu’à 5 000 participants à la fois</strong><br><br>Veuillez diviser votre fichier en lots plus petits
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'free-account-import-limit-reached' => ///////////////////////////////////////////////
@@ -3040,7 +3040,7 @@ return [
 	'invite-limit-error' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Votre plan prend en charge jusquʼà %d participants et vous permet dʼenvoyer jusquʼà %d invitations par webinaire (%d× votre limite de participants). Veuillez sélectionner les %d invités les plus importants pour garantir leur participation.
+		Votre plan prend en charge jusqu’à %d participants et vous permet d’envoyer jusqu’à %d invitations par webinaire (%d× votre limite de participants). Veuillez sélectionner les %d invités les plus importants pour garantir leur participation.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'export' => //////////////////////////////////////////////////////////////////////////
@@ -3082,7 +3082,7 @@ return [
 	'webinar-history' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Aperçus du webinaire <span class="tooltip" data-tip="Obtenez des informations précieuses sur les performances de votre webinaire. Cette section fournit des analyses sur l‘engagement des participants, les tendances de participation et l‘interaction globale pour vous aider à comprendre le succès de votre événement et à prendre des décisions basées sur des données pour les futurs webinaires"></span>
+		Aperçus du webinaire <span class="tooltip" data-tip="Obtenez des informations précieuses sur les performances de votre webinaire. Cette section fournit des analyses sur l’engagement des participants, les tendances de participation et l’interaction globale pour vous aider à comprendre le succès de votre événement et à prendre des décisions basées sur des données pour les futurs webinaires"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-statistics' => //////////////////////////////////////////////////////////////////
@@ -3124,7 +3124,7 @@ return [
 	'filter-visit-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Présence <span class="tooltip" data-tip="Indique si le participant a rejoint l‘événement et participé"></span>
+		Présence <span class="tooltip" data-tip="Indique si le participant a rejoint l’événement et participé"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'filter-on-webinar' => ///////////////////////////////////////////////////////////////
@@ -3148,7 +3148,7 @@ return [
 	'guests-by-country' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pays <span class="tooltip" data-tip="Explorez la répartition géographique de vos participants. Cette section affiche les pays d‘où les participants se sont connectés à votre webinaire, offrant des informations précieuses sur la portée mondiale de votre audience"></span>
+		Pays <span class="tooltip" data-tip="Explorez la répartition géographique de vos participants. Cette section affiche les pays d’où les participants se sont connectés à votre webinaire, offrant des informations précieuses sur la portée mondiale de votre audience"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'copied' => //////////////////////////////////////////////////////////////////////////
@@ -3160,13 +3160,13 @@ return [
 	'guests-by-mail' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Participation <span class="tooltip" data-tip="Voyez combien de participants ont été invités par rapport à ceux qui ont confirmé et participé. Comparez l‘efficacité des invitations avec la participation réelle à l‘aide de graphiques à barres détaillés"></span>
+		Participation <span class="tooltip" data-tip="Voyez combien de participants ont été invités par rapport à ceux qui ont confirmé et participé. Comparez l’efficacité des invitations avec la participation réelle à l’aide de graphiques à barres détaillés"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guests-by-time' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Engagement <span class="tooltip" data-tip="Surveillez l‘engagement des participants pendant votre webinaire. Ce graphique montre l‘évolution de l‘audience au fil du temps, indiquant quand les participants se joignent et partent, affiché sur une chronologie"></span>
+		Engagement <span class="tooltip" data-tip="Surveillez l’engagement des participants pendant votre webinaire. Ce graphique montre l’évolution de l’audience au fil du temps, indiquant quand les participants se joignent et partent, affiché sur une chronologie"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guest-count' => /////////////////////////////////////////////////////////////////////
@@ -3202,7 +3202,7 @@ return [
 	'check-email' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Veuillez vérifier votre boîte de réception ou vos dossiers de spam. Si vous trouvez l‘e-mail dans le dossier spam, merci de le marquer correctement afin de recevoir directement nos futurs messages dans votre boîte de réception. Merci d‘avoir choisi notre plateforme logicielle de webinaire.
+		Veuillez vérifier votre boîte de réception ou vos dossiers de spam. Si vous trouvez l’e-mail dans le dossier spam, merci de le marquer correctement afin de recevoir directement nos futurs messages dans votre boîte de réception. Merci d’avoir choisi notre plateforme logicielle de webinaire.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password-reset' => //////////////////////////////////////////////////////////////////
@@ -3226,7 +3226,7 @@ return [
 	'password-empty' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vous n‘avez pas saisi de mot de passe
+		Vous n’avez pas saisi de mot de passe
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password-diff' => ///////////////////////////////////////////////////////////////////
@@ -3289,7 +3289,7 @@ return [
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
 		Nous enverrons des invitations aux participants dès maintenant car votre
-		webinaire commence dans moins d‘une heure.
+		webinaire commence dans moins d’une heure.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'remember-after' => //////////////////////////////////////////////////////////////////
@@ -3307,7 +3307,7 @@ return [
 	'start-notify' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Commencer l‘envoi
+		Commencer l’envoi
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'was-invited' => /////////////////////////////////////////////////////////////////////
@@ -3325,13 +3325,13 @@ return [
 	'moderators-come' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Modérateurs et intervenants connectés <span class="tooltip" data-tip="Cette colonne montre le nombre réel de modérateurs et d‘intervenants qui ont rejoint et participé au webinaire"></span>
+		Modérateurs et intervenants connectés <span class="tooltip" data-tip="Cette colonne montre le nombre réel de modérateurs et d’intervenants qui ont rejoint et participé au webinaire"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'wait-send-now' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mailing en cours d‘envoi. Merci de patienter...
+		Mailing en cours d’envoi. Merci de patienter...
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'select-many-dates' => ///////////////////////////////////////////////////////////////
@@ -3343,13 +3343,13 @@ return [
 	'webinars-as-series' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Série de webinaires <span class="tooltip" data-tip="Activez cette option pour regrouper tous les webinaires prévus dans une série partageant le même lien dʼaccès. Lorsque la série de webinaires est activée, lʼoption Dates multiples est automatiquement activée car la série comprend plusieurs événements liés"></span>
+		Série de webinaires <span class="tooltip" data-tip="Activez cette option pour regrouper tous les webinaires prévus dans une série partageant le même lien d’accès. Lorsque la série de webinaires est activée, l’option Dates multiples est automatiquement activée car la série comprend plusieurs événements liés"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page-mode' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mode page de destination <span class="tooltip" data-tip="Activez ce mode pour transformer votre salle de webinaire en une page de destination. Au lieu dʼentrer directement dans le webinaire, les participants devront dʼabord fournir leur e-mail et dʼautres informations requises. Ce mode aide à construire votre liste dʼabonnés et à collecter les données des participants avant le webinaire. Activez-le pour collecter les données en premier; désactivez-le pour une entrée directe"></span>
+		Mode page de destination <span class="tooltip" data-tip="Activez ce mode pour transformer votre salle de webinaire en une page de destination. Au lieu d’entrer directement dans le webinaire, les participants devront d’abord fournir leur e-mail et d’autres informations requises. Ce mode aide à construire votre liste d’abonnés et à collecter les données des participants avant le webinaire. Activez-le pour collecter les données en premier; désactivez-le pour une entrée directe"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page' => ////////////////////////////////////////////////////////////////////
@@ -3361,13 +3361,13 @@ return [
 	'landing-page-edit' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Modifier la page de destination <span class="tooltip" data-tip="Personnalisez votre page d‘inscription pour les futurs webinaires ici. Permettez aux participants de s‘inscrire en entrant leur email, leur nom et d‘autres informations que vous configurez dans les paramètres avancés. Copiez simplement le lien pour le partager avec votre audience"></span>
+		Modifier la page de destination <span class="tooltip" data-tip="Personnalisez votre page d’inscription pour les futurs webinaires ici. Permettez aux participants de s’inscrire en entrant leur email, leur nom et d’autres informations que vous configurez dans les paramètres avancés. Copiez simplement le lien pour le partager avec votre audience"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'link-on-lending' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		URL de la page de destination <span class="tooltip" data-tip="Envoyez vos participants sur cette page d‘inscription pour s‘inscrire aux futurs webinaires. Ils peuvent entrer leur email, nom et d‘autres informations personnalisées que vous configurez dans les paramètres avancés. Cliquez sur la case pour copier le lien dans votre presse-papiers"></span>
+		URL de la page de destination <span class="tooltip" data-tip="Envoyez vos participants sur cette page d’inscription pour s’inscrire aux futurs webinaires. Ils peuvent entrer leur email, nom et d’autres informations personnalisées que vous configurez dans les paramètres avancés. Cliquez sur la case pour copier le lien dans votre presse-papiers"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'lending-text' => ////////////////////////////////////////////////////////////////////
@@ -3481,7 +3481,7 @@ return [
 	'no-attendees-selected' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Aucun participant sélectionné, donc aucune invitation ne sera envoyée. Pour inviter des participants, allez dans lʼonglet «Participants»
+		Aucun participant sélectionné, donc aucune invitation ne sera envoyée. Pour inviter des participants, allez dans l’onglet «Participants»
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-attendees' => ////////////////////////////////////////////////////////////////////
@@ -3535,19 +3535,19 @@ return [
 	'record-link' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Lien d‘enregistrement <span class="tooltip" data-tip="Utilisez le curseur ci-dessus pour créer un nouveau lien d‘accès à l‘enregistrement. Cliquez sur le bouton enveloppe pour sélectionner les participants et envoyer le lien à leurs adresses e-mail. Remarque: si votre salle de webinaire permanente est protégée par mot de passe, l‘accès à l‘enregistrement nécessitera également un mot de passe"></span>
+		Lien d’enregistrement <span class="tooltip" data-tip="Utilisez le curseur ci-dessus pour créer un nouveau lien d’accès à l’enregistrement. Cliquez sur le bouton enveloppe pour sélectionner les participants et envoyer le lien à leurs adresses e-mail. Remarque: si votre salle de webinaire permanente est protégée par mot de passe, l’accès à l’enregistrement nécessitera également un mot de passe"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-link-available' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Date dʼexpiration du lien dʼenregistrement <span class="tooltip" data-tip="Sélectionnez la date jusquʼà laquelle le lien dʼenregistrement restera actif et accessible. Après cette date, le lien ne fonctionnera plus. Si la date sélectionnée dépasse la fin de votre plan tarifaire payé, le lien restera actif uniquement tant que votre abonnement sera valide. Veuillez vous assurer de comprendre cela, ou envisagez de prolonger votre plan tarifaire pour couvrir la date sélectionnée"></span>
+		Date d’expiration du lien d’enregistrement <span class="tooltip" data-tip="Sélectionnez la date jusqu’à laquelle le lien d’enregistrement restera actif et accessible. Après cette date, le lien ne fonctionnera plus. Si la date sélectionnée dépasse la fin de votre plan tarifaire payé, le lien restera actif uniquement tant que votre abonnement sera valide. Veuillez vous assurer de comprendre cela, ou envisagez de prolonger votre plan tarifaire pour couvrir la date sélectionnée"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-limit-alert-text' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		La date sélectionnée dépasse la fin de votre plan payant. Le lien restera actif uniquement jusquʼà la date dʼexpiration de votre plan. Pour maintenir le lien accessible, veuillez prolonger votre plan
+		La date sélectionnée dépasse la fin de votre plan payant. Le lien restera actif uniquement jusqu’à la date d’expiration de votre plan. Pour maintenir le lien accessible, veuillez prolonger votre plan
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-count-getin-yes' => ////////////////////////////////////////////////////////
@@ -3565,7 +3565,7 @@ return [
 	'webinar-change-time-notify' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vous avez changé l‘heure du webinaire, mais les participants ont déjè
+		Vous avez changé l’heure du webinaire, mais les participants ont déjè
 		reçu leur invitation. Une nouvelle invitation avec la nouvelle heure
 		va partir dès maintenant.
 	',
@@ -3573,8 +3573,8 @@ return [
 	'webinar-can-not-change-time' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Merci d‘essayer plus tard. Pendant l‘envoi des invitations, il est impossible
-		de changer la date, l‘heure ou la durée du webinaire.
+		Merci d’essayer plus tard. Pendant l’envoi des invitations, il est impossible
+		de changer la date, l’heure ou la durée du webinaire.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'wrong-data' => //////////////////////////////////////////////////////////////////////
@@ -3688,7 +3688,7 @@ return [
 	'two-factor' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Authentification è deux facteurs <span class="tooltip" data-tip="Enhance your account security by enabling this feature. Once activated, you‘ll need your password and a code from apps like Google Authenticator to log in"></span>
+		Authentification è deux facteurs <span class="tooltip" data-tip="Enhance your account security by enabling this feature. Once activated, you’ll need your password and a code from apps like Google Authenticator to log in"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'wrong-code' => //////////////////////////////////////////////////////////////////////
@@ -3718,7 +3718,7 @@ return [
 	'pay-status-sub-success' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Si votre compte n‘est pas activé rapidement, merci de prendre contact avec
+		Si votre compte n’est pas activé rapidement, merci de prendre contact avec
 		le support en ligne (en anglais).
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
@@ -3785,7 +3785,7 @@ return [
 	'room-options-befostarttime' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Autoriser lʼaccès avant <span class="tooltip" data-tip="Indiquez combien de minutes avant le début du webinaire les participants auront accès à la salle"></span>
+		Autoriser l’accès avant <span class="tooltip" data-tip="Indiquez combien de minutes avant le début du webinaire les participants auront accès à la salle"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-after' => //////////////////////////////////////////////////////////////
@@ -3803,7 +3803,7 @@ return [
 	'room-options-afterstarttime' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Fermer lʼaccès après <span class="tooltip" data-tip="Indiquez combien de minutes après le début du webinaire lʼaccès sera fermé aux nouveaux participants"></span>
+		Fermer l’accès après <span class="tooltip" data-tip="Indiquez combien de minutes après le début du webinaire l’accès sera fermé aux nouveaux participants"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-sent' => ///////////////////////////////////////////////////////////////////////
@@ -3821,7 +3821,7 @@ return [
 	'webinar-link-for-all' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Lien général pour les invités <span class="tooltip" data-tip="Ce lien universel permet à tous les participants de rejoindre lʼévénement. Partagez-le par e-mail, sur les réseaux sociaux ou sur votre site web pour inviter des participants"></span>
+		Lien général pour les invités <span class="tooltip" data-tip="Ce lien universel permet à tous les participants de rejoindre l’événement. Partagez-le par e-mail, sur les réseaux sociaux ou sur votre site web pour inviter des participants"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
@@ -3833,7 +3833,7 @@ return [
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Liens pour modérateurs <span class="tooltip" data-tip="Ces liens donnent aux modérateurs et aux présentateurs un accès direct à lʼévénement programmé. Copiez-les et partagez-les avec votre équipe pour quʼils puissent se joindre. Vous pouvez également cliquer sur lʼicône «enveloppe» pour envoyer un lien directement à lʼe-mail dʼun modérateur ou appuyer sur le bouton «Rejoindre» pour entrer dans lʼévénement en leur nom"></span>
+		Liens pour modérateurs <span class="tooltip" data-tip="Ces liens donnent aux modérateurs et aux présentateurs un accès direct à l’événement programmé. Copiez-les et partagez-les avec votre équipe pour qu’ils puissent se joindre. Vous pouvez également cliquer sur l’icône «enveloppe» pour envoyer un lien directement à l’e-mail d’un modérateur ou appuyer sur le bouton «Rejoindre» pour entrer dans l’événement en leur nom"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'more-moderators' => /////////////////////////////////////////////////////////////////
@@ -3899,7 +3899,7 @@ return [
 	'faq-landing' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mode d‘atterrissage
+		Mode d’atterrissage
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'faq-video' => ///////////////////////////////////////////////////////////////////////
@@ -3953,7 +3953,7 @@ return [
 	'show-record' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Regarder l‘enregistrement
+		Regarder l’enregistrement
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-record' => /////////////////////////////////////////////////////////////////////
@@ -3965,7 +3965,7 @@ return [
 	'send-record-confirm' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Etes-vous certain de vouloir envoyer le lien vers l‘enregistrement du webinaire?
+		Etes-vous certain de vouloir envoyer le lien vers l’enregistrement du webinaire?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-record-success' => /////////////////////////////////////////////////////////////
@@ -4001,19 +4001,19 @@ return [
 	'no-comments' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pas de commentaire pour l‘meeting
+		Pas de commentaire pour l’meeting
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'use-leg-info' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Utiliser les infos de l‘entreprise
+		Utiliser les infos de l’entreprise
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'use-company' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Infos de l‘entreprise
+		Infos de l’entreprise
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'requisites' => //////////////////////////////////////////////////////////////////////
@@ -4043,13 +4043,13 @@ return [
 	'webinar-info' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Liens et accès <span class="tooltip" data-tip="Cette section fournit tous les liens essentiels pour votre webinaire, y compris le code du formulaire d‘inscription pour les webinaires à venir si cette fonctionnalité est activée dans les paramètres de votre événement. Vous pouvez copier le lien public général du webinaire, le mot de passe d‘accès (si activé) et les liens pour tous vos intervenants invités pour assurer le succès de votre événement en ligne"></span>
+		Liens et accès <span class="tooltip" data-tip="Cette section fournit tous les liens essentiels pour votre webinaire, y compris le code du formulaire d’inscription pour les webinaires à venir si cette fonctionnalité est activée dans les paramètres de votre événement. Vous pouvez copier le lien public général du webinaire, le mot de passe d’accès (si activé) et les liens pour tous vos intervenants invités pour assurer le succès de votre événement en ligne"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-status' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Journal des emails d‘invitation <span class="tooltip" data-tip="Accédez à l‘historique et au statut des emails d‘invitation envoyés aux participants, y compris les confirmations d‘inscription, les rappels de webinaire à 3 jours et 1 jour, les alertes 1 heure avant, les notifications de retardataires et les suivis post-webinaire. Le journal détaille les heures d‘envoi exactes, les confirmations de réception du serveur de messagerie et les erreurs éventuelles si les emails ne parviennent pas à être envoyés"></span>
+		Journal des emails d’invitation <span class="tooltip" data-tip="Accédez à l’historique et au statut des emails d’invitation envoyés aux participants, y compris les confirmations d’inscription, les rappels de webinaire à 3 jours et 1 jour, les alertes 1 heure avant, les notifications de retardataires et les suivis post-webinaire. Le journal détaille les heures d’envoi exactes, les confirmations de réception du serveur de messagerie et les erreurs éventuelles si les emails ne parviennent pas à être envoyés"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-WAIT' => ///////////////////////////////////////////////////////////////////////
@@ -4097,13 +4097,13 @@ return [
 	'not-approv-webinar' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Présence refusée au webinaire <span class="tooltip" data-tip="Ce graphique montre le nombre de participants qui ont cliqué sur le bouton «Je ne participerai pas» dans l‘email d‘invitation au webinaire. Il suit les participants qui ne souhaitent pas assister à votre prochain webinaire"></span>
+		Présence refusée au webinaire <span class="tooltip" data-tip="Ce graphique montre le nombre de participants qui ont cliqué sur le bouton «Je ne participerai pas» dans l’email d’invitation au webinaire. Il suit les participants qui ne souhaitent pas assister à votre prochain webinaire"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'approv-webinar' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Présence confirmée au webinaire <span class="tooltip" data-tip="Ce graphique montre le nombre de participants qui ont cliqué sur le bouton «Je vais participer» dans l‘email d‘invitation au webinaire. Il suit les participants confirmés pour votre prochain webinaire"></span>
+		Présence confirmée au webinaire <span class="tooltip" data-tip="Ce graphique montre le nombre de participants qui ont cliqué sur le bouton «Je vais participer» dans l’email d’invitation au webinaire. Il suit les participants confirmés pour votre prochain webinaire"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-by-paypal' => ///////////////////////////////////////////////////////////////////
@@ -4238,7 +4238,7 @@ return [
 	'record-edit' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Modifier lʼenregistrement du webinaire <span class="tooltip" data-tip="Coupez ou divisez vos webinaires précédemment enregistrés en parties. Utilisez cette page pour affiner et améliorer vos enregistrements, en créant des vidéos soignées et partageables avant de partager le webinaire avec votre audience"></span>
+		Modifier l’enregistrement du webinaire <span class="tooltip" data-tip="Coupez ou divisez vos webinaires précédemment enregistrés en parties. Utilisez cette page pour affiner et améliorer vos enregistrements, en créant des vidéos soignées et partageables avant de partager le webinaire avec votre audience"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'logotype-url-placeholder' => ////////////////////////////////////////////////////////
@@ -4268,7 +4268,7 @@ return [
 	'no-import-count' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Echec de l‘import %S
+		Echec de l’import %S
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'of-of' => ///////////////////////////////////////////////////////////////////////////
@@ -4316,25 +4316,25 @@ return [
 	'open-in-new-window' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ouvrir dans une nouvelle fenêtre <span class="tooltip" data-tip="Si lʼinterrupteur est activé, le lien sʼouvrira toujours dans une nouvelle fenêtre du navigateur. Si lʼinterrupteur est désactivé, le lien sʼouvrira dans la même fenêtre, mais seulement avant le début du webinaire. Une fois le webinaire commencé, le lien ne sʼouvrira pas et le participant sera dirigé directement vers la salle du webinaire"></span>
+		Ouvrir dans une nouvelle fenêtre <span class="tooltip" data-tip="Si l’interrupteur est activé, le lien s’ouvrira toujours dans une nouvelle fenêtre du navigateur. Si l’interrupteur est désactivé, le lien s’ouvrira dans la même fenêtre, mais seulement avant le début du webinaire. Une fois le webinaire commencé, le lien ne s’ouvrira pas et le participant sera dirigé directement vers la salle du webinaire"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Page de information <span class="tooltip" data-tip="Cette fonctionnalité permet aux organisateurs de créer une page contenant des informations utiles pour les participants avant le début du webinaire. Cela peut être une page dʼaide, une description de lʼévénement ou une confirmation dʼinscription réussie. Le lien prend en charge les balises UTM pour la collecte des données analytiques"></span>
+		Page de information <span class="tooltip" data-tip="Cette fonctionnalité permet aux organisateurs de créer une page contenant des informations utiles pour les participants avant le début du webinaire. Cela peut être une page d’aide, une description de l’événement ou une confirmation d’inscription réussie. Le lien prend en charge les balises UTM pour la collecte des données analytiques"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url-placeholder' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Lien vers la page dʼinformation
+		Lien vers la page d’information
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-close-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Page de remerciement <span class="tooltip" data-tip="This feature allows webinar organisers to provide attendees with a seamless transition after an webinar concludes or if they choose to leave early. By activating this setting, attendees will be automatically redirected to a custom webpage of your choice. This can be particularly useful for post-webinar surveys, offers, feedback forms, or a simple thank you message. Ensure your attendees‘ journey is well-rounded by guiding them to relevant content after your webinar"></span>
+		Page de remerciement <span class="tooltip" data-tip="This feature allows webinar organisers to provide attendees with a seamless transition after an webinar concludes or if they choose to leave early. By activating this setting, attendees will be automatically redirected to a custom webpage of your choice. This can be particularly useful for post-webinar surveys, offers, feedback forms, or a simple thank you message. Ensure your attendees’ journey is well-rounded by guiding them to relevant content after your webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-close-url-placeholder' => //////////////////////////////////////////////////////
@@ -4357,7 +4357,7 @@ return [
 	'record-email-identification-enable' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Restreindre l‘accès <span class="tooltip" data-tip="Améliorez la confidentialité et la sécurité des enregistrements de vos événements grâce à cette fonctionnalité. Lorsqu‘elle est activée, les spectateurs doivent vérifier leur accès en entrant un code envoyé à leur e-mail enregistré. Ce processus garantit que seuls vos spectateurs avec des adresses e-mail valides peuvent accéder aux enregistrements. Il empêche également le partage de liens personnels, maintenant ainsi l‘exclusivité de vos contenus enregistrés"></span>
+		Restreindre l’accès <span class="tooltip" data-tip="Améliorez la confidentialité et la sécurité des enregistrements de vos événements grâce à cette fonctionnalité. Lorsqu’elle est activée, les spectateurs doivent vérifier leur accès en entrant un code envoyé à leur e-mail enregistré. Ce processus garantit que seuls vos spectateurs avec des adresses e-mail valides peuvent accéder aux enregistrements. Il empêche également le partage de liens personnels, maintenant ainsi l’exclusivité de vos contenus enregistrés"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-clicks' => //////////////////////////////////////////////////////////////////////
@@ -4387,13 +4387,13 @@ return [
 	'summer-time' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Utiliser l‘heure d‘été
+		Utiliser l’heure d’été
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-history-confirm-header' => ///////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		L‘historique des discussions sera définitivement supprimé de notre systè
+		L’historique des discussions sera définitivement supprimé de notre systè
 		me sans possibilité de récupération.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
@@ -4432,7 +4432,7 @@ return [
 	'lpmode-confirm-end-const-web' => ////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		L‘activation du mode page d‘atterrissage mettra fin à l‘événement en cours et déconnectera tous les participants. Êtes-vous sûr de vouloir continuer?
+		L’activation du mode page d’atterrissage mettra fin à l’événement en cours et déconnectera tous les participants. Êtes-vous sûr de vouloir continuer?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'saved' => ///////////////////////////////////////////////////////////////////////////
@@ -4450,13 +4450,13 @@ return [
 	'no-active-type-1' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		L‘e-mail n‘existe pas
+		L’e-mail n’existe pas
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-active-type-2' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Le domaine n‘existe pas
+		Le domaine n’existe pas
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-active-type-3' => ////////////////////////////////////////////////////////////////
@@ -4570,7 +4570,7 @@ return [
 	'do-not-receive' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Veuillez vérifier votre boîte de réception ou vos dossiers de spam. Si vous trouvez l‘e-mail dans le dossier spam, merci de le marquer correctement afin de recevoir directement nos futurs messages dans votre boîte de réception. Merci d‘avoir choisi notre plateforme logicielle de webinaire.
+		Veuillez vérifier votre boîte de réception ou vos dossiers de spam. Si vous trouvez l’e-mail dans le dossier spam, merci de le marquer correctement afin de recevoir directement nos futurs messages dans votre boîte de réception. Merci d’avoir choisi notre plateforme logicielle de webinaire.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'not-receive-message-then' => ////////////////////////////////////////////////////////
@@ -4642,19 +4642,19 @@ return [
 	'error-to' => ////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Echec lors de l‘envoi
+		Echec lors de l’envoi
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'unknown-error' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Une erreur inconnue s‘est produite lors de l‘envoi
+		Une erreur inconnue s’est produite lors de l’envoi
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-error' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Une erreur %S s‘est produite lors de l‘envoi
+		Une erreur %S s’est produite lors de l’envoi
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-status-attendee' => ////////////////////////////////////////////////////////////
@@ -4684,7 +4684,7 @@ return [
 	'empty-email' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Invité <span class="tooltip" data-tip="Indique comment le participant peut être invité à l‘avenir: par invitation par e-mail ou en envoyant un lien copié via des messageries. Ce champ indique également si le participant a une adresse e-mail active"></span>
+		Invité <span class="tooltip" data-tip="Indique comment le participant peut être invité à l’avenir: par invitation par e-mail ou en envoyant un lien copié via des messageries. Ce champ indique également si le participant a une adresse e-mail active"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'without-email' => ///////////////////////////////////////////////////////////////////
@@ -4750,7 +4750,7 @@ return [
 	'letters-schedule' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Calendrier des envois <span class="tooltip" data-tip="Vérifiez le calendrier et le statut des notifications envoyées aux participants du webinaire. Cela comprend les rappels envoyés 3 jours, 1 jour et 1 heure avant l‘événement, ainsi que les notifications pour les retardataires et les suivis après le webinaire. Consultez ici le calendrier, l‘avancement et le nombre de participants invités"></span>
+		Calendrier des envois <span class="tooltip" data-tip="Vérifiez le calendrier et le statut des notifications envoyées aux participants du webinaire. Cela comprend les rappels envoyés 3 jours, 1 jour et 1 heure avant l’événement, ainsi que les notifications pour les retardataires et les suivis après le webinaire. Consultez ici le calendrier, l’avancement et le nombre de participants invités"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'next-step' => ///////////////////////////////////////////////////////////////////////
@@ -4811,7 +4811,7 @@ return [
 	'will-be-link-desc' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Lien pour les participants qui ont cliqué sur le bouton dans l‘e-mail
+		Lien pour les participants qui ont cliqué sur le bouton dans l’e-mail
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'will-not-be-link-title' => //////////////////////////////////////////////////////////
@@ -4823,19 +4823,19 @@ return [
 	'will-not-be-link-desc' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Lien pour les participants qui ont cliqué sur le bouton dans l‘e-mail
+		Lien pour les participants qui ont cliqué sur le bouton dans l’e-mail
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'unsubscribe-link-title' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bouton «Se désabonner» <span class="tooltip" data-tip="Provide a bespoke experience for attendees choosing to opt out of webinar notifications. By setting a custom webpage or landing page URL for the «Unsubscribe» button, you can present additional information, a feedback form, or other engagement options. Please bear in mind, once attendees choose this option, they‘ll be permanently removed from all future email notifications, ensuring we honour their decision to halt communications from our platform"></span>
+		Bouton «Se désabonner» <span class="tooltip" data-tip="Provide a bespoke experience for attendees choosing to opt out of webinar notifications. By setting a custom webpage or landing page URL for the «Unsubscribe» button, you can present additional information, a feedback form, or other engagement options. Please bear in mind, once attendees choose this option, they’ll be permanently removed from all future email notifications, ensuring we honour their decision to halt communications from our platform"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'unsubscribe-link-desc' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Lien pour les participants s‘est désinscrit
+		Lien pour les participants s’est désinscrit
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'link-title-placeholder' => //////////////////////////////////////////////////////////
@@ -4889,7 +4889,7 @@ return [
 	'room-mail-header' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Bannière <span class="tooltip" data-tip="Enhance your email notifications with a distinctive top banner that immediately capturing recipients‘ attention. This banner serves as a visual cue for recipients, ensuring they recognize and prioritize your webinar notifications amidst the clutter of their inboxes. A well-designed banner can reinforce your brand identity, highlight key webinar details, and set the tone for the webinar. Incorporate striking visuals, concise text, and relevant branding to make your email notifications stand out and leave a memorable impression"></span>
+		Bannière <span class="tooltip" data-tip="Enhance your email notifications with a distinctive top banner that immediately capturing recipients’ attention. This banner serves as a visual cue for recipients, ensuring they recognize and prioritize your webinar notifications amidst the clutter of their inboxes. A well-designed banner can reinforce your brand identity, highlight key webinar details, and set the tone for the webinar. Incorporate striking visuals, concise text, and relevant branding to make your email notifications stand out and leave a memorable impression"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-header-size' => ///////////////////////////////////////////////////////////
@@ -4901,7 +4901,7 @@ return [
 	'room-mail-footer' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Signature <span class="tooltip" data-tip="Personalise the footer of your email notifications with a custom signature. This feature allows you to add a unique touch to every outgoing email about your online webinars, be it your name, title, organization, or a brief message. This signature will appear at the bottom of each notification, reinforcing your brand‘s identity or providing additional contact information to your recipients. Craft a signature that leaves a lasting impression and ensures consistency across all your webinar communications"></span>
+		Signature <span class="tooltip" data-tip="Personalise the footer of your email notifications with a custom signature. This feature allows you to add a unique touch to every outgoing email about your online webinars, be it your name, title, organization, or a brief message. This signature will appear at the bottom of each notification, reinforcing your brand’s identity or providing additional contact information to your recipients. Craft a signature that leaves a lasting impression and ensures consistency across all your webinar communications"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-default-footer' => ////////////////////////////////////////////////////////
@@ -4925,16 +4925,16 @@ return [
 	'room-private-record-settings-alert' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vous avez choisi la fonction d‘entrée par le nom uniquement des liens
-		d‘invitation. Si vous décidez d‘utiliser une référence générale à
-		l‘enregistrement, tous les participants non inscrits seront nécessaires pour
+		Vous avez choisi la fonction d’entrée par le nom uniquement des liens
+		d’invitation. Si vous décidez d’utiliser une référence générale à
+		l’enregistrement, tous les participants non inscrits seront nécessaires pour
 		confirmer votre femme doit avoir accès à la vue.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-private-settings-alert' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<u>La page de connexion au webinaire n‘est pas disponible</u> car vous avez sélectionné l‘option d‘accès via des liens d‘invitation personnalisés uniquement.<br><br>Les participants peuvent rejoindre le webinaire exclusivement via le lien qui leur a été envoyé par notre système, ou via le lien que vous avez copié et partagé par d‘autres moyens, tels que votre newsletter par e-mail ou une application de messagerie. Veuillez noter que le lien n‘est actif que pour le participant spécifique auquel il était destiné
+		<u>La page de connexion au webinaire n’est pas disponible</u> car vous avez sélectionné l’option d’accès via des liens d’invitation personnalisés uniquement.<br><br>Les participants peuvent rejoindre le webinaire exclusivement via le lien qui leur a été envoyé par notre système, ou via le lien que vous avez copié et partagé par d’autres moyens, tels que votre newsletter par e-mail ou une application de messagerie. Veuillez noter que le lien n’est actif que pour le participant spécifique auquel il était destiné
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-language-auto' => /////////////////////////////////////////////////////////
@@ -4946,7 +4946,7 @@ return [
 	'moderator-permissions' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Autorisations <span class="tooltip" data-tip="Attribuez différents niveaux dʼaccès à vos modérateurs de webinaire.<br><br>• Modérateur & intervenant – Accès standard pour les modérateurs et intervenants, leur permettant dʼaider à gérer le webinaire et de faire des présentations.<br><br>• Intervenant invité – Un rôle à accès limité pour les intervenants invités, idéal pour les contributeurs ponctuels ou les conférenciers externes.<br><br>En personnalisant les autorisations, vous garantissez une expérience de webinaire fluide et bien organisée, en offrant à chaque participant le niveau de contrôle approprié"></span>
+		Autorisations <span class="tooltip" data-tip="Attribuez différents niveaux d’accès à vos modérateurs de webinaire.<br><br>• Modérateur & intervenant – Accès standard pour les modérateurs et intervenants, leur permettant d’aider à gérer le webinaire et de faire des présentations.<br><br>• Intervenant invité – Un rôle à accès limité pour les intervenants invités, idéal pour les contributeurs ponctuels ou les conférenciers externes.<br><br>En personnalisant les autorisations, vous garantissez une expérience de webinaire fluide et bien organisée, en offrant à chaque participant le niveau de contrôle approprié"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
@@ -4976,7 +4976,7 @@ return [
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Montrer la webcam, partager la vidéo téléchargée, youtube, l‘écran et les documents, gérer les tests, les sondages et les participants
+		Montrer la webcam, partager la vidéo téléchargée, youtube, l’écran et les documents, gérer les tests, les sondages et les participants
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-speaker' => //////////////////////////////////////////////////////////
@@ -4988,7 +4988,7 @@ return [
 	'moderator-perm-speaker-desc' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Montrer la webcam, partager la vidéo téléchargée, youtube, l‘écran et les documents
+		Montrer la webcam, partager la vidéo téléchargée, youtube, l’écran et les documents
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'package-expire-alert' => ////////////////////////////////////////////////////////////
@@ -5016,11 +5016,11 @@ return [
 		<br>
 		– <u>Uniquement pour un usage non commercial</u><br>
 		– Logo de la plateforme sur les webcams des modérateurs<br>
-		– Jusquʼà 2 animateurs simultanément (les autres peuvent parler à tour de rôle)<br>
-		– Importation de jusquʼà 20 abonnés<br>
-		– Jusquʼà 5 participants par webinaire<br>
-		– Enregistrement jusquʼà 20 minutes toutes les 20 minutes (480p + 720p)<br>
-		– Les webinaires peuvent être plus longs, mais lʼenregistrement est limité<br>
+		– Jusqu’à 2 animateurs simultanément (les autres peuvent parler à tour de rôle)<br>
+		– Importation de jusqu’à 20 abonnés<br>
+		– Jusqu’à 5 participants par webinaire<br>
+		– Enregistrement jusqu’à 20 minutes toutes les 20 minutes (480p + 720p)<br>
+		– Les webinaires peuvent être plus longs, mais l’enregistrement est limité<br>
 		– Enregistrements disponibles uniquement pour un usage personnel<br>
 		– Personnalisation de la marque non autorisée<br>
 		– Domaine personnalisé non disponible<br>
@@ -5040,7 +5040,7 @@ return [
 	'package-oneday-alert-text' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Le plan quotidien n‘inclut pas cette fonctionnalité
+		Le plan quotidien n’inclut pas cette fonctionnalité
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moder-exit' => //////////////////////////////////////////////////////////////////////
@@ -5052,7 +5052,7 @@ return [
 	'moder-exit-alert' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Etes-vous sûr de vouloir supprimer ce modérateur de la salle de séminaire en ligne ? La séance sera coupée, et le modérateur est coupé et déconnecté de la sortir de la salle de séminaire en ligne. Re-entrée est possible par le vieux lien d‘invitation.
+		Etes-vous sûr de vouloir supprimer ce modérateur de la salle de séminaire en ligne ? La séance sera coupée, et le modérateur est coupé et déconnecté de la sortir de la salle de séminaire en ligne. Re-entrée est possible par le vieux lien d’invitation.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moder-exit-change' => ///////////////////////////////////////////////////////////////
@@ -5178,7 +5178,7 @@ return [
 	'paypal-deactivate-alert' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pour désactiver l‘acceptation des paiements pour le webinaire, vous devrez rembourser les participants qui ont payé pour participer
+		Pour désactiver l’acceptation des paiements pour le webinaire, vous devrez rembourser les participants qui ont payé pour participer
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'paypal-refund-text' => //////////////////////////////////////////////////////////////
@@ -5220,7 +5220,7 @@ return [
 	'auto-webinar-edit-section-many' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Paramètres des séries d‘autowebinaires
+		Paramètres des séries d’autowebinaires
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-webinar-create-section' => /////////////////////////////////////////////////////
@@ -5244,7 +5244,7 @@ return [
 	'auto-webinar-section-name' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Contenu du webinaire <span class="tooltip" data-tip="Sélectionnez le fichier vidéo à utiliser comme contenu principal de votre webinaire automatisé. Cʼest la première et la plus importante étape pour planifier votre webinaire automatisé. Assurez-vous de choisir le bon fichier pour offrir une expérience fluide à vos participants"></span>
+		Contenu du webinaire <span class="tooltip" data-tip="Sélectionnez le fichier vidéo à utiliser comme contenu principal de votre webinaire automatisé. C’est la première et la plus importante étape pour planifier votre webinaire automatisé. Assurez-vous de choisir le bon fichier pour offrir une expérience fluide à vos participants"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'choose-video' => ////////////////////////////////////////////////////////////////////
@@ -5418,7 +5418,7 @@ return [
 	'email-isset' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vous ne pouvez pas accorder l‘accès au manager déjà enregistré
+		Vous ne pouvez pas accorder l’accès au manager déjà enregistré
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'adm-no-verify' => ///////////////////////////////////////////////////////////////////
@@ -5436,7 +5436,7 @@ return [
 	'admin-login-desc' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Veuillez utiliser le lien d‘accès à partir de l‘invitation reçue pour revenir au contrôle panneau<br><br>Veuillez contacter le propriétaire du compte si vous avez perdu ou supprimez l‘invitation avec le lien d‘accès
+		Veuillez utiliser le lien d’accès à partir de l’invitation reçue pour revenir au contrôle panneau<br><br>Veuillez contacter le propriétaire du compte si vous avez perdu ou supprimez l’invitation avec le lien d’accès
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-again' => //////////////////////////////////////////////////////////////////////
@@ -5448,7 +5448,7 @@ return [
 	'send-invite-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Voulez-vous envoyer l‘invitation avec le lien d‘accès au manager %S?
+		Voulez-vous envoyer l’invitation avec le lien d’accès au manager %S?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'yes-send-adm-invite' => /////////////////////////////////////////////////////////////
@@ -5478,7 +5478,7 @@ return [
 	'password-change-confirm' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pour des raisons de sécurité, nous redémarrerons l‘événement et déconnecterons automatiquement tous les participants si quelqu‘un est déjà présent.
+		Pour des raisons de sécurité, nous redémarrerons l’événement et déconnecterons automatiquement tous les participants si quelqu’un est déjà présent.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'telegram-link-name' => //////////////////////////////////////////////////////////////
@@ -5508,13 +5508,13 @@ return [
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Il reste %S invitations <span class="tooltip" data-mode="bottom" data-tip="Ce nombre indique le nombre maximum de participants que vous pouvez inviter à un seul webinaire. Il reflète le total des invitations disponibles en fonction de votre plan actuel. Notez que le nombre dʼinvitations peut atteindre jusquʼà 5 fois la limite de participants de votre plan tarifaire. Par exemple, si votre plan permet 60 participants, vous pouvez inviter jusquʼà 300 participants pour garantir flexibilité et engagement"></span>
+		Il reste %S invitations <span class="tooltip" data-mode="bottom" data-tip="Ce nombre indique le nombre maximum de participants que vous pouvez inviter à un seul webinaire. Il reflète le total des invitations disponibles en fonction de votre plan actuel. Notez que le nombre d’invitations peut atteindre jusqu’à 5 fois la limite de participants de votre plan tarifaire. Par exemple, si votre plan permet 60 participants, vous pouvez inviter jusqu’à 300 participants pour garantir flexibilité et engagement"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invites-per-webinar' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		invitations par webinaire <span class="tooltip" data-tip="Ce nombre indique le nombre maximum de participants que vous pouvez inviter à un seul webinaire. Il reflète le total des invitations disponibles en fonction de votre plan actuel. Notez que le nombre dʼinvitations peut atteindre jusquʼà 5 fois la limite de participants de votre plan tarifaire. Par exemple, si votre plan permet 60 participants, vous pouvez inviter jusquʼà 300 participants pour garantir flexibilité et engagement"></span>
+		invitations par webinaire <span class="tooltip" data-tip="Ce nombre indique le nombre maximum de participants que vous pouvez inviter à un seul webinaire. Il reflète le total des invitations disponibles en fonction de votre plan actuel. Notez que le nombre d’invitations peut atteindre jusqu’à 5 fois la limite de participants de votre plan tarifaire. Par exemple, si votre plan permet 60 participants, vous pouvez inviter jusqu’à 300 participants pour garantir flexibilité et engagement"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit-full' => /////////////////////////////////////////////////////////////
@@ -5538,13 +5538,13 @@ return [
 	'filter-recordviews-webinar' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vues de rediffusion <span class="tooltip" data-tip="Montre le pourcentage de la rediffusion du webinaire que le participant a regardé, ou s‘il ne l‘a pas regardé du tout"></span>
+		Vues de rediffusion <span class="tooltip" data-tip="Montre le pourcentage de la rediffusion du webinaire que le participant a regardé, ou s’il ne l’a pas regardé du tout"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'filter-record-not-views' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		N‘a pas vu
+		N’a pas vu
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'filter-record-percent-views' => /////////////////////////////////////////////////////
@@ -5556,25 +5556,25 @@ return [
 	'payweb-for-free' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Le traitement des paiements pour les événements payants n‘est disponible que sur les plans commerciaux
+		Le traitement des paiements pour les événements payants n’est disponible que sur les plans commerciaux
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-WAIT' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Votre demande en cours d‘examen. Cela peut prendre plusieurs jours...
+		Votre demande en cours d’examen. Cela peut prendre plusieurs jours...
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'payweb-get-to' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Webinaire payant <span class="tooltip" data-tip="Turn on this feature to set an entrance fee for your webinar. You‘re transforming your webinar or session into a premium experience by activating, ensuring only paying attendees can access the content. This is ideal for exclusive workshops, specialized training, or any content you deem valuable"></span>
+		Webinaire payant <span class="tooltip" data-tip="Turn on this feature to set an entrance fee for your webinar. You’re transforming your webinar or session into a premium experience by activating, ensuring only paying attendees can access the content. This is ideal for exclusive workshops, specialized training, or any content you deem valuable"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'records-send-wait' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		L‘envoi des dossiers a déjà commencé. Veuillez réessayer plus tard.
+		L’envoi des dossiers a déjà commencé. Veuillez réessayer plus tard.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-search-placeholder' => /////////////////////////////////////////////////////
@@ -5586,7 +5586,7 @@ return [
 	'error-max-file-size' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		La taille de l‘image téléchargée ne peut pas dépasser 350 KB
+		La taille de l’image téléchargée ne peut pas dépasser 350 KB
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage' => /////////////////////////////////////////////////////////////////////////
@@ -5622,19 +5622,19 @@ return [
 	'used-storage-text' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		{used} sur {all} utilisés <span class="tooltip" data-tip="Affiche la quantité d‘espace utilisé sur le total disponible pour vos fichiers"></span>
+		{used} sur {all} utilisés <span class="tooltip" data-tip="Affiche la quantité d’espace utilisé sur le total disponible pour vos fichiers"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'need-more-storage' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pas assez d‘espace?
+		Pas assez d’espace?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-filter-type' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Type <span class="tooltip" data-tip="Indique le type de fichier, tel qu‘une présentation, une diapositive, une vidéo, un audio ou une rediffusion de webinaire"></span>
+		Type <span class="tooltip" data-tip="Indique le type de fichier, tel qu’une présentation, une diapositive, une vidéo, un audio ou une rediffusion de webinaire"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'type-all' => ////////////////////////////////////////////////////////////////////////
@@ -5700,7 +5700,7 @@ return [
 	'storage-filter-moder' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Accès <span class="tooltip" data-tip="Indique quel modérateur a accès pour travailler avec le fichier téléchargé, la présentation, les médias, le test, le sondage ou l‘appel à l‘action (CTA)"></span>
+		Accès <span class="tooltip" data-tip="Indique quel modérateur a accès pour travailler avec le fichier téléchargé, la présentation, les médias, le test, le sondage ou l’appel à l’action (CTA)"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-size' => ////////////////////////////////////////////////////////////////////
@@ -5766,7 +5766,7 @@ return [
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Direction du texte <span class="tooltip" data-tip="Choisissez la direction du texte pour la zone de chat public, prenant en charge les langues de gauche à droite (par exemple, l‘anglais) et de droite à gauche (par exemple, l‘arabe). Cela garantit une expérience fluide pour tous les participants, quelle que soit l‘orientation de leur script natif"></span>
+		Direction du texte <span class="tooltip" data-tip="Choisissez la direction du texte pour la zone de chat public, prenant en charge les langues de gauche à droite (par exemple, l’anglais) et de droite à gauche (par exemple, l’arabe). Cela garantit une expérience fluide pour tous les participants, quelle que soit l’orientation de leur script natif"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////
@@ -5790,7 +5790,7 @@ return [
 	'combine-header' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Fusionner les enregistrements de webinaires <span class="tooltip" data-tip="Combinez plusieurs enregistrements de webinaires en une seule vidéo fluide. Utilisez cette page pour organiser lʼordre des fragments et créer un enregistrement final unifié et soigné à partager avec votre audience"></span>
+		Fusionner les enregistrements de webinaires <span class="tooltip" data-tip="Combinez plusieurs enregistrements de webinaires en une seule vidéo fluide. Utilisez cette page pour organiser l’ordre des fragments et créer un enregistrement final unifié et soigné à partager avec votre audience"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'edited' => //////////////////////////////////////////////////////////////////////////
@@ -5832,19 +5832,19 @@ return [
 	'login-captcha' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Entrez le code de l‘image ci-dessus
+		Entrez le code de l’image ci-dessus
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'wrong-captcha' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-	Le code ne correspond pas à l‘image
+	Le code ne correspond pas à l’image
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'disk-space-limit' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		La limite d‘espace de disque est dépassée
+		La limite d’espace de disque est dépassée
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'wait-attendee-subscribe' => /////////////////////////////////////////////////////////
@@ -5862,7 +5862,7 @@ return [
 	'mails-send-error' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Livraisons échouées <span class="tooltip" data-tip="Affiche le nombre d‘emails qui n‘ont pas été livrés en raison d‘adresses incorrectes, de rejets de serveur ou d‘autres problèmes"></span>
+		Livraisons échouées <span class="tooltip" data-tip="Affiche le nombre d’emails qui n’ont pas été livrés en raison d’adresses incorrectes, de rejets de serveur ou d’autres problèmes"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-bots' => ////////////////////////////////////////////////////////////////////////
@@ -5934,13 +5934,13 @@ return [
 	'import-chat-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Heure de l‘événement, par ex. "+00:10:23"; Type d‘auteur, par ex. "M" ou "G"; À partir du nom, par ex. "John Smith"; Pays, par ex. "FR"; Message, par ex. "blah-blah-blah"<br><br>Par exemple:<br>–––<br>"+00:12:15";"G";"John Doe";"FR";"Hello! It is first message!"<br>"+00:15:13";"G";"John Doe";"FR";"This is my second message"<br>...<br>"+01:12:45";"G";"John Doe";"FR";"This is my last message. Bye!"<br>–––
+		Heure de l’événement, par ex. "+00:10:23"; Type d’auteur, par ex. "M" ou "G"; À partir du nom, par ex. "John Smith"; Pays, par ex. "FR"; Message, par ex. "blah-blah-blah"<br><br>Par exemple:<br>–––<br>"+00:12:15";"G";"John Doe";"FR";"Hello! It is first message!"<br>"+00:15:13";"G";"John Doe";"FR";"This is my second message"<br>...<br>"+01:12:45";"G";"John Doe";"FR";"This is my last message. Bye!"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-cta-placeholder' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Heure de l‘événement, par ex. "+00:10:23"; Où; Message; CTA; URL; Temps libre
+		Heure de l’événement, par ex. "+00:10:23"; Où; Message; CTA; URL; Temps libre
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'autowebinar-field-name' => //////////////////////////////////////////////////////////
@@ -5958,7 +5958,7 @@ return [
 	'autowebinar-field-time' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Heure de l‘événement, par ex. +00:10:23
+		Heure de l’événement, par ex. +00:10:23
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'autowebinar-field-type' => //////////////////////////////////////////////////////////
@@ -5976,19 +5976,19 @@ return [
 	'wrong-time' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		L‘heure de l‘événement est incorrecte
+		L’heure de l’événement est incorrecte
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'empty-time' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		L‘heure de l‘événement n‘est pas définie
+		L’heure de l’événement n’est pas définie
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'empty-country' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Le pays du bot n‘est pas défini
+		Le pays du bot n’est pas défini
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'empty-message' => ///////////////////////////////////////////////////////////////////
@@ -6078,13 +6078,13 @@ return [
 	'empty-cta' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Aucun CTA n‘est défini
+		Aucun CTA n’est défini
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'wrong-cta' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		CTA n‘a pas été trouvée
+		CTA n’a pas été trouvée
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'autoweb-import' => //////////////////////////////////////////////////////////////////
@@ -6198,13 +6198,13 @@ return [
 	'for-autowebinar' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pour webinaire automatisé <span class="tooltip" data-tip="Activez cette option pour préparer l‘exportation de votre webinaire automatisé hébergé sur notre plateforme, permettant de l‘importer facilement à nouveau"></span>
+		Pour webinaire automatisé <span class="tooltip" data-tip="Activez cette option pour préparer l’exportation de votre webinaire automatisé hébergé sur notre plateforme, permettant de l’importer facilement à nouveau"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'close-webinar-alert' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Le mode liens personnels est activé. Les participants invités recevront un lien dans l‘invitation au prochain webinaire.
+		Le mode liens personnels est activé. Les participants invités recevront un lien dans l’invitation au prochain webinaire.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-not-allowed-country' => /////////////////////////////////////////////////////////
@@ -6288,7 +6288,7 @@ return [
 	'not-allowed' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Type de fichier n‘est pas permis
+		Type de fichier n’est pas permis
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'big-file' => ////////////////////////////////////////////////////////////////////////
@@ -6318,7 +6318,7 @@ return [
 	'yerror' => //////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vidéo n‘est pas trouvé. Vérifiez URL que vous avez introduit.
+		Vidéo n’est pas trouvé. Vérifiez URL que vous avez introduit.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-edit-file' => ///////////////////////////////////////////////////////////////
@@ -6354,7 +6354,7 @@ return [
 	'room-mail-notification' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Destinataires <span class="tooltip" data-tip="Specify the individuals you wish to notify about your upcoming online webinars. Tailor your email notifications based on the recipient‘s role or involvement in the webinar"></span>
+		Destinataires <span class="tooltip" data-tip="Specify the individuals you wish to notify about your upcoming online webinars. Tailor your email notifications based on the recipient’s role or involvement in the webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'notification-all' => ////////////////////////////////////////////////////////////////
@@ -6439,19 +6439,19 @@ return [
 	'mails-statistic' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Statistiques <span class="tooltip" data-tip="Les statistiques affichent le nombre dʼinvitations envoyées, ainsi que les tentatives de livraison réussies et échouées. Veuillez noter que les données et les graphiques ne sont pas mis à jour immédiatement, car lʼenvoi des e-mails prend un certain temps. Patientez un peu et les informations seront mises à jour automatiquement"></span>
+		Statistiques <span class="tooltip" data-tip="Les statistiques affichent le nombre d’invitations envoyées, ainsi que les tentatives de livraison réussies et échouées. Veuillez noter que les données et les graphiques ne sont pas mis à jour immédiatement, car l’envoi des e-mails prend un certain temps. Patientez un peu et les informations seront mises à jour automatiquement"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mails-statistic-hint' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Les statistiques précises seront disponibles après lʼenvoi de tous les e-mails et la fin du webinaire
+		Les statistiques précises seront disponibles après l’envoi de tous les e-mails et la fin du webinaire
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Auto-inscriptions via le lien du webinaire <span class="tooltip" data-tip="Ce graphique montre le nombre de participants qui se sont inscrits eux-mêmes au webinaire en utilisant le lien public. Vous pouvez partager ce lien via un messager ou d‘autres méthodes de communication. Le graphique vous aide à suivre l‘efficacité de votre stratégie d‘invitation et l‘intérêt pour votre webinaire"></span>
+		Auto-inscriptions via le lien du webinaire <span class="tooltip" data-tip="Ce graphique montre le nombre de participants qui se sont inscrits eux-mêmes au webinaire en utilisant le lien public. Vous pouvez partager ce lien via un messager ou d’autres méthodes de communication. Le graphique vous aide à suivre l’efficacité de votre stratégie d’invitation et l’intérêt pour votre webinaire"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'group-already-exists' => ////////////////////////////////////////////////////////////
@@ -6649,7 +6649,7 @@ return [
 	'always-show-cta-above-chat' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Toujours afficher le CTA <span class="tooltip" data-tip="Afficher la bannière toujours, même après un clic. Utile pour renforcer lʼengagement"></span>
+		Toujours afficher le CTA <span class="tooltip" data-tip="Afficher la bannière toujours, même après un clic. Utile pour renforcer l’engagement"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cta-position-whole' => //////////////////////////////////////////////////////////////
@@ -6697,13 +6697,13 @@ return [
 	'webinar-not-finished-alert-text' => /////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Lʼaccès sera disponible une fois la session planifiée terminée
+		L’accès sera disponible une fois la session planifiée terminée
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-link-lifetime' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		L‘enregistrement est disponible jusqu‘au %s
+		L’enregistrement est disponible jusqu’au %s
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'menu-title-core' => /////////////////////////////////////////////////////////////////
@@ -6757,7 +6757,7 @@ return [
 	'profile-subtitle-2fa' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Renforcez la sécurité avec l‘authentification à deux facteurs <span class="tooltip" data-tip="Dans cette section, vous pouvez activer l’authentification à deux facteurs (2FA) pour plus de sécurité. 2FA nécessite un code de vérification en plus de votre mot de passe pour accéder à votre compte"></span>
+		Renforcez la sécurité avec l’authentification à deux facteurs <span class="tooltip" data-tip="Dans cette section, vous pouvez activer l’authentification à deux facteurs (2FA) pour plus de sécurité. 2FA nécessite un code de vérification en plus de votre mot de passe pour accéder à votre compte"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-subtitle-billing' => ////////////////////////////////////////////////////////
@@ -6817,19 +6817,19 @@ return [
 	'i-agree' => /////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		J‘ai lu et j‘accepte la
+		J’ai lu et j’accepte la
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'accept-user-agreements' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		J‘accepte les <a href="https://myownconference.com/user-agreements/" target="_blank">accords utilisateur</a>
+		J’accepte les <a href="https://myownconference.com/user-agreements/" target="_blank">accords utilisateur</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'i-read-agree' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		J‘ai lu et j‘accepte la
+		J’ai lu et j’accepte la
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'refund-policy2' => //////////////////////////////////////////////////////////////////
@@ -6847,7 +6847,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nous utilisons des cookies (et d‘autres technologies similaires) pour améliorer votre expérience sur notre site, votre compte et dans les salles de réunion. En utilisant ce site web, vous acceptez notre <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">politique de confidentialité</a>.
+		Nous utilisons des cookies (et d’autres technologies similaires) pour améliorer votre expérience sur notre site, votre compte et dans les salles de réunion. En utilisant ce site web, vous acceptez notre <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">politique de confidentialité</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'necessary' => ///////////////////////////////////////////////////////////////////////
@@ -6877,7 +6877,7 @@ return [
 	'necessary-desc' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Les cookies définis dans cette catégorie sont absolument essentiels au fonctionnement du site web. Par conséquent, ils sont chargés par défaut, quel que soit le consentement de l‘utilisateur.
+		Les cookies définis dans cette catégorie sont absolument essentiels au fonctionnement du site web. Par conséquent, ils sont chargés par défaut, quel que soit le consentement de l’utilisateur.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-head-name' => ///////////////////////////////////////////////////////////////
@@ -7045,19 +7045,19 @@ return [
 	'day-plan' => ////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		1 jour (24 heures) <span class="tooltip" data-tip="Comme indiqué à la section 10.12 de notre accord d‘utilisation, les plans quotidiens ont un cycle de 24 heures (23 heures, 59 minutes, 59 secondes). La section 7 stipule que les plans quotidiens n‘autorisent pas le partage des enregistrements ou la diffusion via OBS Studio"></span>
+		1 jour (24 heures) <span class="tooltip" data-tip="Comme indiqué à la section 10.12 de notre accord d’utilisation, les plans quotidiens ont un cycle de 24 heures (23 heures, 59 minutes, 59 secondes). La section 7 stipule que les plans quotidiens n’autorisent pas le partage des enregistrements ou la diffusion via OBS Studio"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'month-plan' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		30 jours <span class="tooltip" data-tip="Comme indiqué à la section 10.12 de notre accord d‘utilisation, le cycle de facturation pour tous les forfaits mensuels est de 30 jours"></span>
+		30 jours <span class="tooltip" data-tip="Comme indiqué à la section 10.12 de notre accord d’utilisation, le cycle de facturation pour tous les forfaits mensuels est de 30 jours"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'registers-statistic' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Statistiques d‘inscription <span class="tooltip" data-tip="Suivez les statistiques d‘inscription des participants à votre webinaire. Cette section montre le nombre d‘inscriptions via le lien public et suit les confirmations ou les refus de participation via les emails d‘invitation"></span>
+		Statistiques d’inscription <span class="tooltip" data-tip="Suivez les statistiques d’inscription des participants à votre webinaire. Cette section montre le nombre d’inscriptions via le lien public et suit les confirmations ou les refus de participation via les emails d’invitation"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'badge-conference' => ////////////////////////////////////////////////////////////////
@@ -7081,7 +7081,7 @@ return [
 	'room-options-general' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Général <span class="tooltip" data-tip="Gérez les paramètres généraux de votre page de connexion. Ici, vous pouvez définir un mot de passe pour les salles de webinaire, activer l‘accès via des liens privés individuels pour les webinaires programmés et activer le code IFRAME pour intégrer le formulaire d‘inscription"></span>
+		Général <span class="tooltip" data-tip="Gérez les paramètres généraux de votre page de connexion. Ici, vous pouvez définir un mot de passe pour les salles de webinaire, activer l’accès via des liens privés individuels pour les webinaires programmés et activer le code IFRAME pour intégrer le formulaire d’inscription"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'history-same-ip' => /////////////////////////////////////////////////////////////////
@@ -7188,7 +7188,7 @@ return [
 	'unassign-from-room' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Révoquer l‘invitation
+		Révoquer l’invitation
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'unassign-alert-text' => /////////////////////////////////////////////////////////////
@@ -7200,7 +7200,7 @@ return [
 	'unassign-alert-yes' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Révoquer l‘invitation
+		Révoquer l’invitation
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'permanent-webinar-room' => //////////////////////////////////////////////////////////
@@ -7212,7 +7212,7 @@ return [
 	'link-expired' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Votre lien n‘est plus actif
+		Votre lien n’est plus actif
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'duplicate' => ///////////////////////////////////////////////////////////////////////
@@ -7236,7 +7236,7 @@ return [
 	'stop-registration-by-plan-seats' => /////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Arrêter lʼinscription à la capacité du forfait <span class="tooltip" data-tip="Lʼinscription se fermera automatiquement une fois la capacité du forfait atteinte. Les visiteurs qui essaient de sʼinscrire après cela verront un message indiquant que lʼinscription est fermée. Pour rouvrir lʼinscription, désactivez ce paramètre"></span>
+		Arrêter l’inscription à la capacité du forfait <span class="tooltip" data-tip="L’inscription se fermera automatiquement une fois la capacité du forfait atteinte. Les visiteurs qui essaient de s’inscrire après cela verront un message indiquant que l’inscription est fermée. Pour rouvrir l’inscription, désactivez ce paramètre"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'force-activate-email' => ////////////////////////////////////////////////////////////
@@ -7254,13 +7254,13 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Seuls les modérateurs sélectionnés seront invités au webinaire <span class="tooltip" data-tip="Cette liste affiche tous vos modérateurs actifs créés dans la section générale. Veuillez sélectionner uniquement les modérateurs qui participeront à cet événement. Seuls les modérateurs sélectionnés recevront le lien et lʼaccès à cet événement"></span>
+		Seuls les modérateurs sélectionnés seront invités au webinaire <span class="tooltip" data-tip="Cette liste affiche tous vos modérateurs actifs créés dans la section générale. Veuillez sélectionner uniquement les modérateurs qui participeront à cet événement. Seuls les modérateurs sélectionnés recevront le lien et l’accès à cet événement"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Seuls les participants sélectionnés seront invités au webinaire <span class="tooltip" data-tip="Cette liste affiche tous vos participants actifs ajoutés à la section générale. Veuillez sélectionner uniquement ceux que vous souhaitez inviter à cet événement. Seuls les participants sélectionnés recevront le lien dʼaccès et pourront rejoindre. Notez que le nombre dʼinvités peut être jusquʼà cinq fois supérieur à la capacité de votre forfait"></span>
+		Seuls les participants sélectionnés seront invités au webinaire <span class="tooltip" data-tip="Cette liste affiche tous vos participants actifs ajoutés à la section générale. Veuillez sélectionner uniquement ceux que vous souhaitez inviter à cet événement. Seuls les participants sélectionnés recevront le lien d’accès et pourront rejoindre. Notez que le nombre d’invités peut être jusqu’à cinq fois supérieur à la capacité de votre forfait"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-text-chat-settings' => //////////////////////////////////////////////////////

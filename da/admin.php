@@ -6204,7 +6204,7 @@ return [
 	'storage-add-video' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tilføj YouTube eller Vimeo <span class="tooltip" data-tip="Indsæt et YouTube- eller Vimeo-link herunder for at tilføje video til dit webinar. Kopiér blot URLʼen og indsæt den her. Det giver dine deltagere en mere dynamisk oplevelse. Sørg for, at linket er korrekt og offentligt tilgængeligt, så det kan afspilles uden problemer"></span>
+		Tilføj YouTube eller Vimeo <span class="tooltip" data-tip="Indsæt et YouTube- eller Vimeo-link herunder for at tilføje video til dit webinar. Kopiér blot URL’en og indsæt den her. Det giver dine deltagere en mere dynamisk oplevelse. Sørg for, at linket er korrekt og offentligt tilgængeligt, så det kan afspilles uden problemer"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-add-video-no-record' => /////////////////////////////////////////////////////

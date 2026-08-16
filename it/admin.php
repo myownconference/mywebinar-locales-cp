@@ -201,7 +201,7 @@ return [
 	'captcha-alt' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Verifica captcha per confermare lʼaccesso umano
+		Verifica captcha per confermare l’accesso umano
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'or' => //////////////////////////////////////////////////////////////////////////////
@@ -555,19 +555,19 @@ return [
 	'start-webinar' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Avvia il webinar <span class="tooltip" data-tip="Il webinar inizierà automaticamente quando accedi allʼora programmata come presentatore. Clicca per ottenere i link necessari allʼaccesso e allʼavvio"></span>
+		Avvia il webinar <span class="tooltip" data-tip="Il webinar inizierà automaticamente quando accedi all’ora programmata come presentatore. Clicca per ottenere i link necessari all’accesso e all’avvio"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'end-webinar' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Termina il webinar <span class="tooltip" data-tip="Il webinar può essere terminato qui se non è stato interrotto dallʼhost nella stanza"></span>
+		Termina il webinar <span class="tooltip" data-tip="Il webinar può essere terminato qui se non è stato interrotto dall’host nella stanza"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'end-webinar-confirm' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Terminare il webinar?</strong><br><br>La registrazione verrà interrotta, i partecipanti saranno disconnessi e lʼaccesso sarà bloccato. Lʼazione è irreversibile. Terminare la sessione?
+		<strong>Terminare il webinar?</strong><br><br>La registrazione verrà interrotta, i partecipanti saranno disconnessi e l’accesso sarà bloccato. L’azione è irreversibile. Terminare la sessione?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'end-webinar-yes' => /////////////////////////////////////////////////////////////////
@@ -591,7 +591,7 @@ return [
 	'adhoc-webinars-title' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Stanze per webinar <span class="tooltip" data-tip="Crea stanze per webinar disponibili 24 ore su 24, 7 giorni su 7 con link statici. Aggiungi la protezione tramite password per una maggiore sicurezza o utilizza la modalità pagina di destinazione. In questa modalità, i partecipanti vedranno un modulo in cui inserire la propria email e altri dettagli prima di accedere alla stanza. Questa modalità è ideale per raccogliere informazioni sui partecipanti prima di concedere loro l‘accesso ai webinar futuri"></span>
+		Stanze per webinar <span class="tooltip" data-tip="Crea stanze per webinar disponibili 24 ore su 24, 7 giorni su 7 con link statici. Aggiungi la protezione tramite password per una maggiore sicurezza o utilizza la modalità pagina di destinazione. In questa modalità, i partecipanti vedranno un modulo in cui inserire la propria email e altri dettagli prima di accedere alla stanza. Questa modalità è ideale per raccogliere informazioni sui partecipanti prima di concedere loro l’accesso ai webinar futuri"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-title' => //////////////////////////////////////////////////////////////////
@@ -627,7 +627,7 @@ return [
 	'webinar-editoptions-section' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Impostazioni avanzate <span class="tooltip" data-tip="Personalizza la tua sala webinar con impostazioni avanzate. Regola l‘aspetto del tuo spazio di lavoro e della pagina di registrazione, configura le registrazioni degli eventi e automatizza le email di invito per i prossimi webinar per tutti i gruppi di pubblico"></span>
+		Impostazioni avanzate <span class="tooltip" data-tip="Personalizza la tua sala webinar con impostazioni avanzate. Regola l’aspetto del tuo spazio di lavoro e della pagina di registrazione, configura le registrazioni degli eventi e automatizza le email di invito per i prossimi webinar per tutti i gruppi di pubblico"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-editoptions-section-lp' => //////////////////////////////////////////////////
@@ -657,7 +657,7 @@ return [
 	'webinar-duration' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Durata <span class="tooltip" data-tip="Estimated webinar duration. The webinar won‘t conclude on its own when this duration elapses. However, a button will be displayed within the webinar room, allowing you to end the webinar at your discretion"></span>
+		Durata <span class="tooltip" data-tip="Estimated webinar duration. The webinar won’t conclude on its own when this duration elapses. However, a button will be displayed within the webinar room, allowing you to end the webinar at your discretion"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderators' => //////////////////////////////////////////////////////////////////////
@@ -813,7 +813,7 @@ return [
 	'profile-timezone' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Fuso orario <span class="tooltip" data-tip="Choosing the correct time zone is crucial as all scheduled webinars will adhere to this setting. Please ensure it aligns with your computer‘s clock for accurate scheduling and webinar timings"></span>
+		Fuso orario <span class="tooltip" data-tip="Choosing the correct time zone is crucial as all scheduled webinars will adhere to this setting. Please ensure it aligns with your computer’s clock for accurate scheduling and webinar timings"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invalid-character' => ///////////////////////////////////////////////////////////////
@@ -957,7 +957,7 @@ return [
 	'clone-confirm' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<strong>Clonare il webinar?</strong><br><br>Quando cloni un webinar, questo diventa automaticamente parte di una serie con lo stesso link<br><br><small>Se desideri che la copia sia un evento separato, disattiva semplicemente quellʼopzione. Lʼelenco dei partecipanti viene copiato per impostazione predefinita, ma puoi scegliere di escluderlo</small>
+		<strong>Clonare il webinar?</strong><br><br>Quando cloni un webinar, questo diventa automaticamente parte di una serie con lo stesso link<br><br><small>Se desideri che la copia sia un evento separato, disattiva semplicemente quell’opzione. L’elenco dei partecipanti viene copiato per impostazione predefinita, ma puoi scegliere di escluderlo</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'clone-as-series' => /////////////////////////////////////////////////////////////////
@@ -1149,7 +1149,7 @@ return [
 	'crop-title' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mostreremo l‘area scelta come avatar
+		Mostreremo l’area scelta come avatar
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderators-new' => //////////////////////////////////////////////////////////////////
@@ -1191,7 +1191,7 @@ return [
 	'user-exists' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		L‘utente esiste già
+		L’utente esiste già
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'wrong-email' => /////////////////////////////////////////////////////////////////////
@@ -1431,13 +1431,13 @@ return [
 	'invite-moderators' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Relatori del webinar <span class="tooltip" data-tip="I moderatori che partecipano all‘evento online come relatori. I link per i relatori selezionati sono disponibili nella sezione «Link di accesso»"></span>
+		Relatori del webinar <span class="tooltip" data-tip="I moderatori che partecipano all’evento online come relatori. I link per i relatori selezionati sono disponibili nella sezione «Link di accesso»"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invite-attendees' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Partecipanti al webinar <span class="tooltip" data-tip="I partecipanti che partecipano all‘evento online come ospiti. Il link pubblico per accedere all‘evento è disponibile nella sezione «Link di accesso», oppure i link privati vengono inviati tramite notifica e-mail se hai abilitato questa funzione"></span>
+		Partecipanti al webinar <span class="tooltip" data-tip="I partecipanti che partecipano all’evento online come ospiti. Il link pubblico per accedere all’evento è disponibile nella sezione «Link di accesso», oppure i link privati vengono inviati tramite notifica e-mail se hai abilitato questa funzione"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendees-list' => //////////////////////////////////////////////////////////////////
@@ -1557,13 +1557,13 @@ return [
 	'save-as' => /////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Salva come <span class="tooltip" data-tip="Scegli il formato di file per l‘esportazione: CSV o Excel"></span>
+		Salva come <span class="tooltip" data-tip="Scegli il formato di file per l’esportazione: CSV o Excel"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'data-for-export' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Dati per l‘esportazione <span class="tooltip" data-tip="Seleziona i campi di dati specifici che desideri includere nella tua esportazione"></span>
+		Dati per l’esportazione <span class="tooltip" data-tip="Seleziona i campi di dati specifici che desideri includere nella tua esportazione"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'filter-group' => ////////////////////////////////////////////////////////////////////
@@ -1665,7 +1665,7 @@ return [
 	'per-year' => ////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		all‘anno
+		all’anno
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-now' => /////////////////////////////////////////////////////////////////////////
@@ -1731,7 +1731,7 @@ return [
 	'title-grid-webinars' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Prossimi webinar <span class="tooltip" data-tip="Controlla l‘elenco dei webinar programmati. Preparati a interagire con il tuo pubblico"></span>
+		Prossimi webinar <span class="tooltip" data-tip="Controlla l’elenco dei webinar programmati. Preparati a interagire con il tuo pubblico"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-webinars-today' => ///////////////////////////////////////////////////////////////
@@ -1785,13 +1785,13 @@ return [
 	'pay-for-extend' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Durata <span class="tooltip" data-tip="Scegli la frequenza di pagamento più adatta a te. Puoi pagare ogni giorno ogni mese ogni due mesi ogni tre mesi ogni sei mesi oppure una volta allʼanno. Meno spesso paghi maggiore è il risparmio. Tieni presente che il nostro ciclo di fatturazione è di trenta giorni per il piano mensile sessanta giorni per il piano bimestrale novanta giorni per il piano trimestrale centoottanta giorni per il piano semestrale e aumenta proporzionalmente per durate maggiori"></span><br><small>%d giorni</small>
+		Durata <span class="tooltip" data-tip="Scegli la frequenza di pagamento più adatta a te. Puoi pagare ogni giorno ogni mese ogni due mesi ogni tre mesi ogni sei mesi oppure una volta all’anno. Meno spesso paghi maggiore è il risparmio. Tieni presente che il nostro ciclo di fatturazione è di trenta giorni per il piano mensile sessanta giorni per il piano bimestrale novanta giorni per il piano trimestrale centoottanta giorni per il piano semestrale e aumenta proporzionalmente per durate maggiori"></span><br><small>%d giorni</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-for-change' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Durata <span class="tooltip" data-tip="Scegli la frequenza di pagamento più adatta a te. Puoi pagare ogni giorno ogni mese ogni due mesi ogni tre mesi ogni sei mesi oppure una volta allʼanno. Meno spesso paghi maggiore è il risparmio. Tieni presente che il nostro ciclo di fatturazione è di trenta giorni per il piano mensile sessanta giorni per il piano bimestrale novanta giorni per il piano trimestrale centoottanta giorni per il piano semestrale e aumenta proporzionalmente per durate maggiori"></span><br><small>%d giorni</small>
+		Durata <span class="tooltip" data-tip="Scegli la frequenza di pagamento più adatta a te. Puoi pagare ogni giorno ogni mese ogni due mesi ogni tre mesi ogni sei mesi oppure una volta all’anno. Meno spesso paghi maggiore è il risparmio. Tieni presente che il nostro ciclo di fatturazione è di trenta giorni per il piano mensile sessanta giorni per il piano bimestrale novanta giorni per il piano trimestrale centoottanta giorni per il piano semestrale e aumenta proporzionalmente per durate maggiori"></span><br><small>%d giorni</small>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invoice' => /////////////////////////////////////////////////////////////////////////
@@ -1893,31 +1893,31 @@ return [
 	'webcam-position-none' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Accanto allʼarea di lavoro
+		Accanto all’area di lavoro
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webcam-position-tl' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Angolo in alto a sinistra dellʼarea di lavoro
+		Angolo in alto a sinistra dell’area di lavoro
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webcam-position-tr' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Angolo in alto a destra dellʼarea di lavoro
+		Angolo in alto a destra dell’area di lavoro
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webcam-position-bl' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Angolo in basso a sinistra dellʼarea di lavoro
+		Angolo in basso a sinistra dell’area di lavoro
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webcam-position-br' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Angolo in basso a destra dellʼarea di lavoro
+		Angolo in basso a destra dell’area di lavoro
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webcam-position' => /////////////////////////////////////////////////////////////////
@@ -1929,7 +1929,7 @@ return [
 	'webcam-chat-position' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Posizione Webcam <span class="tooltip" data-tip="Scegli la posizione dellʼarea della webcam nella stanza del tuo webinar. Questa impostazione ti consente di posizionare la visualizzazione della webcam accanto o sopra lʼarea di lavoro. Seleziona la tua posizione preferita per personalizzare il layout della stanza"></span>
+		Posizione Webcam <span class="tooltip" data-tip="Scegli la posizione dell’area della webcam nella stanza del tuo webinar. Questa impostazione ti consente di posizionare la visualizzazione della webcam accanto o sopra l’area di lavoro. Seleziona la tua posizione preferita per personalizzare il layout della stanza"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-camera-name' => ////////////////////////////////////////////////////////
@@ -1995,7 +1995,7 @@ return [
 	'record-options' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Modalità <span class="tooltip" data-tip="Personalizza le impostazioni di registrazione per catturare esattamente ciò di cui hai bisogno. Scegli di registrare tutto, incluse webcam, microfoni, area di lavoro e interfaccia; concentrati sull‘area di lavoro con webcam e microfoni; o limita la registrazione solo a webcam e microfoni. Regola le impostazioni in base alle tue priorità"></span>
+		Modalità <span class="tooltip" data-tip="Personalizza le impostazioni di registrazione per catturare esattamente ciò di cui hai bisogno. Scegli di registrare tutto, incluse webcam, microfoni, area di lavoro e interfaccia; concentrati sull’area di lavoro con webcam e microfoni; o limita la registrazione solo a webcam e microfoni. Regola le impostazioni in base alle tue priorità"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-only-webcams' => /////////////////////////////////////////////////////////////
@@ -2007,13 +2007,13 @@ return [
 	'record-auto' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Registrazione automatica all‘accesso di qualsiasi moderatore <span class="tooltip" data-tip="Streamline your webinar recording process with this convenient feature. When enabled, the recording will automatically commence as soon as the first moderator logs into the webinar, ensuring you capture every important moment from start to finish. The recording will conclude once the last moderator exits the webinar, providing a comprehensive capture of your session without any manual intervention"></span>
+		Registrazione automatica all’accesso di qualsiasi moderatore <span class="tooltip" data-tip="Streamline your webinar recording process with this convenient feature. When enabled, the recording will automatically commence as soon as the first moderator logs into the webinar, ensuring you capture every important moment from start to finish. The recording will conclude once the last moderator exits the webinar, providing a comprehensive capture of your session without any manual intervention"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-auto-no-stop' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Impedire l‘interruzione della registrazione <span class="tooltip" data-tip="Quando abilitato, i moderatori della sala webinar non potranno interrompere la registrazione durante la sessione live"></span>
+		Impedire l’interruzione della registrazione <span class="tooltip" data-tip="Quando abilitato, i moderatori della sala webinar non potranno interrompere la registrazione durante la sessione live"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'prevent-recording' => ///////////////////////////////////////////////////////////////
@@ -2037,7 +2037,7 @@ return [
 	'record-camera-on-work-area' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Posizione della webcam nelle registrazioni <span class="tooltip" data-tip="Scegli dove apparirà la webcam nelle registrazioni del tuo webinar. Puoi posizionarla accanto allʼarea di lavoro, dove vengono mostrati presentazioni, immagini, video, condivisione dello schermo, lavagna bianca, contenuti YouTube e Vimeo, oppure in uno dei quattro angoli dellʼarea di lavoro. Seleziona la posizione che meglio si adatta alle tue preferenze di layout"></span>
+		Posizione della webcam nelle registrazioni <span class="tooltip" data-tip="Scegli dove apparirà la webcam nelle registrazioni del tuo webinar. Puoi posizionarla accanto all’area di lavoro, dove vengono mostrati presentazioni, immagini, video, condivisione dello schermo, lavagna bianca, contenuti YouTube e Vimeo, oppure in uno dei quattro angoli dell’area di lavoro. Seleziona la posizione che meglio si adatta alle tue preferenze di layout"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-all' => //////////////////////////////////////////////////////////////////////
@@ -2097,7 +2097,7 @@ return [
 	'facebook-id-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Inserisci lʼID Pixel
+		Inserisci l’ID Pixel
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-userlist-none' => //////////////////////////////////////////////////////
@@ -2139,7 +2139,7 @@ return [
 	'room-options-buttonqa' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Attiva la sezione Q&A <span class="tooltip" data-tip="Quando attivata, sarà disponibile un elemento di menu particolare nella sala webinar, consentendo ai moderatori di evidenziare domande nella chat testuale pubblica durante l‘evento e permettere ai partecipanti di votare i loro preferiti. Questa funzione fornisce ai moderatori un‘interfaccia Q&A dedicata per tracciare e gestire le domande, mostrando quali sono attualmente in trattazione e risolte. I voti dei partecipanti daranno priorità alle domande, assicurando che le più popolari siano facilmente visibili in cima alla lista"></span>
+		Attiva la sezione Q&A <span class="tooltip" data-tip="Quando attivata, sarà disponibile un elemento di menu particolare nella sala webinar, consentendo ai moderatori di evidenziare domande nella chat testuale pubblica durante l’evento e permettere ai partecipanti di votare i loro preferiti. Questa funzione fornisce ai moderatori un’interfaccia Q&A dedicata per tracciare e gestire le domande, mostrando quali sono attualmente in trattazione e risolte. I voti dei partecipanti daranno priorità alle domande, assicurando che le più popolari siano facilmente visibili in cima alla lista"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'enter-message' => ///////////////////////////////////////////////////////////////////
@@ -2151,7 +2151,7 @@ return [
 	'webinar-default-name' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Nome dell‘evento
+		Nome dell’evento
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-default-guest' => ///////////////////////////////////////////////////////////
@@ -2217,7 +2217,7 @@ return [
 	'room-splash' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sfondo <span class="tooltip" data-tip="Adjust the webinar room registration page‘s background colours and design preferences to align with your brand or the theme of the webinar"></span>
+		Sfondo <span class="tooltip" data-tip="Adjust the webinar room registration page’s background colours and design preferences to align with your brand or the theme of the webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-splash-size' => ////////////////////////////////////////////////////////////////
@@ -2241,7 +2241,7 @@ return [
 	'room-options-broadcasting-type' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Fonte di streaming <span class="tooltip" data-tip="Our webinar and video conferencing platform supports three distinct streaming sources:<br><br>• WebRTC – All webinar speakers will utilise the browser-based WebRTC protocol via UDP when streaming their webcam and microphone. To leverage the full potential of this technology, a fast and reliable internet connection is imperative.<br><br>• Plugin DTS – All our webinar speakers can easily download our secure DTS plugin. It works smoothly for webcam and microphone streaming, even on slower internet connections. Created by our team, this plugin minimizes delays. So, even on a not-so-great internet connection, you‘ll experience a lag of up to 3 seconds from real-time.<br><br>• OBS Studio – Only one webinar speaker is permitted to use OBS studio for high-definition streaming, offering up to 1080p quality. However, please note there might be a substantial latency of over 20 seconds"></span>
+		Fonte di streaming <span class="tooltip" data-tip="Our webinar and video conferencing platform supports three distinct streaming sources:<br><br>• WebRTC – All webinar speakers will utilise the browser-based WebRTC protocol via UDP when streaming their webcam and microphone. To leverage the full potential of this technology, a fast and reliable internet connection is imperative.<br><br>• Plugin DTS – All our webinar speakers can easily download our secure DTS plugin. It works smoothly for webcam and microphone streaming, even on slower internet connections. Created by our team, this plugin minimizes delays. So, even on a not-so-great internet connection, you’ll experience a lag of up to 3 seconds from real-time.<br><br>• OBS Studio – Only one webinar speaker is permitted to use OBS studio for high-definition streaming, offering up to 1080p quality. However, please note there might be a substantial latency of over 20 seconds"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-broadcasting-type-browser' => //////////////////////////////////////////
@@ -2259,7 +2259,7 @@ return [
 	'room-options-header-conference' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Modalità evento <span class="tooltip" data-tip="We offer two types of webinars:<br><br>• Meeting – An interactive event mode designed for collaboration and discussion. The speaker‘s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility.<br><br>• Webinar – A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker‘s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
+		Modalità evento <span class="tooltip" data-tip="We offer two types of webinars:<br><br>• Meeting – An interactive event mode designed for collaboration and discussion. The speaker’s webcam visuals dominate the screen, ensuring personal and face-to-face communication. The available workspace is divided equitably among all presenters, giving each speaker ample visibility.<br><br>• Webinar – A presentation-focused event mode ideal for webinars, lectures, workshops, or product demonstrations. While one or more speaker’s webcams are positioned discreetly in a corner, most of the workspace showcases the presentation or screen sharing, allowing attendees to focus on the presented content"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-webinar' => ////////////////////////////////////////////////////////////
@@ -2277,31 +2277,31 @@ return [
 	'room-options-chatsize' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Larghezza della chat <span class="tooltip" data-tip="Choose the desired width for the public chat feature in the webinar room. The layout combines a chat section with an area dedicated to the speakers‘ video streams. To see how your webinar room will appear, refer to the preview in the bottom right corner"></span>
+		Larghezza della chat <span class="tooltip" data-tip="Choose the desired width for the public chat feature in the webinar room. The layout combines a chat section with an area dedicated to the speakers’ video streams. To see how your webinar room will appear, refer to the preview in the bottom right corner"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-camchatsize' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Larghezza della webcam <span class="tooltip" data-tip="Adjust the width of your webcam‘s viewing area in the webinar room. This space comprises both a dedicated webcam section and an area for your presentations or secure screen sharing. To see how your webinar room will appear, refer to the preview in the bottom right corner"></span>
+		Larghezza della webcam <span class="tooltip" data-tip="Adjust the width of your webcam’s viewing area in the webinar room. This space comprises both a dedicated webcam section and an area for your presentations or secure screen sharing. To see how your webinar room will appear, refer to the preview in the bottom right corner"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-header-buttons' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Feedback <span class="tooltip" data-tip="Allow attendees to participate in your webinar or webinar actively. Choose to enable text submissions if you‘d like them to ask questions, or give them the option to voice their queries or comments by enabling the «request to speak» feature. Activating either option will add a corresponding menu item in the webinar room, enhancing interactivity and engagement"></span>
+		Feedback <span class="tooltip" data-tip="Allow attendees to participate in your webinar or webinar actively. Choose to enable text submissions if you’d like them to ask questions, or give them the option to voice their queries or comments by enabling the «request to speak» feature. Activating either option will add a corresponding menu item in the webinar room, enhancing interactivity and engagement"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Descrizione <span class="tooltip" data-tip="Utilise this feature to craft a concise and engaging overview for your webinar‘s registration page. A well-written description sets the tone, provides essential details, and entices potential attendees. Whether you‘re highlighting the webinar‘s key topics, introducing the speakers, or underscoring the benefits of attending, this space is your canvas to captivate and inform your audience"></span>
+		Descrizione <span class="tooltip" data-tip="Utilise this feature to craft a concise and engaging overview for your webinar’s registration page. A well-written description sets the tone, provides essential details, and entices potential attendees. Whether you’re highlighting the webinar’s key topics, introducing the speakers, or underscoring the benefits of attending, this space is your canvas to captivate and inform your audience"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc-placeholder' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Riepilogo aggiuntivo dell‘evento
+		Riepilogo aggiuntivo dell’evento
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-attach-mail-ics' => ////////////////////////////////////////////////////////////
@@ -2313,7 +2313,7 @@ return [
 	'room-desc-clndr' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Calendario <span class="tooltip" data-tip="Migliora le tue notifiche e-mail includendo un breve riassunto del tuo webinar nel file dell‘evento del calendario. Questa descrizione verrà aggiunta al file del calendario allegato alle e-mail in uscita, fornendo ai destinatari una rapida panoramica quando aggiungono il webinar ai loro calendari personali"></span>
+		Calendario <span class="tooltip" data-tip="Migliora le tue notifiche e-mail includendo un breve riassunto del tuo webinar nel file dell’evento del calendario. Questa descrizione verrà aggiunta al file del calendario allegato alle e-mail in uscita, fornendo ai destinatari una rapida panoramica quando aggiungono il webinar ai loro calendari personali"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-desc-clndr-placeholder' => /////////////////////////////////////////////////////
@@ -2349,31 +2349,31 @@ return [
 	'room-options-countdown' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mostra il conto alla rovescia <span class="tooltip" data-tip="Mostra un timer di conto alla rovescia sulla tua pagina del webinar per consentire ai partecipanti di vedere quanto tempo manca all‘inizio del webinar. Questo crea attesa, assicura che tutti conoscano l‘orario di inizio e incoraggia la partecipazione puntuale"></span>
+		Mostra il conto alla rovescia <span class="tooltip" data-tip="Mostra un timer di conto alla rovescia sulla tua pagina del webinar per consentire ai partecipanti di vedere quanto tempo manca all’inizio del webinar. Questo crea attesa, assicura che tutti conoscano l’orario di inizio e incoraggia la partecipazione puntuale"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-social' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Consenti l‘iscrizione con account social <span class="tooltip" data-tip="Abilita opzioni di iscrizione con account social come Google e Microsoft nei moduli di registrazione e accesso al webinar. Questo consente ai partecipanti di accedere rapidamente e in sicurezza al webinar utilizzando il loro login social preferito, semplificando l‘accesso e migliorando l‘esperienza utente per coloro che utilizzano questi servizi"></span>
+		Consenti l’iscrizione con account social <span class="tooltip" data-tip="Abilita opzioni di iscrizione con account social come Google e Microsoft nei moduli di registrazione e accesso al webinar. Questo consente ai partecipanti di accedere rapidamente e in sicurezza al webinar utilizzando il loro login social preferito, semplificando l’accesso e migliorando l’esperienza utente per coloro che utilizzano questi servizi"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-freeseats' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mostra il numero di posti disponibili <span class="tooltip" data-tip="Activate this feature to display the remaining seats for your online webinar. This transparency informs attendees of the webinar‘s capacity and creates a sense of urgency, motivating them to secure their spot before it fills up"></span>
+		Mostra il numero di posti disponibili <span class="tooltip" data-tip="Activate this feature to display the remaining seats for your online webinar. This transparency informs attendees of the webinar’s capacity and creates a sense of urgency, motivating them to secure their spot before it fills up"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-login-settings' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Preferenze <span class="tooltip" data-tip="Customize your webinar‘s registration page to suit your requirements. This feature allows you to tailor the sign-up process, ensuring it aligns with your webinar‘s branding and captures attendees‘ needed information"></span>
+		Preferenze <span class="tooltip" data-tip="Customize your webinar’s registration page to suit your requirements. This feature allows you to tailor the sign-up process, ensuring it aligns with your webinar’s branding and captures attendees’ needed information"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-login-theme' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Colore solido sul lato sinistro <span class="tooltip" data-tip="Enhance the readability and visual appeal of your webinar registration and login page by activating this feature. When toggled on, the page will be divided into two sections. The left side will feature a solid colour background, providing a clearer backdrop for your webinar description and details, while the right remains as per your existing design. This separation not only adds a modern aesthetic but ensures attendees can easily read and understand the webinar‘s particulars"></span>
+		Colore solido sul lato sinistro <span class="tooltip" data-tip="Enhance the readability and visual appeal of your webinar registration and login page by activating this feature. When toggled on, the page will be divided into two sections. The left side will feature a solid colour background, providing a clearer backdrop for your webinar description and details, while the right remains as per your existing design. This separation not only adds a modern aesthetic but ensures attendees can easily read and understand the webinar’s particulars"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-login-bg' => ///////////////////////////////////////////////////////////
@@ -2403,25 +2403,25 @@ return [
 	'room-login-show-name' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mostra i dettagli dell‘evento <span class="tooltip" data-tip="Activate this feature to display detailed information about your webinar on the registration and login pages, whether a concise overview or an extensive agenda. Offering attendees a clear picture of what to expect enhances engagement and helps them prepare better for the session"></span>
+		Mostra i dettagli dell’evento <span class="tooltip" data-tip="Activate this feature to display detailed information about your webinar on the registration and login pages, whether a concise overview or an extensive agenda. Offering attendees a clear picture of what to expect enhances engagement and helps them prepare better for the session"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-moderators' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mostra i moderatori del webinar <span class="tooltip" data-tip="Visualizza un elenco delle figure chiave del webinar, inclusi moderatori, relatori e partecipanti di rilievo. Evidenziare queste persone offre ai potenziali partecipanti una visione delle competenze e delle personalità che possono aspettarsi di incontrare durante l‘evento"></span>
+		Mostra i moderatori del webinar <span class="tooltip" data-tip="Visualizza un elenco delle figure chiave del webinar, inclusi moderatori, relatori e partecipanti di rilievo. Evidenziare queste persone offre ai potenziali partecipanti una visione delle competenze e delle personalità che possono aspettarsi di incontrare durante l’evento"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-show-main-moderator' => //////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Incluso il proprietario dell‘account <span class="tooltip" data-tip="By toggling on this sub-feature, you can include the account administrator in the displayed list of the webinar‘s key figures alongside the moderators, presenters, and notable attendees. This provides a more comprehensive view of all the main organizers and contributors to the webinar"></span>
+		Incluso il proprietario dell’account <span class="tooltip" data-tip="By toggling on this sub-feature, you can include the account administrator in the displayed list of the webinar’s key figures alongside the moderators, presenters, and notable attendees. This provides a more comprehensive view of all the main organizers and contributors to the webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-started' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		L‘evento si terrà il
+		L’evento si terrà il
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-login-timer-days' => ///////////////////////////////////////////////////////////
@@ -2589,7 +2589,7 @@ return [
 	'room-embed-form' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Abilita incorporamento modulo <span class="tooltip" data-tip="Activate this switch to generate an IFRAME code for your webinar‘s registration and login form. By doing so, you can seamlessly embed the form directly onto your own website, providing your visitors with a streamlined experience without having to navigate to a separate page. It‘s a handy tool for integrating webinar sign-up directly into your site‘s ecosystem"></span>
+		Abilita incorporamento modulo <span class="tooltip" data-tip="Activate this switch to generate an IFRAME code for your webinar’s registration and login form. By doing so, you can seamlessly embed the form directly onto your own website, providing your visitors with a streamlined experience without having to navigate to a separate page. It’s a handy tool for integrating webinar sign-up directly into your site’s ecosystem"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'form-embed-code' => /////////////////////////////////////////////////////////////////
@@ -2709,7 +2709,7 @@ return [
 	'bad-link' => ////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Il link non è valido. Si prega di controllare l‘ortografia.
+		Il link non è valido. Si prega di controllare l’ortografia.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'long-link' => ///////////////////////////////////////////////////////////////////////
@@ -2751,13 +2751,13 @@ return [
 	'mail-1DAY' => ///////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Promemoria di 1 giorno <span class="tooltip" data-tip="Una e-mail di promemoria inviata ai partecipanti registrati 24 ore prima dell‘inizio del tuo webinar. Questo promemoria tempestivo può aumentare la partecipazione e garantire che i partecipanti siano preparati per la tua sessione"></span>
+		Promemoria di 1 giorno <span class="tooltip" data-tip="Una e-mail di promemoria inviata ai partecipanti registrati 24 ore prima dell’inizio del tuo webinar. Questo promemoria tempestivo può aumentare la partecipazione e garantire che i partecipanti siano preparati per la tua sessione"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1DAY-desc' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		I tuoi partecipanti riceveranno un‘email con un link per accedere un giorno prima dell‘evento
+		I tuoi partecipanti riceveranno un’email con un link per accedere un giorno prima dell’evento
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-3DAY' => ///////////////////////////////////////////////////////////////////////
@@ -2769,19 +2769,19 @@ return [
 	'mail-3DAY-desc' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		I tuoi partecipanti riceveranno un‘email con un link per accedere 3 giorni prima dell‘evento
+		I tuoi partecipanti riceveranno un’email con un link per accedere 3 giorni prima dell’evento
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1HOUR' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Promemoria di 1 ora <span class="tooltip" data-tip="Una e-mail di promemoria inviata ai partecipanti registrati 60 minuti prima dell‘inizio del tuo webinar. Questo promemoria include un collegamento diretto, facilitando la partecipazione. Un promemoria dell‘ultimo minuto aiuta a massimizzare la partecipazione"></span>
+		Promemoria di 1 ora <span class="tooltip" data-tip="Una e-mail di promemoria inviata ai partecipanti registrati 60 minuti prima dell’inizio del tuo webinar. Questo promemoria include un collegamento diretto, facilitando la partecipazione. Un promemoria dell’ultimo minuto aiuta a massimizzare la partecipazione"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-1HOUR-desc' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		I tuoi partecipanti riceveranno un‘email con un link per accedere un‘ora prima dell‘evento
+		I tuoi partecipanti riceveranno un’email con un link per accedere un’ora prima dell’evento
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-FINISHED' => ///////////////////////////////////////////////////////////////////
@@ -2793,19 +2793,19 @@ return [
 	'mail-FINISHED-desc' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		I tuoi partecipanti riceveranno un‘email di follow-up un‘ora dopo l‘evento
+		I tuoi partecipanti riceveranno un’email di follow-up un’ora dopo l’evento
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-REGISTRATIONCONFIRM' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Conferma <span class="tooltip" data-tip="Una e-mail di conferma inviata ai partecipanti al momento della registrazione. Questo garantisce che i registranti verifichino i loro indirizzi e-mail, aggiungendo un ulteriore livello di sicurezza e autenticità. Questo processo di doppia conferma aiuta a confermare l‘interesse genuino e riduce le potenziali iscrizioni di spam"></span>
+		Conferma <span class="tooltip" data-tip="Una e-mail di conferma inviata ai partecipanti al momento della registrazione. Questo garantisce che i registranti verifichino i loro indirizzi e-mail, aggiungendo un ulteriore livello di sicurezza e autenticità. Questo processo di doppia conferma aiuta a confermare l’interesse genuino e riduce le potenziali iscrizioni di spam"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-REGISTRATIONCONFIRM-desc' => ///////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		I tuoi partecipanti riceveranno un‘email di conferma dopo essersi registrati con successo all‘evento
+		I tuoi partecipanti riceveranno un’email di conferma dopo essersi registrati con successo all’evento
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-STARTED' => ////////////////////////////////////////////////////////////////////
@@ -2817,13 +2817,13 @@ return [
 	'mail-STARTED-desc' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		I ritardatari riceveranno un‘email per avvisarli che l‘evento è già iniziato
+		I ritardatari riceveranno un’email per avvisarli che l’evento è già iniziato
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-MOVEDFAR' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ripianificato <span class="tooltip" data-tip="Invia automaticamente una notifica e-mail ai partecipanti se la data o lʼorario del webinar cambia. Questo aiuta a garantire che tutti siano aggiornati sul nuovo programma"></span>
+		Ripianificato <span class="tooltip" data-tip="Invia automaticamente una notifica e-mail ai partecipanti se la data o l’orario del webinar cambia. Questo aiuta a garantire che tutti siano aggiornati sul nuovo programma"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-CANCELWEBINAR' => //////////////////////////////////////////////////////////////
@@ -2835,7 +2835,7 @@ return [
 	'amount-moderators' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Numero di moderatori invitati. Ognuno riceverà unʼemail con un link personale per accedere
+		Numero di moderatori invitati. Ognuno riceverà un’email con un link personale per accedere
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invited-moderators' => //////////////////////////////////////////////////////////////
@@ -2847,13 +2847,13 @@ return [
 	'amount-attendees' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Numero di partecipanti che hai invitato. Dopo il completamento della pianificazione, se lʼinvio è abilitato, a ciascuno verrà inviata unʼe-mail con un link per partecipare
+		Numero di partecipanti che hai invitato. Dopo il completamento della pianificazione, se l’invio è abilitato, a ciascuno verrà inviata un’e-mail con un link per partecipare
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'amount-attendees-zero' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Attualmente, nessun partecipante è stato invitato. Seleziona coloro che desideri invitare allʼevento programmato
+		Attualmente, nessun partecipante è stato invitato. Seleziona coloro che desideri invitare all’evento programmato
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'invited-attendees' => ///////////////////////////////////////////////////////////////
@@ -2991,7 +2991,7 @@ return [
 	'filter-type' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Stato <span class="tooltip" data-tip="Indica lo stato del partecipante: «Attivo» se la loro e-mail è verificata, «Inattivo» se l‘e-mail è invalida, irraggiungibile o se il partecipante è stato eliminato"></span>
+		Stato <span class="tooltip" data-tip="Indica lo stato del partecipante: «Attivo» se la loro e-mail è verificata, «Inattivo» se l’e-mail è invalida, irraggiungibile o se il partecipante è stato eliminato"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'active' => //////////////////////////////////////////////////////////////////////////
@@ -3081,7 +3081,7 @@ return [
 	'webinar-history' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Approfondimenti sul webinar <span class="tooltip" data-tip="Ottieni preziose informazioni sulle prestazioni del tuo webinar. Questa sezione fornisce analisi sull‘engagement dei partecipanti, le tendenze di partecipazione e l‘interazione complessiva, aiutandoti a comprendere il successo del tuo evento e a prendere decisioni basate sui dati per i futuri webinar"></span>
+		Approfondimenti sul webinar <span class="tooltip" data-tip="Ottieni preziose informazioni sulle prestazioni del tuo webinar. Questa sezione fornisce analisi sull’engagement dei partecipanti, le tendenze di partecipazione e l’interazione complessiva, aiutandoti a comprendere il successo del tuo evento e a prendere decisioni basate sui dati per i futuri webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-statistics' => //////////////////////////////////////////////////////////////////
@@ -3123,7 +3123,7 @@ return [
 	'filter-visit-webinar' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Partecipazione <span class="tooltip" data-tip="Mostra se il partecipante ha preso parte all‘evento e vi ha partecipato"></span>
+		Partecipazione <span class="tooltip" data-tip="Mostra se il partecipante ha preso parte all’evento e vi ha partecipato"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'filter-on-webinar' => ///////////////////////////////////////////////////////////////
@@ -3135,7 +3135,7 @@ return [
 	'on-webinar' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tempo trascorso all‘evento
+		Tempo trascorso all’evento
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'not-on-webinar' => //////////////////////////////////////////////////////////////////
@@ -3159,7 +3159,7 @@ return [
 	'guests-by-mail' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Coinvolgimento <span class="tooltip" data-tip="Guarda quanti partecipanti sono stati invitati rispetto a quelli che hanno confermato e partecipato. Confronta l‘efficacia degli inviti con la partecipazione effettiva utilizzando grafici a barre dettagliati"></span>
+		Coinvolgimento <span class="tooltip" data-tip="Guarda quanti partecipanti sono stati invitati rispetto a quelli che hanno confermato e partecipato. Confronta l’efficacia degli inviti con la partecipazione effettiva utilizzando grafici a barre dettagliati"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'guests-by-time' => //////////////////////////////////////////////////////////////////
@@ -3201,7 +3201,7 @@ return [
 	'check-email' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Controlla la tua casella di posta o le cartelle spam. Se trovi l‘email nella cartella spam, assicurati di contrassegnarla correttamente così i nostri futuri messaggi arriveranno direttamente nella tua casella di posta. Grazie per aver scelto la nostra piattaforma software per webinar.
+		Controlla la tua casella di posta o le cartelle spam. Se trovi l’email nella cartella spam, assicurati di contrassegnarla correttamente così i nostri futuri messaggi arriveranno direttamente nella tua casella di posta. Grazie per aver scelto la nostra piattaforma software per webinar.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'password-reset' => //////////////////////////////////////////////////////////////////
@@ -3279,13 +3279,13 @@ return [
 	'attention-webinar-text' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Invieremo gli inviti ai tuoi partecipanti in base alle impostazioni dell‘evento (Impostazioni avanzate – Email).
+		Invieremo gli inviti ai tuoi partecipanti in base alle impostazioni dell’evento (Impostazioni avanzate – Email).
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attention-webinar-text2' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Invieremo gli inviti ai tuoi partecipanti immediatamente poiché l‘evento inizia in meno di un‘ora.
+		Invieremo gli inviti ai tuoi partecipanti immediatamente poiché l’evento inizia in meno di un’ora.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'remember-after' => //////////////////////////////////////////////////////////////////
@@ -3303,7 +3303,7 @@ return [
 	'start-notify' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Inizia l‘invio
+		Inizia l’invio
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'was-invited' => /////////////////////////////////////////////////////////////////////
@@ -3339,13 +3339,13 @@ return [
 	'webinars-as-series' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Serie di webinar <span class="tooltip" data-tip="Attiva questa opzione per raggruppare tutti i webinar pianificati in una serie che condivide lo stesso link di accesso. Quando la Serie di webinar è attiva, lʼopzione Date multiple viene attivata automaticamente poiché la serie include più eventi collegati tra loro"></span>
+		Serie di webinar <span class="tooltip" data-tip="Attiva questa opzione per raggruppare tutti i webinar pianificati in una serie che condivide lo stesso link di accesso. Quando la Serie di webinar è attiva, l’opzione Date multiple viene attivata automaticamente poiché la serie include più eventi collegati tra loro"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page-mode' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Modalità pagina di destinazione <span class="tooltip" data-tip="Attiva questa modalità per trasformare la stanza del tuo webinar in una pagina di destinazione. Invece di entrare direttamente nel webinar, i partecipanti forniranno prima la loro email e altre informazioni richieste. Questa modalità aiuta a costruire la tua lista di iscritti e a raccogliere i dati dei partecipanti prima del webinar. Attivalo per raccogliere i dati prima; disattivalo per lʼingresso diretto"></span>
+		Modalità pagina di destinazione <span class="tooltip" data-tip="Attiva questa modalità per trasformare la stanza del tuo webinar in una pagina di destinazione. Invece di entrare direttamente nel webinar, i partecipanti forniranno prima la loro email e altre informazioni richieste. Questa modalità aiuta a costruire la tua lista di iscritti e a raccogliere i dati dei partecipanti prima del webinar. Attivalo per raccogliere i dati prima; disattivalo per l’ingresso diretto"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'landing-page' => ////////////////////////////////////////////////////////////////////
@@ -3387,7 +3387,7 @@ return [
 	'no-results' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Qui non cʼè ancora niente
+		Qui non c’è ancora niente
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tester-results' => //////////////////////////////////////////////////////////////////
@@ -3531,7 +3531,7 @@ return [
 	'record-link' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link di registrazione <span class="tooltip" data-tip="Utilizza il cursore in alto per creare un nuovo link di accesso per la registrazione. Fai clic sul pulsante della busta per selezionare i partecipanti e inviare loro il link ai loro indirizzi email. Nota: se la tua stanza webinar permanente è protetta da password, anche l‘accesso alla registrazione richiederà una password"></span>
+		Link di registrazione <span class="tooltip" data-tip="Utilizza il cursore in alto per creare un nuovo link di accesso per la registrazione. Fai clic sul pulsante della busta per selezionare i partecipanti e inviare loro il link ai loro indirizzi email. Nota: se la tua stanza webinar permanente è protetta da password, anche l’accesso alla registrazione richiederà una password"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-link-available' => ///////////////////////////////////////////////////////////
@@ -3561,13 +3561,13 @@ return [
 	'webinar-change-time-notify' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Hai cambiato l‘orario dell‘evento dopo aver inviato gli inviti. Notificheremo ai partecipanti invitati il nuovo orario.
+		Hai cambiato l’orario dell’evento dopo aver inviato gli inviti. Notificheremo ai partecipanti invitati il nuovo orario.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-can-not-change-time' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Riprova più tardi. Non puoi modificare la data, l‘orario o la durata dell‘evento mentre stai inviando gli inviti.
+		Riprova più tardi. Non puoi modificare la data, l’orario o la durata dell’evento mentre stai inviando gli inviti.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'wrong-data' => //////////////////////////////////////////////////////////////////////
@@ -3639,7 +3639,7 @@ return [
 	'select-more-zero-attendee' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Per inviare email, invita almeno un partecipante all‘evento.
+		Per inviare email, invita almeno un partecipante all’evento.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'auto-login-link' => /////////////////////////////////////////////////////////////////
@@ -3681,7 +3681,7 @@ return [
 	'two-factor' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Autenticazione a due fattori <span class="tooltip" data-tip="Enhance your account security by enabling this feature. Once activated, you‘ll need your password and a code from apps like Google Authenticator to log in"></span>
+		Autenticazione a due fattori <span class="tooltip" data-tip="Enhance your account security by enabling this feature. Once activated, you’ll need your password and a code from apps like Google Authenticator to log in"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'wrong-code' => //////////////////////////////////////////////////////////////////////
@@ -3699,7 +3699,7 @@ return [
 	'enter-app-code' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Codice dall‘applicazione
+		Codice dall’applicazione
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-status-success' => //////////////////////////////////////////////////////////////
@@ -3777,25 +3777,25 @@ return [
 	'room-options-befostarttime' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Consenti lʼaccesso prima di <span class="tooltip" data-tip="Specifica quanti minuti prima dellʼinizio del webinar i partecipanti potranno accedere alla stanza"></span>
+		Consenti l’accesso prima di <span class="tooltip" data-tip="Specifica quanti minuti prima dell’inizio del webinar i partecipanti potranno accedere alla stanza"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-after' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		prima dell‘evento
+		prima dell’evento
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-after-start' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		dopo lʼinizio del webinar
+		dopo l’inizio del webinar
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-afterstarttime' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Chiudi accesso dopo <span class="tooltip" data-tip="Specifica dopo quanti minuti dallʼinizio del webinar sarà chiuso lʼaccesso ai nuovi partecipanti"></span>
+		Chiudi accesso dopo <span class="tooltip" data-tip="Specifica dopo quanti minuti dall’inizio del webinar sarà chiuso l’accesso ai nuovi partecipanti"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-sent' => ///////////////////////////////////////////////////////////////////////
@@ -3813,19 +3813,19 @@ return [
 	'webinar-link-for-all' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link ospite generale <span class="tooltip" data-tip="Questo link universale consente a tutti i partecipanti di accedere allʼevento. Condividilo via e-mail, social media o sul tuo sito web per invitare i partecipanti"></span>
+		Link ospite generale <span class="tooltip" data-tip="Questo link universale consente a tutti i partecipanti di accedere all’evento. Condividilo via e-mail, social media o sul tuo sito web per invitare i partecipanti"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-link' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link per i partecipanti <span class="tooltip" data-tip="Questi link offrono ai partecipanti lʼaccesso diretto al webinar programmato. Copiali e condividili con il tuo pubblico per invitarli. Perfetto per la condivisione via e-mail, social media o app di messaggistica"></span>
+		Link per i partecipanti <span class="tooltip" data-tip="Questi link offrono ai partecipanti l’accesso diretto al webinar programmato. Copiali e condividili con il tuo pubblico per invitarli. Perfetto per la condivisione via e-mail, social media o app di messaggistica"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-moderators-links' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link per moderatori <span class="tooltip" data-tip="Questi link offrono ai moderatori e ai presentatori lʼaccesso diretto allʼevento programmato. Copiali e condividili con il tuo team per permettere loro di partecipare. Puoi anche cliccare sullʼicona «busta» per inviare un link direttamente allʼemail di un moderatore o premere il pulsante «Partecipa» per entrare nellʼevento a loro nome"></span>
+		Link per moderatori <span class="tooltip" data-tip="Questi link offrono ai moderatori e ai presentatori l’accesso diretto all’evento programmato. Copiali e condividili con il tuo team per permettere loro di partecipare. Puoi anche cliccare sull’icona «busta» per inviare un link direttamente all’email di un moderatore o premere il pulsante «Partecipa» per entrare nell’evento a loro nome"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'more-moderators' => /////////////////////////////////////////////////////////////////
@@ -3915,7 +3915,7 @@ return [
 	'mail-send-record' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Includi un link alla registrazione dell‘evento <span class="tooltip" data-tip="Toggle this switch to automatically share a link to the recorded webinar once it concludes. This provides attendees with a chance to revisit the content. Please bear in mind, that access to the recording can be time-limited, ensuring content remains exclusive for a designated period only"></span>
+		Includi un link alla registrazione dell’evento <span class="tooltip" data-tip="Toggle this switch to automatically share a link to the recorded webinar once it concludes. This provides attendees with a chance to revisit the content. Please bear in mind, that access to the recording can be time-limited, ensuring content remains exclusive for a designated period only"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-send-record-to' => /////////////////////////////////////////////////////////////
@@ -3933,13 +3933,13 @@ return [
 	'mail-send-record-visit' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Partecipanti che hanno partecipato all‘evento
+		Partecipanti che hanno partecipato all’evento
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-send-record-miss' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Partecipanti che non hanno partecipato all‘evento
+		Partecipanti che non hanno partecipato all’evento
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'show-record' => /////////////////////////////////////////////////////////////////////
@@ -3957,7 +3957,7 @@ return [
 	'send-record-confirm' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Inviare il link alla registrazione dell‘evento?
+		Inviare il link alla registrazione dell’evento?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-record-success' => /////////////////////////////////////////////////////////////
@@ -3999,13 +3999,13 @@ return [
 	'use-leg-info' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Dettagli dell‘azienda
+		Dettagli dell’azienda
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'use-company' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Dettagli dell‘azienda
+		Dettagli dell’azienda
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'requisites' => //////////////////////////////////////////////////////////////////////
@@ -4035,7 +4035,7 @@ return [
 	'webinar-info' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Link e accesso <span class="tooltip" data-tip="Questa sezione fornisce tutti i link essenziali per il tuo webinar, incluso il codice del modulo di registrazione per i prossimi webinar se questa funzione è abilitata nelle impostazioni dell‘evento. Puoi copiare il link pubblico generale del webinar, la password di accesso (se abilitata) e i link per tutti i tuoi relatori invitati per garantire un evento online di successo"></span>
+		Link e accesso <span class="tooltip" data-tip="Questa sezione fornisce tutti i link essenziali per il tuo webinar, incluso il codice del modulo di registrazione per i prossimi webinar se questa funzione è abilitata nelle impostazioni dell’evento. Puoi copiare il link pubblico generale del webinar, la password di accesso (se abilitata) e i link per tutti i tuoi relatori invitati per garantire un evento online di successo"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-status' => /////////////////////////////////////////////////////////////////////
@@ -4089,13 +4089,13 @@ return [
 	'not-approv-webinar' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Partecipazione rifiutata al webinar <span class="tooltip" data-tip="Questo grafico mostra il numero di partecipanti che hanno cliccato sul pulsante «Non parteciperò» nell‘email di invito al webinar. Tiene traccia dei partecipanti che non vogliono partecipare al tuo prossimo webinar"></span>
+		Partecipazione rifiutata al webinar <span class="tooltip" data-tip="Questo grafico mostra il numero di partecipanti che hanno cliccato sul pulsante «Non parteciperò» nell’email di invito al webinar. Tiene traccia dei partecipanti che non vogliono partecipare al tuo prossimo webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'approv-webinar' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Partecipazione confermata al webinar <span class="tooltip" data-tip="Questo grafico mostra il numero di partecipanti che hanno cliccato sul pulsante «Parteciperò» nell‘email di invito al webinar. Tiene traccia dei partecipanti confermati per il tuo prossimo webinar"></span>
+		Partecipazione confermata al webinar <span class="tooltip" data-tip="Questo grafico mostra il numero di partecipanti che hanno cliccato sul pulsante «Parteciperò» nell’email di invito al webinar. Tiene traccia dei partecipanti confermati per il tuo prossimo webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-by-paypal' => ///////////////////////////////////////////////////////////////////
@@ -4191,7 +4191,7 @@ return [
 	'delete-account-confirm-text2' => ////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Per favore digita DELETE qui sotto per confermare l‘eliminazione
+		Per favore digita DELETE qui sotto per confermare l’eliminazione
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-account-confirm-text3' => ////////////////////////////////////////////////////
@@ -4257,7 +4257,7 @@ return [
 	'no-import-count' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		errore nell‘importazione di %S
+		errore nell’importazione di %S
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'of-of' => ///////////////////////////////////////////////////////////////////////////
@@ -4281,13 +4281,13 @@ return [
 	'invite-after-import' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Invita i partecipanti importati all‘evento
+		Invita i partecipanti importati all’evento
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'filter-imported-title' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Aggiunto <span class="tooltip" data-tip="Mostra come è stato registrato il partecipante: tramite auto-registrazione tramite un link pubblico, o importato dal proprietario dell‘account"></span>
+		Aggiunto <span class="tooltip" data-tip="Mostra come è stato registrato il partecipante: tramite auto-registrazione tramite un link pubblico, o importato dal proprietario dell’account"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'add-member' => //////////////////////////////////////////////////////////////////////
@@ -4305,13 +4305,13 @@ return [
 	'open-in-new-window' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Apri in una nuova finestra <span class="tooltip" data-tip="Se lʼinterruttore è acceso, il link si aprirà sempre in una nuova finestra del browser. Se lʼinterruttore è spento, il link si aprirà nella stessa finestra, ma solo prima dellʼinizio del webinar. Dopo lʼinizio del webinar, il link non si aprirà e il partecipante entrerà direttamente nella stanza del webinar"></span>
+		Apri in una nuova finestra <span class="tooltip" data-tip="Se l’interruttore è acceso, il link si aprirà sempre in una nuova finestra del browser. Se l’interruttore è spento, il link si aprirà nella stessa finestra, ma solo prima dell’inizio del webinar. Dopo l’inizio del webinar, il link non si aprirà e il partecipante entrerà direttamente nella stanza del webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pagina informativa <span class="tooltip" data-tip="Questa funzione consente agli organizzatori di creare una pagina con informazioni utili per i partecipanti prima dellʼinizio del webinar. Può trattarsi di una pagina di aiuto, della descrizione dellʼevento o di una conferma della registrazione completata con successo. Il link supporta i tag UTM per la raccolta dei dati analitici"></span>
+		Pagina informativa <span class="tooltip" data-tip="Questa funzione consente agli organizzatori di creare una pagina con informazioni utili per i partecipanti prima dell’inizio del webinar. Può trattarsi di una pagina di aiuto, della descrizione dell’evento o di una conferma della registrazione completata con successo. Il link supporta i tag UTM per la raccolta dei dati analitici"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-enter-url-placeholder' => //////////////////////////////////////////////////////
@@ -4323,7 +4323,7 @@ return [
 	'room-close-url' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pagina di ringraziamento <span class="tooltip" data-tip="This feature allows webinar organisers to provide attendees with a seamless transition after an webinar concludes or if they choose to leave early. By activating this setting, attendees will be automatically redirected to a custom webpage of your choice. This can be particularly useful for post-webinar surveys, offers, feedback forms, or a simple thank you message. Ensure your attendees‘ journey is well-rounded by guiding them to relevant content after your webinar"></span>
+		Pagina di ringraziamento <span class="tooltip" data-tip="This feature allows webinar organisers to provide attendees with a seamless transition after an webinar concludes or if they choose to leave early. By activating this setting, attendees will be automatically redirected to a custom webpage of your choice. This can be particularly useful for post-webinar surveys, offers, feedback forms, or a simple thank you message. Ensure your attendees’ journey is well-rounded by guiding them to relevant content after your webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-close-url-placeholder' => //////////////////////////////////////////////////////
@@ -4346,7 +4346,7 @@ return [
 	'record-email-identification-enable' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Limitare l‘accesso <span class="tooltip" data-tip="Migliora la privacy e la sicurezza delle registrazioni dei tuoi eventi con questa funzione. Quando attivata, gli spettatori devono verificare il loro accesso inserendo un codice inviato alla loro email registrata. Questo processo garantisce che solo gli spettatori con indirizzi email validi possano accedere alle registrazioni. Impedisce anche la condivisione di link personali, mantenendo l‘esclusività del tuo contenuto registrato"></span>
+		Limitare l’accesso <span class="tooltip" data-tip="Migliora la privacy e la sicurezza delle registrazioni dei tuoi eventi con questa funzione. Quando attivata, gli spettatori devono verificare il loro accesso inserendo un codice inviato alla loro email registrata. Questo processo garantisce che solo gli spettatori con indirizzi email validi possano accedere alle registrazioni. Impedisce anche la condivisione di link personali, mantenendo l’esclusività del tuo contenuto registrato"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'tab-clicks' => //////////////////////////////////////////////////////////////////////
@@ -4376,7 +4376,7 @@ return [
 	'summer-time' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Considera l‘ora legale
+		Considera l’ora legale
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'delete-history-confirm-header' => ///////////////////////////////////////////////////
@@ -4388,19 +4388,19 @@ return [
 	'delete-history-confirm-text1' => ////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Per favore inserisci DELETE qui sotto per confermare l‘eliminazione
+		Per favore inserisci DELETE qui sotto per confermare l’eliminazione
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'check-all-confirm1' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vuoi invitare %S partecipante all‘evento %D?
+		Vuoi invitare %S partecipante all’evento %D?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'check-all-confirm2' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vuoi invitare %S partecipanti all‘evento %D?
+		Vuoi invitare %S partecipanti all’evento %D?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'account-activation-hint' => /////////////////////////////////////////////////////////
@@ -4412,13 +4412,13 @@ return [
 	'payerror' => ////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ci scusiamo, ma il server è attualmente occupato. Riprova tra qualche minuto o considera l‘utilizzo di PayPal per il pagamento.
+		Ci scusiamo, ma il server è attualmente occupato. Riprova tra qualche minuto o considera l’utilizzo di PayPal per il pagamento.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'lpmode-confirm-end-const-web' => ////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Attivando la modalità pagina di destinazione, l‘evento corrente verrà concluso e tutti i partecipanti verranno disconnessi. Sei sicuro di voler procedere?
+		Attivando la modalità pagina di destinazione, l’evento corrente verrà concluso e tutti i partecipanti verranno disconnessi. Sei sicuro di voler procedere?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'saved' => ///////////////////////////////////////////////////////////////////////////
@@ -4430,19 +4430,19 @@ return [
 	'no-active-type0' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		L‘email è stata respinta dal server
+		L’email è stata respinta dal server
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-active-type-1' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		L‘indirizzo email non esiste
+		L’indirizzo email non esiste
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-active-type-2' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Il dominio dell‘indirizzo email non esiste
+		Il dominio dell’indirizzo email non esiste
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-active-type-3' => ////////////////////////////////////////////////////////////////
@@ -4454,7 +4454,7 @@ return [
 	'no-active-type-4' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		L‘email è stata respinta dal server
+		L’email è stata respinta dal server
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-active-type-5' => ////////////////////////////////////////////////////////////////
@@ -4466,13 +4466,13 @@ return [
 	'no-active-type-6' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		L‘email è stata respinta dal server
+		L’email è stata respinta dal server
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-active-type-7' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Il dominio dell‘indirizzo email non esiste
+		Il dominio dell’indirizzo email non esiste
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'no-active-type-8' => ////////////////////////////////////////////////////////////////
@@ -4514,7 +4514,7 @@ return [
 	'user-agreements2' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		termini d‘uso
+		termini d’uso
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'receive-newsletters' => /////////////////////////////////////////////////////////////
@@ -4526,7 +4526,7 @@ return [
 	'not-accept' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Per favore, accetta l‘accordo per procedere
+		Per favore, accetta l’accordo per procedere
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'r-stopped' => ///////////////////////////////////////////////////////////////////////
@@ -4544,7 +4544,7 @@ return [
 	'register-success-1' => //////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Abbiamo inviato con successo le tue informazioni di registrazione, insieme al link per accedere, all‘indirizzo email che hai fornito (%s).
+		Abbiamo inviato con successo le tue informazioni di registrazione, insieme al link per accedere, all’indirizzo email che hai fornito (%s).
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'register-success-2' => //////////////////////////////////////////////////////////////
@@ -4556,7 +4556,7 @@ return [
 	'do-not-receive' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Controlla la tua casella di posta o le cartelle spam. Se trovi l‘email nella cartella spam, assicurati di contrassegnarla correttamente così i nostri futuri messaggi arriveranno direttamente nella tua casella di posta. Grazie per aver scelto la nostra piattaforma software per webinar.
+		Controlla la tua casella di posta o le cartelle spam. Se trovi l’email nella cartella spam, assicurati di contrassegnarla correttamente così i nostri futuri messaggi arriveranno direttamente nella tua casella di posta. Grazie per aver scelto la nostra piattaforma software per webinar.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'not-receive-message-then' => ////////////////////////////////////////////////////////
@@ -4580,7 +4580,7 @@ return [
 	'not-receive-message-before' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Non hai ricevuto l‘email?
+		Non hai ricevuto l’email?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mail-success' => ////////////////////////////////////////////////////////////////////
@@ -4592,7 +4592,7 @@ return [
 	'mail-failed' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Errore nell‘invio dell‘email
+		Errore nell’invio dell’email
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'c-year' => //////////////////////////////////////////////////////////////////////////
@@ -4628,19 +4628,19 @@ return [
 	'error-to' => ////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Errore durante l‘invio
+		Errore durante l’invio
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'unknown-error' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Si è verificato un errore sconosciuto durante l‘invio
+		Si è verificato un errore sconosciuto durante l’invio
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-error' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Si è verificato un errore %S durante l‘invio
+		Si è verificato un errore %S durante l’invio
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-status-attendee' => ////////////////////////////////////////////////////////////
@@ -4736,7 +4736,7 @@ return [
 	'letters-schedule' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Programma di invio <span class="tooltip" data-tip="Controlla il programma e lo stato delle notifiche inviate ai partecipanti del webinar. Questo include promemoria inviati 3 giorni, 1 giorno e 1 ora prima dell‘evento, nonché notifiche per i ritardatari e follow-up dopo il webinar. Visualizza qui il tempo, i progressi e il numero di partecipanti invitati"></span>
+		Programma di invio <span class="tooltip" data-tip="Controlla il programma e lo stato delle notifiche inviate ai partecipanti del webinar. Questo include promemoria inviati 3 giorni, 1 giorno e 1 ora prima dell’evento, nonché notifiche per i ritardatari e follow-up dopo il webinar. Visualizza qui il tempo, i progressi e il numero di partecipanti invitati"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'next-step' => ///////////////////////////////////////////////////////////////////////
@@ -4814,13 +4814,13 @@ return [
 	'unsubscribe-link-title' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pulsante «Annulla l‘iscrizione» <span class="tooltip" data-tip="Provide a bespoke experience for attendees choosing to opt out of webinar notifications. By setting a custom webpage or landing page URL for the «Unsubscribe» button, you can present additional information, a feedback form, or other engagement options. Please bear in mind, once attendees choose this option, they‘ll be permanently removed from all future email notifications, ensuring we honour their decision to halt communications from our platform"></span>
+		Pulsante «Annulla l’iscrizione» <span class="tooltip" data-tip="Provide a bespoke experience for attendees choosing to opt out of webinar notifications. By setting a custom webpage or landing page URL for the «Unsubscribe» button, you can present additional information, a feedback form, or other engagement options. Please bear in mind, once attendees choose this option, they’ll be permanently removed from all future email notifications, ensuring we honour their decision to halt communications from our platform"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'unsubscribe-link-desc' => ///////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Reindirizzamento ad una pagina dopo aver annullato l‘iscrizione
+		Reindirizzamento ad una pagina dopo aver annullato l’iscrizione
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'link-title-placeholder' => //////////////////////////////////////////////////////////
@@ -4874,7 +4874,7 @@ return [
 	'room-mail-header' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Intestazione <span class="tooltip" data-tip="Enhance your email notifications with a distinctive top banner that immediately capturing recipients‘ attention. This banner serves as a visual cue for recipients, ensuring they recognize and prioritize your webinar notifications amidst the clutter of their inboxes. A well-designed banner can reinforce your brand identity, highlight key webinar details, and set the tone for the webinar. Incorporate striking visuals, concise text, and relevant branding to make your email notifications stand out and leave a memorable impression"></span>
+		Intestazione <span class="tooltip" data-tip="Enhance your email notifications with a distinctive top banner that immediately capturing recipients’ attention. This banner serves as a visual cue for recipients, ensuring they recognize and prioritize your webinar notifications amidst the clutter of their inboxes. A well-designed banner can reinforce your brand identity, highlight key webinar details, and set the tone for the webinar. Incorporate striking visuals, concise text, and relevant branding to make your email notifications stand out and leave a memorable impression"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-header-size' => ///////////////////////////////////////////////////////////
@@ -4886,7 +4886,7 @@ return [
 	'room-mail-footer' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Firma <span class="tooltip" data-tip="Personalise the footer of your email notifications with a custom signature. This feature allows you to add a unique touch to every outgoing email about your online webinars, be it your name, title, organization, or a brief message. This signature will appear at the bottom of each notification, reinforcing your brand‘s identity or providing additional contact information to your recipients. Craft a signature that leaves a lasting impression and ensures consistency across all your webinar communications"></span>
+		Firma <span class="tooltip" data-tip="Personalise the footer of your email notifications with a custom signature. This feature allows you to add a unique touch to every outgoing email about your online webinars, be it your name, title, organization, or a brief message. This signature will appear at the bottom of each notification, reinforcing your brand’s identity or providing additional contact information to your recipients. Craft a signature that leaves a lasting impression and ensures consistency across all your webinar communications"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-mail-default-footer' => ////////////////////////////////////////////////////////
@@ -4910,13 +4910,13 @@ return [
 	'room-private-record-settings-alert' => //////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Solo i partecipanti che ricevono link di invito personali possono accedere all‘evento e alle registrazioni. Se desideri condividere la registrazione con altri, dovranno confermare la loro email per ottenere l‘accesso.
+		Solo i partecipanti che ricevono link di invito personali possono accedere all’evento e alle registrazioni. Se desideri condividere la registrazione con altri, dovranno confermare la loro email per ottenere l’accesso.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-private-settings-alert' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<u>La pagina di accesso al webinar non è disponibile</u> perché hai selezionato l‘opzione per l‘accesso solo tramite link di invito personalizzati.<br><br>I partecipanti possono accedere al webinar esclusivamente tramite il link inviato loro dal nostro sistema o tramite il link che hai copiato e condiviso tramite altri mezzi, come la tua newsletter via email o un‘app di messaggistica. Tieni presente che il link è attivo solo per il partecipante specifico per cui è stato destinato
+		<u>La pagina di accesso al webinar non è disponibile</u> perché hai selezionato l’opzione per l’accesso solo tramite link di invito personalizzati.<br><br>I partecipanti possono accedere al webinar esclusivamente tramite il link inviato loro dal nostro sistema o tramite il link che hai copiato e condiviso tramite altri mezzi, come la tua newsletter via email o un’app di messaggistica. Tieni presente che il link è attivo solo per il partecipante specifico per cui è stato destinato
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-language-auto' => /////////////////////////////////////////////////////////
@@ -4934,7 +4934,7 @@ return [
 	'moderator-perm-account-owner' => ////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Proprietario dell‘account
+		Proprietario dell’account
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-owner' => ////////////////////////////////////////////////////////////
@@ -5034,7 +5034,7 @@ return [
 	'moder-exit-alert' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vuoi espellere questo moderatore dall‘evento? Interromperemo la sessione del moderatore e lo disconnetteremo dall‘evento. In seguito, il moderatore potrà rientrare nell‘evento usando il link di invito.
+		Vuoi espellere questo moderatore dall’evento? Interromperemo la sessione del moderatore e lo disconnetteremo dall’evento. In seguito, il moderatore potrà rientrare nell’evento usando il link di invito.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moder-exit-change' => ///////////////////////////////////////////////////////////////
@@ -5052,7 +5052,7 @@ return [
 	'paypal-get-to' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ricevi pagamento per la partecipazione all‘evento il
+		Ricevi pagamento per la partecipazione all’evento il
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'paypal-connect-button' => ///////////////////////////////////////////////////////////
@@ -5154,13 +5154,13 @@ return [
 	'paypal-delete-alert' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Per cancellare l‘evento, dovrai rimborsare completamente i partecipanti che hanno già pagato per i loro biglietti.
+		Per cancellare l’evento, dovrai rimborsare completamente i partecipanti che hanno già pagato per i loro biglietti.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'paypal-deactivate-alert' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Per disattivare l‘accettazione di pagamenti per l‘evento, dovrai rimborsare i partecipanti che hanno pagato per partecipare.
+		Per disattivare l’accettazione di pagamenti per l’evento, dovrai rimborsare i partecipanti che hanno pagato per partecipare.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'paypal-refund-text' => //////////////////////////////////////////////////////////////
@@ -5226,7 +5226,7 @@ return [
 	'auto-webinar-section-name' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Contenuto del webinar <span class="tooltip" data-tip="Seleziona il file video da utilizzare come contenuto principale per il tuo webinar automatizzato. Questo è il primo e più importante passo per programmare il tuo webinar automatizzato. Assicurati di scegliere il file corretto per garantire unʼesperienza fluida ai tuoi partecipanti"></span>
+		Contenuto del webinar <span class="tooltip" data-tip="Seleziona il file video da utilizzare come contenuto principale per il tuo webinar automatizzato. Questo è il primo e più importante passo per programmare il tuo webinar automatizzato. Assicurati di scegliere il file corretto per garantire un’esperienza fluida ai tuoi partecipanti"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'choose-video' => ////////////////////////////////////////////////////////////////////
@@ -5244,7 +5244,7 @@ return [
 	'room-grid-records-title' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Registrazioni dell‘evento
+		Registrazioni dell’evento
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-grid-video-title' => ///////////////////////////////////////////////////////////
@@ -5286,7 +5286,7 @@ return [
 	'room-cta-material' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sovrapponi all‘area di lavoro
+		Sovrapponi all’area di lavoro
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-cta-pin' => ////////////////////////////////////////////////////////////////////
@@ -5334,7 +5334,7 @@ return [
 	'administrators-edit' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Modifica l‘utente
+		Modifica l’utente
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'administrator' => ///////////////////////////////////////////////////////////////////
@@ -5400,7 +5400,7 @@ return [
 	'email-isset' => /////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		L‘utente ha già accesso
+		L’utente ha già accesso
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'adm-no-verify' => ///////////////////////////////////////////////////////////////////
@@ -5418,7 +5418,7 @@ return [
 	'admin-login-desc' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Utilizza il link di accesso ricevuto nell‘invito per tornare al cruscotto.<br><br>Contatta il proprietario dell‘account se hai perso o cancellato l‘invito con il link di accesso.
+		Utilizza il link di accesso ricevuto nell’invito per tornare al cruscotto.<br><br>Contatta il proprietario dell’account se hai perso o cancellato l’invito con il link di accesso.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'send-again' => //////////////////////////////////////////////////////////////////////
@@ -5430,7 +5430,7 @@ return [
 	'send-invite-text' => ////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Vuoi inviare l‘invito con il link di accesso all‘utente %S?
+		Vuoi inviare l’invito con il link di accesso all’utente %S?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'yes-send-adm-invite' => /////////////////////////////////////////////////////////////
@@ -5460,7 +5460,7 @@ return [
 	'password-change-confirm' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Per motivi di sicurezza, riavvieremo l‘evento e scollegheremo automaticamente tutti i partecipanti se qualcuno è già presente nell‘evento.
+		Per motivi di sicurezza, riavvieremo l’evento e scollegheremo automaticamente tutti i partecipanti se qualcuno è già presente nell’evento.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'telegram-link-name' => //////////////////////////////////////////////////////////////
@@ -5520,7 +5520,7 @@ return [
 	'filter-recordviews-webinar' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Visualizzazioni della replica <span class="tooltip" data-tip="Mostra la percentuale della replica del webinar che il partecipante ha guardato, o se non l‘ha vista affatto"></span>
+		Visualizzazioni della replica <span class="tooltip" data-tip="Mostra la percentuale della replica del webinar che il partecipante ha guardato, o se non l’ha vista affatto"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'filter-record-not-views' => /////////////////////////////////////////////////////////
@@ -5550,13 +5550,13 @@ return [
 	'payweb-get-to' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Evento a pagamento <span class="tooltip" data-tip="Turn on this feature to set an entrance fee for your webinar. You‘re transforming your webinar or session into a premium experience by activating, ensuring only paying attendees can access the content. This is ideal for exclusive workshops, specialized training, or any content you deem valuable"></span>
+		Evento a pagamento <span class="tooltip" data-tip="Turn on this feature to set an entrance fee for your webinar. You’re transforming your webinar or session into a premium experience by activating, ensuring only paying attendees can access the content. This is ideal for exclusive workshops, specialized training, or any content you deem valuable"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'records-send-wait' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		L‘invio delle registrazioni è già iniziato. Si prega di riprovare più tardi.
+		L’invio delle registrazioni è già iniziato. Si prega di riprovare più tardi.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinars-search-placeholder' => /////////////////////////////////////////////////////
@@ -5568,7 +5568,7 @@ return [
 	'error-max-file-size' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		La dimensione dell‘immagine caricata non può superare i 350 KB
+		La dimensione dell’immagine caricata non può superare i 350 KB
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage' => /////////////////////////////////////////////////////////////////////////
@@ -5748,7 +5748,7 @@ return [
 	'room-options-header-chatrtl' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Direzione del testo <span class="tooltip" data-tip="Scegli la direzione del testo per l‘area di chat pubblica, supportando sia le lingue da sinistra a destra (ad esempio, inglese) che quelle da destra a sinistra (ad esempio, arabo). Questo garantisce un‘esperienza fluida per tutti i partecipanti, indipendentemente dall‘orientamento della loro scrittura nativa"></span>
+		Direzione del testo <span class="tooltip" data-tip="Scegli la direzione del testo per l’area di chat pubblica, supportando sia le lingue da sinistra a destra (ad esempio, inglese) che quelle da destra a sinistra (ad esempio, arabo). Questo garantisce un’esperienza fluida per tutti i partecipanti, indipendentemente dall’orientamento della loro scrittura nativa"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chatltr' => ////////////////////////////////////////////////////////////
@@ -5772,7 +5772,7 @@ return [
 	'combine-header' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Unisci registrazioni di webinar <span class="tooltip" data-tip="Combina più registrazioni di webinar in un unico video fluido. Usa questa pagina per organizzare lʼordine dei frammenti, creando una registrazione finale unificata e raffinata da condividere con il tuo pubblico"></span>
+		Unisci registrazioni di webinar <span class="tooltip" data-tip="Combina più registrazioni di webinar in un unico video fluido. Usa questa pagina per organizzare l’ordine dei frammenti, creando una registrazione finale unificata e raffinata da condividere con il tuo pubblico"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'edited' => //////////////////////////////////////////////////////////////////////////
@@ -5916,13 +5916,13 @@ return [
 	'import-chat-placeholder' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ora dell‘evento, ad es. "+00:10:23"; Tipo di autore, ad es. "M" o "G"; Da nome, ad es. "Mario Rossi"; Paese, ad es. "IT"; Messaggio, ad es. "bla-bla-bla"<br><br>Per esempio:<br>–––<br>"+00:12:15";"G";"Giovanni Bianchi";"IT";"Ciao! Questo è il primo messaggio!"<br>"+00:15:13";"G";"Giovanni Bianchi";"IT";"Questo è il mio secondo messaggio"<br>...<br>"+01:12:45";"G";"Giovanni Bianchi";"IT";"Questo è il mio ultimo messaggio. Ciao!"<br>–––
+		Ora dell’evento, ad es. "+00:10:23"; Tipo di autore, ad es. "M" o "G"; Da nome, ad es. "Mario Rossi"; Paese, ad es. "IT"; Messaggio, ad es. "bla-bla-bla"<br><br>Per esempio:<br>–––<br>"+00:12:15";"G";"Giovanni Bianchi";"IT";"Ciao! Questo è il primo messaggio!"<br>"+00:15:13";"G";"Giovanni Bianchi";"IT";"Questo è il mio secondo messaggio"<br>...<br>"+01:12:45";"G";"Giovanni Bianchi";"IT";"Questo è il mio ultimo messaggio. Ciao!"<br>–––
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'import-cta-placeholder' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ora dell‘evento, ad es. "+00:10:23"; Dove; Messaggio; CTA; URL; Timeout
+		Ora dell’evento, ad es. "+00:10:23"; Dove; Messaggio; CTA; URL; Timeout
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'autowebinar-field-name' => //////////////////////////////////////////////////////////
@@ -5940,7 +5940,7 @@ return [
 	'autowebinar-field-time' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ora dell‘evento, ad es. +00:10:23
+		Ora dell’evento, ad es. +00:10:23
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'autowebinar-field-type' => //////////////////////////////////////////////////////////
@@ -5958,13 +5958,13 @@ return [
 	'wrong-time' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ora dell‘evento errata
+		Ora dell’evento errata
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'empty-time' => //////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ora dell‘evento non impostata
+		Ora dell’evento non impostata
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'empty-country' => ///////////////////////////////////////////////////////////////////
@@ -6180,13 +6180,13 @@ return [
 	'for-autowebinar' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Per webinar automatizzato <span class="tooltip" data-tip="Abilita questa opzione per preparare l‘esportazione per il tuo webinar automatizzato ospitato sulla nostra piattaforma, permettendo di importarlo nuovamente con facilità"></span>
+		Per webinar automatizzato <span class="tooltip" data-tip="Abilita questa opzione per preparare l’esportazione per il tuo webinar automatizzato ospitato sulla nostra piattaforma, permettendo di importarlo nuovamente con facilità"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'close-webinar-alert' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		È stata attivata la modalità di collegamenti personalizzati, il che significa che i partecipanti invitati riceveranno un link personalizzato nell‘invito all‘evento imminente.
+		È stata attivata la modalità di collegamenti personalizzati, il che significa che i partecipanti invitati riceveranno un link personalizzato nell’invito all’evento imminente.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'pay-not-allowed-country' => /////////////////////////////////////////////////////////
@@ -6258,7 +6258,7 @@ return [
 	'stopped-file-upload' => /////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Un‘estensione PHP ha interrotto il caricamento del file
+		Un’estensione PHP ha interrotto il caricamento del file
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'unknown-upload' => //////////////////////////////////////////////////////////////////
@@ -6300,7 +6300,7 @@ return [
 	'yerror' => //////////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Si prega di verificare l‘URL inserito, poiché il video non è stato trovato.
+		Si prega di verificare l’URL inserito, poiché il video non è stato trovato.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-edit-file' => ///////////////////////////////////////////////////////////////
@@ -6336,7 +6336,7 @@ return [
 	'room-mail-notification' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Destinatari <span class="tooltip" data-tip="Specify the individuals you wish to notify about your upcoming online webinars. Tailor your email notifications based on the recipient‘s role or involvement in the webinar"></span>
+		Destinatari <span class="tooltip" data-tip="Specify the individuals you wish to notify about your upcoming online webinars. Tailor your email notifications based on the recipient’s role or involvement in the webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'notification-all' => ////////////////////////////////////////////////////////////////
@@ -6372,7 +6372,7 @@ return [
 	'activate-mail-sending-confirm' => ///////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Invieremo gli inviti ai tuoi partecipanti in base alle impostazioni dell‘evento (Impostazioni avanzate – Email)
+		Invieremo gli inviti ai tuoi partecipanti in base alle impostazioni dell’evento (Impostazioni avanzate – Email)
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'badge-series' => ////////////////////////////////////////////////////////////////////
@@ -6420,7 +6420,7 @@ return [
 	'mails-statistic' => /////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Statistiche <span class="tooltip" data-tip="Le statistiche mostrano il numero di inviti inviati, i tentativi di consegna riusciti e non riusciti. Nota che i dati e i grafici non si aggiornano immediatamente, poiché lʼinvio delle email richiede tempo. Attendi un momento e le informazioni verranno aggiornate automaticamente"></span>
+		Statistiche <span class="tooltip" data-tip="Le statistiche mostrano il numero di inviti inviati, i tentativi di consegna riusciti e non riusciti. Nota che i dati e i grafici non si aggiornano immediatamente, poiché l’invio delle email richiede tempo. Attendi un momento e le informazioni verranno aggiornate automaticamente"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'mails-statistic-hint' => ////////////////////////////////////////////////////////////
@@ -6432,7 +6432,7 @@ return [
 	'self-assigned-to-webinar' => ////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Auto-registrazioni tramite il link del webinar <span class="tooltip" data-tip="Questo grafico mostra il numero di partecipanti che si sono registrati autonomamente al webinar utilizzando il link pubblico. Puoi condividere questo link tramite messenger o altri metodi di comunicazione. Il grafico ti aiuta a monitorare l‘efficacia della tua strategia di invito e il livello di interesse per il tuo webinar"></span>
+		Auto-registrazioni tramite il link del webinar <span class="tooltip" data-tip="Questo grafico mostra il numero di partecipanti che si sono registrati autonomamente al webinar utilizzando il link pubblico. Puoi condividere questo link tramite messenger o altri metodi di comunicazione. Il grafico ti aiuta a monitorare l’efficacia della tua strategia di invito e il livello di interesse per il tuo webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'group-already-exists' => ////////////////////////////////////////////////////////////
@@ -6678,7 +6678,7 @@ return [
 	'webinar-not-finished-alert-text' => /////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Lʼaccesso sarà disponibile una volta terminata la sessione programmata
+		L’accesso sarà disponibile una volta terminata la sessione programmata
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'record-link-lifetime' => ////////////////////////////////////////////////////////////
@@ -6738,7 +6738,7 @@ return [
 	'profile-subtitle-2fa' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Aumenta la sicurezza con l‘autenticazione a due fattori <span class="tooltip" data-tip="In questa sezione, puoi abilitare l’autenticazione a due fattori (2FA) per una sicurezza aggiuntiva. 2FA richiede un codice di verifica oltre alla tua password per accedere all’account"></span>
+		Aumenta la sicurezza con l’autenticazione a due fattori <span class="tooltip" data-tip="In questa sezione, puoi abilitare l’autenticazione a due fattori (2FA) per una sicurezza aggiuntiva. 2FA richiede un codice di verifica oltre alla tua password per accedere all’account"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'profile-subtitle-billing' => ////////////////////////////////////////////////////////
@@ -6804,7 +6804,7 @@ return [
 	'accept-user-agreements' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Accetto gli <a href="https://myownconference.com/user-agreements/" target="_blank">accordi per l‘utente</a>
+		Accetto gli <a href="https://myownconference.com/user-agreements/" target="_blank">accordi per l’utente</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'i-read-agree' => ////////////////////////////////////////////////////////////////////
@@ -6858,7 +6858,7 @@ return [
 	'necessary-desc' => //////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		I cookie definiti in questa categoria sono assolutamente essenziali per il funzionamento del sito web. Pertanto, vengono caricati per impostazione predefinita indipendentemente dal consenso dell‘utente.
+		I cookie definiti in questa categoria sono assolutamente essenziali per il funzionamento del sito web. Pertanto, vengono caricati per impostazione predefinita indipendentemente dal consenso dell’utente.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'cookies-head-name' => ///////////////////////////////////////////////////////////////
@@ -7062,7 +7062,7 @@ return [
 	'room-options-general' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Generale <span class="tooltip" data-tip="Gestisci le impostazioni generali della tua pagina di accesso. Qui puoi impostare una password per le stanze del webinar, abilitare l‘accesso tramite link privati individuali per i webinar programmati e attivare il codice IFRAME per incorporare il modulo di registrazione"></span>
+		Generale <span class="tooltip" data-tip="Gestisci le impostazioni generali della tua pagina di accesso. Qui puoi impostare una password per le stanze del webinar, abilitare l’accesso tramite link privati individuali per i webinar programmati e attivare il codice IFRAME per incorporare il modulo di registrazione"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'history-same-ip' => /////////////////////////////////////////////////////////////////
@@ -7235,7 +7235,7 @@ return [
 	'webinar-moderators-list-description' => /////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Solo i moderatori selezionati saranno invitati al webinar <span class="tooltip" data-tip="Questo elenco mostra tutti i moderatori attivi che hai creato nella sezione generale. Seleziona solo i moderatori che parteciperanno a questo evento. Solo i moderatori selezionati riceveranno il link e lʼaccesso a questo evento"></span>
+		Solo i moderatori selezionati saranno invitati al webinar <span class="tooltip" data-tip="Questo elenco mostra tutti i moderatori attivi che hai creato nella sezione generale. Seleziona solo i moderatori che parteciperanno a questo evento. Solo i moderatori selezionati riceveranno il link e l’accesso a questo evento"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'webinar-attendees-list-description' => //////////////////////////////////////////////
@@ -7247,7 +7247,7 @@ return [
 	'webinar-text-chat-settings' => //////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Impostazioni della chat <span class="tooltip" data-tip="Gestisci il funzionamento della chat durante il tuo webinar e stabilisci le regole di comunicazione per i partecipanti. Tutte le opzioni selezionate vengono applicate automaticamente allʼavvio del webinar"></span>
+		Impostazioni della chat <span class="tooltip" data-tip="Gestisci il funzionamento della chat durante il tuo webinar e stabilisci le regole di comunicazione per i partecipanti. Tutte le opzioni selezionate vengono applicate automaticamente all’avvio del webinar"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'room-options-chat-block' => /////////////////////////////////////////////////////////

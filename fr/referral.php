@@ -45,7 +45,7 @@ return [
 	'referral-history-title' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Historique des paiements pour l‘utilisateur %S
+		Historique des paiements pour l’utilisateur %S
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-active' => /////////////////////////////////////////////////////////////////
@@ -93,7 +93,7 @@ return [
 	'referral-for-free' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Notre programme d‘affiliation est disponible exclusivement pour les abonnements payants
+		Notre programme d’affiliation est disponible exclusivement pour les abonnements payants
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-rules-title' => ////////////////////////////////////////////////////////////
@@ -105,7 +105,7 @@ return [
 	'referral-rules-subtitle' => /////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Avant d‘utiliser le programme de parrainage, lisez attentivement les conditions
+		Avant d’utiliser le programme de parrainage, lisez attentivement les conditions
 		générales:
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
@@ -119,24 +119,24 @@ return [
 		<br>
 		<br>
 		<p>
-			– Seuls les utilisateurs disposant d‘un compte MyOwnConference payant
+			– Seuls les utilisateurs disposant d’un compte MyOwnConference payant
 			peuvent participer au programme de parrainage. Si un compte payant devient
 			gratuit, aucune commission de parrainage ne sera perçue;
 			<br><br>
 			– Les envois en masse et le spam de liens de parrainage sont interdits;
 			<br><br>
 			– Il est interdit de créer plusieurs comptes MyOwnConference et de les
-			payer au moyen d‘un lien de parrainage;
+			payer au moyen d’un lien de parrainage;
 			<br><br>
-			– Il est interdit d‘insérer un lien de parrainage dans les annonces
+			– Il est interdit d’insérer un lien de parrainage dans les annonces
 			de Google Ads, de Facebook Ads ou de tout autre compte publicitaire. Partagez
 			le lien de façon directe et individuelle;
 			<br><br>
-			– L‘envoi d‘un lien de parrainage pour le compte de MyOwnConference
+			– L’envoi d’un lien de parrainage pour le compte de MyOwnConference
 			est interdit;
 			<br><br>
 			– Les commission ne seront pas payés si les utilisateurs ne permettent
-			pas le stockage des cookies ou les effacent car nous n‘aurions plus la
+			pas le stockage des cookies ou les effacent car nous n’aurions plus la
 			possibilité de les suivre;
 			<br><br>
 			– Nous nous réservons le droit de modifier les termes et conditions,
@@ -178,7 +178,7 @@ return [
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
 		Vous payez la plateforme avec des bonus gagnés. Vous souhaitez prolonger votre
-		plan actuel d‘ 1 mois pour %S Euros?
+		plan actuel d’ 1 mois pour %S Euros?
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'referral-extend-notify-but' => //////////////////////////////////////////////////////

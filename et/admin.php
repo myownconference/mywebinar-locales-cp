@@ -4958,7 +4958,7 @@ return [
 	'moderator-perm-moder-desc' => ///////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kaamera näitamine, üleslaetud videote, YouTubeʼi, ekraani ja dokumentide jagamine, testide, küsitluste ja osalejate haldamine
+		Kaamera näitamine, üleslaetud videote, YouTube’i, ekraani ja dokumentide jagamine, testide, küsitluste ja osalejate haldamine
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'moderator-perm-speaker' => //////////////////////////////////////////////////////////
@@ -4970,7 +4970,7 @@ return [
 	'moderator-perm-speaker-desc' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kaamera näitamine, üleslaetud videote, YouTubeʼi, ekraani ja dokumentide jagamine
+		Kaamera näitamine, üleslaetud videote, YouTube’i, ekraani ja dokumentide jagamine
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'package-expire-alert' => ////////////////////////////////////////////////////////////
@@ -5484,7 +5484,7 @@ return [
 	'import-google-button' => ////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Impordi Googleʼist
+		Impordi Google’ist
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'attendee-limit' => //////////////////////////////////////////////////////////////////
@@ -5580,7 +5580,7 @@ return [
 	'storage-title' => ///////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Säilitamine <span class="tooltip" data-tip="Sinu keskne koht kogu üleslaetud sisu, küsitluste, testide ja CTA haldamiseks. Filtreeri, sorteeri ja leia faile hõlpsalt. Saad kustutada, alla laadida või üles laadida uusi faile. Lisa otse videoid YouTubeʼist või Vimeost. Samuti saad luua või muuta oma küsitlusi, teste ja CTA-d. Kõik on ühes kohas"></span>
+		Säilitamine <span class="tooltip" data-tip="Sinu keskne koht kogu üleslaetud sisu, küsitluste, testide ja CTA haldamiseks. Filtreeri, sorteeri ja leia faile hõlpsalt. Saad kustutada, alla laadida või üles laadida uusi faile. Lisa otse videoid YouTube’ist või Vimeost. Samuti saad luua või muuta oma küsitlusi, teste ja CTA-d. Kõik on ühes kohas"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-is-full' => /////////////////////////////////////////////////////////////////
@@ -6204,13 +6204,13 @@ return [
 	'storage-add-video' => ///////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Lisa YouTubeʼi või Vimeo video <span class="tooltip" data-tip="Lisa oma veebiseminari YouTubeʼi või Vimeo video, sisestades allolevasse väljale video lingi. Kopeeri lihtsalt video URL YouTubeʼist või Vimeost ja kleebi see siia. See võimaldab sul rikastada veebiseminari sisu väliste videotega ning pakkuda osalejatele sujuvat vaatamiskogemust. Veendu, et link oleks õige ja avalikult kättesaadav, et vältida esitusprobleeme"></span>
+		Lisa YouTube’i või Vimeo video <span class="tooltip" data-tip="Lisa oma veebiseminari YouTube’i või Vimeo video, sisestades allolevasse väljale video lingi. Kopeeri lihtsalt video URL YouTube’ist või Vimeost ja kleebi see siia. See võimaldab sul rikastada veebiseminari sisu väliste videotega ning pakkuda osalejatele sujuvat vaatamiskogemust. Veendu, et link oleks õige ja avalikult kättesaadav, et vältida esitusprobleeme"></span>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-add-video-no-record' => /////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Pane tähele, et YouTubeʼi videoid ei salvestata autoriõiguseeskirjade tõttu
+		Pane tähele, et YouTube’i videoid ei salvestata autoriõiguseeskirjade tõttu
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'storage-url-placeholder' => /////////////////////////////////////////////////////////

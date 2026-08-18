@@ -6804,7 +6804,7 @@ return [
 	'accept-user-agreements' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Přečetl(a) jsem si a souhlasím s <a href="https://myownconference.com/user-agreements/" target="_blank">uživatelskou smlouvou</a>
+		Přečetl(a) jsem si a souhlasím s <a href="https://myownconference.com/user-agreements" target="_blank">uživatelskou smlouvou</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'i-read-agree' => ////////////////////////////////////////////////////////////////////
@@ -6828,7 +6828,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Používáme cookies (a další podobné technologie), abychom vám poskytli co nejlepší zážitek na našem webu, v účtu i v místnostech. Používáním tohoto webu souhlasíte s našimi <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">zásadami ochrany soukromí</a>.
+		Používáme cookies (a další podobné technologie), abychom vám poskytli co nejlepší zážitek na našem webu, v účtu i v místnostech. Používáním tohoto webu souhlasíte s našimi <a href="https://myownconference.com/privacy-policy" target="_blank" rel="noopener noreferrer">zásadami ochrany soukromí</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'necessary' => ///////////////////////////////////////////////////////////////////////

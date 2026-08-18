@@ -255,7 +255,7 @@ return [
 		</p>
 		<br>
 		<p>
-			Vastavalt oma <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">tagastuspoliitikale</a> ei vastuta veebileht osalejate kaebuste eest, mis puudutavad tasulise veebiseminari halba korraldust või Kasutajast tingitud tehnilisi vigu.
+			Vastavalt oma <a href="https://myownconference.com/refund-policy" target="_blank" rel="noopener noreferrer">tagastuspoliitikale</a> ei vastuta veebileht osalejate kaebuste eest, mis puudutavad tasulise veebiseminari halba korraldust või Kasutajast tingitud tehnilisi vigu.
 		</p>
 		<br>
 		<p>

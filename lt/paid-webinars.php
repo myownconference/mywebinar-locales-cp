@@ -259,7 +259,7 @@ return [
 		</p>
 		<br>
 		<p>
-			Pagal <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Grąžinimo politiką</a> Paslauga neatsako už Dalyvių pretenzijas, susijusias su netinkamu mokamo Webinaro organizavimu ar techniniais nesklandumais Naudotojo pusėje.
+			Pagal <a href="https://myownconference.com/refund-policy" target="_blank" rel="noopener noreferrer">Grąžinimo politiką</a> Paslauga neatsako už Dalyvių pretenzijas, susijusias su netinkamu mokamo Webinaro organizavimu ar techniniais nesklandumais Naudotojo pusėje.
 		</p>
 		<br>
 		<p>

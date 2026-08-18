@@ -6804,7 +6804,7 @@ return [
 	'accept-user-agreements' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Strinjam se in sprejemam <a href="https://myownconference.com/user-agreements/" target="_blank">pogoje uporabe</a>
+		Strinjam se in sprejemam <a href="https://myownconference.com/user-agreements" target="_blank">pogoje uporabe</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'i-read-agree' => ////////////////////////////////////////////////////////////////////
@@ -6828,7 +6828,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Piškotke (in druge podobne tehnologije) uporabljamo za izboljšanje vaše izkušnje na spletnem mestu, v vašem računu in v prostorih za spletne seminarje. Z uporabo tega spletnega mesta se strinjate z našo <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">politiko zasebnosti</a>.
+		Piškotke (in druge podobne tehnologije) uporabljamo za izboljšanje vaše izkušnje na spletnem mestu, v vašem računu in v prostorih za spletne seminarje. Z uporabo tega spletnega mesta se strinjate z našo <a href="https://myownconference.com/privacy-policy" target="_blank" rel="noopener noreferrer">politiko zasebnosti</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'necessary' => ///////////////////////////////////////////////////////////////////////

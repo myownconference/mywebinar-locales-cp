@@ -6870,7 +6870,7 @@ return [
 	'accept-user-agreements' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Tôi đã đọc và chấp nhận <a href="https://myownconference.com/user-agreements/" target="_blank">các thỏa thuận sử dụng</a>
+		Tôi đã đọc và chấp nhận <a href="https://myownconference.com/user-agreements" target="_blank">các thỏa thuận sử dụng</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'i-read-agree' => ////////////////////////////////////////////////////////////////////
@@ -6894,7 +6894,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Chúng tôi sử dụng cookie (và các công nghệ tương tự khác) để cải thiện trải nghiệm của bạn trên trang web, tài khoản và trong phòng họp. Bằng cách sử dụng trang web này, bạn đồng ý với <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">chính sách bảo mật</a> của chúng tôi.
+		Chúng tôi sử dụng cookie (và các công nghệ tương tự khác) để cải thiện trải nghiệm của bạn trên trang web, tài khoản và trong phòng họp. Bằng cách sử dụng trang web này, bạn đồng ý với <a href="https://myownconference.com/privacy-policy" target="_blank" rel="noopener noreferrer">chính sách bảo mật</a> của chúng tôi.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'necessary' => ///////////////////////////////////////////////////////////////////////

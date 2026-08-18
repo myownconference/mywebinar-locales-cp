@@ -255,7 +255,7 @@ return [
 		</p>
 		<br>
 		<p>
-			V skladu s svojo <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Politiko vračil</a> Spletna stran zavrača odgovornost za pritožbe udeležencev zaradi slabe organizacije plačljivega spletnega seminarja ali tehničnih težav, ki so posledica ravnanja Uporabnika.
+			V skladu s svojo <a href="https://myownconference.com/refund-policy" target="_blank" rel="noopener noreferrer">Politiko vračil</a> Spletna stran zavrača odgovornost za pritožbe udeležencev zaradi slabe organizacije plačljivega spletnega seminarja ali tehničnih težav, ki so posledica ravnanja Uporabnika.
 		</p>
 		<br>
 		<p>

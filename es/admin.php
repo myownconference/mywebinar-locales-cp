@@ -6819,7 +6819,7 @@ return [
 	'accept-user-agreements' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Acepto los <a href="https://myownconference.com/user-agreements/" target="_blank">acuerdos de usuario</a>
+		Acepto los <a href="https://myownconference.com/es/user-agreements" target="_blank">acuerdos de usuario</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'i-read-agree' => ////////////////////////////////////////////////////////////////////
@@ -6843,7 +6843,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Usamos cookies (y otras tecnologías similares) para mejorar tu experiencia en nuestro sitio, cuenta y en las salas de reuniones. Al usar este sitio web, aceptas nuestra <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">política de privacidad</a>.
+		Usamos cookies (y otras tecnologías similares) para mejorar tu experiencia en nuestro sitio, cuenta y en las salas de reuniones. Al usar este sitio web, aceptas nuestra <a href="https://myownconference.com/es/privacy-policy" target="_blank" rel="noopener noreferrer">política de privacidad</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'necessary' => ///////////////////////////////////////////////////////////////////////

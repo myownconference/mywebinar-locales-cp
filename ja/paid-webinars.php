@@ -256,7 +256,7 @@ return [
 		</p>
 		<br>
 		<p>
-			<a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">返金ポリシー</a>に従い、ウェブサイトは、有料ウェビナーの不適切な運営またはユーザーに起因する技術的トラブルに関する参加者からの苦情について、一切の責任を否認します。
+			<a href="https://myownconference.com/refund-policy" target="_blank" rel="noopener noreferrer">返金ポリシー</a>に従い、ウェブサイトは、有料ウェビナーの不適切な運営またはユーザーに起因する技術的トラブルに関する参加者からの苦情について、一切の責任を否認します。
 		</p>
 		<br>
 		<p>

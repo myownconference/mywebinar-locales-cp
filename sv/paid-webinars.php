@@ -251,7 +251,7 @@ return [
 		</p>
 		<br>
 		<p>
-			Enligt vår <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">återbetalningspolicy</a> ansvarar vi inte för bristfällig organisation av webbinariet.
+			Enligt vår <a href="https://myownconference.com/refund-policy" target="_blank" rel="noopener noreferrer">återbetalningspolicy</a> ansvarar vi inte för bristfällig organisation av webbinariet.
 		</p>
 		<br>
 		<p>

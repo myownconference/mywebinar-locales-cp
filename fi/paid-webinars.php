@@ -251,7 +251,7 @@ return [
 	</p>
 	<br>
 	<p>
-		Sivusto ei vastaa osallistujien valituksista huonosti järjestetystä maksullisesta webinaarista tai teknisistä ongelmista käyttäjän puolella, kuten määritellään <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Palautuskäytännössä</a>.
+		Sivusto ei vastaa osallistujien valituksista huonosti järjestetystä maksullisesta webinaarista tai teknisistä ongelmista käyttäjän puolella, kuten määritellään <a href="https://myownconference.com/refund-policy" target="_blank" rel="noopener noreferrer">Palautuskäytännössä</a>.
 	</p>
 	<br>
 	<p>

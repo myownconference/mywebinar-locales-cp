@@ -255,7 +255,7 @@ return [
 		</p>
 		<br>
 		<p>
-			I henhold til sin <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">refusionspolitik</a> fraskriver hjemmesiden sig ansvar for klager fra deltagere om dårlig organisering af betalte webinarer eller tekniske problemer, der skyldes brugeren.
+			I henhold til sin <a href="https://myownconference.com/refund-policy" target="_blank" rel="noopener noreferrer">refusionspolitik</a> fraskriver hjemmesiden sig ansvar for klager fra deltagere om dårlig organisering af betalte webinarer eller tekniske problemer, der skyldes brugeren.
 		</p>
 		<br>
 		<p>

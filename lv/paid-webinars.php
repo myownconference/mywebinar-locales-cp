@@ -259,7 +259,7 @@ return [
 		</p>
 		<br>
 		<p>
-			Saskaņā ar <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Atmaksas politiku</a>, Pakalpojums neuzņemas atbildību par Dalībnieku pretenzijām saistībā ar maksas vebināru neatbilstošu organizēšanu vai tehniskām kļūmēm Lietotāja pusē.
+			Saskaņā ar <a href="https://myownconference.com/refund-policy" target="_blank" rel="noopener noreferrer">Atmaksas politiku</a>, Pakalpojums neuzņemas atbildību par Dalībnieku pretenzijām saistībā ar maksas vebināru neatbilstošu organizēšanu vai tehniskām kļūmēm Lietotāja pusē.
 		</p>
 		<br>
 		<p>

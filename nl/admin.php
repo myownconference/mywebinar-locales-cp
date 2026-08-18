@@ -6804,7 +6804,7 @@ return [
 	'accept-user-agreements' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Ik heb gelezen en ga akkoord met de <a href="https://myownconference.com/user-agreements/" target="_blank">gebruikersovereenkomst</a>
+		Ik heb gelezen en ga akkoord met de <a href="https://myownconference.com/nl/user-agreements" target="_blank">gebruikersovereenkomst</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'i-read-agree' => ////////////////////////////////////////////////////////////////////
@@ -6828,7 +6828,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		We gebruiken cookies (en vergelijkbare technologieën) om je ervaring op onze site, in je account en in de vergaderruimtes te verbeteren. Door deze website te gebruiken ga je akkoord met ons <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">privacybeleid</a>.
+		We gebruiken cookies (en vergelijkbare technologieën) om je ervaring op onze site, in je account en in de vergaderruimtes te verbeteren. Door deze website te gebruiken ga je akkoord met ons <a href="https://myownconference.com/nl/privacy-policy" target="_blank" rel="noopener noreferrer">privacybeleid</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'necessary' => ///////////////////////////////////////////////////////////////////////

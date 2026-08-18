@@ -255,7 +255,7 @@ return [
 		</p>
 		<br>
 		<p>
-			Im Einklang mit ihrer <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Rückerstattungsrichtlinie</a> lehnt die Website jede Verantwortung für Beschwerden von Teilnehmern ab, die die schlechte Organisation eines kostenpflichtigen Webinars oder technische Pannen betreffen, die dem Nutzer zuzuschreiben sind.
+			Im Einklang mit ihrer <a href="https://myownconference.com/de/refund-policy" target="_blank" rel="noopener noreferrer">Rückerstattungsrichtlinie</a> lehnt die Website jede Verantwortung für Beschwerden von Teilnehmern ab, die die schlechte Organisation eines kostenpflichtigen Webinars oder technische Pannen betreffen, die dem Nutzer zuzuschreiben sind.
 		</p>
 		<br>
 		<p>

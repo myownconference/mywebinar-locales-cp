@@ -259,7 +259,7 @@ return [
 		</p>
 		<br>
 		<p>
-		In overeenstemming met het <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Retourbeleid</a> wijst de Website elke verantwoordelijkheid af voor klachten van Deelnemers over gebrekkige organisatie van een betaald webinar of technische problemen veroorzaakt door de Gebruiker.
+		In overeenstemming met het <a href="https://myownconference.com/nl/refund-policy" target="_blank" rel="noopener noreferrer">Retourbeleid</a> wijst de Website elke verantwoordelijkheid af voor klachten van Deelnemers over gebrekkige organisatie van een betaald webinar of technische problemen veroorzaakt door de Gebruiker.
 		</p>
 		<br>
 		<p>

@@ -6804,7 +6804,7 @@ return [
 	'accept-user-agreements' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Olen lugenud ja nõustun <a href="https://myownconference.com/user-agreements/" target="_blank">kasutustingimustega</a>
+		Olen lugenud ja nõustun <a href="https://myownconference.com/user-agreements" target="_blank">kasutustingimustega</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'i-read-agree' => ////////////////////////////////////////////////////////////////////
@@ -6828,7 +6828,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Kasutame küpsiseid (ja muid sarnaseid tehnoloogiaid), et parandada sinu kasutuskogemust meie veebilehel, kontol ja koosolekuruumides. Kasutades seda veebisaiti, nõustud meie <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">privaatsuspoliitikaga</a>.
+		Kasutame küpsiseid (ja muid sarnaseid tehnoloogiaid), et parandada sinu kasutuskogemust meie veebilehel, kontol ja koosolekuruumides. Kasutades seda veebisaiti, nõustud meie <a href="https://myownconference.com/privacy-policy" target="_blank" rel="noopener noreferrer">privaatsuspoliitikaga</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'necessary' => ///////////////////////////////////////////////////////////////////////

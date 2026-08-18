@@ -6804,7 +6804,7 @@ return [
 	'accept-user-agreements' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Accept <a href="https://myownconference.com/user-agreements/" target="_blank">acordurile de utilizare</a>
+		Accept <a href="https://myownconference.com/user-agreements" target="_blank">acordurile de utilizare</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'i-read-agree' => ////////////////////////////////////////////////////////////////////
@@ -6828,7 +6828,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Folosim cookie-uri (și alte tehnologii similare) pentru a îmbunătăți experiența dvs. pe site-ul nostru, cont și în sălile de întâlnire. Utilizând acest site web, sunteți de acord cu <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">politica noastră de confidențialitate</a>.
+		Folosim cookie-uri (și alte tehnologii similare) pentru a îmbunătăți experiența dvs. pe site-ul nostru, cont și în sălile de întâlnire. Utilizând acest site web, sunteți de acord cu <a href="https://myownconference.com/privacy-policy" target="_blank" rel="noopener noreferrer">politica noastră de confidențialitate</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'necessary' => ///////////////////////////////////////////////////////////////////////

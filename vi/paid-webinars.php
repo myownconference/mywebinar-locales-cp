@@ -255,7 +255,7 @@ return [
 		</p>
 		<br>
 		<p>
-			Phù hợp với <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Chính sách hoàn tiền</a> của mình, Trang web từ chối trách nhiệm đối với mọi khiếu nại từ Người tham dự liên quan đến việc tổ chức kém chất lượng một hội thảo có trả phí hoặc các sự cố kỹ thuật bắt nguồn từ phía Người dùng.
+			Phù hợp với <a href="https://myownconference.com/refund-policy" target="_blank" rel="noopener noreferrer">Chính sách hoàn tiền</a> của mình, Trang web từ chối trách nhiệm đối với mọi khiếu nại từ Người tham dự liên quan đến việc tổ chức kém chất lượng một hội thảo có trả phí hoặc các sự cố kỹ thuật bắt nguồn từ phía Người dùng.
 		</p>
 		<br>
 		<p>

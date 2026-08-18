@@ -6810,7 +6810,7 @@ return [
 	'accept-user-agreements' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		<a href="https://myownconference.com/user-agreements/" target="_blank">Kullanıcı anlaşmalarını</a> kabul ediyorum
+		<a href="https://myownconference.com/user-agreements" target="_blank">Kullanıcı anlaşmalarını</a> kabul ediyorum
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'i-read-agree' => ////////////////////////////////////////////////////////////////////
@@ -6834,7 +6834,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Sitemizdeki, hesabınızdaki ve toplantı odalarındaki deneyiminizi geliştirmek için çerezler (ve diğer benzer teknolojiler) kullanıyoruz. Bu web sitesini kullanarak <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">gizlilik politikamızı</a> kabul etmiş oluyorsunuz.
+		Sitemizdeki, hesabınızdaki ve toplantı odalarındaki deneyiminizi geliştirmek için çerezler (ve diğer benzer teknolojiler) kullanıyoruz. Bu web sitesini kullanarak <a href="https://myownconference.com/privacy-policy" target="_blank" rel="noopener noreferrer">gizlilik politikamızı</a> kabul etmiş oluyorsunuz.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'necessary' => ///////////////////////////////////////////////////////////////////////

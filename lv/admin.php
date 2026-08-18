@@ -6816,7 +6816,7 @@ return [
 	'accept-user-agreements' => //////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Es piekrītu <a href="https://myownconference.com/user-agreements/" target="_blank">lietotāja līgumam</a>
+		Es piekrītu <a href="https://myownconference.com/user-agreements" target="_blank">lietotāja līgumam</a>
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'i-read-agree' => ////////////////////////////////////////////////////////////////////
@@ -6840,7 +6840,7 @@ return [
 	'cookies-text' => ////////////////////////////////////////////////////////////////////
 	//////////////////////////////////////////////////////////////////////////////////////
 	'
-		Mēs izmantojam sīkdatnes (un citas līdzīgas tehnoloģijas), lai uzlabotu jūsu pieredzi mūsu vietnē, kontā un tiešsaistes telpās. Lietojot šo vietni, jūs piekrītat mūsu <a href="https://myownconference.com/privacy-policy/" target="_blank" rel="noopener noreferrer">privātuma politikai</a>.
+		Mēs izmantojam sīkdatnes (un citas līdzīgas tehnoloģijas), lai uzlabotu jūsu pieredzi mūsu vietnē, kontā un tiešsaistes telpās. Lietojot šo vietni, jūs piekrītat mūsu <a href="https://myownconference.com/privacy-policy" target="_blank" rel="noopener noreferrer">privātuma politikai</a>.
 	',
 	//////////////////////////////////////////////////////////////////////////////////////
 	'necessary' => ///////////////////////////////////////////////////////////////////////

@@ -255,7 +255,7 @@ return [
 		</p>
 		<br>
 		<p>
-			I henhold til <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Retningslinjene for refusjon</a> fraskriver nettstedet seg ansvar for eventuelle klager fra deltakere knyttet til dårlig organisering av et betalt webinar eller tekniske problemer som skyldes brukeren.
+			I henhold til <a href="https://myownconference.com/refund-policy" target="_blank" rel="noopener noreferrer">Retningslinjene for refusjon</a> fraskriver nettstedet seg ansvar for eventuelle klager fra deltakere knyttet til dårlig organisering av et betalt webinar eller tekniske problemer som skyldes brukeren.
 		</p>
 		<br>
 		<p>

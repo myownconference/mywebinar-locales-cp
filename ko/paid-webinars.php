@@ -263,7 +263,7 @@ return [
 		</p>
 		<br>
 		<p>
-			<a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">환불 정책</a>에 따라, 웹사이트는 유료 웨비나의 부실한 운영이나 사용자에게 책임이 있는 기술적 문제로 인한 참가자 불만에 대해 책임을 지지 않습니다.
+			<a href="https://myownconference.com/refund-policy" target="_blank" rel="noopener noreferrer">환불 정책</a>에 따라, 웹사이트는 유료 웨비나의 부실한 운영이나 사용자에게 책임이 있는 기술적 문제로 인한 참가자 불만에 대해 책임을 지지 않습니다.
 		</p>
 		<br>
 		<p>

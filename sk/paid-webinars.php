@@ -255,7 +255,7 @@ return [
 		</p>
 		<br>
 		<p>
-			V súlade so svojimi <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Zásadami vrátenia peňazí</a> nenesie Webová stránka zodpovednosť za sťažnosti účastníkov týkajúce sa zlej organizácie plateného webinára alebo technických problémov, ktoré vznikli vinou Používateľa.
+			V súlade so svojimi <a href="https://myownconference.com/refund-policy" target="_blank" rel="noopener noreferrer">Zásadami vrátenia peňazí</a> nenesie Webová stránka zodpovednosť za sťažnosti účastníkov týkajúce sa zlej organizácie plateného webinára alebo technických problémov, ktoré vznikli vinou Používateľa.
 		</p>
 		<br>
 		<p>

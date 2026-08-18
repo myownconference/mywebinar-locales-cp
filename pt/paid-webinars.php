@@ -255,7 +255,7 @@ return [
 		</p>
 		<br>
 		<p>
-			De acordo com a sua <a href="https://myownconference.com/refund-policy/" target="_blank" rel="noopener noreferrer">Política de Reembolso</a>, o Site isenta-se de responsabilidade por quaisquer reclamações de Participantes relacionadas à má organização de um webinar pago ou a falhas técnicas atribuídas ao Usuário.
+			De acordo com a sua <a href="https://myownconference.com/pt/refund-policy" target="_blank" rel="noopener noreferrer">Política de Reembolso</a>, o Site isenta-se de responsabilidade por quaisquer reclamações de Participantes relacionadas à má organização de um webinar pago ou a falhas técnicas atribuídas ao Usuário.
 		</p>
 		<br>
 		<p>
